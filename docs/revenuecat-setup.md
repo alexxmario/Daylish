@@ -130,6 +130,35 @@ database, and no notification can be addressed.
 
 ---
 
+## 5b. App Store Server Notifications — the *other* webhook
+
+App Store Connect asks for a **Production Server URL** (and a Sandbox one) for
+in-app purchase status updates. That field takes **RevenueCat's URL**, copied
+from the Apple App Store app configuration in the RevenueCat dashboard. It is
+unique per app, so copy it rather than reconstructing it, and select
+notification **Version 2**.
+
+**Do not point it at `revenuecat-webhook`.** The two webhooks are different
+links in one chain and speak different protocols:
+
+```
+Apple ──(Production Server URL, from RevenueCat)──► RevenueCat
+RevenueCat ──(§5 above, shared secret)──► Supabase ──► APNs ──► phone
+```
+
+`revenuecat-webhook` authenticates on an `Authorization` header equal to
+`REVENUECAT_WEBHOOK_SECRET` and reads `{ type, app_user_id }`. Apple sends
+`{ signedPayload: <JWS> }` and no `Authorization` header at all, so it would be
+refused with a 401 — and if it were not, `event.type` would be `undefined` and
+every notification would fall through the `ignored` branch. Nothing would error
+loudly; the billing notifications would simply never arrive.
+
+The field is optional and does not block review. Leaving it empty means
+RevenueCat learns about a failed renewal late, which makes `BILLING_ISSUE` and
+`EXPIRATION` unreliable in exactly the case they exist for.
+
+---
+
 ## 6. Customer Center
 
 RevenueCat → **Customer Center**, which needs its own configuration in the
@@ -156,7 +185,8 @@ good deal of edge-case handling to gain.
    native modules, so neither exists in Expo Go.
 3. Entitlement `premium`, then products, then the offering.
 4. Swap the `test_` key for `appl_`.
-5. Deploy the webhook and set its secret.
+5. Deploy the webhook and set its secret, then paste RevenueCat's server
+   notification URL into App Store Connect (§5b) — both links of the chain.
 
 ---
 
