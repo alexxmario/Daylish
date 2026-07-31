@@ -49,7 +49,7 @@ that uninstall the same day), **`daylish`** (the name is already indexed), and
 
 ---
 
-## Description — 3,969 / 4,000
+## Description — 3,977 / 4,000
 
 The first three lines are all that shows before "more" on a phone, so they carry
 the positioning alone.
@@ -132,8 +132,8 @@ Everything you log is kept on your phone, so Daylish keeps working without a con
 Export the whole diary as a JSON file whenever you like, and delete your account, and everything in it, from inside the app.
 
 
-Terms of Use: https://daylish-production.up.railway.app/legal/terms
-Privacy: https://daylish-production.up.railway.app/legal/privacy
+Terms of Use: https://daylishsite-production.up.railway.app/legal/terms
+Privacy: https://daylishsite-production.up.railway.app/legal/privacy
 Questions: alexionescu870@gmail.com
 ```
 
@@ -196,19 +196,23 @@ on BeamLoop, so both apps present the same seller identity.
 ## Support URL — **required**
 
 ```
-https://daylish-production.up.railway.app/support
+https://daylishsite-production.up.railway.app/support
 ```
 
 ## Marketing URL — optional
 
 ```
-https://daylish-production.up.railway.app
+https://daylishsite-production.up.railway.app
 ```
 
-**The site is written and in the repo** at [`services/site`](../services/site) —
-it just has to be deployed. See *Deploying the site* below. Confirm the hostname
-Railway gives the service and correct these two fields if it differs; unlike the
-description, both can be edited at any time without a new version.
+**Both are live and verified**, served from [`services/site`](../services/site)
+by the Railway service `daylishsite`. Every route was checked against the public
+hostname: the five pages, the six redirects, the 404 and the health check.
+
+Unlike the description, these two fields can be edited at any time without
+shipping a new version — so if you later put `daylish.app` in front of this, the
+URLs here are the cheap part to change and the two links inside the description
+are the expensive part.
 
 ---
 
@@ -359,11 +363,15 @@ Hermes bytecode, because Metro does not strip the JSX. Nothing renders it and
 nothing can reach `setOverride`, so it is not exploitable without modifying the
 binary. Worth knowing before anyone greps an `.ipa` and raises it as a finding.
 
-## 2. The site is written but not deployed
+## 2. ~~The site~~ — done
+
+**Live at `https://daylishsite-production.up.railway.app`** and verified against
+the public hostname, not just locally: the five pages, the six redirects, the 404
+and the health check all answer correctly, and the fonts, artwork and photographs
+are served with the right content types.
 
 [`services/site`](../services/site) is a zero-dependency Node server and five
-static pages, styled from the app's own palette tokens. Every route was
-exercised locally — the pages, the redirects, the 404 and the health check.
+static pages, set in the app's own typefaces and drawn in its own palette.
 
 | URL | Where it is required |
 |---|---|
@@ -378,19 +386,22 @@ on a 404.
 
 ### Deploying it
 
-Railway is already pointed at the repo. This is a monorepo, so the service needs
-its root set or Railway will try to build the mobile app to serve a stylesheet:
+The site runs as its own Railway service, `daylishsite`, with **Root Directory
+set to `services/site`**. That setting is the whole configuration — no
+environment variables, no database, no build step; the server reads `PORT` and
+nothing else, and [`railway.json`](../services/site/railway.json) supplies the
+start command and the `/healthz` check.
 
-1. In the Railway service → **Settings → Source**, set **Root Directory** to
-   `services/site`.
-2. Leave build and start commands empty. [`railway.json`](../services/site/railway.json)
-   supplies `npm start` and a `/healthz` health check.
-3. **Settings → Networking → Generate Domain.**
-4. Put the hostname it gives you into the Support and Marketing URL fields above,
-   and confirm it matches the two links inside the description.
+**Two failures worth not repeating**, because both cost a deploy cycle:
 
-No environment variables, no database, no build step. The server reads `PORT`
-from Railway and nothing else.
+- An earlier attempt reused the `@daylish/mobile` service. Without the root
+  directory applied, Railway builds from the repo root, runs `npm start` there,
+  and dies on a missing script — surfacing as a healthcheck failure, which sends
+  you looking in the wrong place. The giveaway is in the build log: a correct
+  build installs nothing, while a root-context build runs `npm ci` across every
+  workspace and pushes an image near a gigabyte to serve six HTML files.
+- Railway's **Redeploy** rebuilds that deployment's own commit, not the branch
+  head, so it can never pick up new work. Use *Deploy latest commit*, or push.
 
 ### One thing to check in the terms
 
