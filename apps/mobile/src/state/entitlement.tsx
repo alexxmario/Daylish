@@ -52,6 +52,28 @@ const ENTITLEMENT_ID = 'premium';
 export const purchasesConfigured = REVENUECAT_KEY.length > 0;
 
 /**
+ * Whether this build contains the local premium override at all.
+ *
+ * The override grants every paid feature with nothing charged. That is exactly
+ * what is wanted on a development build and exactly what must never reach a
+ * customer — a free unlock that someone finds is a free unlock that gets posted.
+ *
+ * **App Review does not need it.** Reviewers test in-app purchases against
+ * StoreKit's sandbox, where a purchase completes and settles without money
+ * moving, so the demo account reaches Premium the same way a customer does. That
+ * is also a better test than the override, because it exercises the real
+ * RevenueCat path rather than a flag that bypasses it.
+ *
+ * Gated on an environment variable rather than `__DEV__` alone, because internal
+ * and preview builds are release builds where `__DEV__` is false and the switch
+ * is still wanted. Set on the `development` and `preview` EAS environments only;
+ * its absence from `production` is what removes it from the App Store binary,
+ * the same shape as the Test Store key.
+ */
+export const overrideAvailable =
+  __DEV__ || process.env.EXPO_PUBLIC_ALLOW_PREMIUM_OVERRIDE === '1';
+
+/**
  * The store SDK, loaded only if there is a key to configure it with.
  *
  * A dynamic import inside a guard, deliberately. `react-native-purchases` is a
@@ -114,7 +136,14 @@ const EntitlementContext = createContext<EntitlementValue | null>(null);
  */
 async function resolve(): Promise<{ isPremium: boolean; source: EntitlementSource }> {
   const cached = await AsyncStorage.getItem(CACHE_KEY);
-  if (cached === 'override') return { isPremium: true, source: 'override' };
+  if (cached === 'override') {
+    if (overrideAvailable) return { isPremium: true, source: 'override' };
+    // A device that had the switch on under a preview build, then updated to a
+    // store build, would otherwise keep Premium forever on a flag that no longer
+    // has any UI to turn it off. Hiding the control is not enough; the cached
+    // answer it wrote has to stop being honoured too.
+    await AsyncStorage.removeItem(CACHE_KEY);
+  }
 
   const store = await loadPurchases();
   if (!store) {
@@ -302,6 +331,10 @@ export function EntitlementProvider({ children }: { children: ReactNode }) {
 
   const setOverride = useCallback(
     async (on: boolean) => {
+      // Defence in depth. The control is not rendered in a build without the
+      // override, but a caller reaching this by any other route must not be able
+      // to write a flag that `resolve` would then have to clean up.
+      if (!overrideAvailable) return;
       if (on) await AsyncStorage.setItem(CACHE_KEY, 'override');
       else await AsyncStorage.removeItem(CACHE_KEY);
       await refresh();

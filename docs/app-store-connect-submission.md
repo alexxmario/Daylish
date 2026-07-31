@@ -332,11 +332,32 @@ button sitting on the paywall, one tap below the prices. It is a guideline 3.1.1
 problem — paid functionality unlocked outside in-app purchase — and independently
 it is a revenue hole that the first App Store review screenshot will find.
 
-The fix is to render that ticket only under `__DEV__`. The reviewer path becomes
-a sandbox purchase, which is free for them and is what the review notes above
-already describe.
+**Fixed.** The ticket now renders only when `overrideAvailable` is true, and the
+reviewer path is a sandbox purchase — which is what the review notes above
+already describe, and is a better test besides, since it exercises the real
+RevenueCat path rather than a flag that bypasses it.
 
-I have not made this change — say the word and I will.
+Gated on `__DEV__ || EXPO_PUBLIC_ALLOW_PREMIUM_OVERRIDE === '1'` rather than
+`__DEV__` alone. Internal and preview builds are release builds where `__DEV__`
+is false, and the switch is still wanted there; the variable is set on the
+`development` and `preview` EAS environments only. Its absence from `production`
+is what removes the control from the store binary — the same shape as the
+RevenueCat key, and a gate nobody can forget to flip.
+
+Three places changed, because hiding the button alone would not have been enough:
+
+1. The ticket is not rendered.
+2. `setOverride` returns early, so no other caller can write the flag.
+3. **`resolve` stops honouring a cached `'override'` and deletes it.** Without
+   this, a device that had the switch on under a preview build and then updated
+   to a store build would keep Premium forever, on a flag with no remaining UI to
+   turn off.
+
+**One honest limitation.** This is a runtime gate, not dead-code elimination —
+the string `Switch Premium on for testing` is still present in the production
+Hermes bytecode, because Metro does not strip the JSX. Nothing renders it and
+nothing can reach `setOverride`, so it is not exploitable without modifying the
+binary. Worth knowing before anyone greps an `.ipa` and raises it as a finding.
 
 ## 2. The site is written but not deployed
 

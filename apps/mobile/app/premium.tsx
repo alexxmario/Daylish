@@ -11,6 +11,7 @@ import { Text } from '@/components/Text.tsx';
 import { Divider, Ticket } from '@/components/Ticket.tsx';
 import {
   listOfferings,
+  overrideAvailable,
   purchase,
   purchasesConfigured,
   restorePurchases,
@@ -237,23 +238,34 @@ export default function PremiumScreen() {
       ) : null}
 
       {/*
-        The testing switch. It exists before purchases do because App Review
-        needs to reach the paid features on the demo account, and so does anyone
-        checking them. Labelled so it can never be mistaken for a subscription.
+        The testing switch, which is absent from store builds.
+
+        It unlocks every paid feature with nothing charged, so it belongs on a
+        development or internal build and nowhere else — a free unlock that a
+        customer finds is a free unlock that gets posted. `overrideAvailable` is
+        false whenever EXPO_PUBLIC_ALLOW_PREMIUM_OVERRIDE is unset, which is the
+        case for the `production` EAS environment and therefore for anything that
+        reaches the App Store.
+
+        App Review does not lose anything by this: reviewers buy through
+        StoreKit's sandbox, which settles without money moving and exercises the
+        real RevenueCat path rather than a flag that bypasses it.
       */}
-      <Ticket label="Testing">
-        <Text variant="caption" tone="muted">
-          {purchasesConfigured
-            ? 'Unlocks the paid features locally for testing. It charges nothing and is not a subscription.'
-            : 'Purchases are not configured in this build. This switch unlocks the paid features locally so they can be tested; it charges nothing.'}
-        </Text>
-        <Button
-          label={isPremium ? 'Switch Premium off' : 'Switch Premium on for testing'}
-          variant={isPremium ? 'quiet' : 'secondary'}
-          onPress={() => void setOverride(!isPremium)}
-          block
-        />
-      </Ticket>
+      {overrideAvailable ? (
+        <Ticket label="Testing">
+          <Text variant="caption" tone="muted">
+            {purchasesConfigured
+              ? 'Unlocks the paid features locally for testing. It charges nothing and is not a subscription.'
+              : 'Purchases are not configured in this build. This switch unlocks the paid features locally so they can be tested; it charges nothing.'}
+          </Text>
+          <Button
+            label={isPremium ? 'Switch Premium off' : 'Switch Premium on for testing'}
+            variant={isPremium ? 'quiet' : 'secondary'}
+            onPress={() => void setOverride(!isPremium)}
+            block
+          />
+        </Ticket>
+      ) : null}
     </ScrollView>
   );
 }
