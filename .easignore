@@ -1,0 +1,57 @@
+# What EAS Build does NOT need uploaded.
+#
+# ---------------------------------------------------------------------------
+# THIS FILE REPLACES .gitignore FOR EAS, IT DOES NOT ADD TO IT.
+# ---------------------------------------------------------------------------
+# The moment this file exists, EAS stops reading `.gitignore` entirely. So every
+# rule there has to be repeated here — miss `node_modules/` and the upload goes
+# from a few hundred megabytes to several gigabytes. Keep the two in step.
+#
+# Why this exists: the first build uploaded 661 MB and spent 57 seconds
+# compressing it, almost all of which was source material the build never opens.
+
+# ---- Everything from .gitignore ----
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
+.DS_Store
+
+.env
+.env.local
+.env.*.local
+
+.last-batch.json
+services/recipe-pipeline/.last-batch.json
+
+# ---- Build-only exclusions, on top of .gitignore ----
+
+# The 311 MB of PNG masters written by the recipe pipeline's `generate-images`
+# step. The app never reads these: `build-photo-map.mjs` resolves its requires
+# against `apps/mobile/assets/dish-photos`, which holds the 26 MB compressed
+# WebP set that actually ships. These are kept in the repository because they
+# are expensive to regenerate through the image API, but there is no reason to
+# send them to a build server.
+assets/dish-photos/
+
+# Version control metadata. EAS already has the fingerprint it needs.
+.git/
+
+# The pipeline's raw source data. Its output is committed as
+# `seed-recipes.generated.ts` inside the mobile app, so the app builds without it.
+recipes/
+
+# NOT excluded, despite being useless to the app: `services/`.
+#
+# The root package.json declares `workspaces: ["apps/*", "packages/*",
+# "services/*"]` and EAS installs with `npm ci`, which is strict about the
+# lockfile — a workspace present in `package-lock.json` and absent from the
+# upload fails the install outright. It is 152 KB. Not worth the outage.
+
+# Server-side code, deployed by the Supabase CLI rather than by EAS.
+supabase/
+
+# Prose.
+docs/
+*.md
