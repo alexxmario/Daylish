@@ -12,6 +12,7 @@
     "node": ">=20"
   },
   "scripts": {
+    "start": "npm start -w @daylish/site",
     "typecheck": "npm run typecheck --workspaces --if-present",
     "test": "npm run test --workspaces --if-present",
     "mobile": "npm run start -w @daylish/mobile --",

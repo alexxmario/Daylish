@@ -34,11 +34,21 @@ time, but the description's links are frozen until the next app version ships.
 
 ## Deploying
 
-Railway builds from the repo root by default, which here would install the
-mobile app's dependencies to serve a stylesheet. Set **Root Directory** to
-`services/site` in the service's source settings. `railway.json` supplies the
-start command and the health check; no environment variables are needed beyond
-`PORT`, which Railway sets.
+Set **Root Directory** to `services/site` in the Railway service's source
+settings. [`railway.json`](railway.json) then supplies the start command and the
+health check, and no environment variables are needed beyond `PORT`, which
+Railway sets.
+
+**Check that setting first when a deploy misbehaves.** Railway builds from the
+repo root without it, and the difference is visible in the build log: a correct
+build installs nothing and produces a snapshot of a few megabytes, while a
+root-context build runs `npm ci` across every workspace and pushes an image
+approaching a gigabyte to serve six HTML files.
+
+The root `package.json` has a `start` script that runs this workspace, so a
+root-context build still boots rather than dying on a missing script — but it is
+a safety net, not the arrangement to aim for. It carries the whole Expo
+toolchain into the image for no benefit.
 
 ## Keeping it honest
 
