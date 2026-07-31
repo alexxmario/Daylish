@@ -49,7 +49,7 @@ that uninstall the same day), **`daylish`** (the name is already indexed), and
 
 ---
 
-## Description — 3,974 / 4,000
+## Description — 3,969 / 4,000
 
 The first three lines are all that shows before "more" on a phone, so they carry
 the positioning alone.
@@ -86,14 +86,14 @@ The hardest question in any food diary is "so what do I eat now?"
 Daylish answers it from your own history and the recipe library, ranked against what is left of your day. Short on protein but low on calories? It puts the protein-dense things first instead of more of the same. Tap one to log it, at a portion already sized to fit.
 
 
-TARGETS THAT LEARN YOU
+TARGETS THAT LEARN YOU — PREMIUM
 
 Calorie formulas are guesses based on averages. You are not an average.
 
 Daylish watches your real weight trend and what you actually eat, works out what you are genuinely burning, and adjusts. Every change comes with a plain-English reason — "we raised your target 60 kcal because your 14-day trend shows faster loss than planned".
 
 
-THE WHOLE DAY
+THE WHOLE DAY — PREMIUM
 
 - Weight trend that follows the trend, not one bad morning
 - 14 days of intake against target, at a glance
@@ -125,7 +125,7 @@ Premium is a monthly or yearly subscription, or a lifetime purchase. Prices are 
 
 YOUR DIARY, ON YOUR PHONE
 
-An account takes an email address and a password — that is all we ask for. It holds your diary and nothing else: no advertising, no tracking, never shared.
+An account takes an email address and a password. It holds your diary and nothing else: no advertising, no tracking, never shared.
 
 Everything you log is kept on your phone, so Daylish keeps working without a connection. It is also backed up to your account, so a lost phone does not cost you a year of logs.
 
@@ -156,6 +156,16 @@ turns into refund requests.
 The two new sections are `FREE, AND STAYING FREE` and `DAYLISH PREMIUM`, taken
 verbatim from what the app's own paywall says, so the store page and the paywall
 cannot drift apart.
+
+**Two headers carry `— PREMIUM` inline, and that is not decoration.**
+`TARGETS THAT LEARN YOU` is entirely `adaptiveTargets`, and every one of the five
+`THE WHOLE DAY` bullets is Premium — `trends` twice, `water`, `fasting`,
+`micronutrients`. The `DAYLISH PREMIUM` section below does disclose them, but a
+reviewer reads top to bottom, taps "fasting", and meets a paywall long before
+reaching it. Disclosure that arrives after the tap is not disclosure, and it is
+the same rejection the old draft would have earned — only later in the page.
+
+**Headroom is 31 characters.** Anything added here has to take something out.
 
 ---
 

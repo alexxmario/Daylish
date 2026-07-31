@@ -5,11 +5,14 @@
 > file is the reasoning: ASO argument, screenshot plan, App Privacy answers and
 > the record of why each field says what it says.
 >
-> Where the two disagree, the submission sheet wins. It was written after the
-> recipe library and the paid tier landed; the **Description**, **Promotional
-> text** and **Review notes** below predate both, and the description in
-> particular sells fasting, water, micronutrients, adaptive targets and trends
-> as free when every one of them is now Premium.
+> Where the two disagree, the submission sheet wins.
+>
+> **The drift this warning used to describe has been resolved.** The Description
+> and Review notes here sold `fasting`, `water`, `micronutrients`,
+> `adaptiveTargets` and `trends` as free, and told reviewers about an app with no
+> recipe library. Both have been deleted rather than corrected in place — a wrong
+> draft kept beside a right one eventually gets pasted — and now point at the
+> submission sheet. Everything remaining below is reasoning, and is current.
 
 Draft copy for App Store Connect. Character limits are Apple's and are respected
 below; each field shows its count.
@@ -18,11 +21,10 @@ below; each field shows its count.
 2.3.1 (accurate metadata) is among the most cited rejection reasons, and a
 reviewer who cannot find an advertised feature rejects the build.
 
-> **Changed in this revision.** Signing in is now required. The previous draft
+> **Changed in an earlier revision.** Signing in is now required. The previous draft
 > sold "no account, no sign-up, works on a plane" — all three are now false, and
 > the review notes told reviewers there was no sign-in, which would have failed
-> review on first contact. See *What changes when Premium ships* at the end for
-> the fields to revisit rather than rewrite.
+> review on first contact.
 
 ---
 
@@ -30,16 +32,22 @@ reviewer who cannot find an advertised feature rejects the build.
 
 Worth stating plainly, because it drives every field below:
 
-**An honest food diary behind an account.** Barcode, search and quick-add logging
-against verified nutrition data; targets that adapt to your own weight trend and
-explain themselves; suggestions ranked from what you already eat; weight, water
-and fasting tracking; full micronutrients behind a toggle. An email-and-password
-account is required. The diary is held on the device and backed up to the
-account, and comes back when you sign in on a new phone.
+**An honest food diary behind an account, with a paid tier.** Barcode, search and
+quick-add logging against verified nutrition data; 496 recipes with filtering,
+scaling and a shopping list; suggestions ranked from what you already eat *and*
+from the library, against what is left of your day. An email-and-password account
+is required. The diary is held on the device and backed up to the account, and
+comes back when you sign in on a new phone.
 
-**Not in 1.0:** recipes, meal plans, prep day, pantry, AI photo or voice logging,
-Apple Health, cross-device sync, and Premium. The Meals tab is hidden until the
-recipe library exists.
+**Free is a calorie tracker. Premium is a health app and a planner.** That line
+is defined as data in [entitlements.ts](../packages/core/src/entitlements.ts) and
+every field below has to agree with it. Free: logging, the full journal, today's
+calories and macros, fifty recipes with allergen filtering, export and backup.
+Premium: all 496 recipes, the combined shopping list, adaptive targets, trends,
+micronutrients, fasting and water.
+
+**Not in 1.0:** meal plans, prep day, pantry, AI photo or voice logging, Apple
+Health, and cross-device sync.
 
 **The account now pays for itself.** An earlier draft of this document noted the
 tension in requiring an account that stored nothing — people signing up for a
@@ -109,9 +117,9 @@ better subtitle only when people already know what the app is.
 ## Keyword field (100 char limit, comma-separated, no spaces after commas)
 
 ```
-food,counter,tracker,barcode,scanner,fasting,timer,weight,nutrition,prep,cooking,healthy,log
+food,counter,tracker,barcode,scanner,fasting,timer,weight,nutrition,prep,cooking,healthy,log,protein
 ```
-92 characters.
+100 characters — the submission sheet added `protein`, which fills the field exactly.
 
 **Apple builds search phrases from tokens across the name, subtitle and keyword
 field combined**, so a word already in either of the first two is wasted here.
@@ -155,111 +163,29 @@ a competitor to copy.
 
 ---
 
-## Description (4000 char limit)
+## Description
 
-```
-Daylish is a food diary for your whole day — not just the diet part.
+**Moved to [app-store-connect-submission.md](app-store-connect-submission.md).**
 
-Breakfast on a weekday. A snack you didn't plan. Dinner you actually wanted. It
-all belongs here, and none of it comes with a lecture.
+The draft that used to sit here has been deleted rather than marked stale,
+because a wrong description kept next to a right one eventually gets pasted. It
+predated both the recipe library and the paid tier, and it sold `fasting`,
+`water`, `micronutrients`, `adaptiveTargets` and `trends` as free when
+[entitlements.ts](../packages/core/src/entitlements.ts) makes every one of them
+Premium.
 
+What is worth keeping from it is the reasoning, not the text:
 
-LOG IN SECONDS, NOT MINUTES
-
-Scan a barcode and it's in. Search a database of verified foods with the ones you
-eat most already at the top. Or quick-add the numbers when you already know them.
-
-Ate the same as yesterday? Copy the whole day across in one tap. Got the portion
-wrong? Tap the food and fix it — the rest of the meal stays exactly where it is.
-
-
-NUMBERS YOU CAN ACTUALLY TRUST
-
-Most food apps run on entries anyone can type in and nobody checks. Daylish looks
-food up instead. Whole foods come from USDA FoodData Central — the reference
-database built on laboratory analysis. Packaged foods come from the barcode, so
-the numbers are the ones printed on the packet.
-
-A guess is never dressed up as a fact. When a figure is estimated rather than
-looked up, the entry says so and tells you how sure it is. Everything else was
-looked up, which is why it needs no badge to say so.
-
-
-TARGETS THAT LEARN YOU
-
-Calorie formulas are guesses based on averages. You are not an average.
-
-Daylish watches your real weight trend and what you actually eat, then works out
-what you're genuinely burning and adjusts your targets. Every change comes with a
-plain-English reason — "we raised your target 60 kcal because your 14-day trend
-shows faster loss than planned". No mystery numbers, and nothing happens to your
-targets that the app won't explain.
-
-
-WHAT FITS, RIGHT NOW
-
-The hardest question in any food diary is "so what do I eat now?"
-
-Daylish answers it from your own history. It ranks the foods you already eat
-against what's left of your day — and when you're short on protein but low on
-calories, it puts the protein-dense things first instead of offering you more of
-the same. Tap one to log it, at a portion already sized to fit.
-
-It gets better the more you log, and it needs no recipes and no browsing.
-
-
-THE WHOLE DAY
-
-- Weight trend that follows the trend, not one bad morning
-- 14 days of intake against target, at a glance
-- Water, with a goal that scales to your bodyweight
-- Intermittent fasting timers: 16:8, 18:6, 20:4, 5:2, OMAD
-- 37 nutrients tracked, with 23 vitamins and minerals shown against Daily
-  Values — all behind a simple/detailed toggle, so it's there when you want it
-  and invisible when you don't
-
-
-NO GUILT. EVER.
-
-No red warnings when you go over. No "cheat day". No moralising about food.
-Going over your target is information, not a failure — and Daylish tells you what
-it means instead of how to feel.
-
-
-YOUR DIARY, ON YOUR PHONE
-
-Creating an account takes an email address and a password — that's all we ask
-for. Your account holds your diary so it can follow you to your next phone, and
-nothing else: no advertising, no tracking, and it is never shared.
-
-Everything you log is kept on your phone, so Daylish keeps working without a
-connection and a weak signal never costs you a meal. It's also backed up to your
-account, so a lost phone doesn't cost you a year of logs — sign in on a new one
-and your diary is there.
-
-You can export the whole diary as a JSON file whenever you like, and you can
-delete your account, and everything in it, from inside the app.
-
-
-Questions: hello@daylish.app
-Privacy: daylish.app/privacy
-```
-
-~3,080 characters.
-
-The first three lines are what shows before "more" on a phone, so they carry the
-positioning on their own.
-
-**Two editorial notes.**
-
-The old copy promised "FREE FOREVER" and "we will never paywall the barcode
-scanner". Both are gone. You are building a paid tier; a promise that shipped on
-the store page is one users will quote back at you, and Apple will not care that
-you have changed your mind.
-
-There is also no "FREE" section any more. The app *is* free today, and the store
-page already says so in the price field — restating it in the description buys
-nothing and would have to be rewritten the moment Premium lands.
+- **The first three lines are the whole pitch.** That is all iOS shows before
+  "more", and most people never tap it.
+- **No "FREE FOREVER" promises.** An earlier draft carried one, along with "we
+  will never paywall the barcode scanner". Both are gone. A promise published on
+  the store page is one people quote back at you, and Apple will not care that
+  you changed your mind. What survives is narrower and true: logging, allergen
+  filtering and export are free, and those three are load-bearing in
+  `entitlements.ts`.
+- **Premium is disclosed where the feature is described, not only in a list at
+  the bottom.** See the note in the submission sheet for why.
 
 ---
 
@@ -410,56 +336,22 @@ basis for doing so, how deletion works, and the two third-party APIs above.
 
 ## Review notes
 
-```
-Daylish requires an account. Please use this demo account:
+**Moved to [app-store-connect-submission.md](app-store-connect-submission.md)**,
+for the same reason as the description: the draft here predated both the recipe
+library and the paid tier, and review notes that describe an app the reviewer is
+not holding fail on first contact.
 
-  Email:    review@daylish.app
-  Password: [see your password manager — this repository is public]
+The one thing worth restating, because it is easy to lose: **the demo account
+password does not belong in this repository**, which is public. It goes in the
+App Review Information fields in App Store Connect and nowhere else.
 
-After signing in you will be asked six short setup questions (height, weight,
-age, activity, goal, food preferences). These take about thirty seconds and
-produce your calorie and macro targets. The journal is empty until you log
-something — a brand-new account has nothing in it yet, so a fresh install starts
-empty by design.
+## What changed when Premium shipped
 
-To see the app with data in it, log two or three foods from the Today screen:
+**Premium is in 1.0**, so this is a record of what was revisited rather than a
+list of pending work. Kept because the same fields move again at the next tier
+change.
 
-  - "Search" finds any food by name — try "chicken breast" or "banana"
-  - "Quick add" logs calories and macros directly, with no lookup
-  - "Scan" reads the barcode on any packaged grocery item
-
-The Ideas tab ranks foods you have already logged, so it fills in after a few
-entries.
-
-Barcode scanning uses the camera and is the only permission the app requests.
-
-Account deletion is in the app: You tab, at the bottom, "Delete my account". It
-removes the auth record from our servers and erases the on-device diary.
-
-Food data comes from Open Food Facts (no key required) and USDA FoodData Central.
-The diary is held on the device and backed up to the signed-in account so it can
-be restored on a new phone; it is not shared with anyone and is not used for
-anything else. There is no analytics, no advertising and no tracking.
-
-There are no in-app purchases or subscriptions in this version.
-```
-
-**The demo account is not optional.** An app behind a login that ships without
-working credentials is rejected under 2.1, and it is one of the most common
-avoidable rejections there is.
-
-**Do not promise the reviewer pre-populated data.** The diary is on-device, so
-there is no way to seed an account with a history that appears on the reviewer's
-phone — signing in on a clean install always lands on onboarding with an empty
-journal. The notes above tell them that plainly and hand them three ways to put
-food on the screen in under a minute. Claiming otherwise creates exactly the
-metadata mismatch that Guideline 2.3.1 exists to catch.
-
----
-
-## What changes when Premium ships
-
-Fields to revisit, so this is a revision rather than a rewrite:
+Fields revisited:
 
 - **Description** — add a Premium paragraph naming exactly what is in the paid
   tier and what stays free. Apple requires the price, duration and renewal terms
