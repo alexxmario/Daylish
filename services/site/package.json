@@ -1,0 +1,14 @@
+{
+  "name": "@daylish/site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "daylish.app — marketing, support and legal pages. Deployed to Railway.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs"
+  }
+}

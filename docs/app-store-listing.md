@@ -1,5 +1,16 @@
 # App Store listing — Daylish 1.0
 
+> **The field values you paste into App Store Connect now live in
+> [app-store-connect-submission.md](app-store-connect-submission.md).** This
+> file is the reasoning: ASO argument, screenshot plan, App Privacy answers and
+> the record of why each field says what it says.
+>
+> Where the two disagree, the submission sheet wins. It was written after the
+> recipe library and the paid tier landed; the **Description**, **Promotional
+> text** and **Review notes** below predate both, and the description in
+> particular sells fasting, water, micronutrients, adaptive targets and trends
+> as free when every one of them is now Premium.
+
 Draft copy for App Store Connect. Character limits are Apple's and are respected
 below; each field shows its count.
 
@@ -403,7 +414,7 @@ basis for doing so, how deletion works, and the two third-party APIs above.
 Daylish requires an account. Please use this demo account:
 
   Email:    review@daylish.app
-  Password: Daylish-Review-87faa21f
+  Password: [see your password manager — this repository is public]
 
 After signing in you will be asked six short setup questions (height, weight,
 age, activity, goal, food preferences). These take about thirty seconds and
