@@ -10,16 +10,21 @@
     />
     <link rel="icon" href="/favicon.png" />
     <link rel="apple-touch-icon" href="/icon.png" />
+    <meta name="theme-color" content="#FBEFC0" />
+    <link rel="preload" as="font" type="font/woff2" href="/fonts/archivo-black-400.woff2" crossorigin />
+    <link rel="preload" as="font" type="font/woff2" href="/fonts/figtree-400.woff2" crossorigin />
     <link rel="stylesheet" href="/styles.css" />
   </head>
   <body>
+    <a class="skip" href="#main">Skip to content</a>
+
     <header class="site-header">
       <div class="wrap">
         <a class="brand" href="/">
-          <img src="/logo.png" alt="" width="32" height="32" />
-          Daylish
+          <img src="/logo.png" alt="" width="36" height="36" />
+          <span>Daylish</span>
         </a>
-        <nav class="site-nav">
+        <nav class="site-nav" aria-label="Main">
           <a href="/support">Support</a>
           <a href="/legal/privacy" aria-current="page">Privacy</a>
           <a href="/legal/terms">Terms</a>
@@ -27,7 +32,7 @@
       </div>
     </header>
 
-    <main class="wrap narrow doc">
+    <main id="main" class="wrap narrow doc">
       <h1>Privacy Policy</h1>
       <p class="meta">
         Effective 31 July 2026 · Operator: Alexandru Mario Ionescu ·
@@ -368,16 +373,16 @@
 
     <footer class="site-footer">
       <div class="wrap">
-        <div class="links">
+        <nav class="links" aria-label="Footer">
           <a href="/">Home</a>
           <a href="/support">Support</a>
           <a href="/legal/privacy">Privacy</a>
           <a href="/legal/terms">Terms</a>
           <a href="/account-deletion">Delete account</a>
           <a href="mailto:alexionescu870@gmail.com">Contact</a>
-        </div>
+        </nav>
         <p class="tagline">
-          © 2026 Alexandru Mario Ionescu. Your whole day, delicious.
+          &copy; 2026 Alexandru Mario Ionescu. Your whole day, delicious.
         </p>
       </div>
     </footer>

@@ -8,8 +8,11 @@
       name="description"
       content="A food diary for your whole day. Barcode logging against verified nutrition data, 496 recipes with real numbers, and calorie targets that learn from your own weight trend."
     />
+    <meta name="theme-color" content="#FBEFC0" />
     <link rel="icon" href="/favicon.png" />
     <link rel="apple-touch-icon" href="/icon.png" />
+    <link rel="preload" as="font" type="font/woff2" href="/fonts/archivo-black-400.woff2" crossorigin />
+    <link rel="preload" as="font" type="font/woff2" href="/fonts/figtree-400.woff2" crossorigin />
     <link rel="stylesheet" href="/styles.css" />
     <meta property="og:title" content="Daylish — Your whole day, delicious." />
     <meta
@@ -20,13 +23,15 @@
     <meta property="og:image" content="/icon.png" />
   </head>
   <body>
+    <a class="skip" href="#main">Skip to content</a>
+
     <header class="site-header">
       <div class="wrap">
         <a class="brand" href="/">
-          <img src="/logo.png" alt="" width="32" height="32" />
-          Daylish
+          <img src="/logo.png" alt="" width="36" height="36" />
+          <span>Daylish</span>
         </a>
-        <nav class="site-nav">
+        <nav class="site-nav" aria-label="Main">
           <a href="/support">Support</a>
           <a href="/legal/privacy">Privacy</a>
           <a href="/legal/terms">Terms</a>
@@ -34,158 +39,288 @@
       </div>
     </header>
 
-    <main>
-      <div class="hero wrap">
-        <span class="eyebrow">iPhone · Coming to the App Store</span>
-        <h1>Your whole day, delicious.</h1>
-        <p class="lede">
-          A food diary for your whole day — not just the diet part. Log in
-          seconds against nutrition data you can actually check, cook from 496
-          recipes with real numbers, and get calorie targets that learn from your
-          own weight trend instead of a formula.
-        </p>
-        <div class="cta-row">
-          <a class="btn btn-primary" href="/support">Get support</a>
-          <a class="btn btn-secondary" href="/legal/privacy">How your data is handled</a>
+    <main id="main">
+      <div class="hero">
+        <div class="wrap hero-copy">
+          <span class="eyebrow">iPhone · Coming to the App Store</span>
+          <h1>Your whole day, delicious.</h1>
+          <p class="lede">
+            A food diary for the whole day, not just the diet part. Honest
+            numbers, 496 recipes, and targets that learn from your own weight
+            trend instead of a formula.
+          </p>
+          <div class="cta-row">
+            <a class="btn btn-primary" href="#what">See what it does</a>
+            <a class="btn btn-secondary" href="/support">Get support</a>
+          </div>
+          <p class="note">Free to use. Premium never gates logging.</p>
         </div>
-        <p class="note">Free to use. Premium is optional and never gates logging.</p>
+
+        <div class="hero-scene" aria-hidden="true">
+          <div class="hero-sun"></div>
+          <div class="hero-horizon"></div>
+          <img
+            class="hero-plates"
+            src="/art/welcome.png"
+            alt=""
+            width="792"
+            height="259"
+          />
+        </div>
       </div>
 
-      <section class="wrap">
-        <h2>What it does</h2>
-        <p class="section-lede">
-          Every one of these is in the app today. Nothing on this page describes
-          something that is coming later.
-        </p>
-        <div class="grid">
-          <div class="card">
-            <div class="tick" aria-hidden="true">📷</div>
-            <h3>Log in seconds</h3>
-            <p>
-              Scan a barcode and it is in. Search by name with the foods you eat
-              most already at the top. Or quick-add the numbers when you already
-              know them. Ate the same as yesterday? Copy the whole day in one tap.
-            </p>
-          </div>
-          <div class="card">
-            <div class="tick" aria-hidden="true">🔬</div>
-            <h3>Numbers you can check</h3>
-            <p>
-              Whole foods come from USDA FoodData Central, built on laboratory
-              analysis. Packaged foods come from the barcode, so the numbers are
-              the ones printed on the packet. When a figure is estimated rather
-              than looked up, the entry says so.
-            </p>
-          </div>
-          <div class="card">
-            <div class="tick" aria-hidden="true">🍳</div>
-            <h3>496 recipes, filtered to you</h3>
-            <p>
-              Every calorie and gram computed from the ingredients, never
-              guessed. Filter by diet, allergens, time, effort and the equipment
-              you own. Scale to the number of people eating, then send the
-              ingredients to a shopping list.
-            </p>
-          </div>
-          <div class="card">
-            <div class="tick" aria-hidden="true">🎯</div>
-            <h3>Targets that learn you</h3>
-            <p>
-              Daylish watches your real weight trend and what you actually eat,
-              works out what you are genuinely burning, and adjusts. Every change
-              comes with a plain-English reason — never a number that appears
-              without explanation.
-            </p>
-          </div>
-          <div class="card">
-            <div class="tick" aria-hidden="true">💡</div>
-            <h3>What fits, right now</h3>
-            <p>
-              The hardest question in any food diary is "so what do I eat now?"
-              Ideas answers it from your own history and the recipe library,
-              ranked against what is left of your day, at a portion already sized
-              to fit.
-            </p>
-          </div>
-          <div class="card">
-            <div class="tick" aria-hidden="true">⏱️</div>
-            <h3>The whole day</h3>
-            <p>
-              Weight trend, 14 days of intake against target, water scaled to
-              your bodyweight, fasting timers for 16:8 through OMAD, and 37
-              nutrients with 23 vitamins and minerals behind a simple/detailed
-              toggle.
-            </p>
-          </div>
-        </div>
-      </section>
-
-      <section class="wrap">
-        <div class="panel">
-          <h2>The language model never produces a nutrition number</h2>
-          <p style="max-width: 62ch; color: var(--ink-secondary); margin: 0">
-            It is worth being specific about this, because it is the rule the
-            whole app is built around. AI writes recipes. It does not compute
-            calories. Every calorie and every gram in Daylish — in a logged food,
-            in a recipe, in a scaled portion — is calculated from USDA FoodData
-            Central by ordinary code you could audit. A photo-estimating feature
-            was built and then deliberately removed, because the model has to
-            supply the portion mass and calories scale linearly with it: it was
-            the one feature that could produce a confidently wrong number in an
-            app whose entire claim is that it does not.
+      <section class="band wrap" id="what">
+        <div class="band-head">
+          <h2>Six things it does, and does now</h2>
+          <p>
+            Every one of these is in the app today. Nothing here is a roadmap
+            item wearing a present tense.
           </p>
         </div>
+
+        <div class="rail">
+          <article class="ticket">
+            <div class="ticket-rule rule-celeste"></div>
+            <div class="ticket-body">
+              <div class="ticket-head">
+                <span class="ticket-label">Logging</span>
+                <span class="ticket-meta">Three ways</span>
+              </div>
+              <h3>In seconds, not minutes</h3>
+              <p>
+                Scan a barcode and it is in. Search by name, with the foods you
+                eat most already at the top. Or quick-add the numbers when you
+                already know them. Ate the same as yesterday? Copy the whole day
+                in one tap.
+              </p>
+            </div>
+          </article>
+
+          <article class="ticket">
+            <div class="ticket-rule rule-teal"></div>
+            <div class="ticket-body">
+              <div class="ticket-head">
+                <span class="ticket-label">Sources</span>
+                <span class="ticket-meta">USDA · barcode</span>
+              </div>
+              <h3>Numbers you can check</h3>
+              <p>
+                Whole foods come from USDA FoodData Central, built on laboratory
+                analysis. Packaged foods come from the barcode, so the numbers
+                are the ones printed on the packet. When a figure is an estimate
+                rather than a lookup, the entry says so.
+              </p>
+            </div>
+          </article>
+
+          <article class="ticket">
+            <div class="ticket-rule rule-sun"></div>
+            <div class="ticket-body">
+              <div class="ticket-head">
+                <span class="ticket-label">Recipes</span>
+                <span class="ticket-meta">496 dishes</span>
+              </div>
+              <h3>Filtered down to you</h3>
+              <p>
+                Every calorie and gram computed from the ingredients, never
+                guessed. Filter by diet, allergens, time, effort and the
+                equipment you own. Scale to the number of people eating, then
+                send the ingredients to a shopping list.
+              </p>
+            </div>
+          </article>
+
+          <article class="ticket">
+            <div class="ticket-rule rule-coral"></div>
+            <div class="ticket-body">
+              <div class="ticket-head">
+                <span class="ticket-label">Targets</span>
+                <span class="ticket-meta">Premium</span>
+              </div>
+              <h3>They learn you</h3>
+              <p>
+                Calorie formulas are guesses based on averages, and you are not
+                an average. Daylish reads your real weight trend, works out what
+                you are genuinely burning, and adjusts — with a plain-English
+                reason for every change.
+              </p>
+            </div>
+          </article>
+
+          <article class="ticket">
+            <div class="ticket-rule rule-violet"></div>
+            <div class="ticket-body">
+              <div class="ticket-head">
+                <span class="ticket-label">Ideas</span>
+                <span class="ticket-meta">Ranked to fit</span>
+              </div>
+              <h3>What fits, right now</h3>
+              <p>
+                The hardest question in any food diary is "so what do I eat
+                now?" Ideas answers it from your own history and the recipe
+                library, ranked against what is left of your day, at a portion
+                already sized to fit.
+              </p>
+            </div>
+          </article>
+
+          <article class="ticket">
+            <div class="ticket-rule"></div>
+            <div class="ticket-body">
+              <div class="ticket-head">
+                <span class="ticket-label">The day</span>
+                <span class="ticket-meta">37 nutrients</span>
+              </div>
+              <h3>More than calories</h3>
+              <p>
+                Weight trend that follows the trend rather than one bad morning.
+                Water scaled to your bodyweight. Fasting timers from 16:8 to
+                OMAD. And 23 vitamins and minerals against Daily Values, behind
+                a toggle so they are invisible until you want them.
+              </p>
+            </div>
+          </article>
+        </div>
       </section>
 
-      <section class="wrap">
-        <h2>Free and Premium</h2>
-        <p class="section-lede">
-          Free is a calorie tracker. Premium is a health app and a planner.
-          Logging, allergen filtering and export are free permanently and are not
-          up for renegotiation later.
-        </p>
-        <div class="tiers">
-          <div class="tier">
-            <h3>Free</h3>
-            <ul>
-              <li>Logging by barcode, search and quick add</li>
-              <li>Your full journal and history</li>
-              <li>Today's calories and macros against target</li>
-              <li>Fifty recipes, filtered by your allergens</li>
-              <li>Export everything as JSON</li>
-              <li>Backup to your account, restored on a new phone</li>
-            </ul>
-          </div>
-          <div class="tier paid">
-            <h3>Premium</h3>
-            <ul>
-              <li>All 496 recipes, with every filter</li>
-              <li>One shopping list across several recipes</li>
-              <li>Targets that adapt to your own weight trend</li>
-              <li>Trends: weight trajectory and intake over time</li>
-              <li>23 vitamins and minerals against Daily Values</li>
-              <li>Fasting timers and water tracking</li>
-            </ul>
-            <p class="price">
-              Monthly or yearly subscription, or a one-time lifetime purchase.
-              Prices are shown in the app before you buy. See the
-              <a href="/legal/terms">Terms</a> for renewal and cancellation.
+      <section class="band band-tint">
+        <div class="wrap">
+          <div class="claim">
+            <h2>The language model never produces a nutrition number</h2>
+            <p>
+              It is worth being specific, because it is the rule the whole app is
+              built around. AI writes recipes. It does not compute calories.
+              Every calorie and every gram — in a logged food, in a recipe, in a
+              scaled portion — is calculated from USDA FoodData Central by
+              ordinary code.
+            </p>
+            <p>
+              A photo-estimating feature was built and then deliberately removed.
+              The model has to supply the portion mass, and calories scale
+              linearly with it, so it was the one feature that could produce a
+              confidently wrong number in an app whose entire claim is that it
+              does not.
             </p>
           </div>
         </div>
       </section>
 
-      <section class="wrap">
-        <div class="tinted">
+      <section class="band wrap">
+        <div class="band-head">
+          <h2>Actual food, actually cooked</h2>
+          <p>
+            Eight of the 496. These are photographs of the dishes in the library,
+            not stock images of somebody else's lunch.
+          </p>
+        </div>
+
+        <div class="dish-rail" tabindex="0" role="group" aria-label="Recipes from the library">
+          <figure class="dish">
+            <img src="/dishes/greek-chicken-souvlaki-with-lemon-potatoes.webp" alt="Chicken souvlaki with lemon potatoes" width="520" height="520" loading="lazy" />
+            <figcaption>Chicken souvlaki</figcaption>
+          </figure>
+          <figure class="dish">
+            <img src="/dishes/mexican-garlic-shrimp-tacos.webp" alt="Garlic shrimp tacos" width="520" height="520" loading="lazy" />
+            <figcaption>Garlic shrimp tacos</figcaption>
+          </figure>
+          <figure class="dish">
+            <img src="/dishes/indian-coconut-cod-curry.webp" alt="Coconut cod curry" width="520" height="520" loading="lazy" />
+            <figcaption>Coconut cod curry</figcaption>
+          </figure>
+          <figure class="dish">
+            <img src="/dishes/chinese-tomato-and-egg-noodles.webp" alt="Tomato and egg noodles" width="520" height="520" loading="lazy" />
+            <figcaption>Tomato and egg noodles</figcaption>
+          </figure>
+          <figure class="dish">
+            <img src="/dishes/korean-vegetable-pancakes.webp" alt="Korean vegetable pancakes" width="520" height="520" loading="lazy" />
+            <figcaption>Korean vegetable pancakes</figcaption>
+          </figure>
+          <figure class="dish">
+            <img src="/dishes/japanese-grilled-salmon-rice-balls.webp" alt="Grilled salmon rice balls" width="520" height="520" loading="lazy" />
+            <figcaption>Grilled salmon rice balls</figcaption>
+          </figure>
+          <figure class="dish">
+            <img src="/dishes/greek-stuffed-peppers.webp" alt="Stuffed peppers" width="520" height="520" loading="lazy" />
+            <figcaption>Stuffed peppers</figcaption>
+          </figure>
+          <figure class="dish">
+            <img src="/dishes/greek-yoghurt-bowl.webp" alt="Yoghurt bowl" width="520" height="520" loading="lazy" />
+            <figcaption>Yoghurt bowl</figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <section class="band band-tint">
+        <div class="wrap">
+          <div class="band-head">
+            <h2>Free is a calorie tracker. Premium is a health app.</h2>
+            <p>
+              Logging, allergen filtering and export are free permanently. Those
+              three are not up for renegotiation later — one is the reason
+              people install the app, one is a safety feature, and one is the
+              difference between your diary being yours and being ours.
+            </p>
+          </div>
+
+          <div class="tiers">
+            <article class="ticket">
+              <div class="ticket-rule rule-celeste"></div>
+              <div class="ticket-body">
+                <div class="ticket-head">
+                  <span class="ticket-label">Free</span>
+                  <span class="ticket-meta">No card</span>
+                </div>
+                <ul class="tier-list">
+                  <li>Logging by barcode, search and quick add</li>
+                  <li>Your full journal and history</li>
+                  <li>Today's calories and macros against target</li>
+                  <li>Fifty recipes, filtered by your allergens</li>
+                  <li>Export everything as JSON</li>
+                  <li>Backup to your account, restored on a new phone</li>
+                </ul>
+              </div>
+            </article>
+
+            <article class="ticket tier-paid">
+              <div class="ticket-rule rule-sun"></div>
+              <div class="ticket-body">
+                <div class="ticket-head">
+                  <span class="ticket-label">Premium</span>
+                  <span class="ticket-meta">Monthly · yearly · lifetime</span>
+                </div>
+                <ul class="tier-list">
+                  <li>All 496 recipes, with every filter</li>
+                  <li>One shopping list across several recipes</li>
+                  <li>Targets that adapt to your own weight trend</li>
+                  <li>Trends: weight trajectory and intake over time</li>
+                  <li>23 vitamins and minerals against Daily Values</li>
+                  <li>Fasting timers and water tracking</li>
+                </ul>
+                <p class="tier-terms">
+                  Prices are shown in the app before you buy. See the
+                  <a href="/legal/terms">Terms</a> for renewal and cancellation.
+                </p>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="band wrap">
+        <div class="claim">
           <h2>Your diary is yours</h2>
-          <p style="max-width: 62ch; color: var(--ink-secondary)">
-            An account takes an email address and a password — that is all we ask
-            for. Everything you log is kept on your phone, so Daylish works
-            without a connection, and it is backed up to your account so a lost
-            phone does not cost you a year of logs. There is no advertising, no
-            analytics, and no tracking of any kind.
+          <p>
+            An account takes an email address and a password. It holds your diary
+            and nothing else: no advertising, no analytics, no tracking, never
+            shared. Everything you log is kept on your phone, so Daylish works
+            without a connection — and it is backed up to your account, so a lost
+            phone does not cost you a year of logs.
           </p>
-          <div class="cta-row" style="justify-content: flex-start">
+          <p>
+            Export the lot as a JSON file whenever you like, on any tier. Delete
+            your account, and everything in it, from inside the app.
+          </p>
+          <div class="cta-row cta-row-left">
             <a class="btn btn-secondary" href="/legal/privacy">Privacy policy</a>
             <a class="btn btn-secondary" href="/account-deletion">Delete your account</a>
           </div>
@@ -195,14 +330,14 @@
 
     <footer class="site-footer">
       <div class="wrap">
-        <div class="links">
+        <nav class="links" aria-label="Footer">
           <a href="/">Home</a>
           <a href="/support">Support</a>
           <a href="/legal/privacy">Privacy</a>
           <a href="/legal/terms">Terms</a>
           <a href="/account-deletion">Delete account</a>
           <a href="mailto:alexionescu870@gmail.com">Contact</a>
-        </div>
+        </nav>
         <p class="tagline">
           © 2026 Alexandru Mario Ionescu. Your whole day, delicious.
         </p>

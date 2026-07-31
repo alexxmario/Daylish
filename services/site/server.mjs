@@ -54,15 +54,22 @@ const MIME = {
   '.html': 'text/html; charset=utf-8',
   '.css': 'text/css; charset=utf-8',
   '.png': 'image/png',
+  '.webp': 'image/webp',
   '.svg': 'image/svg+xml',
   '.ico': 'image/x-icon',
+  '.woff2': 'font/woff2',
   '.webmanifest': 'application/manifest+json',
   '.txt': 'text/plain; charset=utf-8',
 };
 
-/** Long cache for fingerprint-free assets is wrong; a day is the compromise. */
+/**
+ * Long cache for fingerprint-free assets is wrong; a day is the compromise.
+ * Fonts are the exception — they are subset from the app's own faces and will
+ * not change without the filename changing, so they get a year.
+ */
 function cacheFor(ext) {
   if (ext === '.html' || ext === '') return 'public, max-age=0, must-revalidate';
+  if (ext === '.woff2') return 'public, max-age=31536000, immutable';
   return 'public, max-age=86400';
 }
 

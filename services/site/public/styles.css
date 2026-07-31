@@ -1,40 +1,115 @@
 /*
- * Lifted from apps/mobile/src/theme/tokens.ts so the site and the app are
- * recognisably the same product. Celeste carries the chrome, butter is a wash
- * behind something worth noticing, sun is spent once per screen.
+ * Daylish — the web face of the app.
  *
- * No red anywhere, for the same reason the app has none: going over a target is
- * information, not a failure, and the positioning would be contradicted by the
- * website before anyone got as far as installing.
+ * Three things are carried over from the product rather than invented here, and
+ * they are what stop this looking like any other landing page:
+ *
+ * 1. **The ticket.** The app's core surface is a kitchen ticket — a heavy
+ *    coloured top rule, a small tracked-caps label, an optional right-aligned
+ *    meta. See `apps/mobile/src/components/Ticket.tsx`, where the docstring
+ *    makes the point that the rule is not decoration: it does what the rule on a
+ *    nutrition panel does, which is to say "a discrete block starts here", and
+ *    because it carries a colour it encodes category without an icon. Every
+ *    block on this site is one, and every rule colour means something.
+ *
+ * 2. **The outline.** Every illustration in the app is flat vector with a thick
+ *    navy outline. So the site draws in the same hand: 2px ink borders, hard
+ *    offset shadows with zero blur, no gradients anywhere. Soft blurred shadows
+ *    next to that artwork look like two different products.
+ *
+ * 3. **The type.** Archivo Black, Archivo and Figtree are the faces the app
+ *    loads at boot (`apps/mobile/app/_layout.tsx`), subset from the very same
+ *    files it ships. The website is literally set in the app's typeface.
+ *
+ * The palette is `apps/mobile/src/theme/tokens.ts`. It has no red, because the
+ * app has none: going over a target is information, not a failure, and the
+ * positioning would be contradicted by the website before anyone installed.
  */
+
+/* ------------------------------------------------------------------ fonts */
+
+@font-face {
+  font-family: 'Archivo Black';
+  src: url('/fonts/archivo-black-400.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Archivo';
+  src: url('/fonts/archivo-600.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Archivo';
+  src: url('/fonts/archivo-700.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Figtree';
+  src: url('/fonts/figtree-400.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Figtree';
+  src: url('/fonts/figtree-500.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Figtree';
+  src: url('/fonts/figtree-600.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ----------------------------------------------------------------- tokens */
+
 :root {
-  --background: #f5fafe;
-  --surface: #ffffff;
-  --surface-sunken: #e8f1f9;
-  --surface-tinted: #e3f0fb;
-  --surface-warm: #fef8e0;
-  --hairline: #d3e4f1;
-
   --ink: #16232e;
-  --ink-secondary: #4a5c6b;
-  --ink-muted: #7e909e;
+  --ink-2: #4a5c6b;
+  --ink-3: #7e909e;
 
+  --paper: #ffffff;
+  --daylight: #f5fafe;
+  --sunken: #e8f1f9;
+
+  --butter: #fbefc0;
+  --butter-edge: #efdb95;
   --celeste: #74acdf;
   --celeste-soft: #dcebf8;
   --celeste-ink: #2b6ca3;
-  --butter: #fbefc0;
   --sun: #f6b40e;
 
-  --protein: #e0543a;
-  --carbs: #7a53c9;
-  --fat: #12907a;
+  /* Rule colours. The macro series from the app, used here to encode section. */
+  --coral: #e0543a;
+  --violet: #7a53c9;
+  --teal: #12907a;
 
-  --radius: 16px;
-  --radius-lg: 24px;
-  --measure: 68ch;
+  --edge: 2px;
+  --drop: 5px;
+  --radius: 14px;
 
-  --font: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto,
+  --display: 'Archivo Black', 'Archivo', 'Helvetica Neue', Arial, sans-serif;
+  --title: 'Archivo', 'Helvetica Neue', Arial, sans-serif;
+  --body: 'Figtree', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
     'Helvetica Neue', Arial, sans-serif;
+
+  --measure: 66ch;
+  --shadow: var(--drop) var(--drop) 0 var(--ink);
 }
 
 *,
@@ -45,13 +120,12 @@
 
 body {
   margin: 0;
-  background: var(--background);
+  background: var(--daylight);
   color: var(--ink);
-  font-family: var(--font);
+  font-family: var(--body);
   font-size: 17px;
-  line-height: 1.65;
+  line-height: 1.62;
   -webkit-font-smoothing: antialiased;
-  text-rendering: optimizeLegibility;
 }
 
 img {
@@ -61,320 +135,563 @@ img {
 
 a {
   color: var(--celeste-ink);
-  text-decoration-thickness: 1px;
   text-underline-offset: 2px;
+  text-decoration-thickness: 1.5px;
 }
 
 a:hover {
   color: var(--ink);
 }
 
+:focus-visible {
+  outline: 3px solid var(--sun);
+  outline-offset: 3px;
+  border-radius: 3px;
+}
+
 .wrap {
   width: 100%;
-  max-width: 1040px;
+  max-width: 1080px;
   margin: 0 auto;
-  padding: 0 24px;
+  padding-left: 24px;
+  padding-right: 24px;
 }
 
 .narrow {
-  max-width: var(--measure);
+  max-width: calc(var(--measure) + 48px);
 }
 
-/* ---------------------------------------------------------------- header */
+.skip {
+  position: absolute;
+  left: -9999px;
+}
+
+.skip:focus {
+  left: 12px;
+  top: 12px;
+  z-index: 50;
+  background: var(--ink);
+  color: var(--paper);
+  padding: 10px 16px;
+  border-radius: 8px;
+}
+
+/* ----------------------------------------------------------------- header */
 
 .site-header {
-  border-bottom: 1px solid var(--hairline);
-  background: rgba(245, 250, 254, 0.92);
-  position: sticky;
-  top: 0;
-  z-index: 10;
-  backdrop-filter: saturate(180%) blur(12px);
+  border-bottom: var(--edge) solid var(--ink);
+  background: var(--butter);
 }
 
 .site-header .wrap {
   display: flex;
   align-items: center;
-  gap: 24px;
-  min-height: 68px;
+  gap: 20px;
+  min-height: 66px;
   flex-wrap: wrap;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .brand {
   display: inline-flex;
   align-items: center;
-  gap: 10px;
-  font-weight: 700;
-  font-size: 19px;
-  letter-spacing: -0.01em;
-  color: var(--ink);
-  text-decoration: none;
+  gap: 11px;
   margin-right: auto;
+  text-decoration: none;
+  color: var(--ink);
 }
 
 .brand img {
-  width: 32px;
-  height: 32px;
-  border-radius: 8px;
+  width: 36px;
+  height: 36px;
+  border-radius: 9px;
+  border: var(--edge) solid var(--ink);
   display: block;
+}
+
+.brand span {
+  font-family: var(--display);
+  font-size: 21px;
+  letter-spacing: -0.02em;
 }
 
 .site-nav {
   display: flex;
-  gap: 22px;
-  font-size: 15px;
+  gap: 8px;
   flex-wrap: wrap;
 }
 
 .site-nav a {
-  color: var(--ink-secondary);
+  font-family: var(--title);
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink);
   text-decoration: none;
+  padding: 8px 12px;
+  border-radius: 999px;
+  border: var(--edge) solid transparent;
 }
 
-.site-nav a:hover,
+.site-nav a:hover {
+  border-color: var(--ink);
+}
+
 .site-nav a[aria-current='page'] {
-  color: var(--celeste-ink);
+  background: var(--ink);
+  color: var(--butter);
 }
 
-/* ------------------------------------------------------------------ hero */
+/* ------------------------------------------------------------------- hero
+ *
+ * The sun rising behind a row of plates. That composition is lifted straight
+ * from `targets.png`, where a horizon line runs behind the food with the sun
+ * half above it — and it is the name of the product drawn out: daylight, and a
+ * dish. The disc is CSS rather than part of the image so it can sit behind the
+ * artwork and be clipped by the horizon exactly.
+ */
 
 .hero {
-  padding: 88px 0 72px;
+  background: var(--butter);
+  border-bottom: 3px solid var(--ink);
+  position: relative;
+  overflow: hidden;
+  padding-top: 64px;
+}
+
+.hero-copy {
+  position: relative;
+  z-index: 3;
   text-align: center;
+  max-width: 60ch;
+  margin: 0 auto;
 }
 
 .hero h1 {
-  font-size: clamp(38px, 6vw, 60px);
-  line-height: 1.08;
-  letter-spacing: -0.028em;
-  margin: 0 0 20px;
-  font-weight: 800;
+  font-family: var(--display);
+  font-size: clamp(40px, 6.6vw, 72px);
+  line-height: 0.96;
+  letter-spacing: -0.035em;
+  margin: 0 auto 20px;
+  max-width: 15ch;
 }
 
 .hero .lede {
-  font-size: clamp(18px, 2.2vw, 21px);
-  color: var(--ink-secondary);
-  max-width: 62ch;
-  margin: 0 auto 32px;
+  font-size: clamp(17px, 2vw, 20px);
+  color: var(--ink-2);
+  margin: 0 auto 28px;
+  max-width: 46ch;
+}
+
+.hero-scene {
+  position: relative;
+  margin-top: 52px;
+  /* The plate band is cropped to its content, so these percentages land on the
+     artwork rather than on transparent padding. */
+  --horizon: 30%;
+}
+
+/* Off-centre deliberately. Dead centre puts the disc behind the mug, where it
+   reads as a yellow smudge rather than a sun; at 26% it rises in open sky to
+   the left of the food, and the asymmetry is worth having anyway. */
+.hero-sun {
+  position: absolute;
+  left: 26%;
+  bottom: var(--horizon);
+  width: clamp(115px, 15vw, 200px);
+  aspect-ratio: 1;
+  transform: translateX(-50%);
+  background: var(--sun);
+  border: 3px solid var(--ink);
+  border-radius: 50%;
+  z-index: 0;
+}
+
+.hero-plates {
+  position: relative;
+  z-index: 2;
+  display: block;
+  width: 100%;
+  max-width: 940px;
+  margin: 0 auto;
+}
+
+/* The horizon, drawn over the sun's lower half — which is what makes it rise
+   rather than hover. Lifted from `targets.png`, where the same line runs behind
+   the food with the sun half above it. */
+.hero-horizon {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: var(--horizon);
+  height: 3px;
+  background: var(--ink);
+  z-index: 1;
 }
 
 .eyebrow {
   display: inline-block;
-  background: var(--butter);
-  color: #6b4d00;
-  font-size: 13px;
-  font-weight: 700;
-  letter-spacing: 0.06em;
+  font-family: var(--title);
+  font-weight: 600;
+  font-size: 12px;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
+  color: var(--ink);
+  background: var(--paper);
+  border: var(--edge) solid var(--ink);
   padding: 6px 14px;
   border-radius: 999px;
   margin-bottom: 22px;
 }
 
+/* --------------------------------------------------------------- controls */
+
 .cta-row {
   display: flex;
   gap: 14px;
-  justify-content: center;
   flex-wrap: wrap;
-  align-items: center;
+  justify-content: center;
+}
+
+/* A class rather than a style attribute: the CSP is `style-src 'self'`, which
+   blocks inline style attributes as well as inline <style> blocks. */
+.cta-row-left {
+  justify-content: flex-start;
+  margin-top: 24px;
 }
 
 .btn {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
-  padding: 13px 24px;
+  justify-content: center;
+  min-height: 50px;
+  padding: 13px 26px;
   border-radius: 999px;
-  font-weight: 650;
+  border: var(--edge) solid var(--ink);
+  font-family: var(--title);
+  font-weight: 700;
   font-size: 16px;
+  letter-spacing: -0.01em;
   text-decoration: none;
-  border: 1px solid transparent;
-  min-height: 48px;
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
 }
 
 .btn-primary {
   background: var(--sun);
-  color: #2a1f00;
+  color: var(--ink);
+  box-shadow: 4px 4px 0 var(--ink);
 }
 
 .btn-primary:hover {
-  background: #e0a30b;
-  color: #2a1f00;
+  color: var(--ink);
+  transform: translate(2px, 2px);
+  box-shadow: 2px 2px 0 var(--ink);
 }
 
 .btn-secondary {
-  background: var(--surface);
-  color: var(--celeste-ink);
-  border-color: var(--hairline);
+  background: var(--paper);
+  color: var(--ink);
 }
 
 .btn-secondary:hover {
-  border-color: var(--celeste);
-  color: var(--celeste-ink);
+  background: var(--celeste-soft);
+  color: var(--ink);
 }
 
 .note {
-  font-size: 14px;
-  color: var(--ink-muted);
+  font-size: 14.5px;
+  color: var(--ink-2);
   margin-top: 18px;
 }
 
-/* -------------------------------------------------------------- sections */
+/* ---------------------------------------------------------------- section */
 
-section {
-  padding: 56px 0;
+.band {
+  padding-top: 72px;
+  padding-bottom: 72px;
 }
 
-h2 {
-  font-size: clamp(26px, 3.4vw, 34px);
-  letter-spacing: -0.02em;
-  line-height: 1.2;
-  margin: 0 0 14px;
-  font-weight: 750;
+.band-tint {
+  background: var(--paper);
+  border-top: var(--edge) solid var(--ink);
+  border-bottom: var(--edge) solid var(--ink);
 }
 
-h3 {
-  font-size: 19px;
-  margin: 0 0 6px;
+/* In px, not ch. `ch` here resolves against the block's body font, which left
+   the display-face heading far narrower than it needed and broke every h2 onto
+   an orphaned last line. */
+.band-head {
+  max-width: 720px;
+  margin-bottom: 36px;
+}
+
+.band-head h2 {
+  font-family: var(--display);
+  font-size: clamp(28px, 4vw, 40px);
+  line-height: 1.06;
+  letter-spacing: -0.03em;
+  margin: 0 0 12px;
+}
+
+.band-head p {
+  color: var(--ink-2);
+  margin: 0;
+  max-width: 56ch;
+}
+
+/* ----------------------------------------------------------------- ticket
+ *
+ * The structural signature. Rule colour encodes category, exactly as it does
+ * in the app; the label is the ticket header and the meta is the fact that
+ * would otherwise need a sentence.
+ */
+
+.ticket {
+  background: var(--paper);
+  border: var(--edge) solid var(--ink);
+  border-radius: var(--radius);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.ticket-rule {
+  height: 7px;
+  background: var(--ink);
+}
+
+.rule-celeste { background: var(--celeste); }
+.rule-sun     { background: var(--sun); }
+.rule-coral   { background: var(--coral); }
+.rule-violet  { background: var(--violet); }
+.rule-teal    { background: var(--teal); }
+
+.ticket-body {
+  padding: 22px 24px 26px;
+}
+
+.ticket-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.ticket-label,
+.ticket-meta {
+  font-family: var(--title);
+  font-weight: 600;
+  font-size: 11.5px;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+}
+
+.ticket-label {
+  color: var(--ink);
+}
+
+.ticket-meta {
+  color: var(--ink-3);
+  white-space: nowrap;
+}
+
+.ticket h3 {
+  font-family: var(--title);
   font-weight: 700;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  margin: 0 0 8px;
+}
+
+.ticket p {
+  margin: 0;
+  color: var(--ink-2);
+  font-size: 15.5px;
+  line-height: 1.58;
+}
+
+.rail {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+/* ------------------------------------------------------------ claim panel */
+
+.claim {
+  background: var(--butter);
+  border: var(--edge) solid var(--ink);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 40px;
+}
+
+.claim h2 {
+  font-family: var(--display);
+  font-size: clamp(24px, 3.4vw, 36px);
+  line-height: 1.08;
+  letter-spacing: -0.03em;
+  margin: 0 0 18px;
+  max-width: 20ch;
+}
+
+.claim p {
+  margin: 0;
+  max-width: 62ch;
+  color: var(--ink);
+  font-size: 16.5px;
+}
+
+.claim p + p {
+  margin-top: 14px;
+}
+
+/* --------------------------------------------------------------- the rail
+ *
+ * Real photographs of dishes that are actually in the library, at the size the
+ * app shows them. A stock salad here would undercut the page's own argument
+ * about not dressing things up.
+ */
+
+.dish-rail {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(210px, 1fr);
+  gap: 16px;
+  overflow-x: auto;
+  padding-bottom: 14px;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* `margin: 0` is load-bearing: the UA stylesheet gives `figure` 40px side
+   margins, which quietly ate 80px of every 210px track. */
+.dish {
+  margin: 0;
+  scroll-snap-align: start;
+  border: var(--edge) solid var(--ink);
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--paper);
+  display: flex;
+  flex-direction: column;
+}
+
+.dish img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-bottom: var(--edge) solid var(--ink);
+}
+
+.dish figcaption {
+  flex: 1;
+  padding: 12px 14px 14px;
+  font-family: var(--title);
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.35;
   letter-spacing: -0.01em;
 }
 
-.section-lede {
-  color: var(--ink-secondary);
-  max-width: 60ch;
-  margin: 0 0 36px;
-}
-
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(268px, 1fr));
-  gap: 18px;
-}
-
-.card {
-  background: var(--surface);
-  border: 1px solid var(--hairline);
-  border-radius: var(--radius);
-  padding: 24px;
-}
-
-.card p {
-  margin: 0;
-  color: var(--ink-secondary);
-  font-size: 15.5px;
-  line-height: 1.6;
-}
-
-.card .tick {
-  width: 34px;
-  height: 34px;
-  border-radius: 10px;
-  background: var(--surface-tinted);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-bottom: 14px;
-  font-size: 18px;
-}
-
-.panel {
-  background: var(--surface-warm);
-  border: 1px solid #f2e3a8;
-  border-radius: var(--radius-lg);
-  padding: 36px;
-}
-
-.panel h2 {
-  margin-top: 0;
-}
-
-.tinted {
-  background: var(--surface-tinted);
-  border: 1px solid var(--celeste-soft);
-  border-radius: var(--radius-lg);
-  padding: 36px;
-}
+/* ------------------------------------------------------------------ tiers */
 
 .tiers {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 18px;
+  grid-template-columns: repeat(auto-fit, minmax(310px, 1fr));
+  gap: 20px;
+  align-items: start;
 }
 
-.tier {
-  background: var(--surface);
-  border: 1px solid var(--hairline);
-  border-radius: var(--radius);
-  padding: 28px;
+.tier-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
-.tier.paid {
-  border-color: var(--sun);
-  box-shadow: 0 1px 0 var(--sun);
-}
-
-.tier h3 {
-  font-size: 21px;
-}
-
-.tier ul {
-  margin: 14px 0 0;
-  padding-left: 20px;
-  color: var(--ink-secondary);
+.tier-list li {
+  position: relative;
+  padding-left: 26px;
+  margin-bottom: 10px;
+  color: var(--ink-2);
   font-size: 15.5px;
 }
 
-.tier li {
-  margin-bottom: 7px;
+.tier-list li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 8px;
+  width: 11px;
+  height: 11px;
+  border: var(--edge) solid var(--ink);
+  border-radius: 3px;
+  background: var(--celeste-soft);
 }
 
-.tier .price {
-  color: var(--ink-muted);
+.tier-paid .tier-list li::before {
+  background: var(--sun);
+}
+
+.tier-terms {
+  margin-top: 18px;
   font-size: 14px;
-  margin-top: 16px;
+  color: var(--ink-3);
 }
 
-/* ----------------------------------------------------------- legal pages */
+/* ------------------------------------------------------------ doc (legal) */
 
 .doc {
-  padding: 56px 0 72px;
+  padding-top: 56px;
+  padding-bottom: 76px;
 }
 
 .doc h1 {
-  font-size: clamp(30px, 4.6vw, 42px);
-  letter-spacing: -0.024em;
-  line-height: 1.15;
-  margin: 0 0 10px;
-  font-weight: 780;
+  font-family: var(--display);
+  font-size: clamp(32px, 5vw, 48px);
+  line-height: 1.04;
+  letter-spacing: -0.032em;
+  margin: 0 0 12px;
 }
 
 .doc .meta {
-  color: var(--ink-muted);
+  color: var(--ink-2);
   font-size: 15px;
-  margin: 0 0 40px;
+  margin: 0 0 38px;
   padding-bottom: 24px;
-  border-bottom: 1px solid var(--hairline);
+  border-bottom: var(--edge) solid var(--ink);
 }
 
 .doc h2 {
-  font-size: 22px;
-  margin: 44px 0 12px;
-  letter-spacing: -0.012em;
+  font-family: var(--title);
+  font-weight: 700;
+  font-size: 23px;
+  letter-spacing: -0.02em;
+  margin: 46px 0 12px;
 }
 
 .doc h3 {
+  font-family: var(--title);
+  font-weight: 600;
   font-size: 17.5px;
-  margin: 26px 0 8px;
+  letter-spacing: -0.01em;
+  margin: 28px 0 8px;
 }
 
 .doc p,
 .doc li {
-  color: var(--ink-secondary);
+  color: var(--ink-2);
   font-size: 16.5px;
 }
 
 .doc strong {
   color: var(--ink);
+  font-weight: 600;
 }
 
 .doc ul,
@@ -389,7 +706,7 @@ h3 {
 .doc table {
   width: 100%;
   border-collapse: collapse;
-  margin: 18px 0;
+  margin: 20px 0;
   font-size: 15.5px;
 }
 
@@ -398,14 +715,19 @@ h3 {
   text-align: left;
   vertical-align: top;
   padding: 11px 14px;
-  border-bottom: 1px solid var(--hairline);
-  color: var(--ink-secondary);
+  border-bottom: 1px solid var(--celeste-soft);
+  color: var(--ink-2);
 }
 
 .doc th {
+  font-family: var(--title);
+  font-weight: 600;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
   color: var(--ink);
-  font-weight: 700;
-  background: var(--surface-sunken);
+  background: var(--sunken);
+  border-bottom: var(--edge) solid var(--ink);
 }
 
 .table-scroll {
@@ -414,12 +736,15 @@ h3 {
 }
 
 .callout {
-  background: var(--surface);
-  border: 1px solid var(--hairline);
-  border-left: 3px solid var(--celeste);
-  border-radius: 12px;
-  padding: 18px 22px;
-  margin: 24px 0;
+  background: var(--butter);
+  border: var(--edge) solid var(--ink);
+  border-radius: var(--radius);
+  padding: 22px 26px;
+  margin: 26px 0;
+}
+
+.callout p {
+  color: var(--ink);
 }
 
 .callout p:first-child {
@@ -434,13 +759,13 @@ h3 {
   counter-reset: step;
   list-style: none;
   padding: 0;
-  margin: 22px 0;
+  margin: 24px 0;
 }
 
 .steps li {
   counter-increment: step;
   position: relative;
-  padding-left: 46px;
+  padding-left: 50px;
   margin-bottom: 18px;
 }
 
@@ -448,12 +773,14 @@ h3 {
   content: counter(step);
   position: absolute;
   left: 0;
-  top: 0;
-  width: 30px;
-  height: 30px;
+  top: -2px;
+  width: 32px;
+  height: 32px;
   border-radius: 50%;
-  background: var(--celeste-soft);
-  color: var(--celeste-ink);
+  background: var(--butter);
+  border: var(--edge) solid var(--ink);
+  color: var(--ink);
+  font-family: var(--title);
   font-weight: 700;
   font-size: 15px;
   display: flex;
@@ -462,114 +789,201 @@ h3 {
 }
 
 .faq {
-  border-top: 1px solid var(--hairline);
+  border-top: var(--edge) solid var(--ink);
+  margin-top: 8px;
 }
 
 .faq > div {
-  border-bottom: 1px solid var(--hairline);
+  border-bottom: 1px solid var(--celeste-soft);
   padding: 24px 0;
 }
 
 .faq h3 {
-  margin-bottom: 8px;
+  margin-top: 0;
 }
 
 .faq p {
   margin: 0;
-  color: var(--ink-secondary);
-  font-size: 16px;
 }
 
-/* ---------------------------------------------------------------- footer */
+.doc-art {
+  display: block;
+  width: 100%;
+  max-width: 420px;
+  margin: 32px auto 0;
+}
+
+/* ----------------------------------------------------------------- footer */
 
 .site-footer {
-  border-top: 1px solid var(--hairline);
-  margin-top: 48px;
-  padding: 40px 0 56px;
-  font-size: 15px;
-  color: var(--ink-muted);
+  background: var(--ink);
+  color: var(--celeste-soft);
+  padding-top: 44px;
+  padding-bottom: 56px;
 }
 
 .site-footer .links {
   display: flex;
-  gap: 22px;
+  gap: 10px;
   flex-wrap: wrap;
-  margin-bottom: 18px;
+  margin-bottom: 22px;
 }
 
 .site-footer a {
-  color: var(--ink-secondary);
+  font-family: var(--title);
+  font-weight: 600;
+  font-size: 12.5px;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--celeste-soft);
   text-decoration: none;
+  padding: 7px 12px;
+  border: var(--edge) solid rgba(220, 235, 248, 0.28);
+  border-radius: 999px;
 }
 
 .site-footer a:hover {
-  color: var(--celeste-ink);
+  color: var(--ink);
+  background: var(--butter);
+  border-color: var(--butter);
 }
 
 .site-footer .tagline {
   margin: 0;
+  font-size: 14.5px;
+  color: #9db4c8;
 }
 
-/* Dark mode exists because the OS toggle exists and a site that ignores it
-   reads as broken. Steps chosen for the dark surface, not flipped from light. */
+/* ------------------------------------------------------------ adaptations */
+
+@media (max-width: 720px) {
+  .hero {
+    padding-top: 44px;
+  }
+
+  .band {
+    padding-top: 52px;
+    padding-bottom: 52px;
+  }
+
+  .claim {
+    padding: 26px 22px;
+  }
+
+  .hero-sun {
+    bottom: 24%;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+    animation: none !important;
+  }
+}
+
+/*
+ * Dark mode.
+ *
+ * The illustrations are line art outlined in navy on transparency, so they
+ * disappear on a dark ground. Everything that carries artwork therefore keeps a
+ * light plate underneath in both modes — the hero band stays butter, and the
+ * dish photographs bring their own light. Only the chrome inverts.
+ */
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0f1720;
-    --surface: #17222d;
-    --surface-sunken: #1d2a36;
-    --surface-tinted: #1b2a3a;
-    --surface-warm: #2a2517;
-    --hairline: #2a3947;
-
     --ink: #eef5fa;
-    --ink-secondary: #adbecd;
-    --ink-muted: #7e909e;
+    --ink-2: #b3c4d2;
+    --ink-3: #8fa3b4;
 
-    --celeste: #74acdf;
+    --paper: #17222d;
+    --daylight: #0f1720;
+    --sunken: #1d2a36;
+
     --celeste-soft: #24384a;
     --celeste-ink: #93c4ec;
-    --butter: #3a3117;
-    --sun: #f6b40e;
+    --shadow: var(--drop) var(--drop) 0 #000000;
+  }
+
+  /* Artwork surfaces keep their light ground, and their ink outline with it. */
+  .hero,
+  .claim,
+  .callout,
+  .site-header {
+    background: var(--butter);
+    color: #16232e;
+    border-color: #16232e;
+  }
+
+  .hero h1,
+  .claim h2,
+  .claim p,
+  .callout p,
+  .callout strong,
+  .brand span,
+  .brand,
+  .site-nav a {
+    color: #16232e;
+  }
+
+  .hero .lede,
+  .hero .note {
+    color: #3d4f5e;
+  }
+
+  .hero-horizon,
+  .hero-sun {
+    border-color: #16232e;
+  }
+
+  .hero-horizon {
+    background: #16232e;
+  }
+
+  .hero-sun {
+    background: var(--sun);
+  }
+
+  .brand img,
+  .eyebrow {
+    border-color: #16232e;
   }
 
   .eyebrow {
-    background: #3a3117;
-    color: #f0d68a;
+    background: #ffffff;
+    color: #16232e;
   }
 
-  .panel {
-    border-color: #4a4126;
+  .site-nav a:hover {
+    border-color: #16232e;
   }
 
-  .site-header {
-    background: rgba(15, 23, 32, 0.92);
+  .site-nav a[aria-current='page'] {
+    background: #16232e;
+    color: var(--butter);
+  }
+
+  .btn-primary,
+  .btn-secondary {
+    border-color: #16232e;
+    color: #16232e;
+    box-shadow: 4px 4px 0 #16232e;
+  }
+
+  .btn-secondary {
+    background: #ffffff;
+    box-shadow: none;
   }
 
   .btn-primary:hover {
-    background: #ffc42e;
-  }
-}
-
-@media (max-width: 620px) {
-  body {
-    font-size: 16.5px;
+    box-shadow: 2px 2px 0 #16232e;
   }
 
-  .hero {
-    padding: 56px 0 44px;
+  .callout a {
+    color: #1f5f95;
   }
 
-  section {
-    padding: 40px 0;
-  }
-
-  .panel,
-  .tinted {
-    padding: 26px 20px;
-  }
-
-  .site-header .wrap {
-    padding-top: 12px;
-    padding-bottom: 12px;
+  .site-footer {
+    background: #0a1119;
   }
 }
