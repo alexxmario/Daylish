@@ -1,0 +1,2995 @@
+{
+  "recipes": [
+    {
+      "title": "Japanese pork nikujaga, light",
+      "summary": "A lighter Japanese pork and potato braise with carrots, green beans and a savoury soy, rice-wine and ginger broth.",
+      "cuisine": "japanese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 48,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "cut into large chunks",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 220,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "green beans",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "cut into short pieces",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 50,
+          "displayQuantity": "3 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 40,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 10,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 650,
+          "displayQuantity": "2 3/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 10,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 15,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 30,
+          "displayQuantity": "4",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the pork loin, potato, onion, carrot, green beans, ginger and spring onions in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the soy sauce, rice wine, brown sugar and vegetable broth together.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the vegetable oil in a wide saucepan over medium-high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Brown the pork loin until lightly coloured at the edges.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and carrot until the onion begins to soften.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the potato to the saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour the soy and vegetable broth mixture over the pork and vegetables.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the covered nikujaga until the potato and carrot are nearly tender.",
+          "durationMinutes": 24,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Add the green beans and ginger to the braise.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer uncovered until the green beans are tender and the broth lightly coats the ingredients.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Finish the Japanese pork nikujaga with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the nikujaga so the savoury broth settles.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat gently until the pork and potatoes are steaming. Freeze for up to 2 months, though the potatoes will soften.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Japanese pork nikujaga",
+      "summary": "Japanese pork nikujaga with tender potatoes, carrots and green beans simmered in a gently sweet soy, rice-wine and ginger broth.",
+      "cuisine": "japanese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 26,
+      "cookMinutes": 52,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "cut into large chunks",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 250,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "green beans",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "cut into short pieces",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 60,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 50,
+          "displayQuantity": "3 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 16,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 750,
+          "displayQuantity": "3 cups plus 2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 16,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 18,
+          "displayQuantity": "2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 40,
+          "displayQuantity": "5",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the pork loin, potato, onion, carrot, green beans, ginger and spring onions in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the soy sauce, rice wine, brown sugar and vegetable broth together.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the vegetable oil in a wide saucepan over medium-high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Brown the pork loin until lightly coloured at the edges.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and carrot until the onion begins to soften.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the potato to the saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour the soy and vegetable broth mixture over the pork and vegetables.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the covered nikujaga until the potato and carrot are nearly tender.",
+          "durationMinutes": 26,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Add the green beans and ginger to the braise.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer uncovered until the green beans are tender and the broth becomes glossy.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Finish the Japanese pork nikujaga with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the nikujaga so the savoury broth settles.",
+          "durationMinutes": 6,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat gently until steaming. Freeze for up to 2 months; the potatoes may become softer after thawing.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Japanese pork nikujaga, hearty",
+      "summary": "A generous Japanese pork and potato braise with extra loin and vegetables in a rich soy, rice-wine, ginger and brown-sugar broth.",
+      "cuisine": "japanese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 29,
+      "cookMinutes": 59,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "grams": 950,
+          "displayQuantity": "950 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 950,
+          "displayQuantity": "950 g",
+          "preparation": "cut into large chunks",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 280,
+          "displayQuantity": "2 large",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 320,
+          "displayQuantity": "4 medium",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "green beans",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "cut into short pieces",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 75,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 65,
+          "displayQuantity": "1/4 cup plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 24,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 900,
+          "displayQuantity": "3 3/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 24,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 24,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 55,
+          "displayQuantity": "7",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the pork loin, potato, onion, carrot, green beans, ginger and spring onions in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the soy sauce, rice wine, brown sugar and vegetable broth together.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the vegetable oil in a wide saucepan over medium-high heat.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Brown the pork loin in batches until coloured at the edges.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and carrot until the onion begins to soften.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the potato to the saucepan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour the soy and vegetable broth mixture over the pork and vegetables.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the covered nikujaga until the potato and carrot are nearly tender.",
+          "durationMinutes": 28,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Add the green beans and ginger to the braise.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer uncovered until the green beans are tender and the broth becomes rich and glossy.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Finish the Japanese pork nikujaga with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the nikujaga so the savoury broth settles.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat gently until steaming. Freeze for up to 2 months; thaw overnight before reheating.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Korean beef patties with rice, light",
+      "summary": "Tender Korean-style beef patties glazed with soy, rice wine, ginger and sesame, served with cucumber and a modest portion of rice.",
+      "cuisine": "korean",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 29,
+      "cookMinutes": 40,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 180,
+          "displayQuantity": "1 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 400,
+          "displayQuantity": "2 medium",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 45,
+          "displayQuantity": "5 to 6",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 18,
+          "displayQuantity": "2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 50,
+          "displayQuantity": "3 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 35,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame seeds",
+          "grams": 12,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the cucumber, onion, spring onions, garlic and ginger in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Toast the sesame seeds in a dry frying pan until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the soy sauce, rice wine, brown sugar and sesame oil together.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Mix the ground beef with the onion, spring onions, garlic, ginger, half the soy mixture and half the sesame seeds.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Shape the ground beef mixture into eight flat oval patties.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the beef patties so they firm slightly.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Cook the first sides of the patties until deeply browned.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Turn the beef patties carefully.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Cook the second sides until the patties are nearly cooked through.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Brush the patties with the remaining soy mixture.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Cook until the glaze is glossy and the beef patties are fully cooked.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Finish the Korean beef patties with the remaining sesame seeds.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Serve the beef patties with the white rice and cucumber.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the patties and rice separately for up to 3 days. Reheat the patties gently in a covered pan. Freeze cooked patties for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Korean beef patties with rice",
+      "summary": "Korean-style glazed beef patties with onion, garlic, ginger and sesame, served with steamed rice and cool sliced cucumber.",
+      "cuisine": "korean",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 32,
+      "cookMinutes": 45,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 260,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 350,
+          "displayQuantity": "1 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 55,
+          "displayQuantity": "7",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 22,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 60,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 45,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 16,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame seeds",
+          "grams": 18,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the cucumber, onion, spring onions, garlic and ginger in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Toast the sesame seeds in a dry frying pan until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the soy sauce, rice wine, brown sugar and sesame oil together.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Mix the ground beef with the onion, spring onions, garlic, ginger, half the soy mixture and half the sesame seeds.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Shape the ground beef mixture into eight flat oval patties.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the beef patties so they firm slightly.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Cook the first sides of the patties until deeply browned.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Turn the beef patties carefully.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Cook the second sides until the patties are nearly cooked through.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Brush the patties with the remaining soy mixture.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Cook until the glaze is glossy and the beef patties are fully cooked.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Finish the Korean beef patties with the remaining sesame seeds.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Serve the beef patties with the white rice and cucumber.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the patties and rice separately for up to 3 days. Reheat gently in a covered pan. Freeze cooked patties for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Korean beef patties with rice, hearty",
+      "summary": "A generous Korean dinner of extra glazed beef patties and rice with cucumber, spring onions and toasted sesame seeds.",
+      "cuisine": "korean",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 36,
+      "cookMinutes": 52,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 1050,
+          "displayQuantity": "1.05 kg",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 360,
+          "displayQuantity": "2 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 400,
+          "displayQuantity": "2 medium",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 70,
+          "displayQuantity": "9",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 24,
+          "displayQuantity": "8 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 28,
+          "displayQuantity": "3 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 75,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 60,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 26,
+          "displayQuantity": "2 tbsp plus 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 24,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame seeds",
+          "grams": 26,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the cucumber, onion, spring onions, garlic and ginger in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Toast the sesame seeds in a dry frying pan until fragrant.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the soy sauce, rice wine, brown sugar and sesame oil together.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Mix the ground beef with the onion, spring onions, garlic, ginger, half the soy mixture and half the sesame seeds.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Shape the ground beef mixture into twelve flat oval patties.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the beef patties so they firm slightly.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Cook the first sides of the patties in batches until deeply browned.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Turn the beef patties carefully.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Cook the second sides until the patties are nearly cooked through.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Brush the patties with the remaining soy mixture.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Cook until the glaze is glossy and the beef patties are fully cooked.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Finish the Korean beef patties with the remaining sesame seeds.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Serve the beef patties generously with the white rice and cucumber.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the patties and rice separately for up to 3 days. Reheat gently in a covered pan. Freeze cooked patties for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Thai chicken pad see ew, light",
+      "summary": "A lighter Thai stir-fry of rice noodles, chicken, eggs, broccoli and mushrooms in a savoury soy and fish-sauce glaze.",
+      "cuisine": "thai",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 30,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "rice noodles",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "broccoli",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "cut into small florets",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 40,
+          "displayQuantity": "5",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 55,
+          "displayQuantity": "3 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "fish sauce",
+          "grams": 24,
+          "displayQuantity": "1 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 10,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, broccoli, mushrooms, spring onions and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the soy sauce, fish sauce and brown sugar together.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the rice noodles until flexible but still slightly firm.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Rinse the rice noodles briefly under cool water and drain them thoroughly.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat half the vegetable oil in a large wok or frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Brown the chicken thigh until nearly cooked through.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Transfer the chicken thigh to a clean plate.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Heat the remaining vegetable oil in the pan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Cook the broccoli and mushrooms until tender and lightly browned.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Stir the garlic into the vegetables until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Push the vegetables to the side of the pan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Scramble the eggs in the cleared space until softly set.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Return the chicken thigh to the pan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Add the rice noodles to the chicken and vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Pour the soy and fish sauce mixture over the noodles.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Toss the pad see ew until the noodles are glossy and the chicken is fully cooked.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 17,
+          "instruction": "Finish the Thai chicken pad see ew with the spring onions.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best eaten freshly cooked. Refrigerate for up to 2 days and reheat quickly in a hot pan with a splash of water. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Thai chicken pad see ew",
+      "summary": "Thai chicken pad see ew with chewy rice noodles, eggs, broccoli and mushrooms in a glossy soy, fish-sauce and garlic glaze.",
+      "cuisine": "thai",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 32,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "rice noodles",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "broccoli",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": "cut into small florets",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 50,
+          "displayQuantity": "6",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 65,
+          "displayQuantity": "1/4 cup plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "fish sauce",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 16,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 26,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, broccoli, mushrooms, spring onions and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the soy sauce, fish sauce and brown sugar together.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the rice noodles until flexible but still slightly firm.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Rinse the rice noodles briefly under cool water and drain them thoroughly.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat half the vegetable oil in a large wok or frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Brown the chicken thigh until nearly cooked through.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Transfer the chicken thigh to a clean plate.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Heat the remaining vegetable oil in the pan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Cook the broccoli and mushrooms until tender and lightly browned.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Stir the garlic into the vegetables until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Push the vegetables to the side of the pan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Scramble the eggs in the cleared space until softly set.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Return the chicken thigh to the pan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Add the rice noodles to the chicken and vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Pour the soy and fish sauce mixture over the noodles.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Toss the pad see ew until the noodles are glossy and the chicken is fully cooked.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 17,
+          "instruction": "Finish the Thai chicken pad see ew with the spring onions.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served immediately. Refrigerate for up to 2 days and reheat quickly in a hot pan with a splash of water. Do not freeze.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Thai chicken pad see ew, hearty",
+      "summary": "A generous Thai noodle dinner with extra chicken, rice noodles and eggs, plus broccoli and mushrooms in a rich savoury-sweet glaze.",
+      "cuisine": "thai",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 27,
+      "cookMinutes": 36,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "rice noodles",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 1050,
+          "displayQuantity": "1.05 kg",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 250,
+          "displayQuantity": "5 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "broccoli",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": "cut into small florets",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 65,
+          "displayQuantity": "8",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 24,
+          "displayQuantity": "8 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 80,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "fish sauce",
+          "grams": 40,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 24,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 36,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, broccoli, mushrooms, spring onions and garlic in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the soy sauce, fish sauce and brown sugar together.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the rice noodles until flexible but still slightly firm.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Rinse the rice noodles briefly under cool water and drain them thoroughly.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat half the vegetable oil in a large wok or frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Brown the chicken thigh in batches until nearly cooked through.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Transfer the chicken thigh to a clean plate.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Heat the remaining vegetable oil in the pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Cook the broccoli and mushrooms until tender and lightly browned.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Stir the garlic into the vegetables until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Push the vegetables to the side of the pan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Scramble the eggs in the cleared space until softly set.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Return the chicken thigh to the pan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Add the rice noodles to the chicken and vegetables.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Pour the soy and fish sauce mixture over the noodles.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Toss the pad see ew until the noodles are glossy and the chicken is fully cooked.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 17,
+          "instruction": "Finish the Thai chicken pad see ew with the spring onions.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best eaten immediately. Refrigerate for up to 2 days and reheat quickly in a hot pan with a splash of water. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Turkish meatballs and potatoes, light",
+      "summary": "A lighter Turkish tray of cumin-spiced beef meatballs, potatoes and peppers baked in a rich tomato sauce.",
+      "cuisine": "turkish",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 59,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop",
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "cut into thick wedges",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 350,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 40,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 60,
+          "displayQuantity": "2 slices",
+          "preparation": "torn",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 250,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, bell pepper, onion, garlic and bread in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Pulse the bread in a food processor until coarse crumbs form.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Mix the ground beef, onion, garlic, bread crumbs, eggs, cumin, paprika and half the salt.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Shape the ground beef mixture into small oval meatballs.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Coat the potato and bell pepper with the olive oil and remaining salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Roast the potato and bell pepper until lightly browned and nearly tender.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the tomatoes, canned, tomato paste and vegetable broth into a smooth sauce.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Arrange the meatballs between the roasted potato and bell pepper.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Pour the tomato sauce evenly over the meatballs and vegetables.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Bake until the meatballs are cooked through and the sauce is bubbling.",
+          "durationMinutes": 25,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the Turkish meatballs and potatoes so the sauce settles.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat covered until steaming. Freeze the cooked meatballs, potatoes and sauce for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Turkish meatballs and potatoes",
+      "summary": "Turkish-style beef meatballs and golden potatoes baked with peppers in a savoury cumin, paprika and tomato sauce.",
+      "cuisine": "turkish",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 32,
+      "cookMinutes": 64,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop",
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 850,
+          "displayQuantity": "850 g",
+          "preparation": "cut into thick wedges",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 320,
+          "displayQuantity": "2 large",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 550,
+          "displayQuantity": "2 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 50,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 90,
+          "displayQuantity": "3 slices",
+          "preparation": "torn",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 28,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 300,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, bell pepper, onion, garlic and bread in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Pulse the bread in a food processor until coarse crumbs form.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Mix the ground beef, onion, garlic, bread crumbs, eggs, cumin, paprika and half the salt.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Shape the ground beef mixture into small oval meatballs.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Coat the potato and bell pepper with the olive oil and remaining salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Roast the potato and bell pepper until lightly browned and nearly tender.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the tomatoes, canned, tomato paste and vegetable broth into a smooth sauce.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Arrange the meatballs between the roasted potato and bell pepper.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Pour the tomato sauce evenly over the meatballs and vegetables.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Bake until the meatballs are cooked through and the sauce is bubbling.",
+          "durationMinutes": 28,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the Turkish meatballs and potatoes so the sauce settles.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat covered until steaming. Freeze the cooked meatballs, potatoes and sauce for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Turkish meatballs and potatoes, hearty",
+      "summary": "A generous Turkish traybake with extra beef meatballs and potatoes in a rich tomato, pepper, cumin and paprika sauce.",
+      "cuisine": "turkish",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 36,
+      "cookMinutes": 76,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop",
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 1000,
+          "displayQuantity": "1 kg",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 1150,
+          "displayQuantity": "1.15 kg",
+          "preparation": "cut into thick wedges",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 400,
+          "displayQuantity": "3 large",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 700,
+          "displayQuantity": "3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 65,
+          "displayQuantity": "1/4 cup plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 260,
+          "displayQuantity": "2 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 24,
+          "displayQuantity": "8 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 130,
+          "displayQuantity": "4 thick slices",
+          "preparation": "torn",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 40,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 10,
+          "displayQuantity": "1 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 10,
+          "displayQuantity": "1 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 400,
+          "displayQuantity": "1 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 10,
+          "displayQuantity": "1 2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, bell pepper, onion, garlic and bread in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Pulse the bread in a food processor until coarse crumbs form.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Mix the ground beef, onion, garlic, bread crumbs, eggs, cumin, paprika and half the salt.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Shape the ground beef mixture into generous oval meatballs.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Coat the potato and bell pepper with the olive oil and remaining salt.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Roast the potato and bell pepper until golden and nearly tender.",
+          "durationMinutes": 25,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the tomatoes, canned, tomato paste and vegetable broth into a smooth sauce.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Arrange the meatballs between the roasted potato and bell pepper.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Pour the tomato sauce evenly over the meatballs and vegetables.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Bake until the meatballs are cooked through and the sauce is bubbling richly.",
+          "durationMinutes": 32,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the Turkish meatballs and potatoes so the sauce settles.",
+          "durationMinutes": 6,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat covered until steaming. Freeze the cooked meatballs, potatoes and sauce for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Vietnamese grilled pork noodle bowls, light",
+      "summary": "A lighter Vietnamese noodle bowl with grilled pork loin, a little pork belly, crisp vegetables and a bright fish-sauce and lime dressing.",
+      "cuisine": "vietnamese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 34,
+      "cookMinutes": 34,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "grill"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "pork belly",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "rice noodles",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 350,
+          "displayQuantity": "1 large",
+          "preparation": "cut into thin batons",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 250,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into thin matchsticks",
+          "optional": false
+        },
+        {
+          "name": "bean sprouts",
+          "grams": 300,
+          "displayQuantity": "4 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 45,
+          "displayQuantity": "5 to 6",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "3/4 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "fish sauce",
+          "grams": 45,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 100,
+          "displayQuantity": "2 large",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 16,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the pork loin, pork belly, cucumber, carrot, bean sprouts, spring onions, cilantro and garlic in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the fish sauce, lime, brown sugar, garlic and vegetable oil into a dressing.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the pork loin and pork belly with one third of the dressing.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Marinate the pork loin and pork belly in the refrigerator.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the rice noodles until tender but still springy.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Rinse the rice noodles under cold water and drain them thoroughly.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Heat the grill until very hot.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Grill the pork loin until browned and cooked through.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Grill the pork belly until browned and lightly crisp at the edges.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the grilled pork so the juices settle.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Divide the rice noodles between serving bowls.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Arrange the cucumber, carrot and bean sprouts over the noodles.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Top the bowls with the pork loin and pork belly.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Finish the Vietnamese grilled pork noodle bowls with the spring onions and cilantro.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Spoon the remaining fish sauce dressing over the bowls.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled fresh. Refrigerate the pork, noodles, vegetables and dressing separately for up to 2 days. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Vietnamese grilled pork noodle bowls",
+      "summary": "Vietnamese-style rice noodle bowls with grilled pork loin and pork belly, crisp vegetables, herbs and a savoury lime and fish-sauce dressing.",
+      "cuisine": "vietnamese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 37,
+      "cookMinutes": 38,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "grill"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "pork belly",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "rice noodles",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 320,
+          "displayQuantity": "1 large",
+          "preparation": "cut into thin batons",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 250,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into thin matchsticks",
+          "optional": false
+        },
+        {
+          "name": "bean sprouts",
+          "grams": 280,
+          "displayQuantity": "4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 55,
+          "displayQuantity": "7",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 35,
+          "displayQuantity": "1 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "fish sauce",
+          "grams": 55,
+          "displayQuantity": "3 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 120,
+          "displayQuantity": "3",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 22,
+          "displayQuantity": "1 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the pork loin, pork belly, cucumber, carrot, bean sprouts, spring onions, cilantro and garlic in their listed forms.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the fish sauce, lime, brown sugar, garlic and vegetable oil into a dressing.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the pork loin and pork belly with one third of the dressing.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Marinate the pork loin and pork belly in the refrigerator.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the rice noodles until tender but still springy.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Rinse the rice noodles under cold water and drain them thoroughly.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Heat the grill until very hot.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Grill the pork loin until browned and cooked through.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Grill the pork belly until browned and lightly crisp at the edges.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the grilled pork so the juices settle.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Divide the rice noodles between serving bowls.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Arrange the cucumber, carrot and bean sprouts over the noodles.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Top the bowls with the pork loin and pork belly.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Finish the Vietnamese grilled pork noodle bowls with the spring onions and cilantro.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Spoon the remaining fish sauce dressing over the bowls.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled just before serving. Refrigerate the pork, noodles, vegetables and dressing separately for up to 2 days. Do not freeze.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Vietnamese grilled pork noodle bowls, hearty",
+      "summary": "A generous Vietnamese dinner with extra grilled pork loin, pork belly and rice noodles, plus crisp vegetables and a bold fish-sauce dressing.",
+      "cuisine": "vietnamese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 42,
+      "cookMinutes": 45,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "grill"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "pork belly",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "rice noodles",
+          "grams": 380,
+          "displayQuantity": "380 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 400,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into thin batons",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 300,
+          "displayQuantity": "4 medium",
+          "preparation": "cut into thin matchsticks",
+          "optional": false
+        },
+        {
+          "name": "bean sprouts",
+          "grams": 350,
+          "displayQuantity": "5 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 70,
+          "displayQuantity": "9",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 45,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "fish sauce",
+          "grams": 70,
+          "displayQuantity": "1/4 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 150,
+          "displayQuantity": "3 large",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 30,
+          "displayQuantity": "2 tbsp plus 1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 28,
+          "displayQuantity": "9 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 28,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the pork loin, pork belly, cucumber, carrot, bean sprouts, spring onions, cilantro and garlic in their listed forms.",
+          "durationMinutes": 11,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the fish sauce, lime, brown sugar, garlic and vegetable oil into a dressing.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the pork loin and pork belly with one third of the dressing.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Marinate the pork loin and pork belly in the refrigerator.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the rice noodles until tender but still springy.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Rinse the rice noodles under cold water and drain them thoroughly.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Heat the grill until very hot.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Grill the pork loin in batches until browned and cooked through.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Grill the pork belly until browned and crisp at the edges.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the grilled pork so the juices settle.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Divide the rice noodles between serving bowls.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Arrange the cucumber, carrot and bean sprouts over the noodles.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Top the bowls generously with the pork loin and pork belly.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Finish the Vietnamese grilled pork noodle bowls with the spring onions and cilantro.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Spoon the remaining fish sauce dressing over the bowls.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled fresh. Refrigerate the pork, noodles, vegetables and dressing separately for up to 2 days. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    }
+  ]
+}

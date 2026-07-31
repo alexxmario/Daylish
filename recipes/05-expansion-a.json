@@ -1,0 +1,1833 @@
+{
+  "recipes": [
+    {
+      "title": "Spaghetti bolognese, light",
+      "summary": "A slow-simmered beef and tomato ragu bulked out with mushrooms and courgette, over a modest tangle of spaghetti.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 15,
+      "cookMinutes": 55,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 360,
+          "displayQuantity": "360 g lean mince",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spaghetti",
+          "grams": 200,
+          "displayQuantity": "200 g dried",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "1 x 400 g tin",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 150,
+          "displayQuantity": "150 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 150,
+          "displayQuantity": "1 medium",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 110,
+          "displayQuantity": "1 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 80,
+          "displayQuantity": "1 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 60,
+          "displayQuantity": "1 stick",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 9,
+          "displayQuantity": "3 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 7,
+          "displayQuantity": "1½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 200,
+          "displayQuantity": "200 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 15,
+          "displayQuantity": "2 tbsp",
+          "preparation": "grated",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Finely dice the onion, carrot and celery, chop the mushrooms small, and dice the courgette. Keeping the mushrooms fine matters here — they should melt into the sauce and read as meat rather than as vegetables.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Warm the olive oil in a wide pan over medium heat and cook the onion, carrot and celery until soft and translucent but not coloured, about 8 minutes. Stir in the garlic for the last minute, until it smells sweet rather than raw.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Turn the heat up, add the beef and break it apart with a wooden spoon. Cook until no pink remains and the base of the pan is browning, about 6 minutes. Add the mushrooms and courgette and cook until they release their liquid.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir in the tomato paste and cook for a minute so it darkens, then add the tinned tomatoes and beef stock. Season well and bring to a bare simmer.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Leave to simmer uncovered, stirring occasionally, until the sauce is thick and glossy and no longer watery at the edges. This is where the flavour comes from — do not rush it.",
+          "durationMinutes": 30,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the spaghetti in well-salted boiling water until al dente, then drain, saving a cupful of the water.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Toss the drained pasta through the sauce, loosening with a splash of the reserved water until it coats every strand. Serve with the parmesan grated over.",
+          "durationMinutes": 5,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps well and improves overnight. Cool quickly, refrigerate, and reheat gently with a splash of water. Freeze the sauce alone, not the pasta.",
+      "fridgeDays": 3,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Spaghetti bolognese",
+      "summary": "The proper thing: beef softened in milk, a long simmer with tomatoes and soffritto, and enough spaghetti to make it a real dinner.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 15,
+      "cookMinutes": 68,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 400,
+          "displayQuantity": "400 g mince",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spaghetti",
+          "grams": 320,
+          "displayQuantity": "320 g dried",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "1 x 400 g tin",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 110,
+          "displayQuantity": "1 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 80,
+          "displayQuantity": "1 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 60,
+          "displayQuantity": "1 stick",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 9,
+          "displayQuantity": "3 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 200,
+          "displayQuantity": "200 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 100,
+          "displayQuantity": "100 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 30,
+          "displayQuantity": "4 tbsp",
+          "preparation": "grated",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Finely dice the onion, carrot and celery. Keep the dice small and even — this is the base of the sauce and large pieces stay noticeable to the end.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Warm the olive oil in a heavy pan over medium heat and cook the onion, carrot and celery gently until soft, sweet and translucent, about 10 minutes. Add the garlic for the final minute.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Raise the heat, add the beef, and break it up as it cooks. Let it brown properly rather than steam — you want colour on the base of the pan, about 7 minutes.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Pour in the milk and simmer until it has almost entirely disappeared. This is the step people skip; it is what makes the meat tender rather than grainy.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the tomato paste and cook for a minute, then add the tinned tomatoes and beef stock. Season generously and bring to a bare simmer.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Simmer uncovered, stirring now and then, until thick, glossy and darkened, with oil beginning to separate at the edges.",
+          "durationMinutes": 35,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the spaghetti in well-salted boiling water until al dente. Drain, keeping a cupful of the cooking water.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Toss the pasta through the sauce over low heat, loosening with the reserved water until it clings. Finish with the grated parmesan.",
+          "durationMinutes": 5,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Better the next day. Cool quickly and refrigerate. The sauce freezes well on its own; cook fresh pasta to serve with it.",
+      "fridgeDays": 3,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Spaghetti bolognese, hearty",
+      "summary": "The same ragu built bigger, with pancetta for depth and a generous plate of spaghetti underneath.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 15,
+      "cookMinutes": 75,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 500,
+          "displayQuantity": "500 g mince",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cured pork",
+          "grams": 80,
+          "displayQuantity": "80 g",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "spaghetti",
+          "grams": 400,
+          "displayQuantity": "400 g dried",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "1 x 400 g tin",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 110,
+          "displayQuantity": "1 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 80,
+          "displayQuantity": "1 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 60,
+          "displayQuantity": "1 stick",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 9,
+          "displayQuantity": "3 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 20,
+          "displayQuantity": "1½ tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 40,
+          "displayQuantity": "2½ tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 250,
+          "displayQuantity": "250 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 100,
+          "displayQuantity": "100 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 40,
+          "displayQuantity": "5 tbsp",
+          "preparation": "grated",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Finely dice the onion, carrot and celery, and dice the cured pork small.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Render the cured pork in the olive oil over medium heat until the fat runs and the edges crisp, about 5 minutes.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the onion, carrot and celery and cook until soft and translucent, about 10 minutes, stirring in the garlic for the last minute.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Raise the heat, add the beef, and break it up. Brown it properly — you want real colour, about 8 minutes.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Pour in the milk and simmer until almost fully absorbed.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Stir in the tomato paste, cook for a minute, then add the tinned tomatoes and beef stock. Season and bring to a bare simmer.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer uncovered until thick, dark and glossy, with the fat starting to separate.",
+          "durationMinutes": 35,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the spaghetti in well-salted boiling water until al dente. Drain, reserving a cupful of the water.",
+          "durationMinutes": 11,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Toss the pasta through the sauce, loosening with the reserved water, and finish with the parmesan.",
+          "durationMinutes": 5,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps three days refrigerated and reheats well with a splash of water. Freeze the sauce alone for up to three months.",
+      "fridgeDays": 3,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Thai green chicken curry, light",
+      "summary": "Fragrant green curry loosened with broth instead of extra coconut milk, packed with greens and served over a modest scoop of rice.",
+      "cuisine": "thai",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 480,
+          "displayQuantity": "480 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "coconut milk",
+          "grams": 200,
+          "displayQuantity": "200 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken broth",
+          "grams": 200,
+          "displayQuantity": "200 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "green curry paste",
+          "grams": 50,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 180,
+          "displayQuantity": "180 g dried",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "green beans",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "trimmed",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 200,
+          "displayQuantity": "1 large",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 100,
+          "displayQuantity": "3 handfuls",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sauce, fish, ready-to-serve",
+          "grams": 20,
+          "displayQuantity": "1½ tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 7,
+          "displayQuantity": "1½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 30,
+          "displayQuantity": "1 lime",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 12,
+          "displayQuantity": "a large handful",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice until the water runs clear, then set it to cook by your usual method.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the vegetable oil in a wide pan and fry the green curry paste over medium heat until it darkens and smells strongly aromatic, about 2 minutes. This step is what separates a good curry from a flat one.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the sliced chicken and turn it through the paste until the outsides are opaque, about 5 minutes.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Pour in the coconut milk and chicken broth, bring to a gentle simmer, and cook until the chicken is cooked through, about 8 minutes.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the green beans and courgette and simmer until just tender but still with bite, about 6 minutes.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Stir through the spinach until it wilts, then season with the fish sauce, brown sugar and lime juice. Taste and adjust — it should be salty, sour and faintly sweet all at once.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Let the rice steam undisturbed while the curry settles off the heat.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Tear the basil over the curry and serve with the rice.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best eaten fresh, as the vegetables soften on reheating. Keeps two days refrigerated. Do not freeze — the coconut milk splits.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Thai green chicken curry",
+      "summary": "Chicken simmered in coconut milk with green curry paste, green beans and bamboo, finished with lime and basil over jasmine rice.",
+      "cuisine": "thai",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 15,
+      "cookMinutes": 30,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "coconut milk",
+          "grams": 400,
+          "displayQuantity": "1 x 400 ml tin",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "green curry paste",
+          "grams": 60,
+          "displayQuantity": "3½ tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 300,
+          "displayQuantity": "300 g dried",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "green beans",
+          "grams": 150,
+          "displayQuantity": "150 g",
+          "preparation": "trimmed",
+          "optional": false
+        },
+        {
+          "name": "bamboo shoots",
+          "grams": 100,
+          "displayQuantity": "100 g drained",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sauce, fish, ready-to-serve",
+          "grams": 20,
+          "displayQuantity": "1½ tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 8,
+          "displayQuantity": "1½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 30,
+          "displayQuantity": "1 lime",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 15,
+          "displayQuantity": "a large handful",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice until the water runs clear and set it to cook.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Spoon the thick cream from the top of the coconut milk tin into a wide pan with the vegetable oil. Fry the green curry paste in it over medium heat until it darkens and the oil separates, about 3 minutes.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the sliced chicken and turn it through the paste until the surfaces turn opaque, about 5 minutes.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Pour in the remaining coconut milk, bring to a gentle simmer and cook until the chicken is cooked through, about 8 minutes. Keep it below a rolling boil or the sauce will split.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the green beans and bamboo shoots and simmer until the beans are tender with a little bite left, about 6 minutes.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Season with the fish sauce, brown sugar and lime juice, then taste. It should land salty, sour and faintly sweet together.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Let the rice steam undisturbed while the curry rests off the heat.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Tear the basil over the top and serve with the rice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps two days refrigerated and reheats gently over low heat. Not suitable for freezing — coconut milk separates when thawed.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Thai green chicken curry, hearty",
+      "summary": "A bigger bowl of green curry with more chicken, cashews for richness and a full plate of jasmine rice.",
+      "cuisine": "thai",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 15,
+      "cookMinutes": 32,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "dairy_free",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "coconut milk",
+          "grams": 400,
+          "displayQuantity": "1 x 400 ml tin",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "green curry paste",
+          "grams": 70,
+          "displayQuantity": "4 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 400,
+          "displayQuantity": "400 g dried",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "green beans",
+          "grams": 150,
+          "displayQuantity": "150 g",
+          "preparation": "trimmed",
+          "optional": false
+        },
+        {
+          "name": "bamboo shoots",
+          "grams": 100,
+          "displayQuantity": "100 g drained",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cashew nuts",
+          "grams": 50,
+          "displayQuantity": "50 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sauce, fish, ready-to-serve",
+          "grams": 24,
+          "displayQuantity": "1¾ tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 20,
+          "displayQuantity": "1½ tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 30,
+          "displayQuantity": "1 lime",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 15,
+          "displayQuantity": "a large handful",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice until the water runs clear and set it to cook.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Toast the cashews in a dry pan over medium heat until golden and fragrant, then tip them out and set aside.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Spoon the thick coconut cream into the pan with the vegetable oil and fry the green curry paste until it darkens and the oil separates, about 3 minutes.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the chicken thigh and turn it through the paste until the surfaces are opaque, about 6 minutes.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Pour in the remaining coconut milk and simmer gently until the chicken is cooked through and tender, about 10 minutes.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the green beans and bamboo shoots and simmer until the beans are just tender, about 6 minutes.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Season with the fish sauce, brown sugar and lime juice and taste to balance.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Let the rice steam undisturbed while the curry rests.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Scatter over the toasted cashews, tear the basil on top, and serve with the rice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps two days refrigerated. Add the cashews fresh on reheating so they stay crisp. Not suitable for freezing.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Teriyaki salmon rice bowl, light",
+      "summary": "Glazed salmon over rice with a generous pile of steamed broccoli and cucumber, using just enough glaze to lacquer the fish.",
+      "cuisine": "japanese",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 10,
+      "cookMinutes": 20,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "pescatarian",
+        "dairy_free",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "salmon",
+          "grams": 280,
+          "displayQuantity": "2 fillets",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 100,
+          "displayQuantity": "100 g dried",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "broccoli",
+          "grams": 250,
+          "displayQuantity": "1 small head",
+          "preparation": "cut into florets",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 120,
+          "displayQuantity": "½ cucumber",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 24,
+          "displayQuantity": "1½ tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 20,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": "grated",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 6,
+          "displayQuantity": "2 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 5,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame seeds",
+          "grams": 6,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 20,
+          "displayQuantity": "2",
+          "preparation": "sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the rice until the water runs clear and set it to cook.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir together the soy sauce, rice wine, brown sugar, grated ginger and minced garlic to make the glaze.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Steam the broccoli florets until bright green and just tender to the point of a knife, about 5 minutes. Slice the cucumber while it steams.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the sesame oil in a non-stick pan over medium-high heat and cook the salmon skin-side down until the skin is crisp, about 4 minutes, then turn.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Pour the glaze into the pan and spoon it over the fish as it bubbles and thickens, about 3 minutes, until the salmon is just opaque at the centre and lacquered.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Let the rice steam undisturbed off the heat.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Fluff the rice into bowls, top with the salmon, broccoli and cucumber, spoon over the pan glaze and scatter with sesame seeds and spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best eaten fresh. Keeps one day refrigerated and is good cold the next day. Do not freeze.",
+      "fridgeDays": 1,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Teriyaki salmon rice bowl",
+      "summary": "Salmon glazed in soy, mirin and ginger until lacquered, served over rice with steamed broccoli and sesame.",
+      "cuisine": "japanese",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 10,
+      "cookMinutes": 20,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "pescatarian",
+        "dairy_free",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "salmon",
+          "grams": 300,
+          "displayQuantity": "2 fillets",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 150,
+          "displayQuantity": "150 g dried",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "broccoli",
+          "grams": 200,
+          "displayQuantity": "1 small head",
+          "preparation": "cut into florets",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 20,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 12,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": "grated",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 6,
+          "displayQuantity": "2 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame seeds",
+          "grams": 6,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 20,
+          "displayQuantity": "2",
+          "preparation": "sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the rice until the water runs clear and set it to cook.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir together the soy sauce, rice wine, brown sugar, grated ginger and minced garlic to make the glaze.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Steam the broccoli florets until bright green and just tender, about 5 minutes.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the sesame oil in a non-stick pan over medium-high heat and cook the salmon skin-side down until the skin crisps and releases from the pan, about 4 minutes, then turn it over.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Pour in the glaze and spoon it over the salmon as it bubbles and thickens to a syrup, about 3 minutes. The fish is ready when it flakes at the thickest point but is still faintly translucent at the very centre.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Let the rice steam undisturbed off the heat.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Fluff the rice into bowls, top with salmon and broccoli, pour over the remaining pan glaze, and finish with sesame seeds and spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best eaten fresh while the skin is crisp. Keeps one day refrigerated and eats well cold. Do not freeze.",
+      "fridgeDays": 1,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Teriyaki salmon rice bowl, hearty",
+      "summary": "A larger fillet, a fuller bowl of rice and a soft-boiled egg alongside — the same glazed salmon, built for a bigger appetite.",
+      "cuisine": "japanese",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 10,
+      "cookMinutes": 24,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "pescatarian",
+        "dairy_free",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "salmon",
+          "grams": 400,
+          "displayQuantity": "2 large fillets",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 220,
+          "displayQuantity": "220 g dried",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "broccoli",
+          "grams": 200,
+          "displayQuantity": "1 small head",
+          "preparation": "cut into florets",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 36,
+          "displayQuantity": "2½ tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 30,
+          "displayQuantity": "1½ tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 14,
+          "displayQuantity": "2½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": "grated",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 6,
+          "displayQuantity": "2 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame seeds",
+          "grams": 8,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 20,
+          "displayQuantity": "2",
+          "preparation": "sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the rice until the water runs clear and set it to cook.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Lower the eggs into boiling water and cook for 7 minutes for a just-set jammy yolk, then cool them under cold running water and peel.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Stir together the soy sauce, rice wine, brown sugar, grated ginger and minced garlic to make the glaze.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Steam the broccoli florets until bright green and just tender, about 5 minutes.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the sesame oil in a non-stick pan over medium-high heat and cook the salmon skin-side down until crisp, about 5 minutes, then turn.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the glaze and spoon it over the fish as it thickens, about 3 minutes, until the salmon is lacquered and just cooked through.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Let the rice steam undisturbed off the heat.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Fluff the rice into bowls, add the salmon, broccoli and halved eggs, spoon over the pan glaze and finish with sesame seeds and spring onions.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best eaten fresh. Keeps one day refrigerated; store the egg separately. Do not freeze.",
+      "fridgeDays": 1,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Hummus and vegetable plate, light",
+      "summary": "Smooth lemony hummus with a pile of raw vegetables for scooping and a small wedge of warm pita.",
+      "cuisine": "middle_eastern",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 2,
+      "prepMinutes": 15,
+      "cookMinutes": 0,
+      "difficulty": "easy",
+      "equipment": [
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "mediterranean",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chickpeas, canned",
+          "grams": 240,
+          "displayQuantity": "1 x 400 g tin, drained",
+          "preparation": "drained and rinsed",
+          "optional": false
+        },
+        {
+          "name": "tahini",
+          "grams": 40,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 6,
+          "displayQuantity": "2 cloves",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 2,
+          "displayQuantity": "½ tsp",
+          "preparation": "ground",
+          "optional": false
+        },
+        {
+          "name": "pita bread",
+          "grams": 60,
+          "displayQuantity": "1 pita",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 120,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into sticks",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 150,
+          "displayQuantity": "½ cucumber",
+          "preparation": "cut into sticks",
+          "optional": false
+        },
+        {
+          "name": "red bell pepper",
+          "grams": 120,
+          "displayQuantity": "1 medium",
+          "preparation": "sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Drain and rinse the chickpeas well. Rinsing matters — the starchy tinning liquid makes hummus taste dull.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Blend the chickpeas, tahini, lemon juice, garlic, olive oil and cumin in a food processor with a good pinch of salt, adding cold water a tablespoon at a time until it turns pale and smooth. It should be looser than you think — it firms up as it sits.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cut the carrot and cucumber into sticks and slice the pepper.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Warm the pita briefly and cut into wedges. Spread the hummus into a shallow bowl and serve with the vegetables and pita alongside.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "The hummus keeps four days refrigerated under a film of olive oil. Cut the vegetables fresh. Hummus freezes well for a month.",
+      "fridgeDays": 4,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Hummus and vegetable plate",
+      "summary": "Properly smooth hummus, rich with tahini and olive oil, served with crunchy raw vegetables and warm pita.",
+      "cuisine": "middle_eastern",
+      "mealSlots": [
+        "snack",
+        "lunch"
+      ],
+      "servings": 2,
+      "prepMinutes": 15,
+      "cookMinutes": 0,
+      "difficulty": "easy",
+      "equipment": [
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "mediterranean",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chickpeas, canned",
+          "grams": 240,
+          "displayQuantity": "1 x 400 g tin, drained",
+          "preparation": "drained and rinsed",
+          "optional": false
+        },
+        {
+          "name": "tahini",
+          "grams": 60,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 6,
+          "displayQuantity": "2 cloves",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 2,
+          "displayQuantity": "½ tsp",
+          "preparation": "ground",
+          "optional": false
+        },
+        {
+          "name": "pita bread",
+          "grams": 120,
+          "displayQuantity": "2 pitas",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 100,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into sticks",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 120,
+          "displayQuantity": "½ cucumber",
+          "preparation": "cut into sticks",
+          "optional": false
+        },
+        {
+          "name": "red bell pepper",
+          "grams": 100,
+          "displayQuantity": "1 medium",
+          "preparation": "sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Drain and rinse the chickpeas thoroughly, discarding the tinning liquid.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Blend the chickpeas, tahini, lemon juice, garlic, half the olive oil and the cumin with a good pinch of salt. Trickle in cold water a spoonful at a time and keep the machine running until the hummus turns visibly paler and completely smooth, about 3 minutes.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cut the carrot and cucumber into sticks and slice the pepper.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Warm the pitas and cut into wedges. Spread the hummus in a shallow bowl, make a hollow in the middle with the back of a spoon, pour the remaining olive oil into it and serve with the vegetables and pita.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps four days refrigerated under a film of olive oil, which stops the surface drying out. Freezes for a month; loosen with water after thawing.",
+      "fridgeDays": 4,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Hummus and vegetable plate, hearty",
+      "summary": "A full mezze plate: rich hummus topped with warm spiced chickpeas and toasted pine nuts, with plenty of pita and vegetables.",
+      "cuisine": "middle_eastern",
+      "mealSlots": [
+        "snack",
+        "lunch"
+      ],
+      "servings": 2,
+      "prepMinutes": 15,
+      "cookMinutes": 8,
+      "difficulty": "easy",
+      "equipment": [
+        "food_processor",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "mediterranean",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chickpeas, canned",
+          "grams": 360,
+          "displayQuantity": "1½ tins, drained",
+          "preparation": "drained and rinsed",
+          "optional": false
+        },
+        {
+          "name": "tahini",
+          "grams": 75,
+          "displayQuantity": "4 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 9,
+          "displayQuantity": "3 cloves",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 45,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 3,
+          "displayQuantity": "¾ tsp",
+          "preparation": "ground",
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 2,
+          "displayQuantity": "½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "pine nuts",
+          "grams": 30,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "pita bread",
+          "grams": 180,
+          "displayQuantity": "3 pitas",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 100,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into sticks",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 120,
+          "displayQuantity": "½ cucumber",
+          "preparation": "cut into sticks",
+          "optional": false
+        },
+        {
+          "name": "red bell pepper",
+          "grams": 100,
+          "displayQuantity": "1 medium",
+          "preparation": "sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Drain and rinse all the chickpeas, setting aside a third of them for the topping.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Blend the larger portion of chickpeas with the tahini, lemon juice, garlic, two thirds of the olive oil and the cumin, plus a good pinch of salt. Add cold water a spoonful at a time until pale and completely smooth.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Toast the pine nuts in a dry pan over medium heat until golden, watching closely as they catch quickly. Tip them out.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "In the same pan, warm the reserved chickpeas in the remaining olive oil with the paprika until hot and slightly blistered, about 4 minutes.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cut the carrot and cucumber into sticks and slice the pepper.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Warm the pitas and cut into wedges. Spread the hummus in a shallow bowl, pile the warm spiced chickpeas into the centre, scatter over the pine nuts, and serve with the vegetables and pita.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "The hummus base keeps four days refrigerated under olive oil. Warm the chickpea topping and toast the nuts fresh each time.",
+      "fridgeDays": 4,
+      "freezerMonths": 1
+    }
+  ]
+}

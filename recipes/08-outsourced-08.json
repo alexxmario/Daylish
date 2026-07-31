@@ -1,0 +1,2367 @@
+{
+  "recipes": [
+    {
+      "title": "Korean beef seaweed soup, light",
+      "summary": "A light version of Korean miyeok-guk with tender beef brisket, mineral-rich seaweed and a modest serving of rice. The broth stays deeply savoury with very little added fat.",
+      "cuisine": "korean",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 46,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "beef brisket",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "seaweed",
+          "grams": 35,
+          "displayQuantity": "35 g dried",
+          "preparation": "soaked and drained",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 160,
+          "displayQuantity": "3/4 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 1400,
+          "displayQuantity": "6 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 40,
+          "displayQuantity": "5",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Soak the seaweed in cold water until fully expanded and supple.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Drain the seaweed well and cut it into manageable pieces.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the sesame oil in a large pot and brown the beef brisket lightly around the edges.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the garlic and cook until fragrant without letting it colour.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir in the seaweed until it is evenly coated with the sesame oil and beef juices.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Pour in the beef stock and simmer gently until the brisket is tender and the broth tastes well developed.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Season the soup with the salt and finish each bowl with spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Serve the Korean beef seaweed soup with the white rice alongside.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the soup for up to 3 days and the rice separately for up to 3 days. Reheat until steaming. Freeze the soup without the spring onions for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Korean beef seaweed soup",
+      "summary": "Classic Korean miyeok-guk with sliced beef brisket, silky seaweed and garlic simmered in a clear, savoury broth. Steamed rice turns it into a comforting shared dinner.",
+      "cuisine": "korean",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 51,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "beef brisket",
+          "grams": 520,
+          "displayQuantity": "520 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "seaweed",
+          "grams": 40,
+          "displayQuantity": "40 g dried",
+          "preparation": "soaked and drained",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 220,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 1500,
+          "displayQuantity": "6 1/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 45,
+          "displayQuantity": "5 to 6",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Soak the seaweed in cold water until fully expanded and supple.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Drain the seaweed well and cut it into manageable pieces.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 17,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the sesame oil in a large pot and brown the beef brisket lightly around the edges.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the garlic and cook until fragrant without letting it colour.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir in the seaweed until it is coated with the sesame oil and savoury beef juices.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Pour in the beef stock and simmer gently until the brisket is tender and the broth is rich.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Season the soup with the salt and scatter over the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Serve the Korean beef seaweed soup with the white rice alongside.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the soup and rice separately for up to 3 days. Reheat the soup until steaming and loosen with water if needed. Freeze the soup for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Korean beef seaweed soup, hearty",
+      "summary": "A generous pot of Korean miyeok-guk with extra beef brisket, rice and sesame aroma. Long simmering leaves the seaweed silky and the broth deeply satisfying.",
+      "cuisine": "korean",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 57,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "beef brisket",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "seaweed",
+          "grams": 50,
+          "displayQuantity": "50 g dried",
+          "preparation": "soaked and drained",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 300,
+          "displayQuantity": "1 2/3 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 1700,
+          "displayQuantity": "7 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 26,
+          "displayQuantity": "8 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 55,
+          "displayQuantity": "7",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Soak the seaweed in cold water until fully expanded and supple.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Drain the seaweed well and cut it into manageable pieces.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the white rice until tender, then keep the larger batch covered so it finishes steaming evenly.",
+          "durationMinutes": 19,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the sesame oil in a large pot and brown the beef brisket in batches.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the garlic and cook until fragrant without letting it colour.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir in the seaweed until it is thoroughly coated with the sesame oil and beef juices.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Pour in the beef stock and simmer gently until the brisket is tender and the broth tastes deeply savoury.",
+          "durationMinutes": 25,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Season the soup with the salt and finish with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Serve the Korean beef seaweed soup with the white rice alongside.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the soup and rice separately for up to 3 days. Reheat thoroughly. Freeze the soup without the spring onions for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Scandinavian shrimp and egg open sandwiches, light",
+      "summary": "Open sandwiches topped with shrimp, boiled egg, cucumber and a cool dill yogurt spread. Thin bread and extra cucumber keep this high-protein Nordic snack fresh and light.",
+      "cuisine": "scandinavian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 2,
+      "prepMinutes": 16,
+      "cookMinutes": 9,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian"
+      ],
+      "ingredients": [
+        {
+          "name": "bread",
+          "grams": 80,
+          "displayQuantity": "4 thin slices",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "shrimp",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "cooked and peeled",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 80,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 220,
+          "displayQuantity": "1 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 3,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 20,
+          "displayQuantity": "2 to 3",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Boil the eggs until the whites are set and the yolks are firm but still tender.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Cool the eggs in cold water until comfortable to handle.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Slice the cucumber and spring onions while the eggs cool.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the greek yogurt with the dill weed and lemon juice until smooth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Peel and slice the eggs into neat rounds.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Spread the greek yogurt mixture evenly over the bread.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Layer the shrimp, eggs and cucumber over the bread.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Finish the open sandwiches with the spring onions and serve immediately.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled immediately. Refrigerate the shrimp, eggs and yogurt spread separately for up to 2 days. Once assembled, the bread softens quickly and should not be frozen.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Scandinavian shrimp and egg open sandwiches",
+      "summary": "Nordic-style open sandwiches with generous shrimp, sliced egg, cucumber and a tangy dill yogurt spread. They are cool, savoury and naturally high in protein.",
+      "cuisine": "scandinavian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 2,
+      "prepMinutes": 17,
+      "cookMinutes": 9,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian"
+      ],
+      "ingredients": [
+        {
+          "name": "bread",
+          "grams": 120,
+          "displayQuantity": "4 slices",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "shrimp",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": "cooked and peeled",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 100,
+          "displayQuantity": "1/3 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 180,
+          "displayQuantity": "1 small",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 4,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 22,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 25,
+          "displayQuantity": "3",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Boil the eggs until the whites are set and the yolks are tender.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Cool the eggs in cold water until comfortable to handle.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Slice the cucumber and spring onions while the eggs cool.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the greek yogurt with the dill weed and lemon juice until smooth and spoonable.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Peel and slice the eggs into neat rounds.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Spread the greek yogurt mixture evenly over the bread.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Layer the shrimp, eggs and cucumber generously over the bread.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Finish the open sandwiches with the spring onions and serve immediately.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep the components refrigerated separately for up to 2 days and assemble shortly before serving. The finished sandwiches do not freeze well.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Scandinavian shrimp and egg open sandwiches, hearty",
+      "summary": "Generous open sandwiches piled with shrimp, boiled egg and cucumber over creamy dill yogurt. Extra bread and protein make this a substantial Scandinavian snack for two.",
+      "cuisine": "scandinavian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 2,
+      "prepMinutes": 19,
+      "cookMinutes": 14,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian"
+      ],
+      "ingredients": [
+        {
+          "name": "bread",
+          "grams": 180,
+          "displayQuantity": "6 slices",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "shrimp",
+          "grams": 320,
+          "displayQuantity": "320 g",
+          "preparation": "cooked and peeled",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 130,
+          "displayQuantity": "1/2 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 200,
+          "displayQuantity": "1 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 5,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 28,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 30,
+          "displayQuantity": "4",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Boil the eggs until the whites and yolks are set to your liking.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Cool the eggs in cold water until comfortable to handle.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Slice the cucumber and spring onions while the eggs cool.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the greek yogurt with the dill weed and lemon juice until smooth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Peel and slice the eggs into neat rounds.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Spread the greek yogurt mixture evenly over all the bread.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Layer the shrimp, eggs and cucumber generously over the bread.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Finish the open sandwiches with the spring onions and serve immediately.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Store the bread separately and refrigerate the remaining components for up to 2 days. Assemble only what will be eaten immediately.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Thai mushroom khao tom, light",
+      "summary": "A light vegan Thai rice soup with mushrooms, tofu, ginger and garlic in a savoury broth. Extra vegetables and less rice keep the breakfast warming without making it heavy.",
+      "cuisine": "thai",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 14,
+      "cookMinutes": 28,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 80,
+          "displayQuantity": "1/3 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "tofu",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "cut into small cubes",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 220,
+          "displayQuantity": "3 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "shiitake mushrooms",
+          "grams": 120,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1000,
+          "displayQuantity": "4 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 18,
+          "displayQuantity": "2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 22,
+          "displayQuantity": "1 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 30,
+          "displayQuantity": "4",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 18,
+          "displayQuantity": "1/3 cup plus 1 tbsp",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 50,
+          "displayQuantity": "1 large",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 5,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Slice the mushrooms and shiitake mushrooms and prepare the tofu, ginger, garlic, spring onions, cilantro and lime.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the sesame oil in a deep saucepan and cook the ginger and garlic until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Pour in the vegetable broth and soy sauce and bring the liquid to a gentle boil.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the white rice and simmer until the grains are very soft and the broth looks lightly thickened.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Add the mushrooms, shiitake mushrooms and tofu and simmer until the mushrooms are tender and the tofu is hot.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Rest the khao tom off the heat so the rice settles into the broth.",
+          "durationMinutes": 2,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Divide the soup between bowls and finish with spring onions, cilantro and lime.",
+          "durationMinutes": 4,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat with extra vegetable broth because the rice thickens while stored. Freeze for up to 1 month, though the tofu will become slightly firmer.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Thai mushroom khao tom",
+      "summary": "Comforting Thai khao tom with soft rice, tofu and two kinds of mushrooms in a ginger-garlic broth. Soy sauce, herbs and lime give the vegan breakfast a bright savoury finish.",
+      "cuisine": "thai",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 14,
+      "cookMinutes": 30,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 110,
+          "displayQuantity": "1/2 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "tofu",
+          "grams": 260,
+          "displayQuantity": "260 g",
+          "preparation": "cut into small cubes",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 200,
+          "displayQuantity": "2 1/2 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "shiitake mushrooms",
+          "grams": 140,
+          "displayQuantity": "1 3/4 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1050,
+          "displayQuantity": "4 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 20,
+          "displayQuantity": "2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 28,
+          "displayQuantity": "1 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 35,
+          "displayQuantity": "4 to 5",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 20,
+          "displayQuantity": "1/2 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 60,
+          "displayQuantity": "1 1/2",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Slice the mushrooms and shiitake mushrooms and prepare the tofu, ginger, garlic, spring onions, cilantro and lime.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the sesame oil in a deep saucepan and cook the ginger and garlic until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Pour in the vegetable broth and soy sauce and bring the liquid to a gentle boil.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the white rice and simmer until the grains soften and begin to thicken the broth.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Add the mushrooms, shiitake mushrooms and tofu and simmer until tender and hot throughout.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Rest the khao tom off the heat so the rice absorbs more of the savoury broth.",
+          "durationMinutes": 2,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Divide the soup between bowls and finish with spring onions, cilantro and lime.",
+          "durationMinutes": 4,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and loosen with vegetable broth during reheating. Heat until steaming. Freeze for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Thai mushroom khao tom, hearty",
+      "summary": "A generous bowl of Thai rice soup with extra tofu, rice and mushrooms. Ginger, garlic, soy sauce, cilantro and lime keep the hearty vegan breakfast fresh and aromatic.",
+      "cuisine": "thai",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 16,
+      "cookMinutes": 33,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 150,
+          "displayQuantity": "3/4 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "tofu",
+          "grams": 360,
+          "displayQuantity": "360 g",
+          "preparation": "cut into small cubes",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 240,
+          "displayQuantity": "3 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "shiitake mushrooms",
+          "grams": 170,
+          "displayQuantity": "2 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1200,
+          "displayQuantity": "5 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 24,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 34,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 40,
+          "displayQuantity": "5",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 25,
+          "displayQuantity": "1/2 cup plus 2 tbsp",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 75,
+          "displayQuantity": "2 small",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Slice the mushrooms and shiitake mushrooms and prepare the tofu, ginger, garlic, spring onions, cilantro and lime.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the sesame oil in a large saucepan and cook the ginger and garlic until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Pour in the vegetable broth and soy sauce and bring the liquid to a gentle boil.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the white rice and simmer until the larger amount of rice is very soft and the broth becomes silky.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Add the mushrooms, shiitake mushrooms and tofu and simmer until the mushrooms are tender and the tofu is hot.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Rest the khao tom off the heat so the rice thickens the broth slightly.",
+          "durationMinutes": 2,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Divide the soup between large bowls and finish with spring onions, cilantro and lime.",
+          "durationMinutes": 4,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat with additional vegetable broth. Freeze for up to 1 month; the tofu texture will be firmer after thawing.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Turkish red lentil köfte, light",
+      "summary": "Soft Turkish red lentil and bulgur patties seasoned with tomato, cumin, paprika, spring onions and lemon. Less bulgur and oil keep this Mediterranean lunch light and fresh.",
+      "cuisine": "turkish",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 28,
+      "cookMinutes": 38,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "red lentils",
+          "grams": 240,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bulgur",
+          "grams": 100,
+          "displayQuantity": "1/2 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 700,
+          "displayQuantity": "3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 160,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 45,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 60,
+          "displayQuantity": "7",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "3/4 cup",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 40,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 500,
+          "displayQuantity": "2 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the red lentils until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Simmer the red lentils in the vegetable broth until collapsed and thick.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Stir the bulgur into the hot lentils, cover the pan and leave it to soften.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion in the olive oil until soft and translucent.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the tomato paste, cumin and paprika into the onion until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the onion mixture through the red lentils and bulgur until evenly coloured.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cool the lentil mixture until comfortable to handle.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Fold in the spring onions, cilantro and lemon juice.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Shape the mixture into small oval köfte with lightly damp hands.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Slice the cucumber and arrange it around the Turkish red lentil köfte.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and serve chilled or at room temperature. Store the cucumber separately. The köfte can be frozen for up to 1 month, though the herbs will soften.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Turkish red lentil köfte",
+      "summary": "Traditional-style Turkish red lentil and bulgur patties with tomato paste, warm spices, herbs and lemon. They are tender, savoury and ideal for a shared Mediterranean lunch.",
+      "cuisine": "turkish",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 40,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "red lentils",
+          "grams": 300,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bulgur",
+          "grams": 150,
+          "displayQuantity": "3/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 800,
+          "displayQuantity": "3 1/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 60,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 30,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 70,
+          "displayQuantity": "8",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 35,
+          "displayQuantity": "3/4 cup plus 2 tbsp",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 50,
+          "displayQuantity": "3 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 420,
+          "displayQuantity": "2 medium",
+          "preparation": "thinly sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the red lentils until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Simmer the red lentils in the vegetable broth until completely soft and thick.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Stir the bulgur into the hot lentils, cover the pan and leave it to soften.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion in the olive oil until soft and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the tomato paste, cumin and paprika into the onion until rich and fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the onion mixture through the red lentils and bulgur until evenly combined.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cool the lentil mixture until comfortable to handle.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Fold in the spring onions, cilantro and lemon juice.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Shape the mixture into small oval köfte with lightly damp hands.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Slice the cucumber and serve it with the Turkish red lentil köfte.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and serve cold or at room temperature. Keep cucumber separate. Freeze the köfte for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Turkish red lentil köfte, hearty",
+      "summary": "A generous platter of Turkish red lentil and bulgur köfte with extra lentils, bulgur and olive oil. Lemon and herbs keep the substantial Mediterranean lunch lively.",
+      "cuisine": "turkish",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 32,
+      "cookMinutes": 44,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "red lentils",
+          "grams": 380,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bulgur",
+          "grams": 220,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 950,
+          "displayQuantity": "4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 75,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 42,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 85,
+          "displayQuantity": "10",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 45,
+          "displayQuantity": "1 cup",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 8,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 8,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 65,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 500,
+          "displayQuantity": "2 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the red lentils until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Simmer the red lentils in the vegetable broth until completely soft and thick.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Stir the bulgur into the hot lentils, cover the pan and leave the larger batch to soften.",
+          "durationMinutes": 13,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion in the olive oil until completely soft and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the tomato paste, cumin and paprika into the onion until darkened and fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the onion mixture through the red lentils and bulgur until evenly combined.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cool the lentil mixture until comfortable to handle.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Fold in the spring onions, cilantro and lemon juice.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Shape the mixture into generous oval köfte with lightly damp hands.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Slice the cucumber and arrange it alongside the Turkish red lentil köfte.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and serve chilled or at room temperature. Keep cucumber separate for the best texture. Freeze the köfte for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Vietnamese lemongrass tofu noodle bowls, light",
+      "summary": "Rice noodles, crisp vegetables and golden tofu dressed with lemongrass, lime and soy sauce. Less noodles and oil keep the vegetarian dinner fresh while the tofu stays generous.",
+      "cuisine": "vietnamese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 22,
+      "cookMinutes": 18,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "rice noodles",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tofu",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "pressed and cut into cubes",
+          "optional": false
+        },
+        {
+          "name": "lemon grass",
+          "grams": 24,
+          "displayQuantity": "2 stalks",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 28,
+          "displayQuantity": "1 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 6,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 220,
+          "displayQuantity": "1 large",
+          "preparation": "cut into thin batons",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 180,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into thin matchsticks",
+          "optional": false
+        },
+        {
+          "name": "bean sprouts",
+          "grams": 220,
+          "displayQuantity": "3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 30,
+          "displayQuantity": "4",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 22,
+          "displayQuantity": "1/2 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 70,
+          "displayQuantity": "2 small",
+          "preparation": "cut into wedges",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the tofu, lemon grass, garlic, ginger, cucumber, carrot, spring onions, cilantro and lime.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the lemon grass, garlic, ginger, soy sauce, brown sugar and half the sesame oil together.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the tofu with the lemon grass mixture and leave it to absorb the seasoning.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the rice noodles until tender but still springy, then drain them thoroughly.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the remaining sesame oil in a wide non-stick frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the tofu until golden on several sides and fragrant with lemon grass.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Divide the rice noodles, cucumber, carrot and bean sprouts between bowls.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Top the bowls with the tofu, spring onions and cilantro.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Squeeze the lime over the Vietnamese lemon grass tofu noodle bowls before serving.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled fresh. Refrigerate the tofu and vegetables separately for up to 3 days and the noodles for up to 2 days. Reheat only the tofu; freezing is not recommended.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Vietnamese lemongrass tofu noodle bowls",
+      "summary": "Golden lemongrass tofu served over rice noodles with cucumber, carrot, bean sprouts, herbs and lime. The Vietnamese-style bowl is bright, savoury and completely vegetarian.",
+      "cuisine": "vietnamese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 22,
+      "cookMinutes": 20,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "rice noodles",
+          "grams": 170,
+          "displayQuantity": "170 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tofu",
+          "grams": 360,
+          "displayQuantity": "360 g",
+          "preparation": "pressed and cut into cubes",
+          "optional": false
+        },
+        {
+          "name": "lemon grass",
+          "grams": 30,
+          "displayQuantity": "2 to 3 stalks",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 15,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 34,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 9,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 200,
+          "displayQuantity": "1 large",
+          "preparation": "cut into thin batons",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 160,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into thin matchsticks",
+          "optional": false
+        },
+        {
+          "name": "bean sprouts",
+          "grams": 200,
+          "displayQuantity": "3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 35,
+          "displayQuantity": "4 to 5",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 25,
+          "displayQuantity": "1/2 cup plus 2 tbsp",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 80,
+          "displayQuantity": "2",
+          "preparation": "cut into wedges",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the tofu, lemon grass, garlic, ginger, cucumber, carrot, spring onions, cilantro and lime.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the lemon grass, garlic, ginger, soy sauce, brown sugar and half the sesame oil together.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the tofu with the lemon grass mixture and leave it to absorb the seasoning.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the rice noodles until tender with a slight chew, then drain them thoroughly.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the remaining sesame oil in a wide non-stick frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the tofu until deeply golden on several sides and fragrant with lemon grass.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Divide the rice noodles, cucumber, carrot and bean sprouts between bowls.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Top the bowls with the tofu, spring onions and cilantro.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Squeeze the lime over the Vietnamese lemon grass tofu noodle bowls before serving.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the cooked tofu and prepared vegetables separately for up to 3 days. Keep noodles for up to 2 days. Assemble after reheating the tofu. Do not freeze.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Vietnamese lemongrass tofu noodle bowls, hearty",
+      "summary": "A generous Vietnamese-style bowl with extra golden tofu and rice noodles, plus crisp vegetables and herbs. Lemongrass, soy sauce and lime keep the hearty dinner aromatic and fresh.",
+      "cuisine": "vietnamese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 24,
+      "cookMinutes": 22,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "rice noodles",
+          "grams": 230,
+          "displayQuantity": "230 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tofu",
+          "grams": 480,
+          "displayQuantity": "480 g",
+          "preparation": "pressed and cut into cubes",
+          "optional": false
+        },
+        {
+          "name": "lemon grass",
+          "grams": 36,
+          "displayQuantity": "3 stalks",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 18,
+          "displayQuantity": "2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 42,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 16,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 220,
+          "displayQuantity": "1 large",
+          "preparation": "cut into thin batons",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 190,
+          "displayQuantity": "2 large",
+          "preparation": "cut into thin matchsticks",
+          "optional": false
+        },
+        {
+          "name": "bean sprouts",
+          "grams": 240,
+          "displayQuantity": "3 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 45,
+          "displayQuantity": "5 to 6",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "3/4 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 100,
+          "displayQuantity": "2 large",
+          "preparation": "cut into wedges",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the tofu, lemon grass, garlic, ginger, cucumber, carrot, spring onions, cilantro and lime.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the lemon grass, garlic, ginger, soy sauce, brown sugar and half the sesame oil together.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the tofu with the lemon grass mixture and leave it to absorb the seasoning.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the rice noodles until tender but not soft, then drain them thoroughly.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the remaining sesame oil in a large non-stick frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the tofu in batches until deeply golden and fragrant with lemon grass.",
+          "durationMinutes": 11,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Divide the rice noodles, cucumber, carrot and bean sprouts between large bowls.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Top the bowls with the tofu, spring onions and cilantro.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Squeeze the lime over the Vietnamese lemon grass tofu noodle bowls before serving.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Store the tofu and vegetables separately for up to 3 days and the noodles for up to 2 days. Reheat the tofu until hot and assemble just before eating. Do not freeze.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    }
+  ]
+}

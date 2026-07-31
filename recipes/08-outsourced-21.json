@@ -1,0 +1,2755 @@
+{
+  "recipes": [
+    {
+      "title": "Vietnamese caramel chicken with cabbage, light",
+      "summary": "Tender chicken thigh braised with fish sauce, ginger and a light caramel glaze, served with cabbage, carrots and a modest portion of rice.",
+      "cuisine": "vietnamese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 51,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 180,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into thin batons",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 18,
+          "displayQuantity": "2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "fish sauce",
+          "grams": 45,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 35,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken broth",
+          "grams": 450,
+          "displayQuantity": "450 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 35,
+          "displayQuantity": "4 to 5",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, green cabbage, onion, carrot, garlic, ginger and spring onions in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the fish sauce, rice wine, brown sugar, chicken broth, garlic, ginger and half the sesame oil into a braising liquid.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Brown the chicken thigh in the remaining sesame oil until coloured on several sides.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and carrot until the onion is soft and translucent.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Pour the braising liquid over the chicken thigh.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the covered chicken until the thigh is tender and deeply seasoned.",
+          "durationMinutes": 30,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the green cabbage in the braising sauce until tender but still structured.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Finish the Vietnamese caramel chicken with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the chicken before serving it with the white rice.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate the chicken and rice separately for up to 3 days. Reheat the braise gently until steaming. Freeze the chicken and cabbage mixture for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Vietnamese caramel chicken with cabbage",
+      "summary": "Vietnamese-style caramel chicken with cabbage, carrots and rice in a glossy fish sauce, rice-wine, garlic and ginger glaze.",
+      "cuisine": "vietnamese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 25,
+      "cookMinutes": 55,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 260,
+          "displayQuantity": "260 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "2 medium",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 200,
+          "displayQuantity": "2 large",
+          "preparation": "cut into thin batons",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 22,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "fish sauce",
+          "grams": 55,
+          "displayQuantity": "3 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 45,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken broth",
+          "grams": 550,
+          "displayQuantity": "550 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 45,
+          "displayQuantity": "5 to 6",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, green cabbage, onion, carrot, garlic, ginger and spring onions in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the fish sauce, rice wine, brown sugar, chicken broth, garlic, ginger and half the sesame oil into a braising liquid.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Brown the chicken thigh in the remaining sesame oil until coloured on several sides.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and carrot until the onion is soft and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Pour the braising liquid over the chicken thigh.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the covered chicken until the thigh is tender and deeply seasoned.",
+          "durationMinutes": 32,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the green cabbage in the braising sauce until tender but still structured.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Finish the Vietnamese caramel chicken with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the chicken before serving it with the white rice.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate the chicken and rice separately for up to 3 days. Reheat the braise gently until steaming. Freeze the chicken and cabbage mixture for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Vietnamese caramel chicken with cabbage, hearty",
+      "summary": "A generous Vietnamese caramel chicken dinner with extra thigh meat and rice, plus cabbage and carrots in a rich savoury-sweet glaze.",
+      "cuisine": "vietnamese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 28,
+      "cookMinutes": 62,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 1150,
+          "displayQuantity": "1.15 kg",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 360,
+          "displayQuantity": "360 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 280,
+          "displayQuantity": "2 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 250,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into thin batons",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 24,
+          "displayQuantity": "8 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 28,
+          "displayQuantity": "3 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "fish sauce",
+          "grams": 70,
+          "displayQuantity": "1/4 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 60,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 28,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 26,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken broth",
+          "grams": 700,
+          "displayQuantity": "700 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 60,
+          "displayQuantity": "7 to 8",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, green cabbage, onion, carrot, garlic, ginger and spring onions in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the fish sauce, rice wine, brown sugar, chicken broth, garlic, ginger and half the sesame oil into a braising liquid.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Brown the chicken thigh in the remaining sesame oil until deeply coloured.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and carrot until the onion is soft and golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Pour the braising liquid over the chicken thigh.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the covered chicken until the thigh is very tender and deeply seasoned.",
+          "durationMinutes": 35,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the green cabbage in the braising sauce until tender but still structured.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Finish the Vietnamese caramel chicken with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the chicken before serving it with the white rice.",
+          "durationMinutes": 6,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate the chicken and rice separately for up to 3 days. Reheat the braise gently until steaming. Freeze the chicken and cabbage mixture for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Chinese braised tofu with mushrooms, light",
+      "summary": "Golden tofu, mushrooms and bamboo shoots braised in soy, rice wine, garlic and ginger, with extra cabbage and a smaller serving of rice.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 24,
+      "cookMinutes": 51,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "tofu",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": "pressed and cut into cubes",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 100,
+          "displayQuantity": "100 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "shiitake mushrooms",
+          "grams": 140,
+          "displayQuantity": "140 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "bamboo shoots",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "drained and sliced",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 120,
+          "displayQuantity": "1 medium",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 15,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 40,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 280,
+          "displayQuantity": "280 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 25,
+          "displayQuantity": "3",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the tofu, mushrooms, shiitake mushrooms, bamboo shoots, green cabbage, onion, garlic, ginger and spring onions in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the soy sauce, rice wine, vegetable broth, garlic and ginger into a braising liquid.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the sesame oil in a wide non-stick pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Brown the tofu until golden on several sides.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion, mushrooms and shiitake mushrooms until lightly browned.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the bamboo shoots and green cabbage until the cabbage begins to soften.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the tofu and vegetables in the braising liquid until the sauce reduces slightly.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Finish the Chinese braised tofu with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the braise before serving it with the white rice.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate the tofu braise and rice separately for up to 3 days. Reheat gently until steaming. Freeze the braise for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Chinese braised tofu with mushrooms",
+      "summary": "Chinese-style braised tofu with mushrooms, shiitake, bamboo shoots and cabbage in a glossy soy, rice-wine and ginger sauce.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 26,
+      "cookMinutes": 55,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "tofu",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "pressed and cut into cubes",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 150,
+          "displayQuantity": "150 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "shiitake mushrooms",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "bamboo shoots",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "drained and sliced",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 140,
+          "displayQuantity": "1 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 18,
+          "displayQuantity": "2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 50,
+          "displayQuantity": "3 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 40,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 16,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 350,
+          "displayQuantity": "350 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 35,
+          "displayQuantity": "4 to 5",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the tofu, mushrooms, shiitake mushrooms, bamboo shoots, green cabbage, onion, garlic, ginger and spring onions in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the soy sauce, rice wine, vegetable broth, garlic and ginger into a braising liquid.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the sesame oil in a wide non-stick pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Brown the tofu until crisp and golden on several sides.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion, mushrooms and shiitake mushrooms until lightly browned.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the bamboo shoots and green cabbage until the cabbage begins to soften.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the tofu and vegetables in the braising liquid until the sauce becomes glossy.",
+          "durationMinutes": 19,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Finish the Chinese braised tofu with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the braise before serving it with the white rice.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate the tofu braise and rice separately for up to 3 days. Reheat gently until steaming. Freeze the braise for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Chinese braised tofu with mushrooms, hearty",
+      "summary": "A generous vegetarian Chinese braise with extra tofu, mushrooms and rice in a deeply savoury soy, rice-wine, garlic and ginger sauce.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 28,
+      "cookMinutes": 62,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "tofu",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "pressed and cut into cubes",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 210,
+          "displayQuantity": "210 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "shiitake mushrooms",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "bamboo shoots",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "drained and sliced",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 24,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 65,
+          "displayQuantity": "1/4 cup plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 50,
+          "displayQuantity": "3 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 22,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 450,
+          "displayQuantity": "450 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 45,
+          "displayQuantity": "5 to 6",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the tofu, mushrooms, shiitake mushrooms, bamboo shoots, green cabbage, onion, garlic, ginger and spring onions in their listed forms.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the soy sauce, rice wine, vegetable broth, garlic and ginger into a braising liquid.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the sesame oil in a wide non-stick pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Brown the tofu until crisp and deeply golden.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion, mushrooms and shiitake mushrooms until golden at the edges.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the bamboo shoots and green cabbage until the cabbage is tender.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the tofu and vegetables in the braising liquid until the sauce becomes glossy and rich.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Finish the Chinese braised tofu with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the braise before serving it with the white rice.",
+          "durationMinutes": 6,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate the tofu braise and rice separately for up to 3 days. Reheat gently until steaming. Freeze the braise for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "French chicken fricassee with mushrooms, light",
+      "summary": "Tender chicken and mushrooms in a light thyme cream sauce, served with potatoes. Less cream and butter keep this French dinner lighter.",
+      "cuisine": "french",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 25,
+      "cookMinutes": 62,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "leek",
+          "grams": 250,
+          "displayQuantity": "2 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 160,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "chicken stock",
+          "grams": 500,
+          "displayQuantity": "500 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "heavy cream",
+          "grams": 100,
+          "displayQuantity": "100 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 100,
+          "displayQuantity": "100 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, potato, mushrooms, leek, onion and garlic in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Simmer the potato until tender when pierced with a knife.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Melt half the butter in a wide heavy pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Brown the chicken thigh on several sides.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and leek in the remaining butter until soft and translucent.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the mushrooms until their moisture evaporates and the edges turn golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the garlic and thyme into the vegetables until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the chicken thigh in the chicken stock until tender and cooked through.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Stir the heavy cream and whole milk into the sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer gently until the sauce lightly coats the chicken and mushrooms.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Stir the lemon juice and salt into the fricassee.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the French chicken fricassee before serving it with the potato.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate the fricassee and potatoes separately for up to 3 days. Reheat gently without boiling hard. Freeze the fricassee for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "French chicken fricassee with mushrooms",
+      "summary": "French chicken fricassee with mushrooms, leeks and tender potatoes in a creamy thyme and lemon sauce.",
+      "cuisine": "french",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 27,
+      "cookMinutes": 68,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 850,
+          "displayQuantity": "850 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "leek",
+          "grams": 280,
+          "displayQuantity": "2 to 3 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "chicken stock",
+          "grams": 600,
+          "displayQuantity": "600 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "heavy cream",
+          "grams": 160,
+          "displayQuantity": "2/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 120,
+          "displayQuantity": "1/2 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 28,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 6,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 35,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, potato, mushrooms, leek, onion and garlic in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Simmer the potato until tender when pierced with a knife.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Melt half the butter in a wide heavy pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Brown the chicken thigh on several sides.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and leek in the remaining butter until soft and lightly golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the mushrooms until their moisture evaporates and the edges turn golden.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the garlic and thyme into the vegetables until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the chicken thigh in the chicken stock until tender and cooked through.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Stir the heavy cream and whole milk into the sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer gently until the sauce coats the chicken and mushrooms.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Stir the lemon juice and salt into the fricassee.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the French chicken fricassee before serving it with the potato.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate the fricassee and potatoes separately for up to 3 days. Reheat gently without boiling hard. Freeze the fricassee for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "French chicken fricassee with mushrooms, hearty",
+      "summary": "A generous French fricassee with extra chicken, potatoes and mushrooms in a rich cream, thyme and lemon sauce.",
+      "cuisine": "french",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 78,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 1100,
+          "displayQuantity": "1.1 kg",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 950,
+          "displayQuantity": "950 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "leek",
+          "grams": 350,
+          "displayQuantity": "3 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "chicken stock",
+          "grams": 750,
+          "displayQuantity": "750 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "heavy cream",
+          "grams": 240,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 160,
+          "displayQuantity": "2/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 42,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 8,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 45,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 10,
+          "displayQuantity": "1 2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, potato, mushrooms, leek, onion and garlic in their listed forms.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Simmer the potato until tender when pierced with a knife.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Melt half the butter in a wide heavy pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Brown the chicken thigh deeply on several sides.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and leek in the remaining butter until soft and golden.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the mushrooms until their moisture evaporates and the edges turn deeply golden.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the garlic and thyme into the vegetables until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the chicken thigh in the chicken stock until very tender and cooked through.",
+          "durationMinutes": 24,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Stir the heavy cream and whole milk into the sauce.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer gently until the sauce becomes rich and coats the chicken and mushrooms.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Stir the lemon juice and salt into the fricassee.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the French chicken fricassee before serving it with the potato.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate the fricassee and potatoes separately for up to 3 days. Reheat gently without boiling hard. Freeze the fricassee for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Greek baked cod with white beans, light",
+      "summary": "Cod baked over white beans, zucchini, peppers and tomatoes with dill and lemon. Extra vegetables and less oil keep this Greek dinner lighter.",
+      "cuisine": "greek",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 47,
+      "difficulty": "easy",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "pescatarian",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "cod",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "white beans, canned",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 350,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 250,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 45,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 6,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 250,
+          "displayQuantity": "250 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the cod, zucchini, bell pepper, onion, garlic and dill weed in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Coat the zucchini, bell pepper and onion with half the olive oil.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Roast the vegetables at 210°C until they begin to soften and colour.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the tomatoes, canned, white beans, vegetable broth, garlic, dill weed and salt together.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Pour the tomato and bean mixture around the roasted vegetables.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Bake until the white beans are hot and the tomato sauce has thickened slightly.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Place the cod over the vegetables and brush it with the remaining olive oil.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Bake until the cod is opaque and flakes easily at the thickest point.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Spoon the lemon juice over the baked cod.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the Greek baked cod before serving.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days and reheat covered until the cod is hot. The dish is best fresh and is not recommended for freezing.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Greek baked cod with white beans",
+      "summary": "Greek-style baked cod with white beans, zucchini and peppers in a garlicky tomato, dill and lemon sauce.",
+      "cuisine": "greek",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 50,
+      "difficulty": "easy",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "pescatarian",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "cod",
+          "grams": 850,
+          "displayQuantity": "850 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "white beans, canned",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 400,
+          "displayQuantity": "2 to 3 medium",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 280,
+          "displayQuantity": "2 large",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 28,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 55,
+          "displayQuantity": "3 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 8,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 300,
+          "displayQuantity": "300 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the cod, zucchini, bell pepper, onion, garlic and dill weed in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Coat the zucchini, bell pepper and onion with half the olive oil.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Roast the vegetables at 210°C until they begin to soften and colour.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the tomatoes, canned, white beans, vegetable broth, garlic, dill weed and salt together.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Pour the tomato and bean mixture around the roasted vegetables.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Bake until the white beans are hot and the tomato sauce has thickened slightly.",
+          "durationMinutes": 13,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Place the cod over the vegetables and brush it with the remaining olive oil.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Bake until the cod is opaque and flakes easily at the thickest point.",
+          "durationMinutes": 13,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Spoon the lemon juice over the baked cod.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the Greek baked cod before serving.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days and reheat covered until the cod is hot. The dish is best fresh and is not recommended for freezing.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Greek baked cod with white beans, hearty",
+      "summary": "A generous high-protein Greek bake with extra cod and white beans in a rich tomato, vegetable, dill and lemon sauce.",
+      "cuisine": "greek",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 27,
+      "cookMinutes": 57,
+      "difficulty": "easy",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "pescatarian",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "cod",
+          "grams": 1050,
+          "displayQuantity": "1.05 kg",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "white beans, canned",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 500,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 350,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 40,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 70,
+          "displayQuantity": "1/4 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 10,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 400,
+          "displayQuantity": "400 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the cod, zucchini, bell pepper, onion, garlic and dill weed in their listed forms.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Coat the zucchini, bell pepper and onion with half the olive oil.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Roast the vegetables at 210°C until they begin to soften and colour.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the tomatoes, canned, white beans, vegetable broth, garlic, dill weed and salt together.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Pour the tomato and bean mixture around the roasted vegetables.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Bake until the white beans are hot and the tomato sauce has thickened slightly.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Place the cod over the vegetables and brush it with the remaining olive oil.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Bake until the cod is opaque and flakes easily at the thickest point.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Spoon the lemon juice over the baked cod.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the Greek baked cod before serving.",
+          "durationMinutes": 6,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days and reheat covered until the cod is hot. The dish is best fresh and is not recommended for freezing.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Spanish white bean and vegetable stew, light",
+      "summary": "White beans, potatoes and vegetables simmered with tomatoes, paprika and thyme. Extra vegetables and less potato and oil keep this Spanish dinner lighter.",
+      "cuisine": "spanish",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 42,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white beans, canned",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "green beans",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "cut into short pieces",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 250,
+          "displayQuantity": "2 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 220,
+          "displayQuantity": "2 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 140,
+          "displayQuantity": "3 stalks",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "1 can",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 35,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 900,
+          "displayQuantity": "900 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, green beans, bell pepper, carrot, onion, celery and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a large saucepan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the onion, carrot and celery until soft and translucent.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the garlic, paprika, thyme and tomato paste into the vegetables until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the tomatoes, canned, potato, bell pepper, vegetable broth and salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Simmer the stew until the potato is nearly tender.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Add the white beans and green beans to the stew.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer until the green beans are tender and the broth is rich and spoonable.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the Spanish white bean and vegetable stew so the flavours settle.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat gently with a splash of vegetable broth. Freeze the stew for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Spanish white bean and vegetable stew",
+      "summary": "A comforting Spanish-style white bean stew with potatoes, green beans, peppers and carrots in a paprika and tomato broth.",
+      "cuisine": "spanish",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 46,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white beans, canned",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "green beans",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "cut into short pieces",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 280,
+          "displayQuantity": "2 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 240,
+          "displayQuantity": "3 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 160,
+          "displayQuantity": "3 to 4 stalks",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 45,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 26,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 6,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1000,
+          "displayQuantity": "1 litre",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, green beans, bell pepper, carrot, onion, celery and garlic in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a large saucepan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the onion, carrot and celery until soft and lightly golden.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the garlic, paprika, thyme and tomato paste into the vegetables until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the tomatoes, canned, potato, bell pepper, vegetable broth and salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Simmer the stew until the potato is nearly tender.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Add the white beans and green beans to the stew.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer until the green beans are tender and the broth is rich and spoonable.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the Spanish white bean and vegetable stew so the flavours settle.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat gently with a splash of vegetable broth. Freeze the stew for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Spanish white bean and vegetable stew, hearty",
+      "summary": "A generous vegetarian Spanish stew with extra white beans and potatoes in a rich tomato, paprika and thyme broth.",
+      "cuisine": "spanish",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 25,
+      "cookMinutes": 54,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white beans, canned",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "green beans",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "cut into short pieces",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 350,
+          "displayQuantity": "3 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 300,
+          "displayQuantity": "4 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 200,
+          "displayQuantity": "4 stalks",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 650,
+          "displayQuantity": "2 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 60,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 36,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 9,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 8,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1200,
+          "displayQuantity": "1.2 litres",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, green beans, bell pepper, carrot, onion, celery and garlic in their listed forms.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a large saucepan over medium heat.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the onion, carrot and celery until soft and golden at the edges.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the garlic, paprika, thyme and tomato paste into the vegetables until fragrant.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the tomatoes, canned, potato, bell pepper, vegetable broth and salt.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Simmer the stew until the potato is nearly tender.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Add the white beans and green beans to the stew.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer until the green beans are tender and the broth is thick and deeply savoury.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the Spanish white bean and vegetable stew so the flavours settle.",
+          "durationMinutes": 6,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat gently with a splash of vegetable broth. Freeze the stew for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    }
+  ]
+}

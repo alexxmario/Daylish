@@ -1,0 +1,3451 @@
+{
+  "recipes": [
+    {
+      "title": "Indian chicken jalfrezi with rice, light",
+      "summary": "A lighter Indian chicken jalfrezi with peppers, onion and tomato in a bright ginger-cumin sauce, served with a modest portion of rice.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 25,
+      "cookMinutes": 54,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 180,
+          "displayQuantity": "1 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 500,
+          "displayQuantity": "4 medium",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 550,
+          "displayQuantity": "2 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 20,
+          "displayQuantity": "2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 180,
+          "displayQuantity": "3/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 25,
+          "displayQuantity": "2/3 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken breast, bell pepper, onion, garlic, ginger and cilantro in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the cumin, paprika and salt together.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the chicken breast with half the spice mixture.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Rest the chicken breast so the seasoning adheres.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Heat half the vegetable oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Brown the chicken breast until nearly cooked through.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Transfer the chicken breast to a clean plate.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Heat the remaining vegetable oil in the pan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Cook the bell pepper until tender at the edges.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Stir the garlic, ginger and remaining spice mixture into the vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Add the tomatoes, canned, and vegetable broth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Simmer the jalfrezi sauce until thick and glossy.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 15,
+          "instruction": "Return the chicken breast to the sauce.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Simmer until the chicken breast is cooked through.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 17,
+          "instruction": "Stir the lemon juice into the jalfrezi.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 18,
+          "instruction": "Finish the Indian chicken jalfrezi with the cilantro.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 19,
+          "instruction": "Serve the chicken jalfrezi with the white rice.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the chicken jalfrezi and rice separately for up to 3 days. Reheat gently until the chicken is steaming. Freeze the jalfrezi without the rice for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Indian chicken jalfrezi with rice",
+      "summary": "Indian chicken jalfrezi with tender peppers and onion in a lively tomato, ginger, cumin and paprika sauce, served with steamed rice.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 28,
+      "cookMinutes": 61,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 260,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 450,
+          "displayQuantity": "3 large",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "2 medium",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 600,
+          "displayQuantity": "2 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 24,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 8,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 8,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 220,
+          "displayQuantity": "scant 1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 40,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "3/4 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken breast, bell pepper, onion, garlic, ginger and cilantro in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the cumin, paprika and salt together.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the chicken breast with half the spice mixture.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Rest the chicken breast so the seasoning adheres.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Heat half the vegetable oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Brown the chicken breast until nearly cooked through.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Transfer the chicken breast to a clean plate.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Heat the remaining vegetable oil in the pan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Cook the bell pepper until tender at the edges.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Stir the garlic, ginger and remaining spice mixture into the vegetables.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Add the tomatoes, canned, and vegetable broth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Simmer the jalfrezi sauce until thick and glossy.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 15,
+          "instruction": "Return the chicken breast to the sauce.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Simmer until the chicken breast is cooked through.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 17,
+          "instruction": "Stir the lemon juice into the jalfrezi.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 18,
+          "instruction": "Finish the Indian chicken jalfrezi with the cilantro.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 19,
+          "instruction": "Serve the chicken jalfrezi with the white rice.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the chicken jalfrezi and rice separately for up to 3 days. Reheat gently until the chicken is steaming. Freeze the jalfrezi without the rice for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Indian chicken jalfrezi with rice, hearty",
+      "summary": "A generous Indian dinner with extra chicken and rice, plus peppers and onion in a deeply savoury tomato, ginger and cumin sauce.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 32,
+      "cookMinutes": 70,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 1050,
+          "displayQuantity": "1.05 kg",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 360,
+          "displayQuantity": "2 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 550,
+          "displayQuantity": "4 large",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 280,
+          "displayQuantity": "2 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 750,
+          "displayQuantity": "3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 30,
+          "displayQuantity": "3 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 28,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 10,
+          "displayQuantity": "1 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 10,
+          "displayQuantity": "1 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 300,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 50,
+          "displayQuantity": "3 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 40,
+          "displayQuantity": "1 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken breast, bell pepper, onion, garlic, ginger and cilantro in their listed forms.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the cumin, paprika and salt together.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the chicken breast with half the spice mixture.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Rest the chicken breast so the seasoning adheres.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Heat half the vegetable oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Brown the chicken breast in batches until nearly cooked through.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Transfer the chicken breast to a clean plate.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Heat the remaining vegetable oil in the pan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Cook the bell pepper until tender at the edges.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Stir the garlic, ginger and remaining spice mixture into the vegetables.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Add the tomatoes, canned, and vegetable broth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Simmer the jalfrezi sauce until thick and glossy.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 15,
+          "instruction": "Return the chicken breast to the sauce.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Simmer until the chicken breast is cooked through.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 17,
+          "instruction": "Stir the lemon juice into the jalfrezi.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 18,
+          "instruction": "Finish the Indian chicken jalfrezi with the cilantro.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 19,
+          "instruction": "Serve the chicken jalfrezi with the white rice.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the chicken jalfrezi and rice separately for up to 3 days. Reheat gently until the chicken is steaming. Freeze the jalfrezi without the rice for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Italian stuffed mushrooms, light",
+      "summary": "Baked mushroom caps filled with spinach, basil, bread and parmesan over a bright tomato sauce. Less cheese and oil keep this Italian snack lighter.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 29,
+      "cookMinutes": 43,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop",
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "mushrooms",
+          "grams": 700,
+          "displayQuantity": "16 large",
+          "preparation": "stems removed and finely chopped",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 70,
+          "displayQuantity": "2 thick slices",
+          "preparation": "torn",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 45,
+          "displayQuantity": "1/2 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 260,
+          "displayQuantity": "260 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 120,
+          "displayQuantity": "1 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 350,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 25,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 20,
+          "displayQuantity": "1/2 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the mushrooms, bread, parmesan cheese, spinach, onion, garlic and basil in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Pulse the bread in a food processor until coarse crumbs form.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat half the olive oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion until soft and translucent.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the garlic into the onion until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the chopped mushroom stems until their moisture evaporates.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Fold the spinach into the mushroom stems until wilted and fairly dry.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Mix the bread crumbs, eggs, half the parmesan cheese, basil, spinach mixture and half the salt.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Brush the mushroom caps with the remaining olive oil.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Fill the mushroom caps with the bread and spinach mixture.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Stir the tomatoes, canned, tomato paste and remaining salt together in a baking dish.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Arrange the stuffed mushrooms over the tomato sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Scatter the remaining parmesan cheese over the mushrooms.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Bake until the mushrooms are tender and the tops are crisp and golden.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 16,
+          "instruction": "Rest the Italian stuffed mushrooms before serving.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat in a hot oven until the filling is crisp and the mushrooms are steaming. Freeze the baked stuffed mushrooms for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Italian stuffed mushrooms",
+      "summary": "Italian mushroom caps filled with a savoury spinach, basil, bread and parmesan mixture, baked over rich tomato sauce until golden.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 33,
+      "cookMinutes": 46,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop",
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "mushrooms",
+          "grams": 800,
+          "displayQuantity": "18 large",
+          "preparation": "stems removed and finely chopped",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 110,
+          "displayQuantity": "3 thick slices",
+          "preparation": "torn",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 75,
+          "displayQuantity": "3/4 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 140,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "1 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 35,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 25,
+          "displayQuantity": "2/3 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the mushrooms, bread, parmesan cheese, spinach, onion, garlic and basil in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Pulse the bread in a food processor until coarse crumbs form.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat half the olive oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion until soft and translucent.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the garlic into the onion until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the chopped mushroom stems until their moisture evaporates.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Fold the spinach into the mushroom stems until wilted and fairly dry.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Mix the bread crumbs, eggs, half the parmesan cheese, basil, spinach mixture and half the salt.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Brush the mushroom caps with the remaining olive oil.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Fill the mushroom caps with the bread and spinach mixture.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Stir the tomatoes, canned, tomato paste and remaining salt together in a baking dish.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Arrange the stuffed mushrooms over the tomato sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Scatter the remaining parmesan cheese over the mushrooms.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Bake until the mushrooms are tender and the tops are crisp and golden.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 16,
+          "instruction": "Rest the Italian stuffed mushrooms before serving.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat in a hot oven until the filling is crisp and the mushrooms are steaming. Freeze the baked stuffed mushrooms for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Italian stuffed mushrooms, hearty",
+      "summary": "A generous tray of Italian stuffed mushrooms with extra parmesan and crisp bread filling, baked in a rich tomato and basil sauce.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 38,
+      "cookMinutes": 55,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop",
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "mushrooms",
+          "grams": 950,
+          "displayQuantity": "20 large",
+          "preparation": "stems removed and finely chopped",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 150,
+          "displayQuantity": "4 thick slices",
+          "preparation": "torn",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 110,
+          "displayQuantity": "1 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 260,
+          "displayQuantity": "260 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 45,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 28,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 35,
+          "displayQuantity": "1 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the mushrooms, bread, parmesan cheese, spinach, onion, garlic and basil in their listed forms.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Pulse the bread in a food processor until coarse crumbs form.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat half the olive oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion until soft and translucent.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the garlic into the onion until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the chopped mushroom stems until their moisture evaporates.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Fold the spinach into the mushroom stems until wilted and fairly dry.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Mix the bread crumbs, eggs, half the parmesan cheese, basil, spinach mixture and half the salt.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Brush the mushroom caps with the remaining olive oil.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Fill the mushroom caps with the bread and spinach mixture.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Stir the tomatoes, canned, tomato paste and remaining salt together in a baking dish.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Arrange the stuffed mushrooms over the tomato sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Scatter the remaining parmesan cheese over the mushrooms.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Bake until the mushrooms are tender and the tops are crisp and golden.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 16,
+          "instruction": "Rest the Italian stuffed mushrooms before serving.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat in a hot oven until the filling is crisp and the mushrooms are steaming. Freeze the baked stuffed mushrooms for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Italian egg and pepper panini, light",
+      "summary": "Crisp Italian-style panini filled with soft eggs, peppers, spinach and tomato. Less bread, cheese and oil keep this breakfast lighter.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 19,
+      "cookMinutes": 31,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 160,
+          "displayQuantity": "4 medium slices",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 280,
+          "displayQuantity": "2 large",
+          "preparation": "cut into thin strips",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 120,
+          "displayQuantity": "1 medium",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 160,
+          "displayQuantity": "160 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 200,
+          "displayQuantity": "3/4 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 25,
+          "displayQuantity": "1/4 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 15,
+          "displayQuantity": "1/3 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 8,
+          "displayQuantity": "2 to 3 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the bread, bell pepper, onion, spinach, basil and garlic in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat half the olive oil in a wide frying pan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the bell pepper until tender at the edges.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the garlic into the vegetables until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, canned, to the pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the tomato mixture until thick and spoonable.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Fold the spinach into the tomato mixture until wilted.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Transfer the vegetable mixture to a bowl.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Beat the eggs with the salt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Heat the remaining olive oil in the pan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Fold the eggs gently until softly set.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Layer the vegetable mixture over half the bread slices.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Spoon the eggs over the vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Scatter the parmesan cheese and basil over the eggs.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Cover each filling with a remaining bread slice.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 17,
+          "instruction": "Toast the panini in the dry pan until the first sides are crisp and golden.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 18,
+          "instruction": "Turn the panini carefully.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 19,
+          "instruction": "Toast until the second sides are golden and the parmesan cheese has melted.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 20,
+          "instruction": "Rest the Italian egg and pepper panini briefly before serving.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best served freshly toasted. Refrigerate the egg and vegetable fillings separately for up to 2 days. Reheat the filling gently and assemble with fresh bread. Do not freeze.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Italian egg and pepper panini",
+      "summary": "Golden panini filled with softly scrambled eggs, peppers, spinach, tomato, basil and melted parmesan cheese.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 23,
+      "cookMinutes": 39,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 250,
+          "displayQuantity": "5 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 220,
+          "displayQuantity": "6 medium slices",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 260,
+          "displayQuantity": "2 large",
+          "preparation": "cut into thin strips",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 140,
+          "displayQuantity": "1 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 140,
+          "displayQuantity": "140 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 240,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 45,
+          "displayQuantity": "1/2 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 20,
+          "displayQuantity": "1/2 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 10,
+          "displayQuantity": "3 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the bread, bell pepper, onion, spinach, basil and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat half the olive oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the bell pepper until tender at the edges.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the garlic into the vegetables until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, canned, to the pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the tomato mixture until thick and spoonable.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Fold the spinach into the tomato mixture until wilted.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Transfer the vegetable mixture to a bowl.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Beat the eggs with the salt.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Heat the remaining olive oil in the pan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Fold the eggs gently until softly set.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Layer the vegetable mixture over half the bread slices.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Spoon the eggs over the vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Scatter the parmesan cheese and basil over the eggs.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Cover each filling with a remaining bread slice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 17,
+          "instruction": "Toast the panini in the dry pan until the first sides are crisp and golden.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 18,
+          "instruction": "Turn the panini carefully.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 19,
+          "instruction": "Toast until the second sides are golden and the parmesan cheese has melted.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 20,
+          "instruction": "Rest the Italian egg and pepper panini briefly before serving.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best served freshly toasted. Refrigerate the egg and vegetable fillings separately for up to 2 days. Reheat the filling gently and assemble with fresh bread. Do not freeze.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Italian egg and pepper panini, hearty",
+      "summary": "A generous Italian breakfast of crisp panini packed with extra eggs, peppers, spinach, tomato, basil and parmesan cheese.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 27,
+      "cookMinutes": 46,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 350,
+          "displayQuantity": "7 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 300,
+          "displayQuantity": "8 medium slices",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 320,
+          "displayQuantity": "2 to 3 large",
+          "preparation": "cut into thin strips",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 300,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 70,
+          "displayQuantity": "3/4 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 25,
+          "displayQuantity": "2/3 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the bread, bell pepper, onion, spinach, basil and garlic in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat half the olive oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the bell pepper until tender at the edges.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the garlic into the vegetables until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, canned, to the pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the tomato mixture until thick and spoonable.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Fold the spinach into the tomato mixture until wilted.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Transfer the vegetable mixture to a bowl.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Beat the eggs with the salt.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Heat the remaining olive oil in the pan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Fold the eggs gently until softly set.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Layer the vegetable mixture over half the bread slices.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Spoon the eggs over the vegetables.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Scatter the parmesan cheese and basil over the eggs.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Cover each filling with a remaining bread slice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 17,
+          "instruction": "Toast the panini in the dry pan until the first sides are crisp and golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 18,
+          "instruction": "Turn the panini carefully.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 19,
+          "instruction": "Toast until the second sides are golden and the parmesan cheese has melted.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 20,
+          "instruction": "Rest the Italian egg and pepper panini briefly before serving.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best served freshly toasted. Refrigerate the egg and vegetable fillings separately for up to 2 days. Reheat the filling gently and assemble with fresh bread. Do not freeze.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Italian pork and white bean stew, light",
+      "summary": "A lighter Italian stew with pork loin, white beans, potatoes and vegetables in a tomato, thyme and basil broth.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 21,
+      "cookMinutes": 56,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "white beans, canned",
+          "grams": 550,
+          "displayQuantity": "3 1/4 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "cut into small chunks",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 550,
+          "displayQuantity": "2 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 280,
+          "displayQuantity": "3 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 180,
+          "displayQuantity": "4 stalks",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 850,
+          "displayQuantity": "3 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 35,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 25,
+          "displayQuantity": "2/3 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the pork loin, potato, carrot, celery, onion, garlic and basil in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat half the olive oil in a large saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brown the pork loin on several sides.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Transfer the pork loin to a clean plate.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the remaining olive oil in the saucepan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion, carrot and celery until soft and lightly golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the garlic, tomato paste, thyme and salt into the vegetables.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the tomatoes, canned, and vegetable broth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Bring the stew to a gentle simmer.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Add the potato to the saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Simmer until the potato is nearly tender.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Return the pork loin to the stew.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Add the white beans to the saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Simmer until the pork loin is tender and the broth is rich and spoonable.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 15,
+          "instruction": "Stir the basil into the Italian pork and white bean stew.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Rest the stew so the flavours settle.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat gently until the pork is steaming. Freeze the stew for up to 3 months; the potatoes will soften slightly after thawing.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Italian pork and white bean stew",
+      "summary": "Italian pork and white bean stew with tender potatoes, carrots and celery in a rich tomato, garlic, thyme and basil broth.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 60,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "white beans, canned",
+          "grams": 600,
+          "displayQuantity": "3 1/2 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": "cut into small chunks",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 600,
+          "displayQuantity": "2 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 250,
+          "displayQuantity": "3 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 160,
+          "displayQuantity": "3 to 4 stalks",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 950,
+          "displayQuantity": "4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 45,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 6,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 30,
+          "displayQuantity": "3/4 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the pork loin, potato, carrot, celery, onion, garlic and basil in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat half the olive oil in a large saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brown the pork loin on several sides.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Transfer the pork loin to a clean plate.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the remaining olive oil in the saucepan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion, carrot and celery until soft and lightly golden.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the garlic, tomato paste, thyme and salt into the vegetables.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the tomatoes, canned, and vegetable broth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Bring the stew to a gentle simmer.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Add the potato to the saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Simmer until the potato is nearly tender.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Return the pork loin to the stew.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Add the white beans to the saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Simmer until the pork loin is tender and the broth is rich and spoonable.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 15,
+          "instruction": "Stir the basil into the Italian pork and white bean stew.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Rest the stew so the flavours settle.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat gently until the pork is steaming. Freeze the stew for up to 3 months; the potatoes will soften slightly after thawing.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Italian pork and white bean stew, hearty",
+      "summary": "A generous Italian lunch with extra pork, white beans and potatoes in a deeply savoury tomato, herb and vegetable broth.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 28,
+      "cookMinutes": 68,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "grams": 1050,
+          "displayQuantity": "1.05 kg",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "white beans, canned",
+          "grams": 750,
+          "displayQuantity": "4 1/2 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "cut into small chunks",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 750,
+          "displayQuantity": "3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 320,
+          "displayQuantity": "4 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 220,
+          "displayQuantity": "5 stalks",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 260,
+          "displayQuantity": "2 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1150,
+          "displayQuantity": "4 3/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 28,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 60,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 8,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 40,
+          "displayQuantity": "1 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the pork loin, potato, carrot, celery, onion, garlic and basil in their listed forms.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat half the olive oil in a large saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brown the pork loin on several sides.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Transfer the pork loin to a clean plate.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the remaining olive oil in the saucepan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion, carrot and celery until soft and lightly golden.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the garlic, tomato paste, thyme and salt into the vegetables.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the tomatoes, canned, and vegetable broth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Bring the stew to a gentle simmer.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Add the potato to the saucepan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Simmer until the potato is nearly tender.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Return the pork loin to the stew.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Add the white beans to the saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Simmer until the pork loin is tender and the broth is rich and spoonable.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 15,
+          "instruction": "Stir the basil into the Italian pork and white bean stew.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Rest the stew so the flavours settle.",
+          "durationMinutes": 6,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat gently until the pork is steaming. Freeze the stew for up to 3 months; the potatoes will soften slightly after thawing.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Brazilian chicken and potato stew, light",
+      "summary": "A lighter Brazilian chicken stew with potatoes, peppers and carrots in a bright tomato, paprika, lime and cilantro broth.",
+      "cuisine": "brazilian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 25,
+      "cookMinutes": 69,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 400,
+          "displayQuantity": "3 large",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 300,
+          "displayQuantity": "4 medium",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 550,
+          "displayQuantity": "2 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken broth",
+          "grams": 650,
+          "displayQuantity": "2 3/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 35,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 70,
+          "displayQuantity": "2 small",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "3/4 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, potato, bell pepper, carrot, onion, garlic, lime and cilantro in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the paprika, cumin and salt together.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the chicken thigh with half the spice mixture.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Rest the chicken thigh so the seasoning adheres.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Heat half the vegetable oil in a large saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Brown the chicken thigh on several sides.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Transfer the chicken thigh to a clean plate.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Heat the remaining vegetable oil in the saucepan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the bell pepper and carrot until they begin to soften.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Stir the garlic, tomato paste and remaining spice mixture into the vegetables.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Add the tomatoes, canned, and chicken broth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bring the stew to a gentle simmer.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Add the potato to the saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Return the chicken thigh to the stew.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Simmer the covered stew until the chicken thigh and potato are tender.",
+          "durationMinutes": 25,
+          "isPassive": true
+        },
+        {
+          "order": 17,
+          "instruction": "Simmer uncovered until the broth thickens slightly.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 18,
+          "instruction": "Stir the lime juice into the Brazilian chicken and potato stew.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 19,
+          "instruction": "Finish the stew with the cilantro.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 20,
+          "instruction": "Rest the stew so the flavours settle.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat gently until the chicken is steaming. Freeze the stew for up to 2 months; the potatoes will soften slightly after thawing.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Brazilian chicken and potato stew",
+      "summary": "Brazilian-style chicken and potato stew with peppers and carrots in a rich tomato, paprika, lime and cilantro broth.",
+      "cuisine": "brazilian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 27,
+      "cookMinutes": 75,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 350,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 260,
+          "displayQuantity": "3 large",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 600,
+          "displayQuantity": "2 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken broth",
+          "grams": 750,
+          "displayQuantity": "3 cups plus 2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 45,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 8,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 80,
+          "displayQuantity": "2 medium",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 35,
+          "displayQuantity": "1 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, potato, bell pepper, carrot, onion, garlic, lime and cilantro in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the paprika, cumin and salt together.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the chicken thigh with half the spice mixture.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Rest the chicken thigh so the seasoning adheres.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Heat half the vegetable oil in a large saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Brown the chicken thigh on several sides.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Transfer the chicken thigh to a clean plate.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Heat the remaining vegetable oil in the saucepan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the bell pepper and carrot until they begin to soften.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Stir the garlic, tomato paste and remaining spice mixture into the vegetables.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Add the tomatoes, canned, and chicken broth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bring the stew to a gentle simmer.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Add the potato to the saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Return the chicken thigh to the stew.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Simmer the covered stew until the chicken thigh and potato are tender.",
+          "durationMinutes": 28,
+          "isPassive": true
+        },
+        {
+          "order": 17,
+          "instruction": "Simmer uncovered until the broth thickens slightly.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 18,
+          "instruction": "Stir the lime juice into the Brazilian chicken and potato stew.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 19,
+          "instruction": "Finish the stew with the cilantro.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 20,
+          "instruction": "Rest the stew so the flavours settle.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat gently until the chicken is steaming. Freeze the stew for up to 2 months; the potatoes will soften slightly after thawing.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Brazilian chicken and potato stew, hearty",
+      "summary": "A generous Brazilian dinner with extra chicken and potatoes in a deeply savoury tomato, pepper, lime and cilantro broth.",
+      "cuisine": "brazilian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 31,
+      "cookMinutes": 87,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 1150,
+          "displayQuantity": "1.15 kg",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 450,
+          "displayQuantity": "3 large",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 350,
+          "displayQuantity": "4 large",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 260,
+          "displayQuantity": "2 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 750,
+          "displayQuantity": "3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken broth",
+          "grams": 900,
+          "displayQuantity": "3 3/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 28,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 60,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 10,
+          "displayQuantity": "1 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 8,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 100,
+          "displayQuantity": "2 large",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 45,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, potato, bell pepper, carrot, onion, garlic, lime and cilantro in their listed forms.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the paprika, cumin and salt together.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the chicken thigh with half the spice mixture.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Rest the chicken thigh so the seasoning adheres.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Heat half the vegetable oil in a large saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Brown the chicken thigh on several sides.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Transfer the chicken thigh to a clean plate.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Heat the remaining vegetable oil in the saucepan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the bell pepper and carrot until they begin to soften.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Stir the garlic, tomato paste and remaining spice mixture into the vegetables.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Add the tomatoes, canned, and chicken broth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bring the stew to a gentle simmer.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Add the potato to the saucepan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Return the chicken thigh to the stew.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Simmer the covered stew until the chicken thigh and potato are tender.",
+          "durationMinutes": 32,
+          "isPassive": true
+        },
+        {
+          "order": 17,
+          "instruction": "Simmer uncovered until the broth thickens slightly.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 18,
+          "instruction": "Stir the lime juice into the Brazilian chicken and potato stew.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 19,
+          "instruction": "Finish the stew with the cilantro.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 20,
+          "instruction": "Rest the stew so the flavours settle.",
+          "durationMinutes": 6,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat gently until the chicken is steaming. Freeze the stew for up to 2 months; the potatoes will soften slightly after thawing.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    }
+  ]
+}

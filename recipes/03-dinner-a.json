@@ -1,0 +1,1425 @@
+{
+  "recipes": [
+    {
+      "title": "Chicken and chorizo traybake, light",
+      "summary": "Chicken thighs roasted with peppers, red onion and a little chorizo, so the smoky fat seasons everything in the tin.",
+      "cuisine": "spanish",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 15,
+      "cookMinutes": 40,
+      "difficulty": "easy",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh",
+          "grams": 600,
+          "displayQuantity": "8 boneless thighs",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chorizo",
+          "grams": 80,
+          "displayQuantity": "a short length",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "red bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "red onion",
+          "grams": 200,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "courgette",
+          "grams": 250,
+          "displayQuantity": "2 medium",
+          "preparation": "thickly sliced",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 400,
+          "displayQuantity": "4 medium",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "smoked paprika",
+          "grams": 4,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "left whole",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 20,
+          "displayQuantity": "½ lemon",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parsley",
+          "grams": 10,
+          "displayQuantity": "a small bunch",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Heat the oven to 200°C. Cut the potato into chunks, the red bell pepper into strips, the red onion into wedges and the courgette into thick slices. Slice the chorizo.",
+          "durationMinutes": 15,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Toss the potato, pepper, onion and whole garlic cloves in a large roasting tin with the olive oil, smoked paprika and salt. Spread them into a single layer — crowded vegetables steam instead of roasting.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Nestle the chicken thigh pieces and chorizo among the vegetables, skin side up. Roast for 25 minutes.",
+          "durationMinutes": 25,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Add the courgette, turn everything in the paprika-stained oil that has collected, and roast for another 12 minutes until the chicken is golden and its juices run clear.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Squeeze over the lemon juice, scatter with parsley and bring the tin to the table.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Excellent for meal prep — keeps 3 days and the flavours deepen overnight. Reheat in a hot oven so the potatoes crisp again.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Chicken and chorizo traybake",
+      "summary": "One tin, forty minutes: chicken thighs, chorizo, peppers and potatoes roasted together until everything is stained smoky red.",
+      "cuisine": "spanish",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 15,
+      "cookMinutes": 42,
+      "difficulty": "easy",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh",
+          "grams": 700,
+          "displayQuantity": "8 large thighs",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chorizo",
+          "grams": 150,
+          "displayQuantity": "half a ring",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "red bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "red onion",
+          "grams": 200,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 600,
+          "displayQuantity": "6 medium",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 25,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "smoked paprika",
+          "grams": 5,
+          "displayQuantity": "2½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "left whole",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 20,
+          "displayQuantity": "½ lemon",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parsley",
+          "grams": 10,
+          "displayQuantity": "a small bunch",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Heat the oven to 200°C. Cut the potato into chunks, the red bell pepper into strips and the red onion into wedges. Slice the chorizo into coins.",
+          "durationMinutes": 15,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Toss the potato, pepper, onion and whole garlic cloves in a large roasting tin with the olive oil, smoked paprika and salt, spreading them into one layer.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Tuck the chicken thigh pieces and chorizo among the vegetables and roast for 25 minutes.",
+          "durationMinutes": 25,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Turn everything in the rendered orange fat and roast for a further 14 minutes, until the potatoes are crisp at the edges and the chicken is cooked through.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Finish with the lemon juice and parsley and serve straight from the tin.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Ideal for meal prep — keeps 3 days and tastes better on day two. Reheat in a hot oven, not a microwave.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Chicken and chorizo traybake, hearty",
+      "summary": "The full tin: more chicken, more chorizo, extra potatoes and butter beans soaking up all the smoky juices.",
+      "cuisine": "spanish",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 16,
+      "cookMinutes": 44,
+      "difficulty": "easy",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh",
+          "grams": 900,
+          "displayQuantity": "10 large thighs",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chorizo",
+          "grams": 200,
+          "displayQuantity": "most of a ring",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "red bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "red onion",
+          "grams": 200,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 800,
+          "displayQuantity": "8 medium",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "butter beans",
+          "grams": 240,
+          "displayQuantity": "1 tin, drained",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 30,
+          "displayQuantity": "2½ tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "smoked paprika",
+          "grams": 6,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "left whole",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 20,
+          "displayQuantity": "½ lemon",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parsley",
+          "grams": 12,
+          "displayQuantity": "a small bunch",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1¼ tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Heat the oven to 200°C. Chop the potato, red bell pepper and red onion, slice the chorizo and drain the butter beans.",
+          "durationMinutes": 16,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Toss the potato, pepper, onion and whole garlic in a large tin with the olive oil, smoked paprika and salt. Use two tins if it looks crowded — one crowded tin steams.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the chicken thigh pieces and chorizo and roast for 25 minutes.",
+          "durationMinutes": 25,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Stir in the butter beans, turn everything in the rendered fat and roast for a further 15 minutes until the chicken is golden and cooked through.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Squeeze over the lemon juice, scatter with parsley and serve.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps 3 days and reheats beautifully in a hot oven. Freezes for 2 months, though the potatoes soften.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Beef chilli, light",
+      "summary": "A brothy chilli heavy on beans and peppers with lean mince, slow-simmered until the spices settle.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 15,
+      "cookMinutes": 45,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "minced beef",
+          "grams": 400,
+          "displayQuantity": "400 g lean",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "kidney beans, canned",
+          "grams": 240,
+          "displayQuantity": "1 tin, drained",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "black beans, canned",
+          "grams": 240,
+          "displayQuantity": "1 tin, drained",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 800,
+          "displayQuantity": "2 tins",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "red bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 medium",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "ground cumin",
+          "grams": 5,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "smoked paprika",
+          "grams": 4,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "red pepper flakes",
+          "grams": 2,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "coriander",
+          "grams": 10,
+          "displayQuantity": "a small bunch",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Dice the onion and red bell pepper, mince the garlic and chop the coriander. Drain and rinse both tins of beans.",
+          "durationMinutes": 15,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a heavy pan and brown the minced beef hard, breaking it up as you go. Let it colour properly before stirring — grey mince has no flavour.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the onion and pepper with the salt and cook until softened.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir in the garlic, ground cumin, smoked paprika and red pepper flakes and cook for a minute until the spices smell toasted.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the tomatoes and both tins of beans. Bring to a simmer, then cook uncovered on low, stirring occasionally, until thickened and glossy.",
+          "durationMinutes": 28,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Taste and adjust the salt and heat, then serve scattered with coriander.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Better on the second day. Keeps 4 days in the fridge and freezes for 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Beef chilli",
+      "summary": "A proper chilli con carne — beef mince, two kinds of bean and a deep smoky sauce, served with rice and soured cream.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 15,
+      "cookMinutes": 46,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "minced beef",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "kidney beans, canned",
+          "grams": 240,
+          "displayQuantity": "1 tin, drained",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "black beans, canned",
+          "grams": 240,
+          "displayQuantity": "1 tin, drained",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 800,
+          "displayQuantity": "2 tins",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "red bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 medium",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 200,
+          "displayQuantity": "1 cup dry",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sour cream",
+          "grams": 80,
+          "displayQuantity": "4 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "ground cumin",
+          "grams": 5,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "smoked paprika",
+          "grams": 4,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "red pepper flakes",
+          "grams": 2,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "coriander",
+          "grams": 10,
+          "displayQuantity": "a small bunch",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Dice the onion and red bell pepper, mince the garlic, chop the coriander and rinse both tins of beans.",
+          "durationMinutes": 15,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a heavy pan and brown the minced beef in an even layer, leaving it undisturbed until it has properly coloured.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the onion and pepper with the salt and cook until soft.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir in the garlic, ground cumin, smoked paprika and red pepper flakes and cook for a minute.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the tomatoes and beans and simmer uncovered on low until thick and glossy, stirring now and then.",
+          "durationMinutes": 28,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Twenty minutes before the end, cook the white rice in twice its volume of salted water until tender.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Serve the chilli over the rice with a spoonful of sour cream and plenty of coriander.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Improves overnight. Keeps 4 days and freezes for 3 months — freeze the chilli without the rice or cream.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Beef chilli, hearty",
+      "summary": "A deep, rich chilli with extra beef and beans, served over rice with cheese and soured cream. Feeds four generously.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 16,
+      "cookMinutes": 48,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "minced beef",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "kidney beans, canned",
+          "grams": 240,
+          "displayQuantity": "1 tin, drained",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "black beans, canned",
+          "grams": 240,
+          "displayQuantity": "1 tin, drained",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 800,
+          "displayQuantity": "2 tins",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "red bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 medium",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 280,
+          "displayQuantity": "1½ cups dry",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cheddar cheese",
+          "grams": 80,
+          "displayQuantity": "a large handful",
+          "preparation": "grated",
+          "optional": false
+        },
+        {
+          "name": "sour cream",
+          "grams": 100,
+          "displayQuantity": "5 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "1½ tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "ground cumin",
+          "grams": 6,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "smoked paprika",
+          "grams": 5,
+          "displayQuantity": "2½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "red pepper flakes",
+          "grams": 3,
+          "displayQuantity": "1½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "coriander",
+          "grams": 12,
+          "displayQuantity": "a small bunch",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1¼ tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Dice the onion and red bell pepper, mince the garlic, grate the cheddar cheese, chop the coriander and rinse the beans.",
+          "durationMinutes": 16,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a large heavy pan and brown the minced beef in two batches so it sears rather than stews.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Return all the beef, add the onion and pepper with the salt and cook until softened.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir in the garlic, ground cumin, smoked paprika and red pepper flakes and cook for a minute until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the tomatoes and beans and simmer uncovered until thick, dark and glossy.",
+          "durationMinutes": 28,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the white rice in salted water until tender while the chilli finishes.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Serve over the rice with the cheddar cheese, sour cream and coriander.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps 4 days and improves overnight. Freeze the chilli alone for 3 months; cook rice fresh.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Red lentil dal, light",
+      "summary": "Red lentils simmered soft with tomato, ginger and cumin, finished with a bright hit of lemon. Vegan and very cheap.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "dinner",
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 10,
+      "cookMinutes": 30,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "red lentils",
+          "grams": 250,
+          "displayQuantity": "1¼ cups dry",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "1 tin",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 150,
+          "displayQuantity": "1 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 800,
+          "displayQuantity": "800 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 150,
+          "displayQuantity": "5 handfuls",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 15,
+          "displayQuantity": "a thumb",
+          "preparation": "grated",
+          "optional": false
+        },
+        {
+          "name": "ground cumin",
+          "grams": 4,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ground turmeric",
+          "grams": 3,
+          "displayQuantity": "1½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 20,
+          "displayQuantity": "½ lemon",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "coriander",
+          "grams": 10,
+          "displayQuantity": "a small bunch",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Dice the onion, mince the garlic, grate the ginger and chop the coriander. Rinse the red lentils until the water runs clear.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Warm the olive oil in a large pan and cook the onion with the salt until soft and translucent.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the garlic, ginger, ground cumin and ground turmeric and stir for a minute, until the spices darken slightly and smell toasted.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the lentils, tomatoes and vegetable broth. Simmer uncovered, stirring occasionally so nothing catches, until the lentils have collapsed into a thick porridge.",
+          "durationMinutes": 19,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the spinach through in handfuls until wilted, then add the lemon juice. Taste for salt and serve with coriander over the top.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps 4 days and thickens a great deal — loosen with water when reheating. Freezes for 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Red lentil dal",
+      "summary": "Comforting red lentil dal with a butter and cumin tempering poured over at the end, served with rice.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "dinner",
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 12,
+      "cookMinutes": 32,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "red lentils",
+          "grams": 300,
+          "displayQuantity": "1½ cups dry",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "1 tin",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 150,
+          "displayQuantity": "1 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 800,
+          "displayQuantity": "800 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 150,
+          "displayQuantity": "5 handfuls",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 200,
+          "displayQuantity": "1 cup dry",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 15,
+          "displayQuantity": "a thumb",
+          "preparation": "grated",
+          "optional": false
+        },
+        {
+          "name": "ground cumin",
+          "grams": 5,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ground turmeric",
+          "grams": 3,
+          "displayQuantity": "1½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 20,
+          "displayQuantity": "½ lemon",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "coriander",
+          "grams": 10,
+          "displayQuantity": "a small bunch",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Dice the onion, mince the garlic, grate the ginger and chop the coriander. Rinse the red lentils thoroughly.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Melt half the butter in a large pan and cook the onion with the salt until soft and just starting to colour.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add half the garlic, all the ginger and the ground turmeric and stir for a minute.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the lentils, tomatoes and vegetable broth and simmer until the lentils have completely broken down and the dal is thick.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Meanwhile cook the white rice in salted water until tender.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Wilt the spinach into the dal and add the lemon juice. In a small pan, melt the remaining butter with the ground cumin and the rest of the garlic until it sizzles and smells nutty, then pour it over the dal.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps 4 days and thickens considerably — loosen with water. Freezes for 3 months without the rice.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Red lentil dal, hearty",
+      "summary": "A substantial dal with lentils and chickpeas, spinach and a buttery tempering, served over rice with yoghurt.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 13,
+      "cookMinutes": 33,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "red lentils",
+          "grams": 350,
+          "displayQuantity": "1¾ cups dry",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "chickpeas",
+          "grams": 240,
+          "displayQuantity": "1 tin, drained",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "1 tin",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 150,
+          "displayQuantity": "1 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 900,
+          "displayQuantity": "900 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 200,
+          "displayQuantity": "6 handfuls",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 280,
+          "displayQuantity": "1½ cups dry",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 120,
+          "displayQuantity": "5 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 40,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 18,
+          "displayQuantity": "a large thumb",
+          "preparation": "grated",
+          "optional": false
+        },
+        {
+          "name": "ground cumin",
+          "grams": 6,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ground turmeric",
+          "grams": 4,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 20,
+          "displayQuantity": "½ lemon",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "coriander",
+          "grams": 12,
+          "displayQuantity": "a small bunch",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1¼ tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Dice the onion, mince the garlic, grate the ginger, chop the coriander and rinse the red lentils and chickpeas.",
+          "durationMinutes": 13,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Melt half the butter in a large pan and cook the onion with the salt until soft and lightly golden.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add half the garlic, the ginger and the ground turmeric and stir for a minute.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the lentils, chickpeas, tomatoes and vegetable broth and simmer until the lentils collapse and the dal is thick enough to mound on a spoon.",
+          "durationMinutes": 21,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the white rice in salted water while the dal finishes.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Wilt in the spinach and add the lemon juice. Sizzle the remaining butter with the ground cumin and remaining garlic until nutty, pour it over, and serve over rice with greek yogurt and coriander.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps 4 days and thickens as it sits. Freeze the dal alone for 3 months; add yoghurt fresh.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    }
+  ]
+}

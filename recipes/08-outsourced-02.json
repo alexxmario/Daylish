@@ -1,0 +1,2291 @@
+{
+  "recipes": [
+    {
+      "title": "Smoked salmon kedgeree, light",
+      "summary": "A lighter British kedgeree with smoky salmon, softly spiced rice and boiled eggs. Spring onions and lemon juice keep the breakfast fresh and savoury.",
+      "cuisine": "british",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 15,
+      "cookMinutes": 25,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "salmon",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "hot-smoked and flaked",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 100,
+          "displayQuantity": "1/2 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 80,
+          "displayQuantity": "1 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 60,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 25,
+          "displayQuantity": "3",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 15,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 2,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 2,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "turmeric",
+          "grams": 1,
+          "displayQuantity": "1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 2,
+          "displayQuantity": "1/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice in water with half the salt until tender, then drain it well.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Boil the eggs until the whites are set and the yolks are firm but not dry.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Melt the butter in a wide pan and cook the onion until soft and translucent.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the cumin, paprika and turmeric into the onion until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the salmon, whole milk and cooked white rice through the spiced onion until hot.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Peel and quarter the eggs, then fold them through with the spring onions, lemon juice and remaining salt.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the kedgeree off the heat so the rice absorbs the smoky, spiced flavours.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best served freshly cooked. Refrigerate for up to 2 days and reheat gently with a splash of whole milk. Do not leave the rice at room temperature, and do not freeze the boiled eggs.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Smoked salmon kedgeree",
+      "summary": "A comforting British breakfast of smoky salmon, golden spiced rice and boiled eggs. Butter, spring onions and lemon bring the traditional kedgeree flavours together.",
+      "cuisine": "british",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 15,
+      "cookMinutes": 25,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "salmon",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "hot-smoked and flaked",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 140,
+          "displayQuantity": "2/3 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 100,
+          "displayQuantity": "1 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 16,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 80,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 30,
+          "displayQuantity": "4",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 20,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 3,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 3,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "turmeric",
+          "grams": 2,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 3,
+          "displayQuantity": "1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice in water with half the salt until tender, then drain it well.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Boil the eggs until the whites are set and the yolks remain tender.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Melt the butter in a wide pan and cook the onion until soft and translucent.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the cumin, paprika and turmeric into the onion until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the salmon, whole milk and cooked white rice through the spiced onion until steaming hot.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Peel and quarter the eggs, then fold them through with the spring onions, lemon juice and remaining salt.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the kedgeree off the heat so the rice absorbs the buttery, smoky flavours.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate promptly for up to 2 days and reheat gently until steaming throughout. Add a splash of whole milk if the rice feels dry. The finished dish is not ideal for freezing.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Smoked salmon kedgeree, hearty",
+      "summary": "A generous British kedgeree with extra smoked salmon, rice and eggs. The buttery curry spices make it a substantial breakfast without losing the dish's bright lemon finish.",
+      "cuisine": "british",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 15,
+      "cookMinutes": 27,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "salmon",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "hot-smoked and flaked",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 180,
+          "displayQuantity": "1 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 110,
+          "displayQuantity": "1 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 24,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 100,
+          "displayQuantity": "1/3 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 35,
+          "displayQuantity": "4",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 25,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "turmeric",
+          "grams": 2,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice in water with half the salt until tender, then drain it thoroughly.",
+          "durationMinutes": 17,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Boil the eggs until the whites are set and the yolks are firm but still tender.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Melt the butter in a wide pan and cook the onion until completely soft and translucent.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the cumin, paprika and turmeric into the onion until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the salmon, whole milk and cooked white rice through the spiced onion until evenly heated.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Peel and quarter the eggs, then fold them through with the spring onions, lemon juice and remaining salt.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the kedgeree off the heat so the larger portion absorbs the buttery spices.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best fresh, though leftovers keep for up to 2 days in the refrigerator. Reheat until steaming with a little whole milk. The eggs and rice lose quality if frozen.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Jamaican rice and peas, light",
+      "summary": "A lighter Jamaican lunch of coconut rice and kidney beans scented with thyme, spring onions and allspice. More beans and less rice make it satisfying while preserving the traditional character.",
+      "cuisine": "caribbean",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 12,
+      "cookMinutes": 33,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 220,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "kidney beans, canned",
+          "grams": 420,
+          "displayQuantity": "2 1/2 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "coconut milk",
+          "grams": 220,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 480,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 50,
+          "displayQuantity": "6",
+          "preparation": "lightly crushed",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 4,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "allspice",
+          "grams": 3,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the spring onions and garlic so their flavour can infuse the cooking liquid.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Combine the coconut milk, vegetable broth, kidney beans, spring onions, garlic, thyme, allspice and salt in a large saucepan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Bring the coconut mixture to a steady boil over medium-high heat.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the white rice, cover the pan and simmer gently until the rice is tender and the liquid is absorbed.",
+          "durationMinutes": 26,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Rest the covered rice and peas off the heat so the grains finish steaming.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Remove the spring onions and fluff the white rice and kidney beans gently before serving.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat until steaming with a splash of vegetable broth. Cool the rice promptly after cooking. Freeze in portions for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Jamaican rice and peas",
+      "summary": "Classic Jamaican rice and peas cooked in coconut milk with kidney beans, thyme and allspice. It is fragrant, comforting and substantial enough for a simple lunch.",
+      "cuisine": "caribbean",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 12,
+      "cookMinutes": 35,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 300,
+          "displayQuantity": "1 2/3 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "kidney beans, canned",
+          "grams": 400,
+          "displayQuantity": "2 1/3 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "coconut milk",
+          "grams": 300,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 500,
+          "displayQuantity": "2 cups plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 50,
+          "displayQuantity": "6",
+          "preparation": "lightly crushed",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "allspice",
+          "grams": 4,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the spring onions and garlic so they release their flavour evenly.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Combine the coconut milk, vegetable broth, kidney beans, spring onions, garlic, thyme, allspice and salt in a large saucepan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Bring the coconut mixture to a steady boil over medium-high heat.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the white rice, cover the pan and simmer gently until the grains are tender and the liquid is absorbed.",
+          "durationMinutes": 28,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Rest the covered rice and peas off the heat so the rice finishes steaming.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Remove the spring onions and fluff the white rice and kidney beans gently before serving.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep refrigerated for up to 3 days and reheat thoroughly with a small splash of vegetable broth. Cool leftovers quickly. Freeze individual portions for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Jamaican rice and peas, hearty",
+      "summary": "A generous Jamaican rice and peas with extra rice, beans and creamy coconut milk. Thyme and allspice give the large shared pot its unmistakable Caribbean aroma.",
+      "cuisine": "caribbean",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 12,
+      "cookMinutes": 37,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 380,
+          "displayQuantity": "2 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "kidney beans, canned",
+          "grams": 480,
+          "displayQuantity": "2 3/4 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "coconut milk",
+          "grams": 400,
+          "displayQuantity": "1 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 540,
+          "displayQuantity": "2 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 60,
+          "displayQuantity": "7",
+          "preparation": "lightly crushed",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 6,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "allspice",
+          "grams": 5,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the spring onions and garlic so they can flavour the larger pot evenly.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Combine the coconut milk, vegetable broth, kidney beans, spring onions, garlic, thyme, allspice and salt in a large saucepan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Bring the coconut mixture to a steady boil over medium-high heat.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the white rice, cover the pan and simmer gently until tender and all the liquid is absorbed.",
+          "durationMinutes": 30,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Rest the covered rice and peas off the heat so the larger batch finishes steaming evenly.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Remove the spring onions and fluff the white rice and kidney beans gently before serving.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate promptly for up to 3 days and reheat with a little vegetable broth. The rice and peas freeze well in portions for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Kartoffelpuffer with mushroom sauce, light",
+      "summary": "Crisp German potato pancakes served with a creamy mushroom and thyme sauce. The lighter version uses less oil and sour cream while keeping the pancakes golden and satisfying.",
+      "cuisine": "german",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 29,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "potato",
+          "grams": 650,
+          "displayQuantity": "5 medium",
+          "preparation": "peeled",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 120,
+          "displayQuantity": "1 medium",
+          "preparation": "peeled",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "wheat flour",
+          "grams": 45,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 25,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 450,
+          "displayQuantity": "6 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "sour cream",
+          "grams": 100,
+          "displayQuantity": "1/3 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 120,
+          "displayQuantity": "1/2 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 3,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 3,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Grate the potato and onion using the coarse side of a box grater.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Squeeze the grated potato and onion firmly in a clean towel to remove excess liquid.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Combine the potato, onion, eggs, wheat flour, paprika and half the salt into a thick batter.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Shape the potato mixture into twelve thin, even pancakes.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat half the vegetable oil in a wide frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fry the potato pancakes in batches until crisp and golden on both sides, adding the remaining vegetable oil as needed.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the mushrooms in the empty pan until browned and their released moisture has evaporated.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the sour cream, whole milk, thyme and remaining salt into the mushrooms.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Simmer the mushroom sauce gently until it thickens enough to coat a spoon.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Serve the crisp Kartoffelpuffer with the warm mushroom sauce spooned alongside.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "The pancakes are best freshly fried. Refrigerate pancakes and sauce separately for up to 3 days. Reheat the pancakes in the oven or a dry pan. Freeze the pancakes for up to 2 months, but not the sauce.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Kartoffelpuffer with mushroom sauce",
+      "summary": "Traditional-style German potato pancakes with crisp edges and a savoury mushroom cream sauce. They make a comforting vegetarian dinner for sharing.",
+      "cuisine": "german",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 29,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "potato",
+          "grams": 800,
+          "displayQuantity": "6 medium",
+          "preparation": "peeled",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 150,
+          "displayQuantity": "1 large",
+          "preparation": "peeled",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "wheat flour",
+          "grams": 60,
+          "displayQuantity": "1/2 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 40,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 400,
+          "displayQuantity": "5 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "sour cream",
+          "grams": 150,
+          "displayQuantity": "2/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 140,
+          "displayQuantity": "1/2 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 4,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Grate the potato and onion using the coarse side of a box grater.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Squeeze the grated potato and onion firmly in a clean towel to remove as much liquid as possible.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Combine the potato, onion, eggs, wheat flour, paprika and half the salt into a thick batter.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Shape the potato mixture into twelve even pancakes.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat half the vegetable oil in a wide frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fry the potato pancakes in batches until deeply golden and crisp, adding the remaining vegetable oil as needed.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the mushrooms in the empty pan until browned and their moisture has evaporated.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the sour cream, whole milk, thyme and remaining salt into the mushrooms.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Simmer the mushroom sauce gently until creamy and thick enough to coat the pancakes.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Serve the Kartoffelpuffer immediately with the mushroom sauce spooned alongside.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Store the pancakes and mushroom sauce separately for up to 3 days. Reheat pancakes in a hot oven or dry frying pan to restore their crispness. Freeze only the pancakes for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Kartoffelpuffer with mushroom sauce, hearty",
+      "summary": "A generous platter of crisp German potato pancakes with a rich mushroom, sour cream and thyme sauce. The larger batch makes a substantial vegetarian dinner for four.",
+      "cuisine": "german",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 30,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "potato",
+          "grams": 1000,
+          "displayQuantity": "8 medium",
+          "preparation": "peeled",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "peeled",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "wheat flour",
+          "grams": 80,
+          "displayQuantity": "2/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 55,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 500,
+          "displayQuantity": "6 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "sour cream",
+          "grams": 200,
+          "displayQuantity": "3/4 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 160,
+          "displayQuantity": "2/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Grate the potato and onion using the coarse side of a box grater.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Squeeze the grated potato and onion firmly in a clean towel until little liquid remains.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Combine the potato, onion, eggs, wheat flour, paprika and half the salt into a thick batter.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Shape the potato mixture into sixteen even pancakes.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat half the vegetable oil in a wide frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fry the potato pancakes in batches until deeply golden and crisp, adding the remaining vegetable oil as needed.",
+          "durationMinutes": 13,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the mushrooms in the empty pan until browned and their released moisture has evaporated.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the sour cream, whole milk, thyme and remaining salt into the mushrooms.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Simmer the mushroom sauce gently until rich and thick enough to cling to a spoon.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Serve the Kartoffelpuffer hot with the mushroom sauce alongside.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the pancakes and sauce separately for up to 3 days. Reheat the pancakes in a hot oven for the best texture. Freeze cooled pancakes between sheets of paper for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Aloo tikki, light",
+      "summary": "Golden Indian potato cakes flavoured with ginger, cumin, cilantro and lemon. This lighter batch uses less oil while keeping the outside crisp and the middle soft.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 23,
+      "cookMinutes": 22,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "potato",
+          "grams": 600,
+          "displayQuantity": "5 medium",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 100,
+          "displayQuantity": "1 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 10,
+          "displayQuantity": "3 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 15,
+          "displayQuantity": "1/3 cup",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 3,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "turmeric",
+          "grams": 2,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 20,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 50,
+          "displayQuantity": "1 thick slice",
+          "preparation": "crumbled finely",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Simmer the potato in salted water until completely tender when pierced with a knife.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Drain the potato and leave it to cool until the surface looks dry and steamy.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Chop the onion, garlic and cilantro and grate the ginger finely.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Mash the potato until smooth with no large lumps remaining.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Mix the potato with the onion, garlic, ginger, cilantro, cumin, paprika, turmeric, lemon juice, bread and salt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Shape the potato mixture into twelve compact, flat tikki.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Heat the vegetable oil in a wide non-stick frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Fry the aloo tikki until golden and crisp on both sides, turning them carefully once.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Drain the tikki briefly on absorbent paper before serving.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served freshly fried. Refrigerate cooked tikki for up to 3 days and reheat in a dry pan or hot oven. Freeze shaped uncooked or cooked tikki for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Aloo tikki",
+      "summary": "Classic-style Indian potato cakes seasoned with ginger, cumin, turmeric and fresh cilantro. They fry up crisp outside while remaining soft and warmly spiced inside.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 23,
+      "cookMinutes": 22,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "potato",
+          "grams": 750,
+          "displayQuantity": "6 medium",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 120,
+          "displayQuantity": "1 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 15,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 20,
+          "displayQuantity": "1/2 cup",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "turmeric",
+          "grams": 2,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 25,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 70,
+          "displayQuantity": "2 slices",
+          "preparation": "crumbled finely",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 30,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Simmer the potato in salted water until completely tender when pierced with a knife.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Drain the potato and leave it to cool until the surface looks dry and steamy.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Chop the onion, garlic and cilantro and grate the ginger finely.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Mash the potato until smooth with no large lumps remaining.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Mix the potato with the onion, garlic, ginger, cilantro, cumin, paprika, turmeric, lemon juice, bread and salt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Shape the potato mixture into twelve even, compact tikki.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Heat the vegetable oil in a wide frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Fry the aloo tikki until crisp and deeply golden on both sides.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Drain the tikki briefly on absorbent paper before serving.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate cooked tikki for up to 3 days and reheat in a frying pan or hot oven. Freeze shaped uncooked tikki or cooled cooked tikki for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Aloo tikki, hearty",
+      "summary": "A generous batch of thick Indian potato cakes with extra spice, bread and oil for a deeply crisp crust. They are ideal for sharing as a substantial savoury snack.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 23,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "potato",
+          "grams": 900,
+          "displayQuantity": "7 medium",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 150,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 18,
+          "displayQuantity": "2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 25,
+          "displayQuantity": "1/2 cup plus 2 tbsp",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "turmeric",
+          "grams": 3,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 90,
+          "displayQuantity": "2 thick slices",
+          "preparation": "crumbled finely",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 42,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Simmer the potato in salted water until completely tender when pierced with a knife.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Drain the potato and leave it to cool until the surface looks dry and steamy.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Chop the onion, garlic and cilantro and grate the ginger finely.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Mash the potato until smooth with no large lumps remaining.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Mix the potato with the onion, garlic, ginger, cilantro, cumin, paprika, turmeric, lemon juice, bread and salt.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Shape the potato mixture into sixteen thick, compact tikki.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Heat the vegetable oil in a wide frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Fry the aloo tikki until deeply golden and crisp on both sides.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Drain the tikki briefly on absorbent paper before serving.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best hot from the pan. Refrigerate for up to 3 days and reheat until crisp in a hot oven or frying pan. Freeze uncooked or cooked tikki for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Italian zucchini frittata, light",
+      "summary": "A light Italian frittata filled with tender zucchini, spinach, basil and a little parmesan. It is soft in the centre, golden at the edges and well suited to breakfast.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 15,
+      "cookMinutes": 25,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 300,
+          "displayQuantity": "6",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 500,
+          "displayQuantity": "3 medium",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 100,
+          "displayQuantity": "1 medium",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 150,
+          "displayQuantity": "5 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 35,
+          "displayQuantity": "1/3 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 12,
+          "displayQuantity": "1/3 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 50,
+          "displayQuantity": "3 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 190°C so it is ready to finish the frittata.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Slice the zucchini and onion and tear the basil into small pieces.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the olive oil in an ovenproof pan and cook the onion and zucchini until softened and lightly golden.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the spinach and cook until it has wilted and released moisture has evaporated.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Whisk the eggs with the parmesan cheese, whole milk, basil and salt until evenly combined.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Pour the egg mixture evenly over the zucchini, onion and spinach in the pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Bake the frittata until the centre is just set and the edges are lightly golden.",
+          "durationMinutes": 13,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the frittata before slicing so the eggs settle and hold their shape.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Serve warm or at room temperature. Refrigerate for up to 3 days and eat cold or reheat gently. Freeze individual slices for up to 1 month, though the zucchini may soften slightly.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Italian zucchini frittata",
+      "summary": "A classic Italian-style frittata with eggs, zucchini, spinach, basil and parmesan. It is simple, savoury and equally good warm or at room temperature.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 15,
+      "cookMinutes": 25,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 400,
+          "displayQuantity": "8",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 450,
+          "displayQuantity": "3 medium",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 120,
+          "displayQuantity": "1 medium",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 120,
+          "displayQuantity": "4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 60,
+          "displayQuantity": "2/3 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 16,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 15,
+          "displayQuantity": "1/3 cup plus 1 tbsp",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 70,
+          "displayQuantity": "1/4 cup plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 190°C so it is fully hot before the frittata goes in.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Slice the zucchini and onion and tear the basil into small pieces.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the olive oil in an ovenproof pan and cook the onion and zucchini until softened and lightly golden.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the spinach and cook until wilted and any released liquid has evaporated.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Whisk the eggs with the parmesan cheese, whole milk, basil and salt until smooth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Pour the egg mixture evenly over the zucchini, onion and spinach.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Bake the frittata until the centre is just set and the top is lightly golden.",
+          "durationMinutes": 13,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the frittata before slicing so the eggs become firm enough to cut neatly.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Keeps for up to 3 days in the refrigerator and can be served cold, at room temperature or gently reheated. Freeze individual slices for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Italian zucchini frittata, hearty",
+      "summary": "A generous Italian frittata packed with eggs, zucchini, spinach, basil and extra parmesan. It makes a substantial Mediterranean breakfast for sharing.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 15,
+      "cookMinutes": 27,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 500,
+          "displayQuantity": "10",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 500,
+          "displayQuantity": "3 medium",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 140,
+          "displayQuantity": "1 large",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 140,
+          "displayQuantity": "5 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 90,
+          "displayQuantity": "1 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 18,
+          "displayQuantity": "1/2 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 90,
+          "displayQuantity": "1/3 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 190°C so it is fully hot before the larger frittata goes in.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Slice the zucchini and onion and tear the basil into small pieces.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the olive oil in an ovenproof pan and cook the onion and zucchini until softened and lightly golden.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the spinach and cook until wilted and the pan no longer looks watery.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Whisk the eggs with the parmesan cheese, whole milk, basil and salt until evenly combined.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Pour the egg mixture evenly over the zucchini, onion and spinach in the pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Bake the frittata until the thicker centre is just set and the edges are golden.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the frittata before slicing so the eggs settle and hold together neatly.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and serve cold or gently reheated. Individual slices can be frozen for up to 1 month, although the vegetables will be softer after thawing.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    }
+  ]
+}

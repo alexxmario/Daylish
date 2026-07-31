@@ -1,0 +1,2352 @@
+{
+  "recipes": [
+    {
+      "title": "Jamaican cod rundown, light",
+      "summary": "Tender cod and sweet potato simmered in a fragrant coconut, tomato and thyme sauce. Extra vegetables keep this lighter Jamaican lunch colourful and satisfying.",
+      "cuisine": "caribbean",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 36,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "pescatarian",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "cod",
+          "grams": 520,
+          "displayQuantity": "520 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "sweet potato",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "coconut milk",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 160,
+          "displayQuantity": "160 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "allspice",
+          "grams": 3,
+          "displayQuantity": "3 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Cut the cod and sweet potato and prepare the onion, bell pepper, garlic, ginger and lime.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a wide pot over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the onion and bell pepper until softened and lightly golden at the edges.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the garlic, ginger, thyme and allspice and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the coconut milk, tomatoes and sweet potato and bring the sauce to a gentle simmer.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cover the pot and simmer until the sweet potato is nearly tender and the coconut milk sauce has begun to thicken.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Add the cod and simmer gently until the fish is opaque and flakes easily.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Squeeze the lime over the cod rundown and stir carefully without breaking up the fish.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the rundown off the heat so the sauce settles around the cod and vegetables.",
+          "durationMinutes": 7,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days and reheat gently so the cod does not become tough. Freezing is possible for 1 month, though the sweet potato will soften after thawing.",
+      "fridgeDays": 2,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Jamaican cod rundown",
+      "summary": "Flaky cod and sweet potato simmered in a rich Jamaican coconut sauce with tomatoes, thyme, ginger and allspice. It is warming, savoury and ideal for a shared lunch.",
+      "cuisine": "caribbean",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 38,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "pescatarian",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "cod",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "sweet potato",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "coconut milk",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "allspice",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 40,
+          "displayQuantity": "40 g",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Cut the cod and sweet potato and prepare the onion, bell pepper, garlic, ginger and lime.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a wide pot over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the onion and bell pepper until softened and lightly golden at the edges.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the garlic, ginger, thyme and allspice and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the coconut milk, tomatoes and sweet potato and bring the sauce to a gentle simmer.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cover the pot and simmer until the sweet potato is nearly tender and the coconut milk sauce looks rich.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Add the cod and simmer gently until the fish is opaque and flakes easily.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Squeeze the lime over the cod rundown and stir carefully without breaking up the fish.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the rundown off the heat so the sauce settles and thickens slightly.",
+          "durationMinutes": 6,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days and reheat over low heat until steaming. Freeze for up to 1 month, accepting that the sweet potato may become softer.",
+      "fridgeDays": 2,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Jamaican cod rundown, hearty",
+      "summary": "A generous pot of Jamaican cod rundown with extra fish, sweet potato and creamy coconut sauce. Ginger, thyme and allspice give the substantial lunch a warm aromatic finish.",
+      "cuisine": "caribbean",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 42,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "cod",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "sweet potato",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "coconut milk",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 260,
+          "displayQuantity": "260 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "allspice",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 50,
+          "displayQuantity": "50 g",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 24,
+          "displayQuantity": "24 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Cut the cod and sweet potato and prepare the onion, bell pepper, garlic, ginger and lime.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a large, wide pot over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the onion and bell pepper until softened and lightly golden at the edges.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the garlic, ginger, thyme and allspice and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the coconut milk, tomatoes and sweet potato and bring the sauce to a gentle simmer.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cover the pot and simmer until the larger amount of sweet potato is nearly tender and the sauce has reduced.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Add the cod and simmer gently until every piece is opaque and flakes easily.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Squeeze the lime over the cod rundown and stir carefully without breaking up the fish.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the rundown off the heat so the coconut sauce settles around the cod and sweet potato.",
+          "durationMinutes": 6,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days and reheat gently until hot throughout. Freeze portions for up to 1 month, though the sweet potato will be softer after thawing.",
+      "fridgeDays": 2,
+      "freezerMonths": 1
+    },
+    {
+      "title": "German white bean stew, light",
+      "summary": "A lighter German-style stew with white beans, potatoes, leeks, carrots and celery in a thyme-scented broth. Extra vegetables make it generous without adding meat or dairy.",
+      "cuisine": "german",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 45,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white beans, canned",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": "cut into small chunks",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "leek",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 160,
+          "displayQuantity": "160 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1000,
+          "displayQuantity": "1 litre",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 3,
+          "displayQuantity": "3 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, carrot, leek, celery, onion and garlic in their listed sizes.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a large pot over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the onion, leek, carrot and celery until softened but not browned.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the garlic and cook until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the tomatoes, paprika and thyme until the vegetables are evenly coated.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the potato and vegetable broth and simmer until the potato is tender.",
+          "durationMinutes": 32,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Stir in the white beans and cook until the beans are hot and the broth has thickened slightly.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Mash a few potato pieces and white beans against the side of the pot to give the stew more body.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the German white bean stew briefly before serving.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat gently with a splash of vegetable broth. The stew freezes well for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "German white bean stew",
+      "summary": "A comforting German-style bean stew with potatoes, carrots, leeks and celery simmered in a savoury tomato and thyme broth. It is hearty, simple and completely vegan.",
+      "cuisine": "german",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 50,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white beans, canned",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "cut into small chunks",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "leek",
+          "grams": 260,
+          "displayQuantity": "260 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1100,
+          "displayQuantity": "1.1 litres",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, carrot, leek, celery, onion and garlic in their listed sizes.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a large pot over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the onion, leek, carrot and celery until soft and lightly sweetened.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the garlic and cook until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the tomatoes, paprika and thyme until the vegetables are evenly coated.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the potato and vegetable broth and simmer until the potato is completely tender.",
+          "durationMinutes": 36,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Stir in the white beans and simmer until the beans are hot and the broth looks rich.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Mash a few potato pieces and white beans against the side of the pot to thicken the stew.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the German white bean stew briefly before serving.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Keeps for up to 4 days in the refrigerator and often tastes better the next day. Reheat with vegetable broth if needed. Freeze for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "German white bean stew, hearty",
+      "summary": "A generous pot of German-style white bean stew with extra potatoes, beans and vegetables. Slow simmering produces a thick, warming vegan dinner for four.",
+      "cuisine": "german",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 55,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white beans, canned",
+          "grams": 850,
+          "displayQuantity": "850 g",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 850,
+          "displayQuantity": "850 g",
+          "preparation": "cut into small chunks",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "leek",
+          "grams": 320,
+          "displayQuantity": "320 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1300,
+          "displayQuantity": "1.3 litres",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 24,
+          "displayQuantity": "24 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, carrot, leek, celery, onion and garlic in their listed sizes.",
+          "durationMinutes": 11,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a large pot over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the onion, leek, carrot and celery until softened and lightly golden.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the garlic and cook until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the tomatoes, paprika and thyme until everything is evenly combined.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the potato and vegetable broth and simmer until the larger amount of potato is completely tender.",
+          "durationMinutes": 40,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Stir in the white beans and simmer until the beans are hot and the stew is thick.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Mash some potato and white beans against the side of the pot to create a hearty texture.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the German white bean stew briefly before serving.",
+          "durationMinutes": 1,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat gently with extra vegetable broth if required. Freeze in portions for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Vegetable pakora, light",
+      "summary": "Crisp Indian pakora filled with onion, potato and spinach in a warmly spiced chickpea flour batter. The lighter version uses more vegetables and less frying oil.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 18,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chickpea flour",
+          "grams": 140,
+          "displayQuantity": "140 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 140,
+          "displayQuantity": "140 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "turmeric",
+          "grams": 2,
+          "displayQuantity": "2 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 3,
+          "displayQuantity": "3 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 20,
+          "displayQuantity": "20 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 20,
+          "displayQuantity": "20 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the onion, grate the potato and chop the spinach and cilantro.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Mix the chickpea flour with the cumin, turmeric and paprika.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Whisk the water into the chickpea flour until a thick batter forms.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Fold the onion, potato, spinach and cilantro through the batter until evenly coated.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the vegetable oil in a wide non-stick frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fry spoonfuls of pakora batter until crisp and golden on both sides, working in batches.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Drain the vegetable pakora briefly on absorbent paper.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Sprinkle the lemon juice over the hot pakora before serving.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served immediately while crisp. Refrigerate for up to 2 days and reheat in a hot oven or dry pan. Freeze cooked pakora for up to 1 month.",
+      "fridgeDays": 2,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Vegetable pakora",
+      "summary": "Golden Indian pakora made with onion, potato and spinach in a cumin and turmeric chickpea flour batter. They are crisp outside, tender inside and ideal for sharing.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 20,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chickpea flour",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 260,
+          "displayQuantity": "260 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 150,
+          "displayQuantity": "150 g",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 175,
+          "displayQuantity": "175 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "turmeric",
+          "grams": 3,
+          "displayQuantity": "3 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 25,
+          "displayQuantity": "25 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 48,
+          "displayQuantity": "48 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 25,
+          "displayQuantity": "25 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the onion, grate the potato and chop the spinach and cilantro.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Mix the chickpea flour with the cumin, turmeric and paprika.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Whisk the water into the chickpea flour until a thick, smooth batter forms.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Fold the onion, potato, spinach and cilantro through the batter until evenly coated.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the vegetable oil in a wide frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fry spoonfuls of pakora batter until deeply golden and crisp on both sides.",
+          "durationMinutes": 14,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Drain the vegetable pakora briefly on absorbent paper.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Sprinkle the lemon juice over the hot pakora before serving.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Serve hot for the best crisp texture. Refrigerate for up to 2 days and reheat in a hot oven. Freeze cooled pakora for up to 1 month.",
+      "fridgeDays": 2,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Vegetable pakora, hearty",
+      "summary": "A generous platter of thick vegetable pakora with extra potato, onion and fragrant spices. The substantial batch stays crisp outside and soft in the centre.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 24,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chickpea flour",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 380,
+          "displayQuantity": "380 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 230,
+          "displayQuantity": "230 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "turmeric",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 70,
+          "displayQuantity": "70 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the onion, grate the potato and chop the spinach and cilantro.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Mix the chickpea flour with the cumin, turmeric and paprika.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Whisk the water into the chickpea flour until a thick batter forms.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Fold the onion, potato, spinach and cilantro through the batter until evenly coated.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the vegetable oil in a large frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fry generous spoonfuls of pakora batter until deeply golden and cooked through, working in batches.",
+          "durationMinutes": 17,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Drain the vegetable pakora briefly on absorbent paper.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Sprinkle the lemon juice over the hot pakora before serving.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best eaten freshly fried. Refrigerate for up to 2 days and reheat in a hot oven until crisp. Freeze cooled pakora for up to 1 month.",
+      "fridgeDays": 2,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Uova in purgatorio, light",
+      "summary": "Italian eggs gently poached in a garlicky tomato sauce with spinach and basil. A little parmesan and toasted bread complete this lighter Mediterranean breakfast.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 12,
+      "cookMinutes": 20,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 20,
+          "displayQuantity": "20 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 100,
+          "displayQuantity": "100 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 10,
+          "displayQuantity": "10 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 10,
+          "displayQuantity": "10 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 20,
+          "displayQuantity": "20 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 80,
+          "displayQuantity": "80 g",
+          "preparation": "sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Chop the onion and garlic, tear the basil and arrange the bread for toasting.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a wide frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the onion until soft and translucent.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the garlic and tomato paste and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the tomatoes and simmer until the sauce becomes thick enough to hold shallow wells.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Stir in the spinach and cook until wilted, then crack the eggs into the tomato sauce.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cover the pan and cook until the egg whites are set while the yolks remain tender.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Toast the bread and serve it with the eggs, basil and parmesan cheese.",
+          "durationMinutes": 4,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served immediately while the egg yolks are tender. Refrigerate leftover tomato sauce for up to 3 days, but cook fresh eggs and toast fresh bread when serving again.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Uova in purgatorio",
+      "summary": "Eggs poached in a rich Italian tomato, garlic and basil sauce with spinach, parmesan and toasted bread. It is a warm, savoury Mediterranean breakfast for two.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 12,
+      "cookMinutes": 22,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 150,
+          "displayQuantity": "150 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 16,
+          "displayQuantity": "16 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 35,
+          "displayQuantity": "35 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": "sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Chop the onion and garlic, tear the basil and arrange the bread for toasting.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a wide frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the garlic and tomato paste and stir until fragrant and slightly darkened.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the tomatoes and simmer until the sauce becomes rich and spoonable.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Stir in the spinach and cook until wilted, then crack the eggs into the tomato sauce.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cover the pan and cook until the egg whites are set and the yolks remain tender.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Toast the bread and serve it with the eggs, basil and parmesan cheese.",
+          "durationMinutes": 4,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Serve immediately for the best egg texture. Refrigerate leftover tomato sauce for up to 3 days. Reheat the sauce and add fresh eggs, basil, parmesan cheese and bread.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Uova in purgatorio, hearty",
+      "summary": "A generous pan of Italian eggs in a rich tomato and spinach sauce with extra parmesan and toasted bread. It makes a substantial Mediterranean breakfast for two.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 14,
+      "cookMinutes": 24,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 300,
+          "displayQuantity": "6 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 40,
+          "displayQuantity": "40 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 150,
+          "displayQuantity": "150 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 55,
+          "displayQuantity": "55 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Chop the onion and garlic, tear the basil and arrange the bread for toasting.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a wide frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the onion until completely soft and lightly golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the garlic and tomato paste and stir until fragrant and slightly caramelised.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the tomatoes and simmer until the larger amount of sauce becomes thick and rich.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Stir in the spinach and cook until wilted, then crack the eggs into the tomato sauce.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cover the pan and cook until the egg whites are set and the yolks reach your preferred consistency.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Toast the bread and serve it with the eggs, basil and parmesan cheese.",
+          "durationMinutes": 4,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served fresh. Refrigerate the tomato sauce for up to 3 days, then reheat it and cook fresh eggs in the sauce. Add freshly toasted bread, basil and parmesan cheese.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Pork shogayaki, light",
+      "summary": "Thin pork loin and onion glazed with ginger, soy sauce and rice wine, served with rice and plenty of shredded cabbage. The lighter version keeps the pork generous and trims the starch.",
+      "cuisine": "japanese",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 2,
+      "prepMinutes": 16,
+      "cookMinutes": 20,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 100,
+          "displayQuantity": "100 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 20,
+          "displayQuantity": "20 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 24,
+          "displayQuantity": "24 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 25,
+          "displayQuantity": "25 g",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender, then keep it covered so it finishes steaming.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Slice the pork loin and onion and prepare the ginger, green cabbage and spring onions.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the soy sauce, rice wine and brown sugar together until the sugar dissolves.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the vegetable oil in a wide frying pan over high heat.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the pork loin until lightly browned while keeping the slices tender.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the onion and ginger and stir-fry until the onion softens at the edges.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Pour in the soy sauce mixture and cook until it forms a glossy coating around the pork.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Serve the pork shogayaki with the white rice, green cabbage and spring onions.",
+          "durationMinutes": 5,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the pork and rice for up to 3 days and keep the cabbage separate. Reheat the pork gently until hot and add the fresh cabbage and spring onions after reheating.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Pork shogayaki",
+      "summary": "Japanese pork loin and onion stir-fried in a glossy ginger, soy and rice-wine sauce. Steamed rice and finely shredded cabbage complete the classic lunch.",
+      "cuisine": "japanese",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 2,
+      "prepMinutes": 16,
+      "cookMinutes": 22,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "grams": 380,
+          "displayQuantity": "380 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 150,
+          "displayQuantity": "150 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 24,
+          "displayQuantity": "24 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 36,
+          "displayQuantity": "36 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 9,
+          "displayQuantity": "9 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Slice the pork loin and onion and prepare the ginger, green cabbage and spring onions.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the soy sauce, rice wine and brown sugar together until the sugar dissolves.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the vegetable oil in a wide frying pan over high heat.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the pork loin until browned at the edges but still tender.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the onion and ginger and stir-fry until fragrant and softened.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Pour in the soy sauce mixture and cook until it reduces to a glossy glaze.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Serve the pork shogayaki with the white rice, green cabbage and spring onions.",
+          "durationMinutes": 5,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days. Store the shredded cabbage separately and reheat the pork and rice until steaming. Freeze only the cooked pork mixture for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Pork shogayaki, hearty",
+      "summary": "A generous Japanese lunch with extra ginger-glazed pork loin and steamed rice, balanced by crisp shredded cabbage. The savoury-sweet sauce coats every slice of pork.",
+      "cuisine": "japanese",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 2,
+      "prepMinutes": 18,
+      "cookMinutes": 24,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 210,
+          "displayQuantity": "210 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 45,
+          "displayQuantity": "45 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 38,
+          "displayQuantity": "38 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 35,
+          "displayQuantity": "35 g",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender, then keep it covered so the larger portion finishes steaming.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Slice the pork loin and onion and prepare the ginger, green cabbage and spring onions.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the soy sauce, rice wine and brown sugar together until the sugar dissolves.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the vegetable oil in a large frying pan over high heat.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the pork loin in batches until browned while keeping the slices juicy.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the onion and ginger and stir-fry until the onion is tender and fragrant.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Pour in the soy sauce mixture and cook until it forms a glossy glaze around the pork.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Serve the pork shogayaki with the white rice, green cabbage and spring onions.",
+          "durationMinutes": 5,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and keep the cabbage separate. Reheat the pork and rice gently until hot. Freeze the cooked pork mixture for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    }
+  ]
+}

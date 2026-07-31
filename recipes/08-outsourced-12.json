@@ -1,0 +1,2409 @@
+{
+  "recipes": [
+    {
+      "title": "German beef goulash, light",
+      "summary": "Tender beef brisket, peppers and potatoes simmered in a paprika-rich German goulash. Extra vegetables and less oil keep the shared dinner lighter while the beef stays generous.",
+      "cuisine": "german",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 70,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "beef brisket",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 45,
+          "displayQuantity": "45 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 650,
+          "displayQuantity": "650 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the beef brisket, potato, onion, bell pepper and garlic in their listed sizes.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a large heavy pot over medium-high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brown the beef brisket in batches until coloured on several sides.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion and bell pepper until softened and lightly golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the garlic, paprika and tomato paste until fragrant and slightly darkened.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, beef stock, potato and salt and bring the goulash to a gentle simmer.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cover and simmer until the brisket and potato are tender and the sauce tastes deeply savoury.",
+          "durationMinutes": 50,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Uncover and simmer until the sauce thickens around the beef and vegetables.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the German beef goulash off the heat before serving.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat gently until steaming. The goulash freezes well for up to 3 months; thaw overnight before reheating.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "German beef goulash",
+      "summary": "A deeply savoury German-style beef goulash with tender brisket, potatoes, peppers and onions in a rich paprika and tomato sauce.",
+      "cuisine": "german",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 19,
+      "cookMinutes": 76,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "beef brisket",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 320,
+          "displayQuantity": "320 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 55,
+          "displayQuantity": "55 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 700,
+          "displayQuantity": "700 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 10,
+          "displayQuantity": "10 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 20,
+          "displayQuantity": "20 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the beef brisket, potato, onion, bell pepper and garlic in their listed sizes.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a large heavy pot over medium-high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brown the beef brisket in batches until deeply coloured.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion and bell pepper until soft and lightly caramelised.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the garlic, paprika and tomato paste until fragrant and darkened slightly.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, beef stock, potato and salt and bring the goulash to a gentle simmer.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cover and simmer until the brisket is tender and the potato has absorbed the paprika sauce.",
+          "durationMinutes": 55,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Uncover and simmer until the sauce becomes rich and spoonable.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the German beef goulash off the heat before serving.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days; the flavour improves overnight. Reheat gently with a splash of beef stock if needed. Freeze for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "German beef goulash, hearty",
+      "summary": "A generous pot of German beef goulash with extra brisket and potatoes in a thick paprika-tomato sauce. It is a substantial high-protein dinner for four.",
+      "cuisine": "german",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 21,
+      "cookMinutes": 83,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "beef brisket",
+          "grams": 950,
+          "displayQuantity": "950 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 850,
+          "displayQuantity": "850 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 380,
+          "displayQuantity": "380 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 320,
+          "displayQuantity": "320 g",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 70,
+          "displayQuantity": "70 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 850,
+          "displayQuantity": "850 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 13,
+          "displayQuantity": "13 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 28,
+          "displayQuantity": "28 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "9 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the beef brisket, potato, onion, bell pepper and garlic in their listed sizes.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a large heavy pot over medium-high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brown the beef brisket in batches until deeply coloured on all sides.",
+          "durationMinutes": 11,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion and bell pepper until soft and golden at the edges.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the garlic, paprika and tomato paste until fragrant and slightly caramelised.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, beef stock, potato and salt and bring the larger pot to a gentle simmer.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cover and simmer until the brisket is very tender and the potato is cooked through.",
+          "durationMinutes": 60,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Uncover and simmer until the sauce is thick and glossy.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the German beef goulash off the heat before serving.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Keep refrigerated for up to 4 days and reheat slowly until piping hot. Freeze cooled portions for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Aloo chana chaat, light",
+      "summary": "A lively Indian snack of chickpeas, tender potato, cucumber and onion tossed with lime, ginger and warm spices. Extra cucumber keeps this vegan version fresh and light.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 15,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chickpeas, canned",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "drained",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "peeled and cut into small cubes",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 70,
+          "displayQuantity": "70 g",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 25,
+          "displayQuantity": "25 g",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 10,
+          "displayQuantity": "10 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, cucumber, onion, lime, cilantro and ginger in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Simmer the potato until tender but still able to hold its shape.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Cool the potato until it is no longer steaming.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the lime, ginger, cumin, paprika, brown sugar and salt into a sharp, fragrant dressing.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Combine the chickpeas, potato, cucumber and onion with the dressing.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the cilantro through the aloo chana chaat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Rest the chaat briefly so the flavours settle.",
+          "durationMinutes": 1,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best served soon after mixing. Refrigerate for up to 2 days, though the cucumber will soften. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Aloo chana chaat",
+      "summary": "Tender potato and chickpeas tossed with cucumber, onion, lime, ginger, cumin and cilantro. This colourful Indian chaat is tangy, savoury and completely vegan.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 18,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chickpeas, canned",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "drained",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": "peeled and cut into small cubes",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 150,
+          "displayQuantity": "150 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 85,
+          "displayQuantity": "85 g",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, cucumber, onion, lime, cilantro and ginger in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Simmer the potato until tender but not falling apart.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Cool the potato until warm rather than hot.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the lime, ginger, cumin, paprika, brown sugar and salt into a balanced dressing.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Combine the chickpeas, potato, cucumber and onion with the dressing.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the cilantro through the aloo chana chaat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Rest the chaat briefly before serving.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days and serve chilled or at room temperature. The cucumber softens over time, so the chaat is best fresh. Do not freeze.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Aloo chana chaat, hearty",
+      "summary": "A generous bowl of Indian chickpea and potato chaat with crisp cucumber, onion and a bright lime-spice dressing. It makes a substantial vegan snack for sharing.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 20,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chickpeas, canned",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": "drained",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "peeled and cut into small cubes",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 100,
+          "displayQuantity": "100 g",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 40,
+          "displayQuantity": "40 g",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 10,
+          "displayQuantity": "10 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, cucumber, onion, lime, cilantro and ginger in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Simmer the potato until tender while the cubes still hold their shape.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Cool the potato until warm rather than steaming.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the lime, ginger, cumin, paprika, brown sugar and salt into a bold dressing.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Combine the chickpeas, potato, cucumber and onion with the dressing.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the cilantro through the aloo chana chaat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Rest the chaat briefly so the larger batch absorbs the dressing.",
+          "durationMinutes": 1,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best eaten on the day it is made. Refrigerate for up to 2 days and stir before serving. Freezing is not suitable.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Italian vegetable frittata, light",
+      "summary": "A light Italian frittata packed with spinach, mushrooms and zucchini, finished with basil and a little parmesan. It is a colourful Mediterranean breakfast for four.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 28,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop",
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 400,
+          "displayQuantity": "8 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 140,
+          "displayQuantity": "140 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 45,
+          "displayQuantity": "45 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 80,
+          "displayQuantity": "80 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 10,
+          "displayQuantity": "10 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 20,
+          "displayQuantity": "20 g",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 190°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the spinach, mushrooms, zucchini, onion and basil in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the olive oil in a wide ovenproof frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, mushrooms and zucchini until tender and the mushroom moisture has evaporated.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Fold the spinach into the vegetables until wilted.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Whisk the eggs, whole milk, parmesan cheese, basil and salt until evenly combined.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour the egg mixture over the vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the frittata on the stovetop until the edges begin to set.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Bake until the centre is just set and the top is lightly golden.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the Italian vegetable frittata before slicing.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and serve cold, at room temperature or gently reheated. Freeze individual slices for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Italian vegetable frittata",
+      "summary": "A tender Italian frittata with eggs, spinach, mushrooms, zucchini, basil and parmesan. The softly baked centre makes it an easy Mediterranean breakfast.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 31,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop",
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 500,
+          "displayQuantity": "10 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 160,
+          "displayQuantity": "160 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 70,
+          "displayQuantity": "70 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 100,
+          "displayQuantity": "100 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 16,
+          "displayQuantity": "16 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 190°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the spinach, mushrooms, zucchini, onion and basil in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the olive oil in a wide ovenproof frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, mushrooms and zucchini until tender and lightly golden.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Fold the spinach into the vegetables until wilted.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Whisk the eggs, whole milk, parmesan cheese, basil and salt until smooth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour the egg mixture over the vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the frittata on the stovetop until the edges begin to set.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Bake until the centre is set but still tender.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the Italian vegetable frittata before slicing.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Keep refrigerated for up to 3 days. Serve cold or reheat gently so the eggs remain tender. Freeze slices for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Italian vegetable frittata, hearty",
+      "summary": "A generous Italian frittata with extra eggs and parmesan, plus plenty of spinach, mushrooms and zucchini. It is a substantial Mediterranean breakfast for four.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 34,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop",
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 650,
+          "displayQuantity": "13 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 190,
+          "displayQuantity": "190 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 100,
+          "displayQuantity": "100 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 130,
+          "displayQuantity": "130 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 28,
+          "displayQuantity": "28 g",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 190°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the spinach, mushrooms, zucchini, onion and basil in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the olive oil in a large ovenproof frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, mushrooms and zucchini until tender and golden at the edges.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Fold the spinach into the vegetables until evenly wilted.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Whisk the eggs, whole milk, parmesan cheese, basil and salt until fully combined.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour the egg mixture over the vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the frittata on the stovetop until the outer edge is visibly set.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Bake until the thick centre is set and lightly puffed.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the Italian vegetable frittata before cutting it into generous slices.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat gently or serve at room temperature. Freeze individual slices for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Tamagodon, light",
+      "summary": "Soft eggs, mushrooms and onion simmered in a lightly sweet soy broth and spooned over rice. Extra vegetables and less rice keep this vegetarian Japanese lunch light.",
+      "cuisine": "japanese",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 2,
+      "prepMinutes": 15,
+      "cookMinutes": 33,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 100,
+          "displayQuantity": "100 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 250,
+          "displayQuantity": "250 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 24,
+          "displayQuantity": "24 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 20,
+          "displayQuantity": "20 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 25,
+          "displayQuantity": "25 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the onion, mushrooms and spring onions in their listed forms.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the vegetable broth, soy sauce, rice wine and brown sugar together.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the sesame oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion and mushrooms until tender and lightly coloured.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour in the broth mixture and simmer until the onion absorbs the savoury sauce.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Beat the eggs until the whites and yolks are loosely combined.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Pour the eggs over the vegetables and cook gently until softly set.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Serve the tamagodon over the white rice and finish with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served immediately while the eggs are soft. Refrigerate for up to 2 days and reheat gently until steaming. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Tamagodon",
+      "summary": "Japanese egg rice bowls with tender onion and mushrooms in a savoury-sweet soy and rice-wine broth. The eggs remain soft and coat the warm rice.",
+      "cuisine": "japanese",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 2,
+      "prepMinutes": 16,
+      "cookMinutes": 36,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 250,
+          "displayQuantity": "5 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 140,
+          "displayQuantity": "140 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 280,
+          "displayQuantity": "280 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 24,
+          "displayQuantity": "24 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the onion, mushrooms and spring onions in their listed forms.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the vegetable broth, soy sauce, rice wine and brown sugar together.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the sesame oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion and mushrooms until soft and lightly golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour in the broth mixture and simmer until the vegetables are well flavoured.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Beat the eggs until loosely combined.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Pour the eggs over the vegetables and cook gently until softly set.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Serve the tamagodon over the white rice and scatter over the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days and reheat gently until hot throughout. The eggs will firm during reheating, so avoid high heat. Do not freeze.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Tamagodon, hearty",
+      "summary": "A generous Japanese rice bowl with extra eggs, mushrooms and rice in a glossy onion and soy broth. It is a substantial vegetarian lunch for two.",
+      "cuisine": "japanese",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 2,
+      "prepMinutes": 18,
+      "cookMinutes": 40,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "vegetarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 350,
+          "displayQuantity": "7 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 190,
+          "displayQuantity": "190 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 320,
+          "displayQuantity": "320 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 36,
+          "displayQuantity": "36 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 9,
+          "displayQuantity": "9 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 35,
+          "displayQuantity": "35 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 10,
+          "displayQuantity": "10 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender, then keep the larger portion covered so it finishes steaming evenly.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the onion, mushrooms and spring onions in their listed forms.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the vegetable broth, soy sauce, rice wine and brown sugar together.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the sesame oil in a large frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion and mushrooms until tender and golden around the edges.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour in the broth mixture and simmer until the vegetables absorb its flavour.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Beat the eggs until loosely combined.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Pour the eggs over the vegetables and cook gently until softly set.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Serve the tamagodon over the white rice and finish generously with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best eaten fresh. Refrigerate for up to 2 days and reheat gently with a spoonful of water. Freezing is not suitable.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Korean beef bulgogi, light",
+      "summary": "Thin beef brisket marinated with soy, rice wine, sesame, garlic and ginger, then grilled with onion. Extra cabbage and less rice keep the Korean dinner lighter.",
+      "cuisine": "korean",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 25,
+      "cookMinutes": 42,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "grill"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "beef brisket",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "very thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 45,
+          "displayQuantity": "45 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 35,
+          "displayQuantity": "35 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 10,
+          "displayQuantity": "10 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame seeds",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 45,
+          "displayQuantity": "45 g",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the beef brisket, onion, green cabbage, garlic, ginger and spring onions in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the soy sauce, rice wine, brown sugar, sesame oil, garlic and ginger into a marinade.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the beef brisket and onion thoroughly with the marinade.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Marinate the brisket in the refrigerator until the savoury seasoning penetrates the thin slices.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Toast the sesame seeds in a dry pan until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Heat a grill pan until very hot.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Grill the brisket and onion in batches until caramelised at the edges and cooked through.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the grilled beef briefly so the juices settle.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Serve the bulgogi with the white rice, green cabbage, spring onions and sesame seeds.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate cooked bulgogi for up to 3 days and keep the rice and cabbage separate. Reheat quickly in a hot pan. Freeze the cooked beef for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Korean beef bulgogi",
+      "summary": "Classic-style Korean beef bulgogi with thin brisket, onion, garlic, ginger and sesame in a glossy soy and rice-wine marinade. Rice and crisp cabbage complete the dinner.",
+      "cuisine": "korean",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 27,
+      "cookMinutes": 47,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "grill"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "beef brisket",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": "very thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 260,
+          "displayQuantity": "260 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 55,
+          "displayQuantity": "55 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 45,
+          "displayQuantity": "45 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 16,
+          "displayQuantity": "16 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame seeds",
+          "grams": 16,
+          "displayQuantity": "16 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 55,
+          "displayQuantity": "55 g",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the beef brisket, onion, green cabbage, garlic, ginger and spring onions in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the soy sauce, rice wine, brown sugar, sesame oil, garlic and ginger into a glossy marinade.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the beef brisket and onion thoroughly with the marinade.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Marinate the brisket in the refrigerator until deeply seasoned.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Toast the sesame seeds in a dry pan until golden and fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Heat a grill pan until very hot.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Grill the brisket and onion in batches until browned, caramelised and cooked through.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the grilled beef briefly so the juices settle.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Serve the bulgogi with the white rice, green cabbage, spring onions and sesame seeds.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and store the rice and cabbage separately. Reheat the beef quickly over high heat. Freeze cooked bulgogi for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Korean beef bulgogi, hearty",
+      "summary": "A generous Korean bulgogi dinner with extra marinated brisket and rice, balanced by crisp cabbage. The caramelised soy, sesame and ginger glaze coats every slice.",
+      "cuisine": "korean",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 56,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "grill"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "beef brisket",
+          "grams": 950,
+          "displayQuantity": "950 g",
+          "preparation": "very thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 360,
+          "displayQuantity": "360 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 26,
+          "displayQuantity": "26 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 26,
+          "displayQuantity": "26 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 70,
+          "displayQuantity": "70 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 55,
+          "displayQuantity": "55 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 24,
+          "displayQuantity": "24 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame seeds",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 65,
+          "displayQuantity": "65 g",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the beef brisket, onion, green cabbage, garlic, ginger and spring onions in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the soy sauce, rice wine, brown sugar, sesame oil, garlic and ginger into a rich marinade.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the beef brisket and onion thoroughly with the marinade.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Marinate the brisket in the refrigerator until the larger batch is deeply seasoned.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the white rice until tender, then keep the larger portion covered so it finishes steaming evenly.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Toast the sesame seeds in a dry pan until golden and fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Heat a large grill pan until very hot.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Grill the brisket and onion in batches until deeply caramelised and cooked through.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the grilled beef briefly so the juices settle.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Serve the bulgogi generously with the white rice, green cabbage, spring onions and sesame seeds.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep refrigerated for up to 3 days and reheat the beef quickly in a hot pan. Store the cabbage separately. Freeze cooked bulgogi for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    }
+  ]
+}

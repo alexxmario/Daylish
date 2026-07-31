@@ -1,0 +1,3043 @@
+{
+  "recipes": [
+    {
+      "title": "Polish pork cutlets with cabbage, light",
+      "summary": "Crisp Polish-style pork cutlets with boiled potatoes and tender cabbage. Extra cabbage and lighter breading keep the lunch lean while the pork remains generous.",
+      "cuisine": "polish",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 50,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "cut into cutlets",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 70,
+          "displayQuantity": "70 g",
+          "preparation": "dry and torn",
+          "optional": false
+        },
+        {
+          "name": "wheat flour",
+          "grams": 45,
+          "displayQuantity": "45 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 100,
+          "displayQuantity": "100 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the pork loin, potato, green cabbage and onion in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Pulse the bread in a food processor until coarse crumbs form.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Pound each loin cutlet to an even thickness.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Season the loin with the paprika and half the salt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Simmer the potato until completely tender when pierced with a knife.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion in the butter until soft and lightly golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the green cabbage with the onion until tender and lightly browned.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Mash the potato with the whole milk until smooth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Arrange the wheat flour, eggs and bread crumbs in separate shallow dishes.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Coat each loin cutlet evenly in the wheat flour.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Dip each floured loin cutlet into the eggs.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Press each loin cutlet firmly into the bread crumbs.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Heat the olive oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Fry the pork cutlets until the first side is deeply golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Turn the pork cutlets and cook until the second side is golden and the centre is cooked through.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Rest the pork cutlets so the juices settle.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 17,
+          "instruction": "Serve the pork cutlets with the potato and green cabbage.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the pork cutlets, potatoes and cabbage separately for up to 3 days. Reheat the cutlets in a hot oven or dry pan. Freeze the cooked cutlets for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Polish pork cutlets with cabbage",
+      "summary": "Crisp Polish-style pork cutlets served with creamy potatoes and buttery cabbage. The familiar breaded pork lunch is savoury, comforting and high in protein.",
+      "cuisine": "polish",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 50,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": "cut into cutlets",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 100,
+          "displayQuantity": "100 g",
+          "preparation": "dry and torn",
+          "optional": false
+        },
+        {
+          "name": "wheat flour",
+          "grams": 60,
+          "displayQuantity": "60 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 120,
+          "displayQuantity": "120 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 20,
+          "displayQuantity": "20 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 28,
+          "displayQuantity": "28 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the pork loin, potato, green cabbage and onion in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Pulse the bread in a food processor until coarse crumbs form.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Pound each loin cutlet to an even thickness.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Season the loin with the paprika and half the salt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Simmer the potato until completely tender when pierced with a knife.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion in the butter until soft and lightly golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the green cabbage with the onion until tender and lightly browned.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Mash the potato with the whole milk until smooth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Arrange the wheat flour, eggs and bread crumbs in separate shallow dishes.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Coat each loin cutlet evenly in the wheat flour.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Dip each floured loin cutlet into the eggs.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Press each loin cutlet firmly into the bread crumbs.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Heat the olive oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Fry the pork cutlets until the first side is deeply golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Turn the pork cutlets and cook until the second side is golden and the centre is cooked through.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Rest the pork cutlets so the juices settle.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 17,
+          "instruction": "Serve the pork cutlets with the potato and green cabbage.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the pork cutlets, potatoes and cabbage separately for up to 3 days. Reheat the cutlets in a hot oven or dry pan. Freeze the cooked cutlets for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Polish pork cutlets with cabbage, hearty",
+      "summary": "A generous Polish lunch of thick breaded pork cutlets, creamy potatoes and buttery cabbage. Extra pork and potatoes make it substantial and high in protein.",
+      "cuisine": "polish",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 50,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "grams": 1000,
+          "displayQuantity": "1000 g",
+          "preparation": "cut into cutlets",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 1100,
+          "displayQuantity": "1100 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 140,
+          "displayQuantity": "140 g",
+          "preparation": "dry and torn",
+          "optional": false
+        },
+        {
+          "name": "wheat flour",
+          "grams": 80,
+          "displayQuantity": "80 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 160,
+          "displayQuantity": "160 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 40,
+          "displayQuantity": "40 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 10,
+          "displayQuantity": "10 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the pork loin, potato, green cabbage and onion in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Pulse the bread in a food processor until coarse crumbs form.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Pound each loin cutlet to an even thickness.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Season the loin with the paprika and half the salt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Simmer the potato until completely tender when pierced with a knife.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion in the butter until soft and lightly golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the green cabbage with the onion until tender and lightly browned.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Mash the potato with the whole milk until smooth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Arrange the wheat flour, eggs and bread crumbs in separate shallow dishes.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Coat each loin cutlet evenly in the wheat flour.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Dip each floured loin cutlet into the eggs.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Press each loin cutlet firmly into the bread crumbs.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Heat the olive oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Fry the pork cutlets until the first side is deeply golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Turn the pork cutlets and cook until the second side is golden and the centre is cooked through.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Rest the pork cutlets so the juices settle.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 17,
+          "instruction": "Serve the pork cutlets with the potato and green cabbage.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the pork cutlets, potatoes and cabbage separately for up to 3 days. Reheat the cutlets in a hot oven or dry pan. Freeze the cooked cutlets for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Vegan lentil sloppy joes, light",
+      "summary": "Saucy red lentils, peppers and carrots piled onto toasted bread in a tangy American tomato sauce. Extra vegetables and less bread keep this vegan dinner lighter.",
+      "cuisine": "american",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 42,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "red lentils",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 160,
+          "displayQuantity": "160 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 45,
+          "displayQuantity": "45 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 800,
+          "displayQuantity": "800 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the onion, bell pepper, carrot, garlic and bread in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Rinse the red lentils under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the olive oil in a large saucepan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, bell pepper and carrot until soft and lightly golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the garlic, paprika and tomato paste until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, vegetable broth, red lentils, brown sugar and salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the filling until the lentils are tender and the sauce is thick enough to mound on bread.",
+          "durationMinutes": 24,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Toast the bread until crisp around the edges.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the sloppy joe filling so it thickens slightly.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Spoon the lentil filling generously over the toasted bread.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Serve the vegan lentil sloppy joes while hot.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the lentil filling for up to 4 days and the bread separately. Reheat the filling with a splash of vegetable broth and toast fresh bread. Freeze the filling for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Vegan lentil sloppy joes",
+      "summary": "American-style sloppy joes made with red lentils, peppers and carrots in a rich tomato sauce, spooned generously over toasted bread.",
+      "cuisine": "american",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 42,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "red lentils",
+          "grams": 360,
+          "displayQuantity": "360 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 260,
+          "displayQuantity": "260 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 55,
+          "displayQuantity": "55 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 850,
+          "displayQuantity": "850 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 20,
+          "displayQuantity": "20 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 20,
+          "displayQuantity": "20 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the onion, bell pepper, carrot, garlic and bread in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Rinse the red lentils under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the olive oil in a large saucepan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, bell pepper and carrot until soft and lightly golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the garlic, paprika and tomato paste until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, vegetable broth, red lentils, brown sugar and salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the filling until the lentils are tender and the sauce is thick enough to mound on bread.",
+          "durationMinutes": 24,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Toast the bread until crisp around the edges.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the sloppy joe filling so it thickens slightly.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Spoon the lentil filling generously over the toasted bread.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Serve the vegan lentil sloppy joes while hot.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the lentil filling for up to 4 days and the bread separately. Reheat the filling with a splash of vegetable broth and toast fresh bread. Freeze the filling for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Vegan lentil sloppy joes, hearty",
+      "summary": "A generous vegan sloppy joe dinner with extra lentils and toasted bread under a thick, savoury-sweet tomato and pepper filling.",
+      "cuisine": "american",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 42,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "red lentils",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 320,
+          "displayQuantity": "320 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 70,
+          "displayQuantity": "70 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1000,
+          "displayQuantity": "1000 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 28,
+          "displayQuantity": "28 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 28,
+          "displayQuantity": "28 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "9 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the onion, bell pepper, carrot, garlic and bread in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Rinse the red lentils under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the olive oil in a large saucepan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, bell pepper and carrot until soft and lightly golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the garlic, paprika and tomato paste until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, vegetable broth, red lentils, brown sugar and salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the filling until the lentils are tender and the sauce is thick enough to mound on bread.",
+          "durationMinutes": 24,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Toast the bread until crisp around the edges.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the sloppy joe filling so it thickens slightly.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Spoon the lentil filling generously over the toasted bread.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Serve the vegan lentil sloppy joes while hot.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the lentil filling for up to 4 days and the bread separately. Reheat the filling with a splash of vegetable broth and toast fresh bread. Freeze the filling for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Vegetarian full English traybake, light",
+      "summary": "A lighter vegetarian full English with baked eggs, mushrooms, beans, spinach, tomatoes and crisp potatoes. Extra vegetables and less bread keep the breakfast generous.",
+      "cuisine": "british",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 26,
+      "cookMinutes": 56,
+      "difficulty": "easy",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 300,
+          "displayQuantity": "6 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "cut into small cubes",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "halved",
+          "optional": false
+        },
+        {
+          "name": "white beans, canned",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 160,
+          "displayQuantity": "160 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 16,
+          "displayQuantity": "16 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 10,
+          "displayQuantity": "10 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, mushrooms, onion and bread in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the potato and onion with the olive oil, paprika and salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Roast the potato and onion until they begin to turn golden.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Add the mushrooms and butter to the tray.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Roast until the mushrooms are tender and browned.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the white beans into the tomatoes in a small ovenproof dish.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Place the bean dish on the roasting tray.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Bake until the white beans and tomatoes are bubbling.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Scatter the spinach across the hot vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Make shallow wells between the vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Crack the eggs into the wells.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bake until the egg whites are set and the yolks reach your preferred consistency.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Toast the bread until crisp and golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Serve the vegetarian full English traybake with the toast.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served immediately while the eggs are tender. Refrigerate leftovers for up to 2 days and reheat gently. Store the toast separately. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Vegetarian full English traybake",
+      "summary": "A vegetarian full English breakfast with baked eggs, mushrooms, tomato beans, spinach, crisp potatoes and toast, all brought together on one tray.",
+      "cuisine": "british",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 26,
+      "cookMinutes": 56,
+      "difficulty": "easy",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 400,
+          "displayQuantity": "8 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "cut into small cubes",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": "halved",
+          "optional": false
+        },
+        {
+          "name": "white beans, canned",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 24,
+          "displayQuantity": "24 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, mushrooms, onion and bread in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the potato and onion with the olive oil, paprika and salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Roast the potato and onion until they begin to turn golden.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Add the mushrooms and butter to the tray.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Roast until the mushrooms are tender and browned.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the white beans into the tomatoes in a small ovenproof dish.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Place the bean dish on the roasting tray.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Bake until the white beans and tomatoes are bubbling.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Scatter the spinach across the hot vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Make shallow wells between the vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Crack the eggs into the wells.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bake until the egg whites are set and the yolks reach your preferred consistency.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Toast the bread until crisp and golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Serve the vegetarian full English traybake with the toast.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served immediately while the eggs are tender. Refrigerate leftovers for up to 2 days and reheat gently. Store the toast separately. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Vegetarian full English traybake, hearty",
+      "summary": "A generous vegetarian full English traybake with extra eggs, potatoes, beans and toast. Mushrooms, spinach and tomatoes keep the substantial breakfast balanced.",
+      "cuisine": "british",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 26,
+      "cookMinutes": 56,
+      "difficulty": "easy",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 600,
+          "displayQuantity": "12 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 950,
+          "displayQuantity": "950 g",
+          "preparation": "cut into small cubes",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": "halved",
+          "optional": false
+        },
+        {
+          "name": "white beans, canned",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 320,
+          "displayQuantity": "320 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 32,
+          "displayQuantity": "32 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 28,
+          "displayQuantity": "28 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "9 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, mushrooms, onion and bread in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the potato and onion with the olive oil, paprika and salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Roast the potato and onion until they begin to turn golden.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Add the mushrooms and butter to the tray.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Roast until the mushrooms are tender and browned.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the white beans into the tomatoes in a small ovenproof dish.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Place the bean dish on the roasting tray.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Bake until the white beans and tomatoes are bubbling.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Scatter the spinach across the hot vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Make shallow wells between the vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Crack the eggs into the wells.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bake until the egg whites are set and the yolks reach your preferred consistency.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Toast the bread until crisp and golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Serve the vegetarian full English traybake with the toast.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served immediately while the eggs are tender. Refrigerate leftovers for up to 2 days and reheat gently. Store the toast separately. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "German cabbage soup with cured pork, light",
+      "summary": "A lighter German cabbage soup with cured pork, potatoes, leeks and root vegetables in a thyme-scented broth. Extra cabbage keeps the lunch generous.",
+      "cuisine": "german",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 50,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced"
+      ],
+      "ingredients": [
+        {
+          "name": "cured pork",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "cut into small pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "leek",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 160,
+          "displayQuantity": "160 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 1500,
+          "displayQuantity": "1500 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sour cream",
+          "grams": 80,
+          "displayQuantity": "80 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the cured pork, potato, green cabbage, leek, carrot, celery, onion and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Melt the butter in a large soup pot over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the cured pork until browned around the edges.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, leek, carrot and celery until softened.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the garlic and thyme and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the green cabbage, potato, beef stock and salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the soup until the potato and cabbage are tender.",
+          "durationMinutes": 30,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the sour cream into a ladle of hot broth until smooth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Return the cream mixture to the soup.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer the soup gently until creamy and evenly hot.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the German cabbage soup off the heat.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Serve the soup with the cured pork distributed evenly between bowls.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat gently without boiling hard so the sour cream stays smooth. Freeze before adding the cream for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "German cabbage soup with cured pork",
+      "summary": "A comforting German-style soup with cured pork, cabbage, potatoes, leeks and vegetables, finished with a little sour cream.",
+      "cuisine": "german",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 50,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced"
+      ],
+      "ingredients": [
+        {
+          "name": "cured pork",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "cut into small pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "leek",
+          "grams": 260,
+          "displayQuantity": "260 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 1500,
+          "displayQuantity": "1500 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sour cream",
+          "grams": 140,
+          "displayQuantity": "140 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 20,
+          "displayQuantity": "20 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the cured pork, potato, green cabbage, leek, carrot, celery, onion and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Melt the butter in a large soup pot over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the cured pork until browned around the edges.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, leek, carrot and celery until softened.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the garlic and thyme and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the green cabbage, potato, beef stock and salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the soup until the potato and cabbage are tender.",
+          "durationMinutes": 30,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the sour cream into a ladle of hot broth until smooth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Return the cream mixture to the soup.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer the soup gently until creamy and evenly hot.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the German cabbage soup off the heat.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Serve the soup with the cured pork distributed evenly between bowls.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat gently without boiling hard so the sour cream stays smooth. Freeze before adding the cream for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "German cabbage soup with cured pork, hearty",
+      "summary": "A generous German cabbage soup with extra cured pork and potatoes in a rich vegetable and thyme broth, finished with creamy sour cream.",
+      "cuisine": "german",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 50,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced"
+      ],
+      "ingredients": [
+        {
+          "name": "cured pork",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "cut into small pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 850,
+          "displayQuantity": "850 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "leek",
+          "grams": 320,
+          "displayQuantity": "320 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 1750,
+          "displayQuantity": "1750 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sour cream",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 10,
+          "displayQuantity": "10 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the cured pork, potato, green cabbage, leek, carrot, celery, onion and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Melt the butter in a large soup pot over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the cured pork until browned around the edges.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, leek, carrot and celery until softened.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the garlic and thyme and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the green cabbage, potato, beef stock and salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the soup until the potato and cabbage are tender.",
+          "durationMinutes": 30,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the sour cream into a ladle of hot broth until smooth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Return the cream mixture to the soup.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer the soup gently until creamy and evenly hot.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the German cabbage soup off the heat.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Serve the soup with the cured pork distributed evenly between bowls.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat gently without boiling hard so the sour cream stays smooth. Freeze before adding the cream for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Chicken saag, light",
+      "summary": "Tender chicken breast in a smooth spinach, tomato, ginger and cumin sauce with a modest serving of rice. Extra spinach keeps this high-protein Indian dinner light.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 28,
+      "cookMinutes": 60,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "blender"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 14,
+          "displayQuantity": "14 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken stock",
+          "grams": 350,
+          "displayQuantity": "350 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the chicken breast, spinach, onion, garlic and ginger in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the olive oil in a wide saucepan over medium-high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Brown the chicken breast until lightly coloured on several sides.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Transfer the breast pieces to a plate.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the onion until soft and golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the garlic, ginger, cumin, paprika and salt and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Add the tomatoes and chicken stock to the onion mixture.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer the sauce until the tomatoes soften and the liquid reduces slightly.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Fold the spinach into the sauce until fully wilted.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Blend the spinach sauce until smooth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Return the spinach sauce to the saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Stir the greek yogurt into the sauce until creamy.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Return the chicken breast to the sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Simmer until the breast is cooked through and the saag is thick and glossy.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 17,
+          "instruction": "Rest the chicken saag off the heat so the flavours settle.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 18,
+          "instruction": "Serve the chicken saag with the white rice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the chicken saag and rice separately for up to 3 days. Reheat gently until steaming. Freeze for up to 1 month, accepting that the yogurt sauce may need stirring after thawing.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Chicken saag",
+      "summary": "Chicken breast simmered in a rich spinach sauce with onion, tomato, garlic, ginger, cumin and yogurt, served with steamed rice.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 28,
+      "cookMinutes": 60,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "blender"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 260,
+          "displayQuantity": "260 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 26,
+          "displayQuantity": "26 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 24,
+          "displayQuantity": "24 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken stock",
+          "grams": 400,
+          "displayQuantity": "400 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the chicken breast, spinach, onion, garlic and ginger in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the olive oil in a wide saucepan over medium-high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Brown the chicken breast until lightly coloured on several sides.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Transfer the breast pieces to a plate.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the onion until soft and golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the garlic, ginger, cumin, paprika and salt and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Add the tomatoes and chicken stock to the onion mixture.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer the sauce until the tomatoes soften and the liquid reduces slightly.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Fold the spinach into the sauce until fully wilted.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Blend the spinach sauce until smooth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Return the spinach sauce to the saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Stir the greek yogurt into the sauce until creamy.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Return the chicken breast to the sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Simmer until the breast is cooked through and the saag is thick and glossy.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 17,
+          "instruction": "Rest the chicken saag off the heat so the flavours settle.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 18,
+          "instruction": "Serve the chicken saag with the white rice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the chicken saag and rice separately for up to 3 days. Reheat gently until steaming. Freeze for up to 1 month, accepting that the yogurt sauce may need stirring after thawing.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Chicken saag, hearty",
+      "summary": "A generous high-protein chicken saag with extra breast, creamy spinach sauce and steamed rice. Ginger, cumin and yogurt give the substantial dinner depth.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 28,
+      "cookMinutes": 60,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "blender"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 950,
+          "displayQuantity": "950 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 850,
+          "displayQuantity": "850 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 360,
+          "displayQuantity": "360 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 26,
+          "displayQuantity": "26 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 32,
+          "displayQuantity": "32 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 10,
+          "displayQuantity": "10 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 10,
+          "displayQuantity": "10 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken stock",
+          "grams": 500,
+          "displayQuantity": "500 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 10,
+          "displayQuantity": "10 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the chicken breast, spinach, onion, garlic and ginger in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the olive oil in a wide saucepan over medium-high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Brown the chicken breast until lightly coloured on several sides.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Transfer the breast pieces to a plate.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the onion until soft and golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the garlic, ginger, cumin, paprika and salt and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Add the tomatoes and chicken stock to the onion mixture.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer the sauce until the tomatoes soften and the liquid reduces slightly.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Fold the spinach into the sauce until fully wilted.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Blend the spinach sauce until smooth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Return the spinach sauce to the saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Stir the greek yogurt into the sauce until creamy.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Return the chicken breast to the sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Simmer until the breast is cooked through and the saag is thick and glossy.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 17,
+          "instruction": "Rest the chicken saag off the heat so the flavours settle.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 18,
+          "instruction": "Serve the chicken saag with the white rice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the chicken saag and rice separately for up to 3 days. Reheat gently until steaming. Freeze for up to 1 month, accepting that the yogurt sauce may need stirring after thawing.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    }
+  ]
+}

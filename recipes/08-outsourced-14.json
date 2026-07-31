@@ -1,0 +1,2641 @@
+{
+  "recipes": [
+    {
+      "title": "Chinese steamed eggs with shrimp, light",
+      "summary": "Silky steamed eggs with tender shrimp and shiitake mushrooms, served with a modest portion of rice. The protein stays generous while the starch and sesame oil remain light.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 12,
+      "cookMinutes": 37,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "shrimp",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": "peeled",
+          "optional": false
+        },
+        {
+          "name": "shiitake mushrooms",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 80,
+          "displayQuantity": "1/3 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "chicken broth",
+          "grams": 360,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 18,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 5,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 25,
+          "displayQuantity": "3",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the shrimp, shiitake mushrooms, spring onions and ginger in their listed forms.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Whisk the eggs until the whites and yolks are evenly combined.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the chicken broth and soy sauce into the eggs without creating too much foam.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Arrange the shrimp and shiitake mushrooms in a shallow heatproof bowl.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour the egg mixture over the shrimp and mushrooms.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Steam the eggs gently until the centre is softly set and the shrimp are opaque.",
+          "durationMinutes": 13,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the steamed eggs so the custard finishes setting.",
+          "durationMinutes": 2,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Finish with the sesame oil, spring onions and ginger, then serve with the white rice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served immediately while the custard is silky. Refrigerate for up to 2 days and reheat very gently. Store the rice separately. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Chinese steamed eggs with shrimp",
+      "summary": "Chinese steamed egg custard with shrimp, shiitake mushrooms and spring onions. The softly set eggs are savoury, delicate and naturally high in protein.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 13,
+      "cookMinutes": 40,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 250,
+          "displayQuantity": "5 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "shrimp",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "peeled",
+          "optional": false
+        },
+        {
+          "name": "shiitake mushrooms",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 120,
+          "displayQuantity": "2/3 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "chicken broth",
+          "grams": 420,
+          "displayQuantity": "1 3/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 24,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 30,
+          "displayQuantity": "4",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 10,
+          "displayQuantity": "1 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the shrimp, shiitake mushrooms, spring onions and ginger in their listed forms.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Whisk the eggs until evenly combined.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the chicken broth and soy sauce into the eggs until smooth.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Arrange the shrimp and shiitake mushrooms in a shallow heatproof bowl.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour the egg mixture over the shrimp and mushrooms.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Steam the eggs gently until the custard is barely set and the shrimp are cooked through.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the steamed eggs so the surface becomes smooth and stable.",
+          "durationMinutes": 2,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Finish with the sesame oil, spring onions and ginger, then serve with the white rice.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served immediately while the custard is silky. Refrigerate for up to 2 days and reheat very gently. Store the rice separately. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Chinese steamed eggs with shrimp, hearty",
+      "summary": "A generous bowl of silky steamed eggs with extra shrimp, mushrooms and rice. Sesame oil, ginger and spring onions give the substantial high-protein breakfast a fragrant finish.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 15,
+      "cookMinutes": 44,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 300,
+          "displayQuantity": "6 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "shrimp",
+          "grams": 380,
+          "displayQuantity": "380 g",
+          "preparation": "peeled",
+          "optional": false
+        },
+        {
+          "name": "shiitake mushrooms",
+          "grams": 160,
+          "displayQuantity": "160 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 170,
+          "displayQuantity": "scant 1 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "chicken broth",
+          "grams": 500,
+          "displayQuantity": "2 cups plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 40,
+          "displayQuantity": "5",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 14,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender, then keep the larger portion covered so it finishes steaming evenly.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the shrimp, shiitake mushrooms, spring onions and ginger in their listed forms.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Whisk the eggs until the whites and yolks are evenly combined.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the chicken broth and soy sauce into the eggs until smooth.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Arrange the shrimp and shiitake mushrooms in a large shallow heatproof bowl.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour the egg mixture over the shrimp and mushrooms.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Steam the eggs gently until the thick custard is softly set and every shrimp is opaque.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the steamed eggs so the custard finishes setting.",
+          "durationMinutes": 2,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Finish with the sesame oil, spring onions and ginger, then serve with the white rice.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served immediately while the custard is silky. Refrigerate for up to 2 days and reheat very gently. Store the rice separately. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Provençal cod and vegetables, light",
+      "summary": "Cod baked over zucchini, peppers, potatoes and tomatoes with garlic, thyme, basil and lemon. Extra vegetables and less oil keep this Provençal lunch light and Mediterranean.",
+      "cuisine": "french",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 43,
+      "difficulty": "easy",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "pescatarian",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "cod",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": "cut into thin wedges",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "cut into thin wedges",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "1 can",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 20,
+          "displayQuantity": "1/2 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 35,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the cod, potato, zucchini, bell pepper, onion, garlic and basil in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the potato and onion with half the olive oil and half the thyme.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Roast the potato and onion until they begin to soften and colour.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Add the zucchini and bell pepper to the roasting dish.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Pour the tomatoes, canned, around the vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Scatter the garlic and remaining thyme over the vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Roast the vegetables until the zucchini is tender and the tomato sauce has reduced slightly.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Place the cod over the vegetables and brush it with the remaining olive oil.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Bake until the cod is opaque and flakes easily at the thickest point.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Finish the Provençal cod with the basil and lemon juice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days and reheat covered until the cod is hot. The vegetables keep well, but the fish is best fresh. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Provençal cod and vegetables",
+      "summary": "Flaky cod baked with potatoes, zucchini, peppers and tomatoes in a fragrant garlic, thyme and basil sauce. It is a colourful French Mediterranean lunch for four.",
+      "cuisine": "french",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 47,
+      "difficulty": "easy",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "pescatarian",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "cod",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "cut into thin wedges",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "cut into thin wedges",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 28,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 6,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 25,
+          "displayQuantity": "2/3 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 45,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the cod, potato, zucchini, bell pepper, onion, garlic and basil in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the potato and onion with half the olive oil and half the thyme.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Roast the potato and onion until lightly golden and nearly tender.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Add the zucchini and bell pepper to the roasting dish.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Pour the tomatoes, canned, around the vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Scatter the garlic and remaining thyme over the vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Roast the vegetables until tender and surrounded by a rich tomato sauce.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Place the cod over the vegetables and brush it with the remaining olive oil.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Bake until the cod flakes easily and remains moist at the centre.",
+          "durationMinutes": 11,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Finish the Provençal cod with the basil and lemon juice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days and reheat covered until the cod is hot. The vegetables keep well, but the fish is best fresh. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Provençal cod and vegetables, hearty",
+      "summary": "A generous Provençal bake with extra cod and potatoes, plus zucchini and peppers in a rich tomato, garlic and herb sauce. It makes a substantial Mediterranean lunch.",
+      "cuisine": "french",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 23,
+      "cookMinutes": 52,
+      "difficulty": "easy",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "pescatarian",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "cod",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 850,
+          "displayQuantity": "850 g",
+          "preparation": "cut into thin wedges",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 360,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into thin wedges",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 650,
+          "displayQuantity": "2 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 40,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 8,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 35,
+          "displayQuantity": "1 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 60,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the cod, potato, zucchini, bell pepper, onion, garlic and basil in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the potato and onion with half the olive oil and half the thyme.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Roast the potato and onion until golden at the edges and nearly tender.",
+          "durationMinutes": 23,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Add the zucchini and bell pepper to the roasting dishes.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Pour the tomatoes, canned, around the vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Scatter the garlic and remaining thyme over the vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Roast the vegetables until tender and the tomato sauce has thickened.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Place the cod over the vegetables and brush it with the remaining olive oil.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Bake until every piece of cod is opaque and flakes easily.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Finish the Provençal cod generously with the basil and lemon juice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days and reheat covered until the cod is hot. The vegetables keep well, but the fish is best fresh. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Greek stuffed peppers, light",
+      "summary": "Bell peppers baked with a savoury filling of beef, rice, zucchini, tomatoes, dill and thyme. Extra vegetables and less rice and oil keep this Mediterranean dinner lighter.",
+      "cuisine": "greek",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 63,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 900,
+          "displayQuantity": "6 large",
+          "preparation": "halved and seeded",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 120,
+          "displayQuantity": "2/3 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 350,
+          "displayQuantity": "2 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 300,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 6,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 4,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 190°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the bell pepper, zucchini, onion and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat half the olive oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Brown the ground beef until no pink remains.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion and zucchini until softened and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the garlic, dill weed and thyme and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the white rice and tomatoes, canned, into the beef mixture.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Pour in half the vegetable broth and simmer until the rice begins to soften.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Arrange the bell pepper halves in a baking dish and brush them with the remaining olive oil.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Fill the bell pepper with the beef and rice mixture.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Pour the remaining vegetable broth around the stuffed peppers.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Cover and bake until the peppers are tender and the rice is cooked through.",
+          "durationMinutes": 28,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Uncover and bake until the tops are lightly browned.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat covered until steaming. Freeze cooked stuffed peppers for up to 2 months and thaw overnight before reheating.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Greek stuffed peppers",
+      "summary": "Greek-style peppers filled with beef, rice, zucchini, tomatoes and fragrant dill and thyme. Slow baking leaves the peppers tender and the filling deeply savoury.",
+      "cuisine": "greek",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 25,
+      "cookMinutes": 67,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 900,
+          "displayQuantity": "6 large",
+          "preparation": "halved and seeded",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 180,
+          "displayQuantity": "1 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 300,
+          "displayQuantity": "2 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 350,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 28,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 8,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 190°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the bell pepper, zucchini, onion and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat half the olive oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Brown the ground beef until evenly coloured.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion and zucchini until soft and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the garlic, dill weed and thyme and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the white rice and tomatoes, canned, into the beef mixture.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Pour in half the vegetable broth and simmer until the rice is partly cooked.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Arrange the bell pepper halves in a baking dish and brush them with the remaining olive oil.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Fill the bell pepper with the beef and rice mixture.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Pour the remaining vegetable broth around the stuffed peppers.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Cover and bake until the peppers are tender and the filling is cooked through.",
+          "durationMinutes": 30,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Uncover and bake until the tops are lightly caramelised.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat covered until steaming. Freeze cooked stuffed peppers for up to 2 months and thaw overnight before reheating.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Greek stuffed peppers, hearty",
+      "summary": "A generous tray of Greek stuffed peppers with extra beef and rice in a rich tomato, dill and thyme filling. It is a substantial Mediterranean dinner for four.",
+      "cuisine": "greek",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 28,
+      "cookMinutes": 78,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 850,
+          "displayQuantity": "850 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 1100,
+          "displayQuantity": "8 large",
+          "preparation": "halved and seeded",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 250,
+          "displayQuantity": "1 1/3 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 400,
+          "displayQuantity": "3 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 650,
+          "displayQuantity": "2 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 450,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 40,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 10,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 190°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the bell pepper, zucchini, onion and garlic in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat half the olive oil in a large frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Brown the ground beef in batches until deeply coloured.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion and zucchini until completely softened.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the garlic, dill weed and thyme and stir until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the white rice and tomatoes, canned, into the beef mixture.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Pour in half the vegetable broth and simmer until the rice begins to soften.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Arrange the bell pepper halves across two baking dishes and brush them with the remaining olive oil.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Fill the bell pepper generously with the beef and rice mixture.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Pour the remaining vegetable broth around the stuffed peppers.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Cover and bake until the peppers are very tender and the rice is fully cooked.",
+          "durationMinutes": 33,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Uncover and bake until the tops are browned.",
+          "durationMinutes": 6,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat covered until steaming. Freeze cooked stuffed peppers for up to 2 months and thaw overnight before reheating.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Moroccan harira, light",
+      "summary": "A lighter vegan Moroccan harira with red lentils, chickpeas, tomatoes, vegetables and warming ginger and cumin. Extra broth and vegetables keep the breakfast filling but not heavy.",
+      "cuisine": "north_african",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 38,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "red lentils",
+          "grams": 180,
+          "displayQuantity": "1 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "chickpeas, canned",
+          "grams": 300,
+          "displayQuantity": "1 3/4 cups",
+          "preparation": "drained",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1400,
+          "displayQuantity": "6 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 250,
+          "displayQuantity": "3 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 160,
+          "displayQuantity": "3 stalks",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 15,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 25,
+          "displayQuantity": "1/2 cup plus 2 tbsp",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 35,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the red lentils under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the onion, carrot, celery, garlic, ginger and cilantro in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the olive oil in a large saucepan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, carrot and celery until softened and fragrant.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the garlic, ginger, cumin and paprika and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, canned, vegetable broth and red lentils.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the harira until the red lentils are tender and beginning to thicken the broth.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Stir in the chickpeas, canned, and simmer until hot and tender.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Fold the cilantro and lemon juice through the harira.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the Moroccan harira briefly before serving.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat with extra vegetable broth if needed. The harira freezes well for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Moroccan harira",
+      "summary": "A warming vegan Moroccan soup with red lentils, chickpeas, tomatoes, celery, ginger, cumin and cilantro. It is savoury, bright and substantial enough for breakfast.",
+      "cuisine": "north_african",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 43,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "red lentils",
+          "grams": 240,
+          "displayQuantity": "1 1/3 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "chickpeas, canned",
+          "grams": 400,
+          "displayQuantity": "2 1/3 cups",
+          "preparation": "drained",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 550,
+          "displayQuantity": "2 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1500,
+          "displayQuantity": "6 1/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 240,
+          "displayQuantity": "3 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 180,
+          "displayQuantity": "4 stalks",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 18,
+          "displayQuantity": "2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "3/4 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 45,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the red lentils under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the onion, carrot, celery, garlic, ginger and cilantro in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the olive oil in a large saucepan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, carrot and celery until soft and lightly golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the garlic, ginger, cumin and paprika and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, canned, vegetable broth and red lentils.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the harira until the red lentils are soft and the broth has body.",
+          "durationMinutes": 25,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Stir in the chickpeas, canned, and simmer until the chickpeas are thoroughly hot.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Fold the cilantro and lemon juice through the harira.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the Moroccan harira briefly before serving.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat with extra vegetable broth if needed. The harira freezes well for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Moroccan harira, hearty",
+      "summary": "A generous pot of vegan Moroccan harira with extra red lentils and chickpeas in a rich tomato and ginger broth. Cilantro and lemon keep the hearty breakfast lively.",
+      "cuisine": "north_african",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 21,
+      "cookMinutes": 48,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "red lentils",
+          "grams": 320,
+          "displayQuantity": "1 3/4 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "chickpeas, canned",
+          "grams": 520,
+          "displayQuantity": "3 cups",
+          "preparation": "drained",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 700,
+          "displayQuantity": "3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1750,
+          "displayQuantity": "7 1/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 300,
+          "displayQuantity": "4 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 220,
+          "displayQuantity": "5 stalks",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 22,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 25,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 8,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 8,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 40,
+          "displayQuantity": "1 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 60,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the red lentils under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the onion, carrot, celery, garlic, ginger and cilantro in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the olive oil in a large saucepan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, carrot and celery until completely softened.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the garlic, ginger, cumin and paprika and stir until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, canned, vegetable broth and red lentils.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the harira until the larger amount of red lentils is very tender and thickens the broth.",
+          "durationMinutes": 28,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Stir in the chickpeas, canned, and simmer until the soup is rich and evenly hot.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Fold the cilantro and lemon juice through the harira.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the Moroccan harira briefly before serving.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat with extra vegetable broth if needed. The harira freezes well for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Spanish chickpea and spinach stew, light",
+      "summary": "An Andalusian-style stew of chickpeas and spinach thickened with toasted bread, garlic, tomato, cumin and paprika. Extra spinach and less bread and oil keep it light.",
+      "cuisine": "spanish",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 24,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop",
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chickpeas, canned",
+          "grams": 500,
+          "displayQuantity": "3 cups",
+          "preparation": "drained",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 60,
+          "displayQuantity": "2 thin slices",
+          "preparation": "torn into pieces",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 300,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 140,
+          "displayQuantity": "1 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 16,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 25,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 250,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the bread, onion and garlic in their listed forms.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat half the olive oil in a wide saucepan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Toast the bread until crisp and golden on both sides.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Transfer the bread to a food processor.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion in the remaining olive oil until soft and translucent.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the garlic, cumin and paprika and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the tomatoes, canned, and simmer until thickened slightly.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Blend the toasted bread with the tomato mixture and vegetable broth into a coarse sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Return the sauce to the pan and stir in the chickpeas, canned.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer the chickpeas until hot and coated in the thick sauce.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Fold in the spinach and cook until wilted and tender.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Finish the Spanish chickpea and spinach stew with the lemon juice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat gently with a splash of vegetable broth. Freeze for up to 2 months, though the spinach will soften.",
+      "fridgeDays": 4,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Spanish chickpea and spinach stew",
+      "summary": "Classic-style Spanish chickpeas with spinach in a thick garlic, bread, tomato, cumin and paprika sauce. The stew is savoury, comforting and completely vegetarian.",
+      "cuisine": "spanish",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 19,
+      "cookMinutes": 27,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop",
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chickpeas, canned",
+          "grams": 650,
+          "displayQuantity": "3 3/4 cups",
+          "preparation": "drained",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 100,
+          "displayQuantity": "3 thick slices",
+          "preparation": "torn into pieces",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "1 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 160,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 24,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 300,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the bread, onion and garlic in their listed forms.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat half the olive oil in a wide saucepan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Toast the bread until deeply golden and crisp.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Transfer the bread to a food processor.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion in the remaining olive oil until soft and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the garlic, cumin and paprika and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the tomatoes, canned, and simmer until rich and spoonable.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Blend the toasted bread with the tomato mixture and vegetable broth into a thick sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Return the sauce to the pan and stir in the chickpeas, canned.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer the chickpeas until tender and coated in the sauce.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Fold in the spinach and cook until fully wilted.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Finish the Spanish chickpea and spinach stew with the lemon juice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat gently with a splash of vegetable broth. Freeze for up to 2 months, though the spinach will soften.",
+      "fridgeDays": 4,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Spanish chickpea and spinach stew, hearty",
+      "summary": "A generous pot of Spanish chickpeas and spinach in a deeply savoury bread, garlic, tomato and paprika sauce. Extra chickpeas and bread make the vegetarian lunch substantial.",
+      "cuisine": "spanish",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 32,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop",
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chickpeas, canned",
+          "grams": 850,
+          "displayQuantity": "5 cups",
+          "preparation": "drained",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 150,
+          "displayQuantity": "5 slices",
+          "preparation": "torn into pieces",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 35,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 8,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 8,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 40,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 380,
+          "displayQuantity": "1 2/3 cups",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the bread, onion and garlic in their listed forms.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat half the olive oil in a large saucepan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Toast the bread in batches until deeply golden and crisp.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Transfer the bread to a food processor.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion in the remaining olive oil until completely soft and golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the garlic, cumin and paprika and stir until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the tomatoes, canned, and simmer until thick and rich.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Blend the toasted bread with the tomato mixture and vegetable broth into a substantial sauce.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Return the sauce to the pan and stir in the chickpeas, canned.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer the chickpeas until hot and fully coated in the sauce.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Fold in the spinach and cook until tender.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Finish the Spanish chickpea and spinach stew with the lemon juice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat gently with a splash of vegetable broth. Freeze for up to 2 months, though the spinach will soften.",
+      "fridgeDays": 4,
+      "freezerMonths": 2
+    }
+  ]
+}

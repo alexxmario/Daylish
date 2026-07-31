@@ -1,0 +1,2932 @@
+{
+  "recipes": [
+    {
+      "title": "Italian baked potato croquettes, light",
+      "summary": "Golden baked potato croquettes with spinach, basil and parmesan. Extra greens and less cheese, bread and oil keep this Italian snack lighter.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 34,
+      "cookMinutes": 44,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop",
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "potato",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 45,
+          "displayQuantity": "45 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 60,
+          "displayQuantity": "60 g",
+          "preparation": "torn",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 120,
+          "displayQuantity": "1 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 10,
+          "displayQuantity": "3 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 15,
+          "displayQuantity": "1/3 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, spinach, onion, garlic, bread and basil in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Pulse the bread in a food processor until coarse crumbs form.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Simmer the potato until completely tender when pierced with a knife.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion in half the olive oil until soft and lightly golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the garlic into the onion until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Fold the spinach into the pan until wilted and fairly dry.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Mash the potato until smooth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Mix the potato, eggs, parmesan cheese, spinach mixture, basil and salt until evenly combined.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Shape the potato mixture into small croquettes.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Roll each croquette in the bread crumbs.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Brush the croquettes with the remaining olive oil.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bake the croquettes until crisp and golden all over.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Rest the Italian baked potato croquettes before serving.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat in a hot oven until crisp. Freeze baked croquettes for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Italian baked potato croquettes",
+      "summary": "Crisp Italian potato croquettes with spinach, basil and parmesan, baked until golden outside and soft and savoury within.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 37,
+      "cookMinutes": 49,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop",
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "potato",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 70,
+          "displayQuantity": "70 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 90,
+          "displayQuantity": "90 g",
+          "preparation": "torn",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 140,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 20,
+          "displayQuantity": "1/2 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, spinach, onion, garlic, bread and basil in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Pulse the bread in a food processor until coarse crumbs form.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Simmer the potato until completely tender when pierced with a knife.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion in half the olive oil until soft and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the garlic into the onion until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Fold the spinach into the pan until wilted and fairly dry.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Mash the potato until smooth.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Mix the potato, eggs, parmesan cheese, spinach mixture, basil and salt until evenly combined.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Shape the potato mixture into small croquettes.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Roll each croquette in the bread crumbs.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Brush the croquettes with the remaining olive oil.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bake the croquettes until crisp and golden all over.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Rest the Italian baked potato croquettes before serving.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat in a hot oven until crisp. Freeze baked croquettes for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Italian baked potato croquettes, hearty",
+      "summary": "A generous batch of baked Italian potato croquettes with extra parmesan, eggs and crisp bread crumbs, balanced by spinach and basil.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 44,
+      "cookMinutes": 57,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop",
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "potato",
+          "grams": 1000,
+          "displayQuantity": "1 kg",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 100,
+          "displayQuantity": "100 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 130,
+          "displayQuantity": "130 g",
+          "preparation": "torn",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 26,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 25,
+          "displayQuantity": "2/3 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, spinach, onion, garlic, bread and basil in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Pulse the bread in a food processor until coarse crumbs form.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Simmer the potato until completely tender when pierced with a knife.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion in half the olive oil until soft and golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the garlic into the onion until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Fold the spinach into the pan until wilted and fairly dry.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Mash the potato until smooth.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Mix the potato, eggs, parmesan cheese, spinach mixture, basil and salt until evenly combined.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Shape the potato mixture into generous croquettes.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Roll each croquette in the bread crumbs.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Brush the croquettes with the remaining olive oil.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bake the croquettes until crisp and deeply golden.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Rest the Italian baked potato croquettes before serving.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat in a hot oven until crisp. Freeze baked croquettes for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Japanese tamagoyaki breakfast plate, light",
+      "summary": "A lighter Japanese breakfast plate with tender rolled omelette, steamed rice, mushrooms, spinach and cool cucumber.",
+      "cuisine": "japanese",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 31,
+      "cookMinutes": 41,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 300,
+          "displayQuantity": "6 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 140,
+          "displayQuantity": "140 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 35,
+          "displayQuantity": "35 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 25,
+          "displayQuantity": "25 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 80,
+          "displayQuantity": "80 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 21,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the mushrooms, spinach, cucumber and spring onions in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Whisk the eggs, vegetable broth, soy sauce, rice wine, brown sugar and salt until evenly combined.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat half the sesame oil in a non-stick frying pan.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the mushrooms until tender and lightly browned.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the spinach into the mushrooms until wilted.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Transfer the mushrooms and spinach to a plate.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Heat the remaining sesame oil in the clean frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Pour a thin layer of the egg mixture into the pan.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Roll the softly set egg layer into a tight log.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Repeat with the remaining egg mixture until a thick tamagoyaki forms.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the tamagoyaki so the layers firm slightly.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 13,
+          "instruction": "Slice the tamagoyaki into even pieces.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Arrange the white rice, mushrooms, spinach and cucumber on serving plates.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Finish the Japanese tamagoyaki breakfast plate with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served fresh. Refrigerate the tamagoyaki, rice and vegetables separately for up to 2 days. Reheat the rice and omelette gently. Do not freeze.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Japanese tamagoyaki breakfast plate",
+      "summary": "Japanese rolled omelette served with steamed rice, soy-sesame mushrooms, spinach, cucumber and spring onions.",
+      "cuisine": "japanese",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 34,
+      "cookMinutes": 43,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 400,
+          "displayQuantity": "8 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 45,
+          "displayQuantity": "45 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 40,
+          "displayQuantity": "40 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 100,
+          "displayQuantity": "100 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 23,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the mushrooms, spinach, cucumber and spring onions in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Whisk the eggs, vegetable broth, soy sauce, rice wine, brown sugar and salt until evenly combined.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat half the sesame oil in a non-stick frying pan.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the mushrooms until tender and lightly browned.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the spinach into the mushrooms until wilted.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Transfer the mushrooms and spinach to a plate.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Heat the remaining sesame oil in the clean frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Pour a thin layer of the egg mixture into the pan.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Roll the softly set egg layer into a tight log.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Repeat with the remaining egg mixture until a thick tamagoyaki forms.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the tamagoyaki so the layers firm slightly.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 13,
+          "instruction": "Slice the tamagoyaki into even pieces.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Arrange the white rice, mushrooms, spinach and cucumber on serving plates.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Finish the Japanese tamagoyaki breakfast plate with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served fresh. Refrigerate the tamagoyaki, rice and vegetables separately for up to 2 days. Reheat the rice and omelette gently. Do not freeze.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Japanese tamagoyaki breakfast plate, hearty",
+      "summary": "A generous Japanese breakfast with extra rolled omelette and rice, plus savoury mushrooms, spinach, cucumber and spring onions.",
+      "cuisine": "japanese",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 39,
+      "cookMinutes": 53,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 500,
+          "displayQuantity": "10 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 55,
+          "displayQuantity": "55 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 40,
+          "displayQuantity": "40 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 50,
+          "displayQuantity": "50 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 120,
+          "displayQuantity": "120 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 26,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the mushrooms, spinach, cucumber and spring onions in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Whisk the eggs, vegetable broth, soy sauce, rice wine, brown sugar and salt until evenly combined.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat half the sesame oil in a non-stick frying pan.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the mushrooms until tender and lightly browned.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the spinach into the mushrooms until wilted.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Transfer the mushrooms and spinach to a plate.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Heat the remaining sesame oil in the clean frying pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Pour a thin layer of the egg mixture into the pan.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Roll the softly set egg layer into a tight log.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Repeat with the remaining egg mixture until a thick tamagoyaki forms.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the tamagoyaki so the layers firm slightly.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 13,
+          "instruction": "Slice the tamagoyaki into even pieces.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Arrange the white rice, mushrooms, spinach and cucumber on serving plates.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Finish the Japanese tamagoyaki breakfast plate with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served fresh. Refrigerate the tamagoyaki, rice and vegetables separately for up to 2 days. Reheat the rice and omelette gently. Do not freeze.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Thai shrimp rice noodle salad, light",
+      "summary": "A lighter Thai lunch of rice noodles, seared shrimp and crisp vegetables tossed with a bright fish-sauce, lime, garlic and ginger dressing.",
+      "cuisine": "thai",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 27,
+      "cookMinutes": 23,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "rice noodles",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "shrimp",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "peeled",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "cut into thin batons",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "cut into thin matchsticks",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "bean sprouts",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 40,
+          "displayQuantity": "40 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "fish sauce",
+          "grams": 50,
+          "displayQuantity": "50 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 20,
+          "displayQuantity": "20 g",
+          "preparation": "finely grated",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the shrimp, cucumber, carrot, green cabbage, bean sprouts, spring onions, cilantro, garlic, lime and ginger in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the fish sauce, lime juice, brown sugar, garlic and ginger into a dressing.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the rice noodles until tender but still springy.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Rinse the rice noodles under cold water and drain them thoroughly.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Coat the shrimp with one third of the dressing.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Rest the shrimp so it absorbs the seasoning.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Heat the vegetable oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the shrimp until pink, opaque and lightly browned.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Cool the shrimp until just warm.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Combine the rice noodles, cucumber, carrot, green cabbage and bean sprouts.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Add the shrimp, spring onions and cilantro to the noodle salad.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Toss the Thai shrimp rice noodle salad with the remaining dressing.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled shortly before serving. Refrigerate the shrimp, noodles, vegetables and dressing separately for up to 2 days. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Thai shrimp rice noodle salad",
+      "summary": "Thai-style rice noodle salad with juicy shrimp, crunchy cabbage, cucumber, carrots and bean sprouts in a lively lime and fish-sauce dressing.",
+      "cuisine": "thai",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 25,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "rice noodles",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "shrimp",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "peeled",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "cut into thin batons",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "cut into thin matchsticks",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "bean sprouts",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 50,
+          "displayQuantity": "50 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 35,
+          "displayQuantity": "35 g",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "fish sauce",
+          "grams": 60,
+          "displayQuantity": "60 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 140,
+          "displayQuantity": "140 g",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 24,
+          "displayQuantity": "24 g",
+          "preparation": "finely grated",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the shrimp, cucumber, carrot, green cabbage, bean sprouts, spring onions, cilantro, garlic, lime and ginger in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the fish sauce, lime juice, brown sugar, garlic and ginger into a dressing.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the rice noodles until tender but still springy.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Rinse the rice noodles under cold water and drain them thoroughly.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Coat the shrimp with one third of the dressing.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Rest the shrimp so it absorbs the seasoning.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Heat the vegetable oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the shrimp until pink, opaque and lightly browned.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Cool the shrimp until just warm.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Combine the rice noodles, cucumber, carrot, green cabbage and bean sprouts.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Add the shrimp, spring onions and cilantro to the noodle salad.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Toss the Thai shrimp rice noodle salad with the remaining dressing.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled shortly before serving. Refrigerate the shrimp, noodles, vegetables and dressing separately for up to 2 days. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Thai shrimp rice noodle salad, hearty",
+      "summary": "A generous Thai noodle salad with extra shrimp and rice noodles, plenty of crisp vegetables and a bold lime, fish-sauce and ginger dressing.",
+      "cuisine": "thai",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 34,
+      "cookMinutes": 30,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "rice noodles",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "shrimp",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": "peeled",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "cut into thin batons",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "cut into thin matchsticks",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "bean sprouts",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 65,
+          "displayQuantity": "65 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 45,
+          "displayQuantity": "45 g",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "fish sauce",
+          "grams": 75,
+          "displayQuantity": "75 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 160,
+          "displayQuantity": "160 g",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 28,
+          "displayQuantity": "28 g",
+          "preparation": "finely grated",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the shrimp, cucumber, carrot, green cabbage, bean sprouts, spring onions, cilantro, garlic, lime and ginger in their listed forms.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the fish sauce, lime juice, brown sugar, garlic and ginger into a dressing.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the rice noodles until tender but still springy.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Rinse the rice noodles under cold water and drain them thoroughly.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Coat the shrimp with one third of the dressing.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Rest the shrimp so it absorbs the seasoning.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Heat the vegetable oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the shrimp until pink, opaque and lightly browned.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Cool the shrimp until just warm.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Combine the rice noodles, cucumber, carrot, green cabbage and bean sprouts.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Add the shrimp, spring onions and cilantro to the noodle salad.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Toss the Thai shrimp rice noodle salad with the remaining dressing.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled shortly before serving. Refrigerate the shrimp, noodles, vegetables and dressing separately for up to 2 days. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Chinese tomato and egg noodles, light",
+      "summary": "A lighter Chinese noodle dinner with soft scrambled eggs, spinach and a bright savoury tomato sauce scented with sesame and spring onions.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 27,
+      "cookMinutes": 35,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "vegetarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "rice noodles",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 300,
+          "displayQuantity": "6 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 40,
+          "displayQuantity": "40 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 40,
+          "displayQuantity": "40 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 300,
+          "displayQuantity": "300 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the onion, spinach, spring onions and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the rice noodles until tender but still springy.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Rinse the rice noodles briefly and drain them thoroughly.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Beat the eggs with half the salt until evenly combined.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat half the sesame oil in a wide frying pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Scramble the eggs until softly set.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Transfer the eggs to a clean plate.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Heat the remaining sesame oil in the pan.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Stir the garlic into the onion until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Add the tomatoes, canned, brown sugar, vegetable broth and remaining salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Simmer the tomato sauce until thick and glossy.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 13,
+          "instruction": "Fold the spinach into the tomato sauce until wilted.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Return the eggs and add the soy sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Toss the rice noodles through the tomato and egg sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Finish the Chinese tomato and egg noodles with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days and reheat quickly in a hot pan with a splash of vegetable broth. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Chinese tomato and egg noodles",
+      "summary": "Chinese tomato and egg noodles with tender scrambled eggs, spinach and spring onions in a glossy soy and sesame tomato sauce.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 37,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "vegetarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "rice noodles",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 400,
+          "displayQuantity": "8 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 50,
+          "displayQuantity": "50 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 50,
+          "displayQuantity": "50 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 350,
+          "displayQuantity": "350 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the onion, spinach, spring onions and garlic in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the rice noodles until tender but still springy.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Rinse the rice noodles briefly and drain them thoroughly.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Beat the eggs with half the salt until evenly combined.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat half the sesame oil in a wide frying pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Scramble the eggs until softly set.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Transfer the eggs to a clean plate.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Heat the remaining sesame oil in the pan.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Stir the garlic into the onion until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Add the tomatoes, canned, brown sugar, vegetable broth and remaining salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Simmer the tomato sauce until thick and glossy.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 13,
+          "instruction": "Fold the spinach into the tomato sauce until wilted.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Return the eggs and add the soy sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Toss the rice noodles through the tomato and egg sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Finish the Chinese tomato and egg noodles with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days and reheat quickly in a hot pan with a splash of vegetable broth. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Chinese tomato and egg noodles, hearty",
+      "summary": "A generous Chinese noodle dinner with extra eggs and rice noodles in a rich tomato, soy, sesame and spring-onion sauce.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 35,
+      "cookMinutes": 46,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "vegetarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "rice noodles",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 500,
+          "displayQuantity": "10 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 65,
+          "displayQuantity": "65 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 65,
+          "displayQuantity": "65 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 26,
+          "displayQuantity": "26 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 450,
+          "displayQuantity": "450 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the onion, spinach, spring onions and garlic in their listed forms.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the rice noodles until tender but still springy.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Rinse the rice noodles briefly and drain them thoroughly.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Beat the eggs with half the salt until evenly combined.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat half the sesame oil in a wide frying pan.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Scramble the eggs until softly set.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Transfer the eggs to a clean plate.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Heat the remaining sesame oil in the pan.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Stir the garlic into the onion until fragrant.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Add the tomatoes, canned, brown sugar, vegetable broth and remaining salt.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Simmer the tomato sauce until thick and glossy.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 13,
+          "instruction": "Fold the spinach into the tomato sauce until wilted.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Return the eggs and add the soy sauce.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Toss the rice noodles through the tomato and egg sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Finish the Chinese tomato and egg noodles with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days and reheat quickly in a hot pan with a splash of vegetable broth. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "French creamy mushroom tartines, light",
+      "summary": "Crisp tartines topped with mushrooms and leeks in a light thyme cream sauce, finished with a little parmesan and baked until golden.",
+      "cuisine": "french",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 29,
+      "cookMinutes": 35,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "bread",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "leek",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "heavy cream",
+          "grams": 100,
+          "displayQuantity": "100 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 100,
+          "displayQuantity": "100 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 35,
+          "displayQuantity": "35 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the bread, mushrooms, leek, onion, garlic and parmesan cheese in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Toast the bread in the oven until dry and lightly crisp.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Melt the butter in a wide frying pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and leek until soft and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the mushrooms until their moisture evaporates and the edges brown.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the garlic and thyme into the mushrooms until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Pour the heavy cream and whole milk into the pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Simmer the mushroom sauce until it thickens enough to mound on bread.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Stir half the parmesan cheese and the salt into the sauce.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Spoon the creamy mushroom mixture over the toasted bread.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Scatter the remaining parmesan cheese over the tartines.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bake the French creamy mushroom tartines until bubbling and golden.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Rest the tartines briefly before serving.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best eaten warm. Refrigerate for up to 2 days and reheat in a hot oven until the bread is crisp. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "French creamy mushroom tartines",
+      "summary": "French mushroom tartines with leeks, garlic and thyme in a creamy parmesan sauce, baked on crisp bread until bubbling and golden.",
+      "cuisine": "french",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 32,
+      "cookMinutes": 38,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "bread",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "leek",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 140,
+          "displayQuantity": "140 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "heavy cream",
+          "grams": 150,
+          "displayQuantity": "150 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 100,
+          "displayQuantity": "100 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 28,
+          "displayQuantity": "28 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 55,
+          "displayQuantity": "55 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the bread, mushrooms, leek, onion, garlic and parmesan cheese in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Toast the bread in the oven until dry and lightly crisp.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Melt the butter in a wide frying pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and leek until soft and lightly golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the mushrooms until their moisture evaporates and the edges brown.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the garlic and thyme into the mushrooms until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Pour the heavy cream and whole milk into the pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Simmer the mushroom sauce until it thickens enough to mound on bread.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Stir half the parmesan cheese and the salt into the sauce.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Spoon the creamy mushroom mixture over the toasted bread.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Scatter the remaining parmesan cheese over the tartines.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bake the French creamy mushroom tartines until bubbling and golden.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Rest the tartines briefly before serving.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best eaten warm. Refrigerate for up to 2 days and reheat in a hot oven until the bread is crisp. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "French creamy mushroom tartines, hearty",
+      "summary": "A generous tray of crisp French tartines piled with creamy mushrooms, leeks, thyme and extra parmesan under deeply golden tops.",
+      "cuisine": "french",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 37,
+      "cookMinutes": 47,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "bread",
+          "grams": 380,
+          "displayQuantity": "380 g",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "leek",
+          "grams": 320,
+          "displayQuantity": "320 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "heavy cream",
+          "grams": 220,
+          "displayQuantity": "220 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 120,
+          "displayQuantity": "120 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 40,
+          "displayQuantity": "40 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 80,
+          "displayQuantity": "80 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the bread, mushrooms, leek, onion, garlic and parmesan cheese in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Toast the bread in the oven until dry and lightly crisp.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Melt the butter in a wide frying pan.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and leek until soft and lightly golden.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the mushrooms until their moisture evaporates and the edges brown.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the garlic and thyme into the mushrooms until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Pour the heavy cream and whole milk into the pan.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Simmer the mushroom sauce until it thickens enough to mound on bread.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Stir half the parmesan cheese and the salt into the sauce.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Spoon the creamy mushroom mixture over the toasted bread.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Scatter the remaining parmesan cheese over the tartines.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bake the French creamy mushroom tartines until bubbling and deeply golden.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Rest the tartines briefly before serving.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best eaten warm. Refrigerate for up to 2 days and reheat in a hot oven until the bread is crisp. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    }
+  ]
+}

@@ -1,0 +1,2098 @@
+{
+  "recipes": [
+    {
+      "title": "Moroccan zaalouk with cucumber, light",
+      "summary": "Roasted eggplant and tomato are cooked down with garlic, cumin and paprika, then served with crisp cucumber. The lighter version uses less oil and extra vegetables.",
+      "cuisine": "north_african",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 34,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggplant",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "cut into large cubes",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "cut into thick batons",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 3,
+          "displayQuantity": "3 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 3,
+          "displayQuantity": "3 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "roughly chopped",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 220°C so the eggplant roasts rather than steams.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Cut the eggplant into large cubes and spread it across a wide baking tray.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Toss the eggplant with half the olive oil, cumin and paprika until every piece is lightly coated.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Roast the eggplant until collapsed, browned at the edges and tender all the way through.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the garlic in the remaining olive oil until fragrant but not browned.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, canned, and simmer until they become thick and spoonable.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Fold the roasted eggplant into the tomatoes and mash a few pieces to give the zaalouk a rustic texture.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the lemon juice and cilantro through the warm zaalouk.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Cut the cucumber into thick batons for scooping the zaalouk.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the zaalouk until warm or room temperature before serving it with the cucumber.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best served warm or at room temperature. Refrigerate the zaalouk for up to 4 days and keep the cucumber separate so it stays crisp. Freeze only the zaalouk for up to 2 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Moroccan zaalouk with cucumber",
+      "summary": "A smoky Moroccan eggplant and tomato dip seasoned with garlic, cumin, paprika, lemon and cilantro. Crisp cucumber makes it an easy gluten-free snack for sharing.",
+      "cuisine": "north_african",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 36,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggplant",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": "cut into large cubes",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 420,
+          "displayQuantity": "420 g",
+          "preparation": "cut into thick batons",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 24,
+          "displayQuantity": "24 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 28,
+          "displayQuantity": "28 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": "roughly chopped",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 220°C so the eggplant roasts rather than steams.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Cut the eggplant into large cubes and spread it across a wide baking tray.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Toss the eggplant with half the olive oil, cumin and paprika until every piece is lightly coated.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Roast the eggplant until collapsed, browned at the edges and tender all the way through.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the garlic in the remaining olive oil until fragrant but not browned.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, canned, and simmer until they become thick and spoonable.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Fold the roasted eggplant into the tomatoes and mash a few pieces to give the zaalouk a rustic texture.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the lemon juice and cilantro through the warm zaalouk.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Cut the cucumber into thick batons for scooping the zaalouk.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the zaalouk until warm or room temperature before serving it with the cucumber.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best served warm or at room temperature. Refrigerate the zaalouk for up to 4 days and keep the cucumber separate so it stays crisp. Freeze only the zaalouk for up to 2 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Moroccan zaalouk with cucumber, hearty",
+      "summary": "A generous bowl of Moroccan zaalouk with deeply roasted eggplant, rich tomato and plenty of warm spice. Thick cucumber batons make the substantial snack easy to share.",
+      "cuisine": "north_african",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 40,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggplant",
+          "grams": 1000,
+          "displayQuantity": "1000 g",
+          "preparation": "cut into large cubes",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": "cut into thick batons",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 36,
+          "displayQuantity": "36 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 35,
+          "displayQuantity": "35 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 28,
+          "displayQuantity": "28 g",
+          "preparation": "roughly chopped",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 220°C so the eggplant roasts rather than steams.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Cut the eggplant into large cubes and spread it across a wide baking tray.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Toss the eggplant with half the olive oil, cumin and paprika until every piece is lightly coated.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Roast the eggplant until collapsed, browned at the edges and tender all the way through.",
+          "durationMinutes": 24,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the garlic in the remaining olive oil until fragrant but not browned.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, canned, and simmer until they become thick and spoonable.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Fold the roasted eggplant into the tomatoes and mash a few pieces to give the zaalouk a rustic texture.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the lemon juice and cilantro through the warm zaalouk.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Cut the cucumber into thick batons for scooping the zaalouk.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the zaalouk until warm or room temperature before serving it with the cucumber.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best served warm or at room temperature. Refrigerate the zaalouk for up to 4 days and keep the cucumber separate so it stays crisp. Freeze only the zaalouk for up to 2 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Spanish tortilla, light",
+      "summary": "A protein-rich Spanish tortilla with plenty of softly cooked onion, tender potato and eggs. Less oil and potato keep the lighter version balanced without changing its character.",
+      "cuisine": "spanish",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 38,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 500,
+          "displayQuantity": "10 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 320,
+          "displayQuantity": "320 g",
+          "preparation": "peeled and thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the potato and onion thinly so they soften evenly without browning too quickly.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat most of the olive oil in a non-stick frying pan over medium-low heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the potato and onion gently until completely tender but still pale, turning them carefully from time to time.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Beat the eggs in a large bowl until the whites and yolks are evenly combined.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Drain any loose olive oil from the potato and onion, then fold them into the eggs.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Rest the egg mixture so the potato absorbs some of the egg and the tortilla holds together.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Coat the pan with the remaining olive oil and pour in the egg mixture.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the tortilla over medium-low heat until the base is golden and the top is mostly set.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Invert the tortilla onto a plate and slide it back into the pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the second side until golden while the centre remains tender and moist.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the Spanish tortilla before slicing so it sets cleanly.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Serve warm or at room temperature. Refrigerate for up to 3 days and reheat gently in a covered pan, or enjoy cold. Freezing is not recommended because the potato becomes grainy.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Spanish tortilla",
+      "summary": "A classic Spanish tortilla with layers of tender potato and onion held in softly set eggs. It is substantial, simple and excellent warm or at room temperature.",
+      "cuisine": "spanish",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 42,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 600,
+          "displayQuantity": "12 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 480,
+          "displayQuantity": "480 g",
+          "preparation": "peeled and thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the potato and onion thinly so they soften evenly without browning too quickly.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat most of the olive oil in a non-stick frying pan over medium-low heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the potato and onion gently until completely tender but still pale, turning them carefully from time to time.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Beat the eggs in a large bowl until the whites and yolks are evenly combined.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Drain any loose olive oil from the potato and onion, then fold them into the eggs.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Rest the egg mixture so the potato absorbs some of the egg and the tortilla holds together.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Coat the pan with the remaining olive oil and pour in the egg mixture.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the tortilla over medium-low heat until the base is golden and the top is mostly set.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Invert the tortilla onto a plate and slide it back into the pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the second side until golden while the centre remains tender and moist.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the Spanish tortilla before slicing so it sets cleanly.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Serve warm or at room temperature. Refrigerate for up to 3 days and reheat gently in a covered pan, or enjoy cold. Freezing is not recommended because the potato becomes grainy.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Spanish tortilla, hearty",
+      "summary": "A thick, generous Spanish tortilla with extra eggs and potato for a substantial breakfast. The centre stays tender while both sides cook to a deep golden finish.",
+      "cuisine": "spanish",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 44,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 700,
+          "displayQuantity": "14 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "peeled and thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 42,
+          "displayQuantity": "42 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the potato and onion thinly so they soften evenly without browning too quickly.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat most of the olive oil in a non-stick frying pan over medium-low heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the potato and onion gently until completely tender but still pale, turning them carefully from time to time.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Beat the eggs in a large bowl until the whites and yolks are evenly combined.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Drain any loose olive oil from the potato and onion, then fold them into the eggs.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Rest the egg mixture so the potato absorbs some of the egg and the tortilla holds together.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Coat the pan with the remaining olive oil and pour in the egg mixture.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the tortilla over medium-low heat until the base is golden and the top is mostly set.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Invert the tortilla onto a plate and slide it back into the pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the second side until golden while the centre remains tender and moist.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the Spanish tortilla before slicing so it sets cleanly.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Serve warm or at room temperature. Refrigerate for up to 3 days and reheat gently in a covered pan, or enjoy cold. Freezing is not recommended because the potato becomes grainy.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Middle Eastern beef kofta with tahini, light",
+      "summary": "Grilled beef kofta with roasted eggplant, crisp cucumber and lemony tahini. The lighter plate keeps the protein generous while leaning on extra vegetables and less sauce.",
+      "cuisine": "middle_eastern",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 37,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "grill",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "high_protein",
+        "keto",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 520,
+          "displayQuantity": "520 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggplant",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": "cut into thick wedges",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 420,
+          "displayQuantity": "420 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 100,
+          "displayQuantity": "100 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tahini",
+          "grams": 70,
+          "displayQuantity": "70 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 35,
+          "displayQuantity": "35 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 20,
+          "displayQuantity": "20 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 220°C and heat a grill pan over medium-high heat.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cut the eggplant into thick wedges and arrange it on a baking tray.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the eggplant with half the olive oil and a little of the cumin and paprika.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Roast the eggplant until browned at the edges and soft in the centre.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Mix the ground beef with the onion, garlic, remaining cumin, remaining paprika and half the cilantro.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Shape the ground beef mixture into short oval kofta around flat skewers or into compact logs.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Brush the kofta with the remaining olive oil.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Grill the kofta until browned outside and cooked through at the centre.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Whisk the tahini with the lemon juice until smooth and spoonable.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Slice the cucumber and toss it with the remaining cilantro.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the kofta briefly so the juices settle.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Serve the kofta with the roasted eggplant, cucumber and tahini sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the cooked kofta and roasted eggplant for up to 3 days. Keep the cucumber and tahini sauce separate. Freeze the kofta for up to 2 months, but serve the vegetables fresh.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Middle Eastern beef kofta with tahini",
+      "summary": "Spiced beef kofta served with tender roasted eggplant, cucumber and a creamy lemon-tahini sauce. It is a satisfying Middle Eastern lunch with no bread required.",
+      "cuisine": "middle_eastern",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 39,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "grill",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "high_protein",
+        "keto",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggplant",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "cut into thick wedges",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 360,
+          "displayQuantity": "360 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 35,
+          "displayQuantity": "35 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tahini",
+          "grams": 100,
+          "displayQuantity": "100 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 45,
+          "displayQuantity": "45 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 220°C and heat a grill pan over medium-high heat.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cut the eggplant into thick wedges and arrange it on a baking tray.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the eggplant with half the olive oil and a little of the cumin and paprika.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Roast the eggplant until browned at the edges and soft in the centre.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Mix the ground beef with the onion, garlic, remaining cumin, remaining paprika and half the cilantro.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Shape the ground beef mixture into short oval kofta around flat skewers or into compact logs.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Brush the kofta with the remaining olive oil.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Grill the kofta until browned outside and cooked through at the centre.",
+          "durationMinutes": 11,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Whisk the tahini with the lemon juice until smooth and spoonable.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Slice the cucumber and toss it with the remaining cilantro.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the kofta briefly so the juices settle.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Serve the kofta with the roasted eggplant, cucumber and tahini sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the cooked kofta and roasted eggplant for up to 3 days. Keep the cucumber and tahini sauce separate. Freeze the kofta for up to 2 months, but serve the vegetables fresh.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Middle Eastern beef kofta with tahini, hearty",
+      "summary": "A generous platter of grilled beef kofta, roasted eggplant and cucumber with plenty of lemony tahini. Extra beef and sauce make it a substantial keto lunch for four.",
+      "cuisine": "middle_eastern",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 32,
+      "cookMinutes": 41,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "grill",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "high_protein",
+        "keto",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 820,
+          "displayQuantity": "820 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggplant",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": "cut into thick wedges",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 150,
+          "displayQuantity": "150 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 45,
+          "displayQuantity": "45 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tahini",
+          "grams": 140,
+          "displayQuantity": "140 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 55,
+          "displayQuantity": "55 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 40,
+          "displayQuantity": "40 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 220°C and heat a grill pan over medium-high heat.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cut the eggplant into thick wedges and arrange it on a baking tray.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the eggplant with half the olive oil and a little of the cumin and paprika.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Roast the eggplant until browned at the edges and soft in the centre.",
+          "durationMinutes": 24,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Mix the ground beef with the onion, garlic, remaining cumin, remaining paprika and half the cilantro.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Shape the ground beef mixture into short oval kofta around flat skewers or into compact logs.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Brush the kofta with the remaining olive oil.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Grill the kofta until browned outside and cooked through at the centre.",
+          "durationMinutes": 13,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Whisk the tahini with the lemon juice until smooth and spoonable.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Slice the cucumber and toss it with the remaining cilantro.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the kofta briefly so the juices settle.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Serve the kofta with the roasted eggplant, cucumber and tahini sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the cooked kofta and roasted eggplant for up to 3 days. Keep the cucumber and tahini sauce separate. Freeze the kofta for up to 2 months, but serve the vegetables fresh.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Mexican garlic shrimp tacos, light",
+      "summary": "Juicy garlic shrimp with smoky cumin and paprika, tucked into warm tortillas with crisp lime-dressed cabbage. Fewer tortillas and extra cabbage keep this pescatarian dinner light.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 16,
+      "cookMinutes": 15,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "shrimp",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "peeled",
+          "optional": false
+        },
+        {
+          "name": "tortilla",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 360,
+          "displayQuantity": "360 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 10,
+          "displayQuantity": "10 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 10,
+          "displayQuantity": "10 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 3,
+          "displayQuantity": "3 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 3,
+          "displayQuantity": "3 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 50,
+          "displayQuantity": "50 g",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 16,
+          "displayQuantity": "16 g",
+          "preparation": "roughly chopped",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Shred the green cabbage, slice the onion and chop the garlic and cilantro.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Toss the shrimp with the cumin, paprika and half the olive oil.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the remaining olive oil in a wide frying pan over high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion until softened at the edges and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the garlic and cook until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the shrimp and cook until pink, curled and opaque throughout.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Warm the tortilla in a dry pan until soft and flexible.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Toss the green cabbage with half the lime and the cilantro.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Fill the tortilla with the shrimp, onion and dressed green cabbage, then serve with the remaining lime.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled fresh. Refrigerate the cooked shrimp and onion for up to 2 days. Keep the tortilla and dressed green cabbage separate, and do not freeze the assembled tacos.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Mexican garlic shrimp tacos",
+      "summary": "Garlic shrimp tacos with warm spices, soft onion and crisp cabbage dressed with lime and cilantro. They make a lively, easy Mexican dinner for two.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 16,
+      "cookMinutes": 16,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "shrimp",
+          "grams": 340,
+          "displayQuantity": "340 g",
+          "preparation": "peeled",
+          "optional": false
+        },
+        {
+          "name": "tortilla",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 320,
+          "displayQuantity": "320 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 16,
+          "displayQuantity": "16 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 60,
+          "displayQuantity": "60 g",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 20,
+          "displayQuantity": "20 g",
+          "preparation": "roughly chopped",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Shred the green cabbage, slice the onion and chop the garlic and cilantro.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Toss the shrimp with the cumin, paprika and half the olive oil.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the remaining olive oil in a wide frying pan over high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion until softened at the edges and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the garlic and cook until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the shrimp and cook until pink, curled and opaque throughout.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Warm the tortilla in a dry pan until soft and flexible.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Toss the green cabbage with half the lime and the cilantro.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Fill the tortilla with the shrimp, onion and dressed green cabbage, then serve with the remaining lime.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled fresh. Refrigerate the cooked shrimp and onion for up to 2 days. Keep the tortilla and dressed green cabbage separate, and do not freeze the assembled tacos.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Mexican garlic shrimp tacos, hearty",
+      "summary": "A generous plate of garlic shrimp tacos with extra tortillas and plenty of lime-dressed cabbage. More shrimp makes this a substantial pescatarian dinner for two.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 18,
+      "cookMinutes": 18,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "shrimp",
+          "grams": 440,
+          "displayQuantity": "440 g",
+          "preparation": "peeled",
+          "optional": false
+        },
+        {
+          "name": "tortilla",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 380,
+          "displayQuantity": "380 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 75,
+          "displayQuantity": "75 g",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 25,
+          "displayQuantity": "25 g",
+          "preparation": "roughly chopped",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Shred the green cabbage, slice the onion and chop the garlic and cilantro.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Toss the shrimp with the cumin, paprika and half the olive oil.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the remaining olive oil in a wide frying pan over high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion until softened at the edges and lightly golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the garlic and cook until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the shrimp and cook until pink, curled and opaque throughout.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Warm the tortilla in a dry pan until soft and flexible.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Toss the green cabbage with half the lime and the cilantro.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Fill the tortilla with the shrimp, onion and dressed green cabbage, then serve with the remaining lime.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled fresh. Refrigerate the cooked shrimp and onion for up to 2 days. Keep the tortilla and dressed green cabbage separate, and do not freeze the assembled tacos.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Brazilian cinnamon fried bananas, light",
+      "summary": "Ripe banana cooked until golden and finished with a light dusting of cinnamon. This simple Brazilian-style snack is warm, soft and gently caramelised.",
+      "cuisine": "brazilian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 6,
+      "cookMinutes": 10,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "banana",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "ripe but firm, peeled and halved lengthwise",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 3,
+          "displayQuantity": "3 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Peel the banana and halve each one lengthwise without breaking the pieces.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Measure the cinnamon into a small bowl.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the vegetable oil in a wide non-stick pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Fry the banana until golden and caramelised underneath.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Turn the banana carefully and cook until the second side is golden and soft at the centre.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Sprinkle the cinnamon over the hot banana.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Rest the fried banana briefly before serving so the surface caramel sets slightly.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best served warm. Refrigerate leftovers for up to 2 days and reheat briefly in a dry pan. Freezing is not recommended because the banana becomes watery after thawing.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Brazilian cinnamon fried bananas",
+      "summary": "Golden pan-fried banana with cinnamon, a simple Brazilian snack with crisp caramelised edges and a soft centre.",
+      "cuisine": "brazilian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 6,
+      "cookMinutes": 11,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "banana",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "ripe but firm, peeled and halved lengthwise",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 16,
+          "displayQuantity": "16 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Peel the banana and halve each one lengthwise without breaking the pieces.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Measure the cinnamon into a small bowl.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the vegetable oil in a wide non-stick pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Fry the banana until golden and caramelised underneath.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Turn the banana carefully and cook until the second side is golden and soft at the centre.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Sprinkle the cinnamon over the hot banana.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Rest the fried banana briefly before serving so the surface caramel sets slightly.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best served warm. Refrigerate leftovers for up to 2 days and reheat briefly in a dry pan. Freezing is not recommended because the banana becomes watery after thawing.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Brazilian cinnamon fried bananas, hearty",
+      "summary": "A generous platter of Brazilian-style fried banana with deeply caramelised edges and plenty of cinnamon. It is an easy vegan snack for sharing.",
+      "cuisine": "brazilian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 7,
+      "cookMinutes": 13,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "banana",
+          "grams": 850,
+          "displayQuantity": "850 g",
+          "preparation": "ripe but firm, peeled and halved lengthwise",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 24,
+          "displayQuantity": "24 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Peel the banana and halve each one lengthwise without breaking the pieces.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Measure the cinnamon into a small bowl.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the vegetable oil in a wide non-stick pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Fry the banana until golden and caramelised underneath.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Turn the banana carefully and cook until the second side is golden and soft at the centre.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Sprinkle the cinnamon over the hot banana.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Rest the fried banana briefly before serving so the surface caramel sets slightly.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best served warm. Refrigerate leftovers for up to 2 days and reheat briefly in a dry pan. Freezing is not recommended because the banana becomes watery after thawing.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    }
+  ]
+}

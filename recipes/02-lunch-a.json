@@ -1,0 +1,1334 @@
+{
+  "recipes": [
+    {
+      "title": "Chicken burrito bowl, light",
+      "summary": "Seasoned chicken over rice with black beans, salsa and plenty of salad — the flavours of a burrito without the wrap.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 12,
+      "cookMinutes": 20,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "grams": 300,
+          "displayQuantity": "2 breasts",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 90,
+          "displayQuantity": "½ cup dry",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "black beans, canned",
+          "grams": 150,
+          "displayQuantity": "½ tin, drained",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "tomatoes",
+          "grams": 150,
+          "displayQuantity": "2 medium",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "red onion",
+          "grams": 60,
+          "displayQuantity": "½ small",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "lettuce",
+          "grams": 100,
+          "displayQuantity": "4 handfuls",
+          "preparation": "shredded",
+          "optional": false
+        },
+        {
+          "name": "lime juice",
+          "grams": 20,
+          "displayQuantity": "1 lime",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 7,
+          "displayQuantity": "1½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ground cumin",
+          "grams": 2,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "smoked paprika",
+          "grams": 2,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "coriander",
+          "grams": 10,
+          "displayQuantity": "a small bunch",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 3,
+          "displayQuantity": "½ tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice until the water runs clear, then simmer in twice its volume of water with a pinch of the salt until tender and the water has gone.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "While the rice cooks, dice the tomatoes and red onion, shred the lettuce and chop the coriander. Toss the tomatoes and onion with half the lime juice and a little salt to make a rough salsa.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Slice the chicken breast and toss it with the ground cumin, smoked paprika and remaining salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the olive oil in a frying pan over high heat and cook the chicken until browned at the edges and cooked through — it should no longer be pink in the centre.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Warm the black beans through in the same pan for a minute, scraping up any browned bits.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Build the bowls: rice first, then beans, chicken, salsa and lettuce in separate sections. Finish with the coriander and the rest of the lime juice.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps 3 days in the fridge. Store the lettuce separately and add it cold; reheat the rice, beans and chicken together.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Chicken burrito bowl",
+      "summary": "Cumin and paprika chicken over rice with black beans, salsa, avocado and soured cream. A proper weekday lunch.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 13,
+      "cookMinutes": 20,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "grams": 320,
+          "displayQuantity": "2 large breasts",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 130,
+          "displayQuantity": "⅔ cup dry",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "black beans, canned",
+          "grams": 200,
+          "displayQuantity": "1 tin, drained",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "tomatoes",
+          "grams": 150,
+          "displayQuantity": "2 medium",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "red onion",
+          "grams": 60,
+          "displayQuantity": "½ small",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "lettuce",
+          "grams": 80,
+          "displayQuantity": "3 handfuls",
+          "preparation": "shredded",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "grams": 100,
+          "displayQuantity": "1 small",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "sour cream",
+          "grams": 40,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime juice",
+          "grams": 20,
+          "displayQuantity": "1 lime",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ground cumin",
+          "grams": 2,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "smoked paprika",
+          "grams": 2,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "coriander",
+          "grams": 10,
+          "displayQuantity": "a small bunch",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 3,
+          "displayQuantity": "½ tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice and simmer in twice its volume of salted water until tender and the water has been absorbed.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Dice the tomatoes and red onion, shred the lettuce, slice the avocado and chop the coriander. Toss the tomato and onion with half the lime juice to make a salsa.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Toss the sliced chicken breast with the ground cumin, smoked paprika and salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the olive oil in a frying pan over high heat and cook the chicken until well coloured and cooked through.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the black beans to the pan for the last minute to warm through and pick up the spices.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Build the bowls with rice, beans, chicken, salsa, lettuce and avocado. Add a spoonful of sour cream, the coriander and the remaining lime juice.",
+          "durationMinutes": 4,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps 3 days. Add the avocado, lettuce and sour cream fresh — they do not reheat. The rice, beans and chicken freeze well.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Chicken burrito bowl, hearty",
+      "summary": "A loaded bowl with extra chicken and rice, black beans, cheese, avocado and soured cream. Built for a hungry day.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 14,
+      "cookMinutes": 21,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "grams": 450,
+          "displayQuantity": "3 breasts",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 180,
+          "displayQuantity": "1 cup dry",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "black beans, canned",
+          "grams": 240,
+          "displayQuantity": "1 large tin, drained",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "tomatoes",
+          "grams": 150,
+          "displayQuantity": "2 medium",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "red onion",
+          "grams": 60,
+          "displayQuantity": "½ small",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "lettuce",
+          "grams": 80,
+          "displayQuantity": "3 handfuls",
+          "preparation": "shredded",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "grams": 140,
+          "displayQuantity": "1 medium",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "cheddar cheese",
+          "grams": 50,
+          "displayQuantity": "a handful",
+          "preparation": "grated",
+          "optional": false
+        },
+        {
+          "name": "sour cream",
+          "grams": 50,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime juice",
+          "grams": 20,
+          "displayQuantity": "1 lime",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "1½ tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ground cumin",
+          "grams": 3,
+          "displayQuantity": "1½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "smoked paprika",
+          "grams": 3,
+          "displayQuantity": "1½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "coriander",
+          "grams": 10,
+          "displayQuantity": "a small bunch",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "¾ tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice and simmer in twice its volume of salted water until tender and dry.",
+          "durationMinutes": 13,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Dice the tomatoes and red onion, shred the lettuce, slice the avocado, grate the cheddar cheese and chop the coriander. Dress the tomato and onion with half the lime juice.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Toss the sliced chicken breast with the ground cumin, smoked paprika and salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the olive oil in a large frying pan over high heat and cook the chicken in two batches so it browns rather than steams.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Return all the chicken to the pan, add the black beans and warm through for a minute.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Build the bowls with rice, beans and chicken, then salsa, lettuce, avocado and cheddar cheese. Finish with sour cream, coriander and the last of the lime juice.",
+          "durationMinutes": 4,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps 3 days. Keep avocado, lettuce, cheese and cream separate and add fresh; reheat the rest together.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Red lentil soup, light",
+      "summary": "A brothy red lentil soup with carrot, cumin and lemon. Cheap, filling and ready in half an hour.",
+      "cuisine": "middle_eastern",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 10,
+      "cookMinutes": 28,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "vegan",
+        "dairy_free",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "red lentils",
+          "grams": 200,
+          "displayQuantity": "1 cup dry",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 200,
+          "displayQuantity": "3 medium",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 150,
+          "displayQuantity": "1 large",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 100,
+          "displayQuantity": "2 sticks",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1000,
+          "displayQuantity": "1 litre",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 9,
+          "displayQuantity": "3 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "ground cumin",
+          "grams": 3,
+          "displayQuantity": "1½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 20,
+          "displayQuantity": "½ lemon",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parsley",
+          "grams": 10,
+          "displayQuantity": "a small bunch",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "¾ tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Dice the onion, carrot and celery and mince the garlic. Rinse the red lentils under cold water until it runs clear.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Warm the olive oil in a large pan and cook the onion, carrot and celery with the salt until the onion is soft and translucent.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the garlic and ground cumin and stir for a minute until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the lentils and vegetable broth, bring to a boil, then lower to a simmer and cook until the lentils have collapsed and the soup has thickened.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the lemon juice — this is what lifts the whole pot, so do not skip it. Taste, adjust the salt, and serve scattered with parsley.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps 4 days in the fridge and thickens as it sits — loosen with water when reheating. Freezes very well.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Red lentil soup",
+      "summary": "Red lentil soup enriched with tomato and a little butter, finished with lemon and parsley. Better on the second day.",
+      "cuisine": "middle_eastern",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 10,
+      "cookMinutes": 29,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "red lentils",
+          "grams": 250,
+          "displayQuantity": "1¼ cups dry",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 200,
+          "displayQuantity": "3 medium",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 150,
+          "displayQuantity": "1 large",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 100,
+          "displayQuantity": "2 sticks",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 200,
+          "displayQuantity": "½ tin",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1000,
+          "displayQuantity": "1 litre",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 15,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 9,
+          "displayQuantity": "3 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "ground cumin",
+          "grams": 3,
+          "displayQuantity": "1½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 20,
+          "displayQuantity": "½ lemon",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parsley",
+          "grams": 10,
+          "displayQuantity": "a small bunch",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "¾ tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Dice the onion, carrot and celery, mince the garlic and rinse the red lentils until the water runs clear.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Melt the butter with the olive oil in a large pan and cook the onion, carrot and celery with the salt until soft and beginning to colour at the edges.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Stir in the garlic and ground cumin and cook for a minute until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the lentils, tomatoes and vegetable broth. Bring to a boil, then simmer until the lentils have broken down completely.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Add the lemon juice, taste for salt, and serve with parsley scattered over.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps 4 days and improves overnight. It thickens in the fridge — loosen with water. Freezes for 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Red lentil soup, hearty",
+      "summary": "A thick lentil and chickpea soup with extra lentils and a swirl of yoghurt — closer to a stew than a starter.",
+      "cuisine": "middle_eastern",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 11,
+      "cookMinutes": 30,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "red lentils",
+          "grams": 320,
+          "displayQuantity": "1½ cups dry",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "chickpeas",
+          "grams": 240,
+          "displayQuantity": "1 tin, drained",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 200,
+          "displayQuantity": "3 medium",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 150,
+          "displayQuantity": "1 large",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 100,
+          "displayQuantity": "2 sticks",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 200,
+          "displayQuantity": "½ tin",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1000,
+          "displayQuantity": "1 litre",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "1½ tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 20,
+          "displayQuantity": "1½ tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 100,
+          "displayQuantity": "4 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "ground cumin",
+          "grams": 4,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 20,
+          "displayQuantity": "½ lemon",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parsley",
+          "grams": 12,
+          "displayQuantity": "a small bunch",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Dice the onion, carrot and celery, mince the garlic and rinse the red lentils and chickpeas.",
+          "durationMinutes": 11,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Melt the butter with the olive oil in a large pan and cook the onion, carrot and celery with the salt until softened.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the garlic and ground cumin and stir for a minute.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the lentils, chickpeas, tomatoes and vegetable broth. Simmer until the lentils have collapsed and the soup is thick enough to hold a spoon upright for a moment.",
+          "durationMinutes": 19,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the lemon juice and check the seasoning. Serve with a spoonful of greek yogurt swirled into each bowl and parsley over the top.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps 4 days and thickens considerably — loosen with water or stock. Freeze without the yoghurt for 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Egg fried rice, light",
+      "summary": "Leftover rice fried with egg, peas and spring onion. Ten minutes from cold rice to lunch.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 6,
+      "cookMinutes": 10,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 100,
+          "displayQuantity": "½ cup dry, cooked ahead (about 300 g cooked)",
+          "preparation": "cooked and cooled",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3 large",
+          "preparation": "beaten",
+          "optional": false
+        },
+        {
+          "name": "peas",
+          "grams": 120,
+          "displayQuantity": "1 cup frozen",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onion",
+          "grams": 50,
+          "displayQuantity": "4 stalks",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 80,
+          "displayQuantity": "1 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 20,
+          "displayQuantity": "1½ tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 5,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 6,
+          "displayQuantity": "2 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 8,
+          "displayQuantity": "1 tsp",
+          "preparation": "grated",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the spring onion, dice the carrot, mince the garlic and grate the ginger. Beat the eggs in a bowl. Break up any clumps in the cold white rice with your fingers.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat a wok or large frying pan until very hot. Add half the sesame oil and pour in the eggs, scrambling quickly until just set, then tip them back into the bowl.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the remaining sesame oil, then the carrot, garlic and ginger. Stir-fry for a minute until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the rice and peas and stir-fry over high heat, pressing the rice against the pan so it catches and crisps in places rather than steaming.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Return the eggs, add the soy sauce and most of the spring onion, and toss everything together. Serve with the remaining spring onion scattered over.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best fresh, but keeps 2 days. Reheat hard in a hot pan rather than a microwave. Do not refreeze rice that has already been cooked and cooled twice.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Egg fried rice",
+      "summary": "Fried rice with egg, prawns, peas and spring onion — a fast, savoury lunch built from leftovers.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 8,
+      "cookMinutes": 11,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 115,
+          "displayQuantity": "⅔ cup dry, cooked ahead (about 350 g cooked)",
+          "preparation": "cooked and cooled",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3 large",
+          "preparation": "beaten",
+          "optional": false
+        },
+        {
+          "name": "prawns",
+          "grams": 180,
+          "displayQuantity": "a large handful",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "peas",
+          "grams": 120,
+          "displayQuantity": "1 cup frozen",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onion",
+          "grams": 50,
+          "displayQuantity": "4 stalks",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 80,
+          "displayQuantity": "1 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 25,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 8,
+          "displayQuantity": "1½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 9,
+          "displayQuantity": "3 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 8,
+          "displayQuantity": "1 tsp",
+          "preparation": "grated",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the spring onion, dice the carrot, mince the garlic and grate the ginger. Beat the eggs and separate the cold white rice with your fingers.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat a wok until smoking. Add a third of the sesame oil and scramble the eggs quickly until just set, then remove them.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add more oil and sear the prawns for a minute until pink and just opaque, then remove them with the eggs — overcooked prawns turn rubbery.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the last of the oil with the carrot, garlic and ginger and stir-fry until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the rice and peas and stir-fry hard, pressing the rice into the pan so parts of it catch and crisp.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Return the eggs and prawns, add the soy sauce and most of the spring onion, toss and serve with the rest scattered over.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps 2 days. Reheat in a very hot pan. Cool cooked rice quickly and refrigerate promptly.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Egg fried rice, hearty",
+      "summary": "A big wok of fried rice with prawns, chicken, egg and peas — enough to fill two hungry people properly.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 10,
+      "cookMinutes": 14,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 150,
+          "displayQuantity": "¾ cup dry, cooked ahead (about 450 g cooked)",
+          "preparation": "cooked and cooled",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": "beaten",
+          "optional": false
+        },
+        {
+          "name": "prawns",
+          "grams": 180,
+          "displayQuantity": "a large handful",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken breast",
+          "grams": 200,
+          "displayQuantity": "1 large breast",
+          "preparation": "diced small",
+          "optional": false
+        },
+        {
+          "name": "peas",
+          "grams": 150,
+          "displayQuantity": "1¼ cups frozen",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onion",
+          "grams": 60,
+          "displayQuantity": "5 stalks",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 80,
+          "displayQuantity": "1 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 30,
+          "displayQuantity": "2½ tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 10,
+          "displayQuantity": "1½ tsp",
+          "preparation": "grated",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the spring onion, dice the carrot and chicken breast, mince the garlic and grate the ginger. Beat the eggs and break up the cold white rice.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat a wok until smoking. Add a little sesame oil and scramble the eggs until just set, then remove.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add more oil and cook the chicken until golden and cooked through, then remove it with the eggs.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Sear the prawns for a minute until just opaque and set aside with everything else.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the last of the oil with the carrot, garlic and ginger, then the rice and peas. Stir-fry hard until the rice is hot and catching in places.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Return the eggs, chicken and prawns, add the soy sauce and most of the spring onion, toss well and serve.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps 2 days. Reheat in a hot pan until steaming throughout. Cool and refrigerate cooked rice promptly.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    }
+  ]
+}

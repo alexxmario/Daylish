@@ -1,0 +1,2644 @@
+{
+  "recipes": [
+    {
+      "title": "Vietnamese tofu noodle salad, light",
+      "summary": "Cool rice noodles, golden tofu and crisp vegetables tossed with a bright lime, soy and sesame dressing. Extra vegetables and less noodles and oil keep this vegan dinner light.",
+      "cuisine": "vietnamese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 18,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "rice noodles",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tofu",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "pressed and cut into cubes",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 350,
+          "displayQuantity": "1 large",
+          "preparation": "cut into thin batons",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 220,
+          "displayQuantity": "2 large",
+          "preparation": "cut into thin matchsticks",
+          "optional": false
+        },
+        {
+          "name": "bean sprouts",
+          "grams": 280,
+          "displayQuantity": "4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 40,
+          "displayQuantity": "5",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 25,
+          "displayQuantity": "2/3 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 80,
+          "displayQuantity": "2",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 40,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 15,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the tofu, cucumber, carrot, bean sprouts, spring onions, cilantro and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the lime, soy sauce, brown sugar, garlic and sesame oil into a smooth dressing.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the tofu with one third of the dressing and leave it to absorb the seasoning.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the rice noodles until tender but still springy.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Rinse the rice noodles under cold water and drain them thoroughly.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Heat the vegetable oil in a wide non-stick frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the tofu until golden on several sides.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Combine the rice noodles, cucumber, carrot and bean sprouts in a large bowl.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Top the noodle salad with the tofu, spring onions and cilantro.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Pour the remaining dressing over the Vietnamese tofu noodle salad.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled shortly before serving. Refrigerate the tofu, noodles, vegetables and dressing separately for up to 3 days. Freezing is not recommended.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Vietnamese tofu noodle salad",
+      "summary": "Vietnamese-style rice noodle salad with golden tofu, cucumber, carrot, bean sprouts and herbs in a lively lime, soy and sesame dressing.",
+      "cuisine": "vietnamese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 25,
+      "cookMinutes": 21,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "rice noodles",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tofu",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "pressed and cut into cubes",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 320,
+          "displayQuantity": "1 large",
+          "preparation": "cut into thin batons",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 220,
+          "displayQuantity": "2 large",
+          "preparation": "cut into thin matchsticks",
+          "optional": false
+        },
+        {
+          "name": "bean sprouts",
+          "grams": 260,
+          "displayQuantity": "4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 50,
+          "displayQuantity": "6",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "3/4 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 100,
+          "displayQuantity": "2 large",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 50,
+          "displayQuantity": "3 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 22,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the tofu, cucumber, carrot, bean sprouts, spring onions, cilantro and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the lime, soy sauce, brown sugar, garlic and sesame oil into a balanced dressing.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the tofu with one third of the dressing and leave it to absorb the seasoning.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the rice noodles until tender with a slight chew.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Rinse the rice noodles under cold water and drain them thoroughly.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Heat the vegetable oil in a wide non-stick frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the tofu until crisp and golden on several sides.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Combine the rice noodles, cucumber, carrot and bean sprouts in a large bowl.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Top the noodle salad with the tofu, spring onions and cilantro.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Pour the remaining dressing over the Vietnamese tofu noodle salad.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the tofu, rice noodles, vegetables and dressing separately for up to 3 days. Assemble after bringing the noodles to room temperature. Do not freeze.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Vietnamese tofu noodle salad, hearty",
+      "summary": "A generous Vietnamese-style noodle salad with extra tofu and rice noodles, plenty of crisp vegetables and a savoury lime and sesame dressing.",
+      "cuisine": "vietnamese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 28,
+      "cookMinutes": 24,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "rice noodles",
+          "grams": 360,
+          "displayQuantity": "360 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tofu",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": "pressed and cut into cubes",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 350,
+          "displayQuantity": "1 large",
+          "preparation": "cut into thin batons",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 260,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into thin matchsticks",
+          "optional": false
+        },
+        {
+          "name": "bean sprouts",
+          "grams": 300,
+          "displayQuantity": "4 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 65,
+          "displayQuantity": "8",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 40,
+          "displayQuantity": "1 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 120,
+          "displayQuantity": "3",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 65,
+          "displayQuantity": "1/4 cup plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 24,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 30,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the tofu, cucumber, carrot, bean sprouts, spring onions, cilantro and garlic in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the lime, soy sauce, brown sugar, garlic and sesame oil into a bold dressing.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the tofu with one third of the dressing and leave it to absorb the seasoning.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the rice noodles until tender but not soft.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Rinse the rice noodles under cold water and drain them thoroughly.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Heat the vegetable oil in a large non-stick frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the tofu in batches until deeply golden.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Combine the rice noodles, cucumber, carrot and bean sprouts in a large bowl.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Top the noodle salad generously with the tofu, spring onions and cilantro.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Pour the remaining dressing over the Vietnamese tofu noodle salad.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Store the tofu, noodles, vegetables and dressing separately for up to 3 days. Assemble shortly before eating. Freezing is not suitable.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Chinese spring onion pancakes, light",
+      "summary": "Flaky Chinese pancakes layered with spring onions and sesame oil, then pan-fried until crisp. Less flour and oil keep this vegetarian breakfast lighter.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 45,
+      "cookMinutes": 24,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "wheat flour",
+          "grams": 320,
+          "displayQuantity": "2 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 220,
+          "displayQuantity": "scant 1 cup",
+          "preparation": "warm",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 120,
+          "displayQuantity": "15",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 24,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Mix the wheat flour, water and half the salt into a shaggy dough.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Knead the dough until smooth and elastic.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Rest the dough covered so the wheat flour hydrates fully.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Prepare the spring onions in their listed form.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Divide the dough into four equal pieces.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Roll each dough piece into a thin rectangle.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Brush each rectangle lightly with the sesame oil.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Scatter the spring onions and remaining salt over the dough.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Roll each rectangle into a tight coil.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the coils so the dough relaxes.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Flatten each coil into a round pancake.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Heat the vegetable oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Cook the first sides of the pancakes until crisp and golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Turn the pancakes carefully.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Cook the second sides until golden and the layers are cooked through.",
+          "durationMinutes": 5,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best eaten freshly fried. Refrigerate for up to 2 days and reheat in a dry pan or hot oven. Freeze cooked pancakes for up to 1 month.",
+      "fridgeDays": 2,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Chinese spring onion pancakes",
+      "summary": "Crisp, flaky Chinese spring onion pancakes with tender layers scented by sesame oil. They make a savoury vegetarian breakfast for sharing.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 52,
+      "cookMinutes": 28,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "wheat flour",
+          "grams": 420,
+          "displayQuantity": "3 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 290,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": "warm",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 150,
+          "displayQuantity": "18",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 26,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 36,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Mix the wheat flour, water and half the salt into a shaggy dough.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Knead the dough until smooth and elastic.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Rest the dough covered so the wheat flour hydrates fully.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Prepare the spring onions in their listed form.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Divide the dough into six equal pieces.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Roll each dough piece into a thin rectangle.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Brush each rectangle with the sesame oil.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Scatter the spring onions and remaining salt over the dough.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Roll each rectangle into a tight coil.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the coils so the dough relaxes.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Flatten each coil into a round pancake.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Heat the vegetable oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Cook the first sides of the pancakes until deeply golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Turn the pancakes carefully.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Cook the second sides until crisp and cooked through.",
+          "durationMinutes": 6,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Serve hot for the best flaky texture. Refrigerate for up to 2 days and reheat in a pan or oven. Freeze cooked pancakes for up to 1 month.",
+      "fridgeDays": 2,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Chinese spring onion pancakes, hearty",
+      "summary": "A generous batch of thick, flaky Chinese pancakes layered with extra spring onions and sesame oil. The crisp rounds make a substantial vegetarian breakfast.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 60,
+      "cookMinutes": 33,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "wheat flour",
+          "grams": 520,
+          "displayQuantity": "4 1/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 360,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": "warm",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 180,
+          "displayQuantity": "22",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 36,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 50,
+          "displayQuantity": "3 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 10,
+          "displayQuantity": "1 2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Mix the wheat flour, water and half the salt into a soft dough.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Knead the dough until smooth and springy.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Rest the dough covered so the wheat flour hydrates completely.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Prepare the spring onions in their listed form.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Divide the dough into eight equal pieces.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Roll each dough piece into a thin rectangle.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Brush each rectangle generously with the sesame oil.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Scatter the spring onions and remaining salt over the dough.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Roll each rectangle into a tight coil.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the coils so the dough relaxes.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Flatten each coil into a thick round pancake.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Heat the vegetable oil in a large frying pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Cook the first sides of the pancakes until crisp and deeply golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Turn the pancakes carefully.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Cook the second sides until golden and fully cooked through.",
+          "durationMinutes": 7,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served immediately. Refrigerate for up to 2 days and reheat until crisp. Freeze cooked pancakes for up to 1 month.",
+      "fridgeDays": 2,
+      "freezerMonths": 1
+    },
+    {
+      "title": "French salmon leek gratin, light",
+      "summary": "Tender salmon, potatoes and leeks baked in a light thyme cream sauce beneath a little parmesan. Extra leeks keep this French lunch generous but lighter.",
+      "cuisine": "french",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 28,
+      "cookMinutes": 45,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "pescatarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "salmon",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "peeled and thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "leek",
+          "grams": 500,
+          "displayQuantity": "4 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "heavy cream",
+          "grams": 120,
+          "displayQuantity": "1/2 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 150,
+          "displayQuantity": "2/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 45,
+          "displayQuantity": "1/2 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 15,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the salmon, potato, leek and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the potato until just tender while the slices still hold their shape.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Melt the butter in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the leek until soft and sweet.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the garlic and thyme and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Arrange the potato across the base of a baking dish.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Spread the leek evenly over the potato.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Place the salmon over the leek.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Whisk the heavy cream, whole milk, lemon juice and salt together.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Pour the cream mixture evenly into the baking dish.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Scatter the parmesan cheese over the gratin.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bake until the salmon is cooked and the sauce is bubbling and lightly golden.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Rest the French salmon leek gratin before serving.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days and reheat covered until the salmon is hot. Freezing is not recommended because the cream sauce and potatoes can separate.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "French salmon leek gratin",
+      "summary": "A comforting French gratin of salmon, tender potatoes and sweet leeks baked in a thyme cream sauce with a golden parmesan top.",
+      "cuisine": "french",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 51,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "pescatarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "salmon",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": "peeled and thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "leek",
+          "grams": 450,
+          "displayQuantity": "4 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "heavy cream",
+          "grams": 180,
+          "displayQuantity": "3/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 180,
+          "displayQuantity": "3/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 70,
+          "displayQuantity": "3/4 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 25,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 6,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 40,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the salmon, potato, leek and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the potato until tender while the slices remain intact.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Melt the butter in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the leek until completely soft and lightly golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the garlic and thyme and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Arrange the potato across the base of a baking dish.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Spread the leek evenly over the potato.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Place the salmon over the leek.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Whisk the heavy cream, whole milk, lemon juice and salt together.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Pour the cream mixture evenly into the baking dish.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Scatter the parmesan cheese over the gratin.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bake until the salmon is tender and the gratin is bubbling and golden.",
+          "durationMinutes": 25,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Rest the French salmon leek gratin before serving.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Keep refrigerated for up to 2 days and reheat gently under a cover. The gratin is best fresh and is not recommended for freezing.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "French salmon leek gratin, hearty",
+      "summary": "A generous French gratin with extra salmon and potatoes in a rich leek, thyme and cream sauce beneath a deeply golden parmesan crust.",
+      "cuisine": "french",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 34,
+      "cookMinutes": 59,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "salmon",
+          "grams": 950,
+          "displayQuantity": "950 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 1100,
+          "displayQuantity": "1.1 kg",
+          "preparation": "peeled and thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "leek",
+          "grams": 500,
+          "displayQuantity": "4 to 5 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "heavy cream",
+          "grams": 250,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 220,
+          "displayQuantity": "scant 1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 100,
+          "displayQuantity": "1 cup plus 2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 35,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 8,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 50,
+          "displayQuantity": "3 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the salmon, potato, leek and garlic in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the potato until tender while the slices still hold together.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Melt the butter in a large frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the leek until very soft and golden at the edges.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the garlic and thyme and stir until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Arrange the potato across the base of a large baking dish.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Spread the leek evenly over the potato.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Place the salmon generously over the leek.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Whisk the heavy cream, whole milk, lemon juice and salt together.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Pour the cream mixture evenly into the baking dish.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Scatter the parmesan cheese over the gratin.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bake until the salmon is cooked and the thick gratin is deeply golden.",
+          "durationMinutes": 28,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Rest the French salmon leek gratin before serving.",
+          "durationMinutes": 6,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days and reheat covered until hot throughout. The rich cream sauce and potatoes do not freeze reliably.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Greek chicken souvlaki with lemon potatoes, light",
+      "summary": "Grilled chicken souvlaki with peppers and onions, roasted lemon potatoes and cool cucumber yogurt. Less potato and oil keep this high-protein Greek dinner lighter.",
+      "cuisine": "greek",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 35,
+      "cookMinutes": 54,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "grill"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 250,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 300,
+          "displayQuantity": "1 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 70,
+          "displayQuantity": "1/4 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 20,
+          "displayQuantity": "6 to 7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the chicken breast, potato, cucumber, bell pepper, onion and garlic in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Mix the lemon juice, garlic, olive oil, paprika, thyme and salt into a marinade.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Coat the chicken breast with half the marinade.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Marinate the chicken breast in the refrigerator.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Coat the potato with the remaining marinade.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Roast the potato until nearly tender and golden underneath.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Thread the chicken breast, bell pepper and onion onto skewers.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Turn the potato wedges so they brown evenly.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Grill the first sides of the skewers until browned and lightly charred.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Turn the skewers.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Grill until the chicken breast is cooked through and the vegetables are tender.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Stir the greek yogurt with the cucumber.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Rest the chicken souvlaki so the breast stays juicy.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 15,
+          "instruction": "Serve the Greek chicken souvlaki with the lemon potatoes and yogurt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the chicken, potatoes and cucumber yogurt separately for up to 3 days. Reheat the chicken and potatoes until hot. Freeze the cooked chicken for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Greek chicken souvlaki with lemon potatoes",
+      "summary": "Juicy Greek chicken souvlaki grilled with peppers and onions, served beside golden lemon potatoes and cool cucumber yogurt.",
+      "cuisine": "greek",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 39,
+      "cookMinutes": 62,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "grill"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 950,
+          "displayQuantity": "950 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 300,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 320,
+          "displayQuantity": "1 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 350,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 250,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 85,
+          "displayQuantity": "1/3 cup plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 24,
+          "displayQuantity": "8 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 30,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 6,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the chicken breast, potato, cucumber, bell pepper, onion and garlic in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Mix the lemon juice, garlic, olive oil, paprika, thyme and salt into a marinade.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Coat the chicken breast with half the marinade.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Marinate the chicken breast in the refrigerator.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Coat the potato with the remaining marinade.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Roast the potato until nearly tender and golden underneath.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Thread the chicken breast, bell pepper and onion onto skewers.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Turn the potato wedges so they brown evenly.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Grill the first sides of the skewers until deeply browned.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Turn the skewers.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Grill until the chicken breast is cooked through and lightly charred.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Stir the greek yogurt with the cucumber.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Rest the chicken souvlaki so the breast remains juicy.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 15,
+          "instruction": "Serve the Greek chicken souvlaki with the lemon potatoes and yogurt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep the chicken, potatoes and cucumber yogurt separately refrigerated for up to 3 days. Reheat gently until hot. Freeze the cooked chicken for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Greek chicken souvlaki with lemon potatoes, hearty",
+      "summary": "A generous Greek dinner with extra grilled chicken souvlaki, golden lemon potatoes, peppers, onions and creamy cucumber yogurt.",
+      "cuisine": "greek",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 44,
+      "cookMinutes": 68,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "grill"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 1200,
+          "displayQuantity": "1.2 kg",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 1200,
+          "displayQuantity": "1.2 kg",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 400,
+          "displayQuantity": "1 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 400,
+          "displayQuantity": "2 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 450,
+          "displayQuantity": "3 large",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 300,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 110,
+          "displayQuantity": "scant 1/2 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 30,
+          "displayQuantity": "10 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 42,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 9,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 8,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 10,
+          "displayQuantity": "1 2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the chicken breast, potato, cucumber, bell pepper, onion and garlic in their listed forms.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Mix the lemon juice, garlic, olive oil, paprika, thyme and salt into a bold marinade.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Coat the chicken breast with half the marinade.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Marinate the chicken breast in the refrigerator.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Coat the potato with the remaining marinade.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Roast the potato until nearly tender and deeply golden underneath.",
+          "durationMinutes": 25,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Thread the chicken breast, bell pepper and onion onto skewers.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Turn the potato wedges so they brown evenly.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Grill the first sides of the skewers until deeply charred.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Turn the skewers.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Grill until every piece of chicken breast is cooked through.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Stir the greek yogurt with the cucumber.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Rest the chicken souvlaki so the breast remains juicy.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 15,
+          "instruction": "Serve the Greek chicken souvlaki generously with the lemon potatoes and yogurt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the chicken, potatoes and yogurt separately for up to 3 days. Reheat the chicken and potatoes until steaming. Freeze the cooked chicken for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Spanish tortilla with spinach, light",
+      "summary": "A lighter Spanish tortilla with tender potatoes, sweet onion and plenty of spinach bound with softly cooked eggs. Less oil and potato keep the breakfast generous.",
+      "cuisine": "spanish",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 26,
+      "cookMinutes": 35,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 400,
+          "displayQuantity": "8 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "peeled and thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "2 medium",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, onion and spinach in their listed forms.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat most of the olive oil in a wide non-stick frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the potato and onion gently until tender without becoming crisp.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the spinach and cook until wilted and its moisture evaporates.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Beat the eggs with the salt until evenly combined.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the potato, onion and spinach into the eggs.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Rest the tortilla mixture so the potato absorbs some egg.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Heat the remaining olive oil in the frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Pour the tortilla mixture into the pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the first side over low heat until the edges are set and the centre is mostly firm.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Invert the tortilla onto a large plate.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Cook the second side until set and lightly golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Rest the Spanish tortilla with spinach before slicing.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and serve cold, at room temperature or gently reheated. Freezing is not recommended because the potato texture becomes watery.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Spanish tortilla with spinach",
+      "summary": "A tender Spanish potato tortilla with sweet onion and spinach, cooked slowly until golden outside and softly set within.",
+      "cuisine": "spanish",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 28,
+      "cookMinutes": 40,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 500,
+          "displayQuantity": "10 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "peeled and thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 30,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, onion and spinach in their listed forms.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat most of the olive oil in a wide non-stick frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the potato and onion gently until completely tender and lightly golden.",
+          "durationMinutes": 14,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the spinach and cook until wilted and relatively dry.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Beat the eggs with the salt until evenly combined.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the potato, onion and spinach into the eggs.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Rest the tortilla mixture so the potato absorbs the egg.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Heat the remaining olive oil in the frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Pour the tortilla mixture into the pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the first side over low heat until the edges are set and the centre is nearly firm.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Invert the tortilla onto a large plate.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Cook the second side until golden and softly set.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Rest the Spanish tortilla with spinach before slicing.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Keep refrigerated for up to 3 days. Serve cold or bring to room temperature before eating. Freezing is not recommended.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Spanish tortilla with spinach, hearty",
+      "summary": "A generous Spanish tortilla with extra eggs and potatoes, sweet onion and plenty of spinach. The thick, golden breakfast is substantial and easy to share.",
+      "cuisine": "spanish",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 32,
+      "cookMinutes": 46,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "vegetarian",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 650,
+          "displayQuantity": "13 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": "peeled and thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 300,
+          "displayQuantity": "3 medium",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 45,
+          "displayQuantity": "3 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, onion and spinach in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat most of the olive oil in a large non-stick frying pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the potato and onion gently until very tender and golden at the edges.",
+          "durationMinutes": 16,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the spinach and cook until wilted and its moisture evaporates.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Beat the eggs with the salt until fully combined.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the potato, onion and spinach into the eggs.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Rest the tortilla mixture so the larger amount of potato absorbs the egg.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Heat the remaining olive oil in the frying pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Pour the tortilla mixture into the pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the first side over low heat until the thick centre is nearly set.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Invert the tortilla onto a large plate.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Cook the second side until golden and set to your liking.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Rest the Spanish tortilla with spinach before cutting generous slices.",
+          "durationMinutes": 6,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and serve at room temperature or gently reheated. The tortilla is not suitable for freezing.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    }
+  ]
+}

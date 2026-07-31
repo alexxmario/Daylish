@@ -1,0 +1,3178 @@
+{
+  "recipes": [
+    {
+      "title": "Thai cashew chicken with rice, light",
+      "summary": "Tender chicken, cashew nuts and crisp vegetables in a savoury-sweet Thai sauce, served with a modest portion of rice.",
+      "cuisine": "thai",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 47,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 180,
+          "displayQuantity": "1 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "cashew nuts",
+          "grams": 45,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 350,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "broccoli",
+          "grams": 350,
+          "displayQuantity": "1 large head",
+          "preparation": "cut into small florets",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 160,
+          "displayQuantity": "1 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 40,
+          "displayQuantity": "5",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 18,
+          "displayQuantity": "2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 45,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "fish sauce",
+          "grams": 20,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken breast, bell pepper, broccoli, onion, spring onions, garlic and ginger in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the soy sauce, fish sauce, rice wine, brown sugar and salt into a sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the chicken breast with one third of the sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Rest the chicken breast so it absorbs the seasoning.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Toast the cashew nuts in a dry frying pan until lightly golden.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Heat the vegetable oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Brown the chicken breast until nearly cooked through.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Transfer the chicken breast to a clean plate.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the onion and bell pepper until tender and lightly browned.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Cook the broccoli until bright and just tender.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Return the chicken breast to the pan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Pour the remaining sauce over the chicken and vegetables.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Simmer until the chicken breast is cooked through and the sauce becomes glossy.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 15,
+          "instruction": "Finish the Thai cashew chicken with the spring onions and cashew nuts.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the chicken mixture and rice separately for up to 3 days. Reheat quickly in a hot pan with a splash of water. Freeze the chicken mixture for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Thai cashew chicken with rice",
+      "summary": "Thai-style cashew chicken with peppers, broccoli and onion in a glossy soy, fish-sauce, rice-wine and ginger glaze.",
+      "cuisine": "thai",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 26,
+      "cookMinutes": 51,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 260,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "cashew nuts",
+          "grams": 70,
+          "displayQuantity": "1/2 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 320,
+          "displayQuantity": "2 large",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "broccoli",
+          "grams": 320,
+          "displayQuantity": "1 large head",
+          "preparation": "cut into small florets",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 50,
+          "displayQuantity": "6",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 22,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 55,
+          "displayQuantity": "3 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "fish sauce",
+          "grams": 26,
+          "displayQuantity": "1 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 40,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 22,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken breast, bell pepper, broccoli, onion, spring onions, garlic and ginger in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the soy sauce, fish sauce, rice wine, brown sugar and salt into a sauce.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the chicken breast with one third of the sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Rest the chicken breast so it absorbs the seasoning.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Toast the cashew nuts in a dry frying pan until golden.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Heat the vegetable oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Brown the chicken breast until nearly cooked through.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Transfer the chicken breast to a clean plate.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the onion and bell pepper until tender and lightly browned.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Cook the broccoli until bright and just tender.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Return the chicken breast to the pan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Pour the remaining sauce over the chicken and vegetables.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Simmer until the chicken breast is cooked through and the sauce becomes glossy.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 15,
+          "instruction": "Finish the Thai cashew chicken with the spring onions and cashew nuts.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the chicken mixture and rice separately for up to 3 days. Reheat quickly in a hot pan with a splash of water. Freeze the chicken mixture for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Thai cashew chicken with rice, hearty",
+      "summary": "A generous Thai lunch with extra chicken, rice and toasted cashew nuts, plus crisp vegetables in a rich savoury-sweet sauce.",
+      "cuisine": "thai",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 29,
+      "cookMinutes": 58,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 1050,
+          "displayQuantity": "1.05 kg",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 360,
+          "displayQuantity": "2 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "cashew nuts",
+          "grams": 100,
+          "displayQuantity": "3/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 400,
+          "displayQuantity": "3 large",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "broccoli",
+          "grams": 400,
+          "displayQuantity": "1 large head",
+          "preparation": "cut into small florets",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "2 medium",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 65,
+          "displayQuantity": "8",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 28,
+          "displayQuantity": "3 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 70,
+          "displayQuantity": "1/4 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "fish sauce",
+          "grams": 35,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 50,
+          "displayQuantity": "3 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 30,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken breast, bell pepper, broccoli, onion, spring onions, garlic and ginger in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the soy sauce, fish sauce, rice wine, brown sugar and salt into a sauce.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the chicken breast with one third of the sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Rest the chicken breast so it absorbs the seasoning.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Toast the cashew nuts in a dry frying pan until deeply golden.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Heat the vegetable oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Brown the chicken breast in batches until nearly cooked through.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Transfer the chicken breast to a clean plate.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the onion and bell pepper until tender and lightly browned.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Cook the broccoli until bright and just tender.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Return the chicken breast to the pan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Pour the remaining sauce over the chicken and vegetables.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Simmer until the chicken breast is cooked through and the sauce becomes rich and glossy.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 15,
+          "instruction": "Finish the Thai cashew chicken with the spring onions and cashew nuts.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the chicken mixture and rice separately for up to 3 days. Reheat quickly in a hot pan with a splash of water. Freeze the chicken mixture for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Indian beef kofta curry with rice, light",
+      "summary": "Tender beef kofta simmered in a tomato, coconut, ginger and cumin curry with spinach, served with a modest portion of rice.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 61,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 180,
+          "displayQuantity": "1 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 22,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "coconut milk",
+          "grams": 250,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 250,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 25,
+          "displayQuantity": "2/3 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the onion, garlic, ginger, spinach and cilantro in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Mix the ground beef, eggs, half the onion, half the garlic, half the ginger, half the cumin, half the paprika and half the salt.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Shape the ground beef mixture into small kofta.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Rest the kofta so they firm slightly.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Heat half the vegetable oil in a wide saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Brown the kofta on several sides.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Transfer the kofta to a clean plate.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Heat the remaining vegetable oil in the saucepan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the remaining onion until soft and golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Stir the remaining garlic, ginger, cumin, paprika and salt into the onion.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Add the tomatoes, canned, coconut milk and vegetable broth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Simmer the curry sauce until slightly thickened.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Return the kofta to the curry sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Simmer until the kofta are cooked through.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 16,
+          "instruction": "Fold the spinach into the curry until wilted.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 17,
+          "instruction": "Finish the Indian beef kofta curry with the cilantro.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 18,
+          "instruction": "Serve the beef kofta curry with the white rice.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the kofta curry and rice separately for up to 3 days. Reheat gently until the beef is steaming. Freeze the curry without the rice for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Indian beef kofta curry with rice",
+      "summary": "Indian-style beef kofta simmered in a rich tomato, coconut, ginger and cumin sauce with spinach, served with steamed rice.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 33,
+      "cookMinutes": 70,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 260,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 26,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 550,
+          "displayQuantity": "2 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "coconut milk",
+          "grams": 350,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 300,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 22,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 8,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 8,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "3/4 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the onion, garlic, ginger, spinach and cilantro in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Mix the ground beef, eggs, half the onion, half the garlic, half the ginger, half the cumin, half the paprika and half the salt.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Shape the ground beef mixture into small kofta.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Rest the kofta so they firm slightly.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Heat half the vegetable oil in a wide saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Brown the kofta on several sides.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Transfer the kofta to a clean plate.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Heat the remaining vegetable oil in the saucepan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the remaining onion until soft and golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Stir the remaining garlic, ginger, cumin, paprika and salt into the onion.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Add the tomatoes, canned, coconut milk and vegetable broth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Simmer the curry sauce until rich and slightly thickened.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Return the kofta to the curry sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Simmer until the kofta are cooked through.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 16,
+          "instruction": "Fold the spinach into the curry until wilted.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 17,
+          "instruction": "Finish the Indian beef kofta curry with the cilantro.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 18,
+          "instruction": "Serve the beef kofta curry with the white rice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the kofta curry and rice separately for up to 3 days. Reheat gently until the beef is steaming. Freeze the curry without the rice for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Indian beef kofta curry with rice, hearty",
+      "summary": "A generous Indian dinner with extra beef kofta and rice in a rich coconut, tomato, ginger and cumin curry with spinach.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 37,
+      "cookMinutes": 78,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 1050,
+          "displayQuantity": "1.05 kg",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 360,
+          "displayQuantity": "2 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 300,
+          "displayQuantity": "3 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 28,
+          "displayQuantity": "9 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 32,
+          "displayQuantity": "3 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 700,
+          "displayQuantity": "3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "coconut milk",
+          "grams": 500,
+          "displayQuantity": "2 cups plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 400,
+          "displayQuantity": "1 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 30,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 10,
+          "displayQuantity": "1 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 10,
+          "displayQuantity": "1 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 40,
+          "displayQuantity": "1 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the onion, garlic, ginger, spinach and cilantro in their listed forms.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Mix the ground beef, eggs, half the onion, half the garlic, half the ginger, half the cumin, half the paprika and half the salt.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Shape the ground beef mixture into generous kofta.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Rest the kofta so they firm slightly.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Heat half the vegetable oil in a wide saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Brown the kofta in batches on several sides.",
+          "durationMinutes": 11,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Transfer the kofta to a clean plate.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Heat the remaining vegetable oil in the saucepan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the remaining onion until soft and golden.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Stir the remaining garlic, ginger, cumin, paprika and salt into the onion.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Add the tomatoes, canned, coconut milk and vegetable broth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Simmer the curry sauce until rich and slightly thickened.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Return the kofta to the curry sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Simmer until the kofta are cooked through.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 16,
+          "instruction": "Fold the spinach into the curry until wilted.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 17,
+          "instruction": "Finish the Indian beef kofta curry with the cilantro.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 18,
+          "instruction": "Serve the beef kofta curry generously with the white rice.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the kofta curry and rice separately for up to 3 days. Reheat gently until the beef is steaming. Freeze the curry without the rice for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Italian white bean bruschetta, light",
+      "summary": "Crisp bread topped with warm white beans, tomato, garlic and basil, finished with a little parmesan. Extra beans and less bread and oil keep it lighter.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 30,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "bread",
+          "grams": 180,
+          "displayQuantity": "6 small slices",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "white beans, canned",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 120,
+          "displayQuantity": "1 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 20,
+          "displayQuantity": "1/2 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 35,
+          "displayQuantity": "35 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 20,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the bread, onion, garlic, basil and parmesan cheese in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brush the bread with one third of the olive oil.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Toast the bread until crisp and lightly golden.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the remaining olive oil in a frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion until soft and translucent.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the garlic into the onion until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the tomatoes, canned, and salt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Simmer the tomato mixture until thick and spoonable.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Fold the white beans into the tomato mixture.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Stir the lemon juice and basil through the white beans.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Spoon the white beans over the toasted bread.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Finish the Italian white bean bruschetta with the parmesan cheese.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled just before serving. Refrigerate the bean topping for up to 3 days and reheat gently. Store the bread separately and toast it fresh. Do not freeze assembled bruschetta.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Italian white bean bruschetta",
+      "summary": "Italian bruschetta with crisp bread, warm white beans and a rich tomato, garlic and basil topping finished with parmesan.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 34,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "bread",
+          "grams": 260,
+          "displayQuantity": "8 thick slices",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "white beans, canned",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 140,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 25,
+          "displayQuantity": "2/3 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 55,
+          "displayQuantity": "55 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 25,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the bread, onion, garlic, basil and parmesan cheese in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brush the bread with one third of the olive oil.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Toast the bread until crisp and golden.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the remaining olive oil in a frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the garlic into the onion until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the tomatoes, canned, and salt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Simmer the tomato mixture until thick and spoonable.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Fold the white beans into the tomato mixture.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Stir the lemon juice and basil through the white beans.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Spoon the white beans over the toasted bread.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Finish the Italian white bean bruschetta with the parmesan cheese.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled just before serving. Refrigerate the bean topping for up to 3 days and reheat gently. Store the bread separately and toast it fresh. Do not freeze assembled bruschetta.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Italian white bean bruschetta, hearty",
+      "summary": "A generous Italian snack with extra crisp bread, white beans and parmesan under a rich tomato, garlic, basil and lemon topping.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 23,
+      "cookMinutes": 39,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "bread",
+          "grams": 360,
+          "displayQuantity": "12 small slices",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "white beans, canned",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 35,
+          "displayQuantity": "1 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 80,
+          "displayQuantity": "80 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 28,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 35,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the bread, onion, garlic, basil and parmesan cheese in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brush the bread with one third of the olive oil.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Toast the bread until crisp and deeply golden.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the remaining olive oil in a frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion until soft and golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the garlic into the onion until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the tomatoes, canned, and salt.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Simmer the tomato mixture until thick and spoonable.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Fold the white beans into the tomato mixture.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Stir the lemon juice and basil through the white beans.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Spoon the white beans generously over the toasted bread.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Finish the Italian white bean bruschetta with the parmesan cheese.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled just before serving. Refrigerate the bean topping for up to 3 days and reheat gently. Store the bread separately and toast it fresh. Do not freeze assembled bruschetta.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Indian egg bhurji with toast, light",
+      "summary": "Soft Indian scrambled eggs with tomatoes, spinach, peppers, ginger and cumin, served with a modest amount of crisp toast.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 19,
+      "cookMinutes": 27,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "vegetarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 400,
+          "displayQuantity": "8 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 160,
+          "displayQuantity": "4 thick slices",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 250,
+          "displayQuantity": "2 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 18,
+          "displayQuantity": "2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 25,
+          "displayQuantity": "2/3 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the bread, onion, bell pepper, spinach, garlic, ginger and cilantro in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the vegetable oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the bell pepper until tender at the edges.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the garlic, ginger, cumin, paprika and half the salt into the vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, canned, to the pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the tomato mixture until thick and no longer watery.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Fold the spinach into the tomato mixture until wilted.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Beat the eggs with the remaining salt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Pour the eggs into the pan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Fold the eggs gently until softly set and still moist.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Toast the bread until crisp and golden.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Finish the Indian egg bhurji with the cilantro.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best eaten immediately. Refrigerate the egg bhurji for up to 2 days and reheat gently in a pan. Store and toast the bread separately. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Indian egg bhurji with toast",
+      "summary": "Indian egg bhurji with tomatoes, peppers, spinach, ginger, garlic and cumin, served with crisp golden toast.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 21,
+      "cookMinutes": 31,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "vegetarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 500,
+          "displayQuantity": "10 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 240,
+          "displayQuantity": "6 thick slices",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 280,
+          "displayQuantity": "2 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 22,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "3/4 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the bread, onion, bell pepper, spinach, garlic, ginger and cilantro in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the vegetable oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the bell pepper until tender at the edges.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the garlic, ginger, cumin, paprika and half the salt into the vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, canned, to the pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the tomato mixture until thick and no longer watery.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Fold the spinach into the tomato mixture until wilted.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Beat the eggs with the remaining salt.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Pour the eggs into the pan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Fold the eggs gently until softly set and still moist.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Toast the bread until crisp and golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Finish the Indian egg bhurji with the cilantro.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best eaten immediately. Refrigerate the egg bhurji for up to 2 days and reheat gently in a pan. Store and toast the bread separately. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Indian egg bhurji with toast, hearty",
+      "summary": "A generous Indian breakfast with extra softly scrambled eggs and toast, plus tomatoes, spinach, peppers, ginger and cumin.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 37,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "vegetarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 650,
+          "displayQuantity": "13 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 340,
+          "displayQuantity": "8 thick slices",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 350,
+          "displayQuantity": "3 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 28,
+          "displayQuantity": "3 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 28,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 9,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 9,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 40,
+          "displayQuantity": "1 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the bread, onion, bell pepper, spinach, garlic, ginger and cilantro in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the vegetable oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the onion until soft and golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the bell pepper until tender at the edges.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the garlic, ginger, cumin, paprika and half the salt into the vegetables.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, canned, to the pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the tomato mixture until thick and richly flavoured.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Fold the spinach into the tomato mixture until wilted.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Beat the eggs with the remaining salt.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Pour the eggs into the pan.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Fold the eggs gently until softly set and still moist.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Toast the bread until crisp and golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Finish the Indian egg bhurji with the cilantro.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best eaten immediately. Refrigerate the egg bhurji for up to 2 days and reheat gently in a pan. Store and toast the bread separately. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Italian chicken and white bean soup, light",
+      "summary": "A lighter Italian soup with tender chicken, white beans, zucchini, spinach and vegetables in a tomato and basil broth.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 50,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "white beans, canned",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 350,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 220,
+          "displayQuantity": "2 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 140,
+          "displayQuantity": "3 stalks",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 900,
+          "displayQuantity": "900 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 20,
+          "displayQuantity": "1/2 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 25,
+          "displayQuantity": "25 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, zucchini, spinach, carrot, celery, onion, garlic, basil and parmesan cheese in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a large saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brown the chicken thigh on several sides.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Transfer the chicken thigh to a clean plate.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion, carrot and celery until soft and translucent.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the garlic into the vegetables until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the tomatoes, canned, and vegetable broth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Bring the soup to a gentle simmer.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Add the white beans and zucchini to the soup.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer until the zucchini begins to soften.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Return the chicken thigh to the soup.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Simmer until the chicken thigh is cooked through and tender.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 13,
+          "instruction": "Fold the spinach into the soup until wilted.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Stir the basil and salt into the soup.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Finish the Italian chicken and white bean soup with the parmesan cheese.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Rest the soup so the flavours settle.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat gently until the chicken is steaming. Freeze the soup without the parmesan cheese for up to 2 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Italian chicken and white bean soup",
+      "summary": "Italian-style chicken and white bean soup with zucchini, spinach and vegetables in a rich tomato, garlic and basil broth.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 54,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "white beans, canned",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 400,
+          "displayQuantity": "2 to 3 medium",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 240,
+          "displayQuantity": "3 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 160,
+          "displayQuantity": "3 to 4 stalks",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1000,
+          "displayQuantity": "1 litre",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 25,
+          "displayQuantity": "2/3 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 45,
+          "displayQuantity": "45 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, zucchini, spinach, carrot, celery, onion, garlic, basil and parmesan cheese in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a large saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brown the chicken thigh on several sides.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Transfer the chicken thigh to a clean plate.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion, carrot and celery until soft and lightly golden.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the garlic into the vegetables until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the tomatoes, canned, and vegetable broth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Bring the soup to a gentle simmer.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Add the white beans and zucchini to the soup.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer until the zucchini begins to soften.",
+          "durationMinutes": 11,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Return the chicken thigh to the soup.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Simmer until the chicken thigh is cooked through and tender.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 13,
+          "instruction": "Fold the spinach into the soup until wilted.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Stir the basil and salt into the soup.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Finish the Italian chicken and white bean soup with the parmesan cheese.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Rest the soup so the flavours settle.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat gently until the chicken is steaming. Freeze the soup without the parmesan cheese for up to 2 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Italian chicken and white bean soup, hearty",
+      "summary": "A generous Italian lunch with extra chicken and white beans in a deeply savoury tomato, vegetable, basil and parmesan broth.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 27,
+      "cookMinutes": 63,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 1050,
+          "displayQuantity": "1.05 kg",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "white beans, canned",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 500,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 320,
+          "displayQuantity": "320 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 300,
+          "displayQuantity": "4 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 200,
+          "displayQuantity": "4 stalks",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1200,
+          "displayQuantity": "1.2 litres",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 28,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 35,
+          "displayQuantity": "1 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 70,
+          "displayQuantity": "70 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, zucchini, spinach, carrot, celery, onion, garlic, basil and parmesan cheese in their listed forms.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a large saucepan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brown the chicken thigh in batches on several sides.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Transfer the chicken thigh to a clean plate.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion, carrot and celery until soft and golden at the edges.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the garlic into the vegetables until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the tomatoes, canned, and vegetable broth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Bring the soup to a gentle simmer.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Add the white beans and zucchini to the soup.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer until the zucchini begins to soften.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Return the chicken thigh to the soup.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Simmer until the chicken thigh is cooked through and tender.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 13,
+          "instruction": "Fold the spinach into the soup until wilted.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Stir the basil and salt into the soup.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Finish the Italian chicken and white bean soup with the parmesan cheese.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Rest the soup so the flavours settle.",
+          "durationMinutes": 6,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat gently until the chicken is steaming. Freeze the soup without the parmesan cheese for up to 2 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 2
+    }
+  ]
+}

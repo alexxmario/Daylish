@@ -1,0 +1,2675 @@
+{
+  "recipes": [
+    {
+      "title": "Italian potato frittata, light",
+      "summary": "A lighter Italian frittata with tender potatoes, spinach, basil and parmesan. Extra greens and less cheese and oil keep this Mediterranean breakfast generous.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 36,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop",
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 400,
+          "displayQuantity": "8 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "peeled and thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 160,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 45,
+          "displayQuantity": "1/2 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 80,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 20,
+          "displayQuantity": "1/2 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 10,
+          "displayQuantity": "3 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 190°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, spinach, onion, basil and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the potato until just tender while the slices still hold their shape.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the olive oil in a wide ovenproof frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion until soft and translucent.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the garlic and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Fold the spinach into the pan until wilted.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Whisk the eggs, whole milk, parmesan cheese, basil and salt until evenly combined.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Arrange the potato evenly over the spinach and onion.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Pour the egg mixture into the pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Cook the frittata until the edges begin to set.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Bake until the centre is just set and the top is lightly golden.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 13,
+          "instruction": "Rest the Italian potato frittata before slicing.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and serve cold, at room temperature or gently reheated. Freeze individual slices for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Italian potato frittata",
+      "summary": "A tender Italian potato frittata with spinach, onion, basil and parmesan. The softly baked eggs make it a comforting Mediterranean breakfast for four.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 23,
+      "cookMinutes": 40,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop",
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 500,
+          "displayQuantity": "10 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "peeled and thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 70,
+          "displayQuantity": "3/4 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 100,
+          "displayQuantity": "1/3 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 22,
+          "displayQuantity": "1/2 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 190°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, spinach, onion, basil and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the potato until tender while the slices remain intact.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the olive oil in a wide ovenproof frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the garlic and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Fold the spinach into the pan until wilted.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Whisk the eggs, whole milk, parmesan cheese, basil and salt until smooth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Arrange the potato evenly over the spinach and onion.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Pour the egg mixture into the pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Cook the frittata until the outer edge is visibly set.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Bake until the centre is tender but fully set.",
+          "durationMinutes": 11,
+          "isPassive": true
+        },
+        {
+          "order": 13,
+          "instruction": "Rest the Italian potato frittata before slicing.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat gently so the eggs remain tender. Freeze cooled slices for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Italian potato frittata, hearty",
+      "summary": "A generous Italian frittata with extra eggs, potatoes and parmesan, balanced by spinach and basil. It makes a substantial Mediterranean breakfast for four.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 26,
+      "cookMinutes": 45,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop",
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 650,
+          "displayQuantity": "13 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": "peeled and thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 100,
+          "displayQuantity": "1 cup plus 2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 130,
+          "displayQuantity": "1/2 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 26,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 28,
+          "displayQuantity": "3/4 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 190°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, spinach, onion, basil and garlic in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the potato until tender while the slices still hold their shape.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the olive oil in a large ovenproof frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion until completely soft and lightly golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the garlic and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Fold the spinach into the pan until evenly wilted.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Whisk the eggs, whole milk, parmesan cheese, basil and salt until fully combined.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Arrange the potato evenly over the spinach and onion.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Pour the egg mixture into the pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Cook the frittata until the edges are firm.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Bake until the thick centre is set and lightly puffed.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 13,
+          "instruction": "Rest the Italian potato frittata before cutting generous slices.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Keep refrigerated for up to 3 days and serve cold or gently reheated. Freeze individual slices for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Japanese mushroom takikomi rice, light",
+      "summary": "Japanese seasoned rice cooked with mushrooms, shiitake, carrots and green beans in a savoury soy and ginger broth. Extra vegetables keep this vegan lunch lighter.",
+      "cuisine": "japanese",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 61,
+      "difficulty": "easy",
+      "equipment": [
+        "rice_cooker"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 240,
+          "displayQuantity": "1 1/3 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "shiitake mushrooms",
+          "grams": 150,
+          "displayQuantity": "150 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 200,
+          "displayQuantity": "2 large",
+          "preparation": "cut into thin matchsticks",
+          "optional": false
+        },
+        {
+          "name": "green beans",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "cut into short pieces",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 450,
+          "displayQuantity": "450 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 35,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 15,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 35,
+          "displayQuantity": "4 to 5",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Soak the white rice in fresh water so the grains cook evenly.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the mushrooms, shiitake mushrooms, carrot, green beans, ginger and spring onions in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the vegetable broth, soy sauce, rice wine, sesame oil and ginger together.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Drain the white rice and place it in the rice cooker.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Arrange the mushrooms, shiitake mushrooms, carrot and green beans evenly over the rice.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the takikomi rice until the rice cooker completes its cycle.",
+          "durationMinutes": 32,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the cooked rice with the lid closed so the moisture distributes evenly.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Fold the vegetables gently through the seasoned rice.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Finish the Japanese mushroom takikomi rice with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat with a spoonful of vegetable broth or water. Freeze cooled portions for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Japanese mushroom takikomi rice",
+      "summary": "Fragrant Japanese rice cooked with mushrooms, shiitake, carrots and green beans in soy, rice wine and ginger broth. It is a comforting vegan lunch for sharing.",
+      "cuisine": "japanese",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 64,
+      "difficulty": "easy",
+      "equipment": [
+        "rice_cooker"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 320,
+          "displayQuantity": "1 3/4 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "shiitake mushrooms",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 220,
+          "displayQuantity": "2 large",
+          "preparation": "cut into thin matchsticks",
+          "optional": false
+        },
+        {
+          "name": "green beans",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "cut into short pieces",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 580,
+          "displayQuantity": "580 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 45,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 38,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 18,
+          "displayQuantity": "2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 40,
+          "displayQuantity": "5",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Soak the white rice in fresh water so the grains cook evenly.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the mushrooms, shiitake mushrooms, carrot, green beans, ginger and spring onions in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the vegetable broth, soy sauce, rice wine, sesame oil and ginger together.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Drain the white rice and place it in the rice cooker.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Arrange the mushrooms, shiitake mushrooms, carrot and green beans evenly over the rice.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the takikomi rice until the rice cooker completes its cycle.",
+          "durationMinutes": 35,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the cooked rice with the lid closed so the moisture distributes evenly.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Fold the vegetables gently through the seasoned rice.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Finish the Japanese mushroom takikomi rice with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat with a splash of vegetable broth. Freeze cooled portions for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Japanese mushroom takikomi rice, hearty",
+      "summary": "A generous pot of Japanese seasoned rice with extra mushrooms, shiitake and vegetables. Soy, rice wine, ginger and sesame make the vegan lunch deeply savoury.",
+      "cuisine": "japanese",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 23,
+      "cookMinutes": 71,
+      "difficulty": "easy",
+      "equipment": [
+        "rice_cooker"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 420,
+          "displayQuantity": "2 1/3 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 320,
+          "displayQuantity": "320 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "shiitake mushrooms",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 250,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into thin matchsticks",
+          "optional": false
+        },
+        {
+          "name": "green beans",
+          "grams": 260,
+          "displayQuantity": "260 g",
+          "preparation": "cut into short pieces",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 740,
+          "displayQuantity": "740 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 55,
+          "displayQuantity": "3 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 48,
+          "displayQuantity": "3 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 22,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 50,
+          "displayQuantity": "6",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Soak the white rice in fresh water so the larger batch cooks evenly.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the mushrooms, shiitake mushrooms, carrot, green beans, ginger and spring onions in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the vegetable broth, soy sauce, rice wine, sesame oil and ginger together.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Drain the white rice and place it in the rice cooker.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Arrange the mushrooms, shiitake mushrooms, carrot and green beans evenly over the rice.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the takikomi rice until the rice cooker completes its cycle.",
+          "durationMinutes": 38,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the cooked rice with the lid closed so the moisture distributes evenly.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Fold the vegetables gently through the seasoned rice.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Finish the Japanese mushroom takikomi rice generously with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep refrigerated for up to 3 days and reheat with a little vegetable broth or water. Freeze portions for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Korean vegetable pancakes, light",
+      "summary": "Crisp Korean vegetable pancakes packed with zucchini, mushrooms, cabbage and spring onions. Extra vegetables and less flour and oil keep this vegetarian dinner lighter.",
+      "cuisine": "korean",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 25,
+      "cookMinutes": 28,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "wheat flour",
+          "grams": 180,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 220,
+          "displayQuantity": "scant 1 cup",
+          "preparation": "cold",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 300,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into thin matchsticks",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 140,
+          "displayQuantity": "1 medium",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 70,
+          "displayQuantity": "8",
+          "preparation": "cut into short lengths",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 180,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into thin matchsticks",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 24,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the zucchini, onion, spring onions, mushrooms, carrot and green cabbage in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Whisk the wheat flour, water and eggs into a smooth batter.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Fold the zucchini, onion, spring onions, mushrooms, carrot and green cabbage into the batter.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Rest the vegetable batter so the wheat flour hydrates.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the soy sauce and sesame oil together for dipping.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Heat part of the vegetable oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Spread a thin layer of batter across the hot pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the first side until crisp and deeply golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Turn the pancake carefully.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the second side until golden and the vegetables are tender.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Repeat the cooking process with the remaining batter and vegetable oil.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the Korean vegetable pancakes briefly before slicing.",
+          "durationMinutes": 2,
+          "isPassive": true
+        },
+        {
+          "order": 13,
+          "instruction": "Serve the pancakes with the soy sauce dip.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served freshly cooked. Refrigerate for up to 2 days and reheat in a dry pan or hot oven until crisp. Freeze for up to 1 month.",
+      "fridgeDays": 2,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Korean vegetable pancakes",
+      "summary": "Golden Korean vegetable pancakes with zucchini, spring onions, mushrooms, carrots and cabbage, served with a savoury sesame and soy dipping sauce.",
+      "cuisine": "korean",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 27,
+      "cookMinutes": 32,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "wheat flour",
+          "grams": 240,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 280,
+          "displayQuantity": "1 cup plus 3 tbsp",
+          "preparation": "cold",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 320,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into thin matchsticks",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 160,
+          "displayQuantity": "1 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 80,
+          "displayQuantity": "10",
+          "preparation": "cut into short lengths",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 180,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into thin matchsticks",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 40,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 36,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the zucchini, onion, spring onions, mushrooms, carrot and green cabbage in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Whisk the wheat flour, water and eggs into a smooth batter.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Fold the zucchini, onion, spring onions, mushrooms, carrot and green cabbage into the batter.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Rest the vegetable batter so the wheat flour hydrates.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the soy sauce and sesame oil together for dipping.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Heat part of the vegetable oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Spread a thin layer of batter across the hot pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the first side until crisp and deeply golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Turn the pancake carefully.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the second side until golden and cooked through.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Repeat the cooking process with the remaining batter and vegetable oil.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the Korean vegetable pancakes briefly before slicing.",
+          "durationMinutes": 2,
+          "isPassive": true
+        },
+        {
+          "order": 13,
+          "instruction": "Serve the pancakes with the soy sauce dip.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Serve freshly cooked for the crispest texture. Refrigerate for up to 2 days and reheat in a pan or oven. Freeze cooked pancakes for up to 1 month.",
+      "fridgeDays": 2,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Korean vegetable pancakes, hearty",
+      "summary": "A generous stack of thick Korean vegetable pancakes with extra eggs, flour and crisp vegetables. The sesame-soy dip makes this a substantial vegetarian dinner.",
+      "cuisine": "korean",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 31,
+      "cookMinutes": 38,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "wheat flour",
+          "grams": 320,
+          "displayQuantity": "2 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 360,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": "cold",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 400,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into thin matchsticks",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 100,
+          "displayQuantity": "12",
+          "preparation": "cut into short lengths",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 220,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into thin matchsticks",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 50,
+          "displayQuantity": "3 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 50,
+          "displayQuantity": "3 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the zucchini, onion, spring onions, mushrooms, carrot and green cabbage in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Whisk the wheat flour, water and eggs into a smooth batter.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Fold the zucchini, onion, spring onions, mushrooms, carrot and green cabbage into the batter.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Rest the vegetable batter so the wheat flour hydrates fully.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the soy sauce and sesame oil together for dipping.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Heat part of the vegetable oil in a large frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Spread a generous layer of batter across the hot pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the first side until crisp and deeply golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Turn the pancake carefully.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the second side until golden and firm in the centre.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Repeat the cooking process with the remaining batter and vegetable oil.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the Korean vegetable pancakes briefly before slicing.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 13,
+          "instruction": "Serve the pancakes with the soy sauce dip.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best eaten hot from the pan. Refrigerate for up to 2 days and reheat until crisp. Freeze cooked pancakes for up to 1 month.",
+      "fridgeDays": 2,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Thai shrimp omelette with rice, light",
+      "summary": "A crisp-edged Thai omelette with tender shrimp and spring onions, served with rice, cucumber and lime. Less rice and oil keep this high-protein breakfast lighter.",
+      "cuisine": "thai",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 16,
+      "cookMinutes": 32,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 250,
+          "displayQuantity": "5 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "shrimp",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "peeled and roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 100,
+          "displayQuantity": "1/2 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 250,
+          "displayQuantity": "1 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 25,
+          "displayQuantity": "3",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "fish sauce",
+          "grams": 15,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 50,
+          "displayQuantity": "1 large",
+          "preparation": "cut into wedges",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the shrimp, cucumber, spring onions and lime in their listed forms.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Beat the eggs until lightly foamy.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the shrimp, spring onions and fish sauce into the eggs.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Heat the vegetable oil in a wide frying pan until very hot.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour the egg mixture into the hot oil.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the first side until puffed and deeply golden at the edges.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Turn the omelette carefully.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the second side until the shrimp are opaque and the eggs are set.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the Thai shrimp omelette briefly so the centre settles.",
+          "durationMinutes": 2,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Serve the omelette with the white rice, cucumber and lime.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served immediately while the omelette is crisp. Refrigerate leftovers for up to 2 days and reheat gently. Store the rice and cucumber separately. Do not freeze.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Thai shrimp omelette with rice",
+      "summary": "A golden Thai shrimp omelette seasoned with fish sauce and spring onions, served with steamed rice, cool cucumber and fresh lime.",
+      "cuisine": "thai",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 16,
+      "cookMinutes": 35,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 300,
+          "displayQuantity": "6 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "shrimp",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "peeled and roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 150,
+          "displayQuantity": "3/4 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 220,
+          "displayQuantity": "1 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 30,
+          "displayQuantity": "4",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "fish sauce",
+          "grams": 20,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 30,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 60,
+          "displayQuantity": "1 1/2",
+          "preparation": "cut into wedges",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the shrimp, cucumber, spring onions and lime in their listed forms.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Beat the eggs until lightly foamy.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the shrimp, spring onions and fish sauce into the eggs.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Heat the vegetable oil in a wide frying pan until very hot.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour the egg mixture into the hot oil.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the first side until puffed and deeply golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Turn the omelette carefully.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the second side until the shrimp and eggs are fully cooked.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the Thai shrimp omelette briefly so the juices settle.",
+          "durationMinutes": 2,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Serve the omelette with the white rice, cucumber and lime.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Serve freshly cooked for the best crisp texture. Refrigerate for up to 2 days and reheat gently. Keep the rice and cucumber separate. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Thai shrimp omelette with rice, hearty",
+      "summary": "A generous Thai breakfast with extra shrimp, eggs and rice beneath a crisp, golden omelette. Cucumber and lime keep the substantial plate fresh.",
+      "cuisine": "thai",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 18,
+      "cookMinutes": 38,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 400,
+          "displayQuantity": "8 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "shrimp",
+          "grams": 360,
+          "displayQuantity": "360 g",
+          "preparation": "peeled and roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 210,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 250,
+          "displayQuantity": "1 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 40,
+          "displayQuantity": "5",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "fish sauce",
+          "grams": 26,
+          "displayQuantity": "1 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 42,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 75,
+          "displayQuantity": "2 small",
+          "preparation": "cut into wedges",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender, then keep the larger portion covered so it finishes steaming evenly.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the shrimp, cucumber, spring onions and lime in their listed forms.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Beat the eggs until foamy and evenly combined.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the shrimp, spring onions and fish sauce into the eggs.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Heat the vegetable oil in a large frying pan until very hot.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour the egg mixture into the hot oil.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the first side until puffed and deeply golden at the edges.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Turn the omelette carefully.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Cook the second side until every shrimp is opaque and the eggs are set.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the Thai shrimp omelette briefly so the centre settles.",
+          "durationMinutes": 2,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Serve the omelette generously with the white rice, cucumber and lime.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best eaten immediately. Refrigerate leftovers for up to 2 days and reheat gently until hot. Store the rice and cucumber separately. Do not freeze.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Turkish chicken shish with cacik, light",
+      "summary": "Grilled chicken shish with peppers and onions, served with cool cucumber, dill and yogurt cacik. Less bread and oil keep this high-protein Turkish lunch lighter.",
+      "cuisine": "turkish",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 28,
+      "cookMinutes": 37,
+      "difficulty": "medium",
+      "equipment": [
+        "grill"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 250,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 350,
+          "displayQuantity": "1 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "pita bread",
+          "grams": 160,
+          "displayQuantity": "3 small pitas",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 45,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 6,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken breast, cucumber, bell pepper, onion, garlic, dill weed and pita bread in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Divide the greek yogurt between two bowls.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Mix half the greek yogurt with half the lemon juice, half the garlic, olive oil, cumin, paprika and half the salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Coat the chicken breast thoroughly with the yogurt marinade.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Marinate the chicken breast in the refrigerator.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Thread the chicken breast, bell pepper and onion onto skewers.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the remaining greek yogurt with the cucumber, dill weed, remaining garlic, remaining lemon juice and remaining salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Heat the grill until very hot.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Grill the skewers until the first side is browned and lightly charred.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Turn the skewers.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Grill until the chicken breast is cooked through and the vegetables are tender.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the chicken shish so the breast remains juicy.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 13,
+          "instruction": "Warm the pita bread briefly on the grill.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Serve the Turkish chicken shish with the cacik and pita bread.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the chicken shish and cacik separately for up to 3 days. Reheat the chicken gently and serve with freshly warmed pita bread. Freeze the cooked chicken for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Turkish chicken shish with cacik",
+      "summary": "Juicy Turkish chicken shish grilled with peppers and onions, served with cucumber, dill and yogurt cacik plus warm pita bread.",
+      "cuisine": "turkish",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 32,
+      "cookMinutes": 43,
+      "difficulty": "medium",
+      "equipment": [
+        "grill"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 850,
+          "displayQuantity": "850 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 350,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 320,
+          "displayQuantity": "1 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 350,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 250,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "pita bread",
+          "grams": 240,
+          "displayQuantity": "4 large pitas",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 55,
+          "displayQuantity": "3 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 22,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 8,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken breast, cucumber, bell pepper, onion, garlic, dill weed and pita bread in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Divide the greek yogurt between two bowls.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Mix half the greek yogurt with half the lemon juice, half the garlic, olive oil, cumin, paprika and half the salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Coat the chicken breast thoroughly with the yogurt marinade.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Marinate the chicken breast in the refrigerator.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Thread the chicken breast, bell pepper and onion onto skewers.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the remaining greek yogurt with the cucumber, dill weed, remaining garlic, remaining lemon juice and remaining salt.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Heat the grill until very hot.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Grill the skewers until the first side is browned and lightly charred.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Turn the skewers.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Grill until the chicken breast is cooked through and the vegetables are tender.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the chicken shish so the breast remains juicy.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 13,
+          "instruction": "Warm the pita bread briefly on the grill.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Serve the Turkish chicken shish with the cacik and pita bread.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep the grilled chicken and cacik separately refrigerated for up to 3 days. Reheat the chicken gently and warm the pita bread before serving. Freeze the chicken for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Turkish chicken shish with cacik, hearty",
+      "summary": "A generous Turkish lunch with extra grilled chicken shish, peppers, onions, warm pita and creamy cucumber cacik. It is substantial and naturally high in protein.",
+      "cuisine": "turkish",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 36,
+      "cookMinutes": 50,
+      "difficulty": "medium",
+      "equipment": [
+        "grill"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 1100,
+          "displayQuantity": "1.1 kg",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 450,
+          "displayQuantity": "1 3/4 cups plus 2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 400,
+          "displayQuantity": "2 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 450,
+          "displayQuantity": "3 large",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 300,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "pita bread",
+          "grams": 340,
+          "displayQuantity": "6 pitas",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 70,
+          "displayQuantity": "1/4 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 28,
+          "displayQuantity": "9 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 32,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 9,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 9,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 10,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 10,
+          "displayQuantity": "1 2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken breast, cucumber, bell pepper, onion, garlic, dill weed and pita bread in their listed forms.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Divide the greek yogurt between two bowls.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Mix half the greek yogurt with half the lemon juice, half the garlic, olive oil, cumin, paprika and half the salt.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Coat the chicken breast thoroughly with the yogurt marinade.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Marinate the chicken breast in the refrigerator.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Thread the chicken breast, bell pepper and onion onto skewers.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the remaining greek yogurt with the cucumber, dill weed, remaining garlic, remaining lemon juice and remaining salt.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Heat the grill until very hot.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Grill the skewers until the first side is deeply browned and charred at the edges.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Turn the skewers.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Grill until every piece of chicken breast is cooked through.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the chicken shish so the breast remains juicy.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 13,
+          "instruction": "Warm the pita bread in batches on the grill.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Serve the Turkish chicken shish generously with the cacik and pita bread.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the chicken and cacik separately for up to 3 days. Reheat the chicken gently and warm fresh pita bread when serving. Freeze the cooked chicken for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    }
+  ]
+}

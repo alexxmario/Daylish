@@ -1,0 +1,3139 @@
+{
+  "recipes": [
+    {
+      "title": "Middle Eastern stuffed eggplant, light",
+      "summary": "Tender eggplant halves filled with savoury beef, tomato, onion and pine nuts, then baked until soft. Extra eggplant and less rice and oil keep this lunch lighter.",
+      "cuisine": "middle_eastern",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 60,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggplant",
+          "grams": 1000,
+          "displayQuantity": "4 medium",
+          "preparation": "halved lengthwise",
+          "optional": false
+        },
+        {
+          "name": "ground beef",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 100,
+          "displayQuantity": "1/2 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "pine nuts",
+          "grams": 20,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 250,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 180,
+          "displayQuantity": "3/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 25,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the eggplant, onion and garlic in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brush the eggplant with half the olive oil.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Bake the eggplant until softened but still sturdy enough to fill.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Toast the pine nuts in a dry frying pan until lightly golden.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion in the remaining olive oil until soft and translucent.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Brown the ground beef until no pink remains.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the garlic, cumin, paprika and salt into the beef until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Add the white rice, tomatoes, canned, and vegetable broth to the pan.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer the filling until the rice is nearly tender and the liquid has reduced.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Scoop a little flesh from each eggplant half to make room for the filling.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Fill the eggplant halves with the beef mixture and pine nuts.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bake the stuffed eggplant until the rice is tender and the tops are lightly browned.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Stir the greek yogurt with the lemon juice until smooth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Rest the Middle Eastern stuffed eggplant before serving it with the yogurt.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate the stuffed eggplant and yogurt separately for up to 3 days. Reheat covered until steaming. Freeze the baked eggplant without the yogurt for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Middle Eastern stuffed eggplant",
+      "summary": "Middle Eastern-style eggplant filled with beef, rice, tomato and toasted pine nuts, baked until silky and served with lemon yogurt.",
+      "cuisine": "middle_eastern",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 26,
+      "cookMinutes": 67,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggplant",
+          "grams": 1000,
+          "displayQuantity": "4 medium",
+          "preparation": "halved lengthwise",
+          "optional": false
+        },
+        {
+          "name": "ground beef",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 150,
+          "displayQuantity": "3/4 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 550,
+          "displayQuantity": "2 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "pine nuts",
+          "grams": 30,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 28,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 300,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 220,
+          "displayQuantity": "scant 1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the eggplant, onion and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brush the eggplant with half the olive oil.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Bake the eggplant until softened but still sturdy enough to fill.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Toast the pine nuts in a dry frying pan until lightly golden.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion in the remaining olive oil until soft and translucent.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Brown the ground beef until no pink remains.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the garlic, cumin, paprika and salt into the beef until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Add the white rice, tomatoes, canned, and vegetable broth to the pan.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer the filling until the rice is nearly tender and the liquid has reduced.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Scoop a little flesh from each eggplant half to make room for the filling.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Fill the eggplant halves with the beef mixture and pine nuts.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bake the stuffed eggplant until the rice is tender and the tops are lightly browned.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Stir the greek yogurt with the lemon juice until smooth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Rest the Middle Eastern stuffed eggplant before serving it with the yogurt.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate the stuffed eggplant and yogurt separately for up to 3 days. Reheat covered until steaming. Freeze the baked eggplant without the yogurt for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Middle Eastern stuffed eggplant, hearty",
+      "summary": "A generous tray of eggplant packed with extra beef, rice and pine nuts in a rich tomato filling, finished with cool lemon yogurt.",
+      "cuisine": "middle_eastern",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 29,
+      "cookMinutes": 81,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggplant",
+          "grams": 1200,
+          "displayQuantity": "5 medium",
+          "preparation": "halved lengthwise",
+          "optional": false
+        },
+        {
+          "name": "ground beef",
+          "grams": 850,
+          "displayQuantity": "850 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 220,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 700,
+          "displayQuantity": "3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "pine nuts",
+          "grams": 45,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 38,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 8,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 8,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 380,
+          "displayQuantity": "1 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 300,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 40,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the eggplant, onion and garlic in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brush the eggplant with half the olive oil.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Bake the eggplant until softened but still sturdy enough to fill.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Toast the pine nuts in a dry frying pan until lightly golden.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion in the remaining olive oil until soft and translucent.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Brown the ground beef until no pink remains.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the garlic, cumin, paprika and salt into the beef until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Add the white rice, tomatoes, canned, and vegetable broth to the pan.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer the filling until the rice is nearly tender and the liquid has reduced.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Scoop a little flesh from each eggplant half to make room for the filling.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Fill the eggplant halves with the beef mixture and pine nuts.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bake the stuffed eggplant until the rice is tender and the tops are lightly browned.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Stir the greek yogurt with the lemon juice until smooth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Rest the Middle Eastern stuffed eggplant before serving it with the yogurt.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate the stuffed eggplant and yogurt separately for up to 3 days. Reheat covered until steaming. Freeze the baked eggplant without the yogurt for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Mexican chicken tostadas, light",
+      "summary": "Crisp baked tortillas topped with spiced chicken, black beans, tomato salsa and cool yogurt. Extra vegetables and less tortilla keep this high-protein dinner lighter.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 23,
+      "cookMinutes": 45,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "cut into thin strips",
+          "optional": false
+        },
+        {
+          "name": "black beans, canned",
+          "grams": 400,
+          "displayQuantity": "2 1/3 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tortilla",
+          "grams": 240,
+          "displayQuantity": "8 small",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 450,
+          "displayQuantity": "1 3/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 150,
+          "displayQuantity": "2/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 70,
+          "displayQuantity": "2 small",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 25,
+          "displayQuantity": "2/3 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the chicken breast, bell pepper, onion, garlic, lime and cilantro in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brush the tortilla lightly with part of the olive oil.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Bake the tortilla until crisp and golden.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and bell pepper in part of the remaining olive oil until soft.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the garlic into the vegetables until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the tomatoes, canned, with half the cumin, half the paprika and part of the salt until thick.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Warm the black beans until steaming.",
+          "durationMinutes": 2,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Cook the chicken breast with the remaining olive oil, cumin, paprika and salt until browned and cooked through.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the chicken breast so the juices settle.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Stir the greek yogurt with half the lime until smooth.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Spread the black beans over the crisp tortilla.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Top the beans with the chicken breast.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Spoon the tomato salsa over the chicken and add the cilantro.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Serve the Mexican chicken tostadas with the lime yogurt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled just before serving. Refrigerate the chicken, beans, salsa and yogurt separately for up to 3 days. Re-crisp the tortillas in the oven. Freeze the cooked chicken for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Mexican chicken tostadas",
+      "summary": "Crunchy Mexican-style tostadas layered with cumin-paprika chicken, black beans, warm tomato salsa, cilantro and lime yogurt.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 25,
+      "cookMinutes": 52,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 850,
+          "displayQuantity": "850 g",
+          "preparation": "cut into thin strips",
+          "optional": false
+        },
+        {
+          "name": "black beans, canned",
+          "grams": 500,
+          "displayQuantity": "3 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tortilla",
+          "grams": 320,
+          "displayQuantity": "10 small",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 200,
+          "displayQuantity": "3/4 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 85,
+          "displayQuantity": "2 medium",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "3/4 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 22,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the chicken breast, bell pepper, onion, garlic, lime and cilantro in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brush the tortilla lightly with part of the olive oil.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Bake the tortilla until crisp and golden.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and bell pepper in part of the remaining olive oil until soft.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the garlic into the vegetables until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the tomatoes, canned, with half the cumin, half the paprika and part of the salt until thick.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Warm the black beans until steaming.",
+          "durationMinutes": 2,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Cook the chicken breast with the remaining olive oil, cumin, paprika and salt until browned and cooked through.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the chicken breast so the juices settle.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Stir the greek yogurt with half the lime until smooth.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Spread the black beans over the crisp tortilla.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Top the beans with the chicken breast.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Spoon the tomato salsa over the chicken and add the cilantro.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Serve the Mexican chicken tostadas with the lime yogurt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled just before serving. Refrigerate the chicken, beans, salsa and yogurt separately for up to 3 days. Re-crisp the tortillas in the oven. Freeze the cooked chicken for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Mexican chicken tostadas, hearty",
+      "summary": "A generous tostada dinner with extra spiced chicken, black beans and crisp tortillas under tomato salsa and creamy lime yogurt.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 28,
+      "cookMinutes": 61,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 1100,
+          "displayQuantity": "1.1 kg",
+          "preparation": "cut into thin strips",
+          "optional": false
+        },
+        {
+          "name": "black beans, canned",
+          "grams": 650,
+          "displayQuantity": "3 3/4 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tortilla",
+          "grams": 420,
+          "displayQuantity": "12 medium",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 650,
+          "displayQuantity": "2 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 360,
+          "displayQuantity": "3 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 280,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 100,
+          "displayQuantity": "2 large",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 40,
+          "displayQuantity": "1 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 30,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 9,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 9,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the chicken breast, bell pepper, onion, garlic, lime and cilantro in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brush the tortilla lightly with part of the olive oil.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Bake the tortilla until crisp and golden.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and bell pepper in part of the remaining olive oil until soft.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the garlic into the vegetables until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the tomatoes, canned, with half the cumin, half the paprika and part of the salt until thick.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Warm the black beans until steaming.",
+          "durationMinutes": 2,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Cook the chicken breast with the remaining olive oil, cumin, paprika and salt until browned and cooked through.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the chicken breast so the juices settle.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Stir the greek yogurt with half the lime until smooth.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Spread the black beans over the crisp tortilla.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Top the beans with the chicken breast.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Spoon the tomato salsa over the chicken and add the cilantro.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Serve the Mexican chicken tostadas with the lime yogurt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled just before serving. Refrigerate the chicken, beans, salsa and yogurt separately for up to 3 days. Re-crisp the tortillas in the oven. Freeze the cooked chicken for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "American broccoli cheddar baked potatoes, light",
+      "summary": "Crisp baked potatoes filled with tender broccoli and a light cheddar yogurt sauce. Extra broccoli and less cheese and butter keep this vegetarian lunch lighter.",
+      "cuisine": "american",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 2,
+      "prepMinutes": 18,
+      "cookMinutes": 64,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "potato",
+          "grams": 500,
+          "displayQuantity": "2 large",
+          "preparation": "scrubbed",
+          "optional": false
+        },
+        {
+          "name": "broccoli",
+          "grams": 450,
+          "displayQuantity": "1 large head",
+          "preparation": "cut into small florets",
+          "optional": false
+        },
+        {
+          "name": "cheddar cheese",
+          "grams": 80,
+          "displayQuantity": "3/4 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 180,
+          "displayQuantity": "3/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 120,
+          "displayQuantity": "1/2 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 100,
+          "displayQuantity": "1 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 10,
+          "displayQuantity": "3 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 3,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Pierce the potato several times with a fork.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Rub the potato with a little of the butter and part of the salt.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Bake the potato until the skin is crisp and the centre feels completely soft.",
+          "durationMinutes": 40,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Prepare the broccoli, onion, garlic and cheddar cheese in their listed forms.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Steam the broccoli until tender but still bright.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Melt the remaining butter in a saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the onion until soft and translucent.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Stir the garlic and paprika into the onion until fragrant.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Pour the whole milk into the saucepan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Stir the cheddar cheese into the milk until melted and smooth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Fold the greek yogurt and remaining salt into the sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Split the baked potato and fill it with the broccoli cheddar sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served freshly assembled. Refrigerate the potatoes, broccoli and sauce separately for up to 3 days. Reheat the potatoes in the oven and warm the sauce gently. Do not freeze the assembled dish.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "American broccoli cheddar baked potatoes",
+      "summary": "Fluffy baked potatoes loaded with broccoli in a creamy cheddar sauce made with yogurt, milk, onion and garlic.",
+      "cuisine": "american",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 2,
+      "prepMinutes": 20,
+      "cookMinutes": 70,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "potato",
+          "grams": 700,
+          "displayQuantity": "2 very large",
+          "preparation": "scrubbed",
+          "optional": false
+        },
+        {
+          "name": "broccoli",
+          "grams": 400,
+          "displayQuantity": "1 large head",
+          "preparation": "cut into small florets",
+          "optional": false
+        },
+        {
+          "name": "cheddar cheese",
+          "grams": 130,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 200,
+          "displayQuantity": "3/4 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 150,
+          "displayQuantity": "2/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 120,
+          "displayQuantity": "1 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Pierce the potato several times with a fork.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Rub the potato with a little of the butter and part of the salt.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Bake the potato until the skin is crisp and the centre feels completely soft.",
+          "durationMinutes": 45,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Prepare the broccoli, onion, garlic and cheddar cheese in their listed forms.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Steam the broccoli until tender but still bright.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Melt the remaining butter in a saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the onion until soft and translucent.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Stir the garlic and paprika into the onion until fragrant.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Pour the whole milk into the saucepan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Stir the cheddar cheese into the milk until melted and smooth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Fold the greek yogurt and remaining salt into the sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Split the baked potato and fill it with the broccoli cheddar sauce.",
+          "durationMinutes": 4,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served freshly assembled. Refrigerate the potatoes, broccoli and sauce separately for up to 3 days. Reheat the potatoes in the oven and warm the sauce gently. Do not freeze the assembled dish.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "American broccoli cheddar baked potatoes, hearty",
+      "summary": "A generous pair of baked potatoes packed with extra broccoli and a rich cheddar yogurt sauce. The substantial vegetarian lunch is warm and deeply savoury.",
+      "cuisine": "american",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 2,
+      "prepMinutes": 23,
+      "cookMinutes": 82,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "potato",
+          "grams": 900,
+          "displayQuantity": "3 large",
+          "preparation": "scrubbed",
+          "optional": false
+        },
+        {
+          "name": "broccoli",
+          "grams": 500,
+          "displayQuantity": "1 1/2 large heads",
+          "preparation": "cut into small florets",
+          "optional": false
+        },
+        {
+          "name": "cheddar cheese",
+          "grams": 190,
+          "displayQuantity": "1 3/4 cups",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 260,
+          "displayQuantity": "1 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 200,
+          "displayQuantity": "3/4 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 150,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 26,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Pierce the potato several times with a fork.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Rub the potato with a little of the butter and part of the salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Bake the potato until the skin is crisp and the centre feels completely soft.",
+          "durationMinutes": 50,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Prepare the broccoli, onion, garlic and cheddar cheese in their listed forms.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Steam the broccoli until tender but still bright.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Melt the remaining butter in a saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the onion until soft and translucent.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Stir the garlic and paprika into the onion until fragrant.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Pour the whole milk into the saucepan.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Stir the cheddar cheese into the milk until melted and smooth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Fold the greek yogurt and remaining salt into the sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Split the baked potato and fill it with the broccoli cheddar sauce.",
+          "durationMinutes": 5,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served freshly assembled. Refrigerate the potatoes, broccoli and sauce separately for up to 3 days. Reheat the potatoes in the oven and warm the sauce gently. Do not freeze the assembled dish.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "British cottage pie, light",
+      "summary": "Savoury beef and vegetables beneath a fluffy potato topping, baked until golden. Extra mushrooms, carrots and celery keep this British dinner lighter.",
+      "cuisine": "british",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 25,
+      "cookMinutes": 93,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 250,
+          "displayQuantity": "3 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 160,
+          "displayQuantity": "3 stalks",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 45,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 500,
+          "displayQuantity": "2 cups plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 100,
+          "displayQuantity": "1/3 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 15,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, mushrooms, carrot, celery, onion and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the potato until completely tender when pierced with a knife.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the olive oil in a large frying pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Brown the ground beef until no pink remains.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion, carrot and celery until softened.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the mushrooms until their moisture evaporates and the edges begin to brown.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the garlic, tomato paste, thyme and half the salt into the filling.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Pour the beef stock into the pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Bring the beef filling to a gentle simmer.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Simmer until the sauce is thick and the vegetables are tender.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Drain the potato thoroughly.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Mash the potato with the whole milk, butter and remaining salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Spread the beef filling evenly in a baking dish.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Cover the filling with the mashed potato.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Bake the cottage pie until bubbling and deeply golden on top.",
+          "durationMinutes": 25,
+          "isPassive": true
+        },
+        {
+          "order": 17,
+          "instruction": "Rest the British cottage pie before serving.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat covered until steaming, uncovering near the end to crisp the potato. Freeze the baked cottage pie for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "British cottage pie",
+      "summary": "Classic British cottage pie with a rich beef and vegetable filling under creamy mashed potatoes, baked until the top is crisp and golden.",
+      "cuisine": "british",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 27,
+      "cookMinutes": 101,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 250,
+          "displayQuantity": "3 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 180,
+          "displayQuantity": "4 stalks",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 55,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 550,
+          "displayQuantity": "2 1/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 130,
+          "displayQuantity": "1/2 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 25,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 6,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, mushrooms, carrot, celery, onion and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the potato until completely tender when pierced with a knife.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the olive oil in a large frying pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Brown the ground beef until no pink remains.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion, carrot and celery until softened.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the mushrooms until their moisture evaporates and the edges begin to brown.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the garlic, tomato paste, thyme and half the salt into the filling.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Pour the beef stock into the pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Bring the beef filling to a gentle simmer.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Simmer until the sauce is thick and the vegetables are tender.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Drain the potato thoroughly.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Mash the potato with the whole milk, butter and remaining salt.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Spread the beef filling evenly in a baking dish.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Cover the filling with the mashed potato.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Bake the cottage pie until bubbling and deeply golden on top.",
+          "durationMinutes": 28,
+          "isPassive": true
+        },
+        {
+          "order": 17,
+          "instruction": "Rest the British cottage pie before serving.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat covered until steaming, uncovering near the end to crisp the potato. Freeze the baked cottage pie for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "British cottage pie, hearty",
+      "summary": "A generous cottage pie with extra beef and creamy potato topping over a deeply savoury vegetable filling. The substantial British dinner bakes until richly golden.",
+      "cuisine": "british",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 118,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 950,
+          "displayQuantity": "950 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 1250,
+          "displayQuantity": "1.25 kg",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 300,
+          "displayQuantity": "4 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 220,
+          "displayQuantity": "5 stalks",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 70,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 700,
+          "displayQuantity": "3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 180,
+          "displayQuantity": "3/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 40,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 8,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 26,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 10,
+          "displayQuantity": "1 2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, mushrooms, carrot, celery, onion and garlic in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the potato until completely tender when pierced with a knife.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the olive oil in a large frying pan.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Brown the ground beef until no pink remains.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion, carrot and celery until softened.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the mushrooms until their moisture evaporates and the edges begin to brown.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the garlic, tomato paste, thyme and half the salt into the filling.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Pour the beef stock into the pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Bring the beef filling to a gentle simmer.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Simmer until the sauce is thick and the vegetables are tender.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Drain the potato thoroughly.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Mash the potato with the whole milk, butter and remaining salt.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Spread the beef filling evenly in a baking dish.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Cover the filling with the mashed potato.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 16,
+          "instruction": "Bake the cottage pie until bubbling and deeply golden on top.",
+          "durationMinutes": 32,
+          "isPassive": true
+        },
+        {
+          "order": 17,
+          "instruction": "Rest the British cottage pie before serving.",
+          "durationMinutes": 6,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat covered until steaming, uncovering near the end to crisp the potato. Freeze the baked cottage pie for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Indian chicken tikka with rice, light",
+      "summary": "Yogurt-marinated chicken tikka grilled with peppers and served with a modest portion of rice and cool cucumber. Extra vegetables keep this high-protein lunch lighter.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 28,
+      "cookMinutes": 59,
+      "difficulty": "medium",
+      "equipment": [
+        "grill",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 180,
+          "displayQuantity": "1 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 120,
+          "displayQuantity": "1/2 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 350,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 350,
+          "displayQuantity": "1 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 45,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 22,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 25,
+          "displayQuantity": "2/3 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken breast, bell pepper, cucumber, onion, garlic, ginger and cilantro in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the greek yogurt, lemon juice, garlic, ginger, cumin, paprika, olive oil and salt into a thick marinade.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the chicken breast thoroughly with the yogurt marinade.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cover the chicken breast.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Marinate the chicken breast in the refrigerator.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Thread the chicken breast, bell pepper and onion onto skewers.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Heat the grill until very hot.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Grill the first sides of the skewers until browned and lightly charred.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Turn the skewers.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Grill until the chicken breast is cooked through and the vegetables are tender.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Rest the chicken tikka so the breast remains juicy.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Serve the Indian chicken tikka with the white rice, cucumber and cilantro.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the cooked chicken and rice separately for up to 3 days. Reheat the chicken gently and keep the cucumber fresh. Freeze the cooked chicken tikka for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Indian chicken tikka with rice",
+      "summary": "Juicy grilled chicken tikka coated in yogurt, ginger, garlic, cumin and paprika, served with steamed rice, peppers, onion and cucumber.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 31,
+      "cookMinutes": 66,
+      "difficulty": "medium",
+      "equipment": [
+        "grill",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 260,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 160,
+          "displayQuantity": "2/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 350,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 320,
+          "displayQuantity": "1 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 55,
+          "displayQuantity": "3 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 26,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 8,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 8,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "3/4 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken breast, bell pepper, cucumber, onion, garlic, ginger and cilantro in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the greek yogurt, lemon juice, garlic, ginger, cumin, paprika, olive oil and salt into a thick marinade.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the chicken breast thoroughly with the yogurt marinade.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cover the chicken breast.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Marinate the chicken breast in the refrigerator.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Thread the chicken breast, bell pepper and onion onto skewers.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Heat the grill until very hot.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Grill the first sides of the skewers until browned and lightly charred.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Turn the skewers.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Grill until the chicken breast is cooked through and the vegetables are tender.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Rest the chicken tikka so the breast remains juicy.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Serve the Indian chicken tikka with the white rice, cucumber and cilantro.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the cooked chicken and rice separately for up to 3 days. Reheat the chicken gently and keep the cucumber fresh. Freeze the cooked chicken tikka for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Indian chicken tikka with rice, hearty",
+      "summary": "A generous high-protein lunch with extra grilled chicken tikka and rice, plus charred peppers, onion and fresh cucumber and cilantro.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 35,
+      "cookMinutes": 74,
+      "difficulty": "medium",
+      "equipment": [
+        "grill",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 1150,
+          "displayQuantity": "1.15 kg",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 360,
+          "displayQuantity": "2 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 220,
+          "displayQuantity": "scant 1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 450,
+          "displayQuantity": "3 large",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 400,
+          "displayQuantity": "2 medium",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 280,
+          "displayQuantity": "2 large",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 70,
+          "displayQuantity": "1/4 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 28,
+          "displayQuantity": "9 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 32,
+          "displayQuantity": "3 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 30,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 10,
+          "displayQuantity": "1 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 10,
+          "displayQuantity": "1 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 40,
+          "displayQuantity": "1 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 10,
+          "displayQuantity": "1 2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken breast, bell pepper, cucumber, onion, garlic, ginger and cilantro in their listed forms.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the greek yogurt, lemon juice, garlic, ginger, cumin, paprika, olive oil and salt into a thick marinade.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the chicken breast thoroughly with the yogurt marinade.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cover the chicken breast.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Marinate the chicken breast in the refrigerator.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Thread the chicken breast, bell pepper and onion onto skewers.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Heat the grill until very hot.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Grill the first sides of the skewers until browned and lightly charred.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Turn the skewers.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Grill until the chicken breast is cooked through and the vegetables are tender.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Rest the chicken tikka so the breast remains juicy.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Serve the Indian chicken tikka with the white rice, cucumber and cilantro.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the cooked chicken and rice separately for up to 3 days. Reheat the chicken gently and keep the cucumber fresh. Freeze the cooked chicken tikka for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    }
+  ]
+}

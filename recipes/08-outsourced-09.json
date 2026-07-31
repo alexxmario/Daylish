@@ -1,0 +1,2389 @@
+{
+  "recipes": [
+    {
+      "title": "Akara, light",
+      "summary": "Crisp West African black-eyed pea fritters with a soft, savoury centre. Extra bell pepper and less oil keep this shared snack lighter without changing its character.",
+      "cuisine": "west_african",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 18,
+      "difficulty": "medium",
+      "equipment": [
+        "blender",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "cowpeas, canned",
+          "grams": 420,
+          "displayQuantity": "2 1/2 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 120,
+          "displayQuantity": "1 medium",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 140,
+          "displayQuantity": "1 large",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 8,
+          "displayQuantity": "2 cloves",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "cayenne pepper",
+          "grams": 1,
+          "displayQuantity": "1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 70,
+          "displayQuantity": "1/4 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 24,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Pat the cowpeas dry so the fritter batter will not become watery.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Chop the onion, bell pepper and garlic into pieces small enough for the blender.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Blend the cowpeas, onion, bell pepper, garlic, ginger, cayenne pepper, water and salt into a thick, slightly textured batter.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Beat the batter vigorously until it looks lighter and holds soft peaks.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the vegetable oil in a wide non-stick frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fry spoonfuls of batter until golden and firm on both sides, working in batches.",
+          "durationMinutes": 14,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Drain the akara briefly on absorbent paper.",
+          "durationMinutes": 2,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the akara until cool enough to eat while the crust finishes setting.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best served warm and freshly fried. Refrigerate for up to 2 days and reheat in a hot oven or dry pan. Freeze cooked akara for up to 1 month.",
+      "fridgeDays": 2,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Akara",
+      "summary": "Golden West African black-eyed pea fritters blended with onion, pepper, garlic and ginger. They are crisp outside, fluffy within and made for sharing.",
+      "cuisine": "west_african",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 20,
+      "difficulty": "medium",
+      "equipment": [
+        "blender",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "cowpeas, canned",
+          "grams": 500,
+          "displayQuantity": "3 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 150,
+          "displayQuantity": "1 large",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 150,
+          "displayQuantity": "1 large",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 10,
+          "displayQuantity": "3 cloves",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 10,
+          "displayQuantity": "1 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "cayenne pepper",
+          "grams": 2,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 80,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 40,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Pat the cowpeas dry so the fritter batter will stay thick.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Chop the onion, bell pepper and garlic into pieces small enough for the blender.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Blend the cowpeas, onion, bell pepper, garlic, ginger, cayenne pepper, water and salt into a thick, slightly textured batter.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Beat the batter vigorously until it becomes airy and holds soft peaks.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the vegetable oil in a wide frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fry spoonfuls of batter until deeply golden and cooked through, working in batches.",
+          "durationMinutes": 16,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Drain the akara briefly on absorbent paper.",
+          "durationMinutes": 2,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the akara until cool enough to eat and the crust feels crisp.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Serve warm for the best crisp texture. Refrigerate for up to 2 days and reheat in a hot oven or frying pan. Freeze cooled akara for up to 1 month.",
+      "fridgeDays": 2,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Akara, hearty",
+      "summary": "A generous platter of West African black-eyed pea fritters with extra peas, warm ginger and a deeply golden crust. The larger batch makes a substantial savoury snack.",
+      "cuisine": "west_african",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 22,
+      "difficulty": "medium",
+      "equipment": [
+        "blender",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "cowpeas, canned",
+          "grams": 620,
+          "displayQuantity": "3 3/4 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 14,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "cayenne pepper",
+          "grams": 3,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 100,
+          "displayQuantity": "1/3 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 55,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Pat the cowpeas dry so the larger fritter batter stays thick.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Chop the onion, bell pepper and garlic into pieces small enough for the blender.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Blend the cowpeas, onion, bell pepper, garlic, ginger, cayenne pepper, water and salt into a thick, slightly textured batter.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Beat the batter vigorously until it becomes airy and holds soft peaks.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the vegetable oil in a large frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fry generous spoonfuls of batter until deeply golden and cooked through, working in batches.",
+          "durationMinutes": 18,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Drain the akara briefly on absorbent paper.",
+          "durationMinutes": 2,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the akara until the crust finishes setting and the centre is safe to eat.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best eaten warm. Refrigerate for up to 2 days and reheat in a hot oven or dry pan until crisp. Freeze cooked akara for up to 1 month.",
+      "fridgeDays": 2,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Chicken and mushroom congee, light",
+      "summary": "Silky Chinese rice porridge with tender chicken, mushrooms, ginger and softly cooked egg. Extra broth and mushrooms keep the gluten-free breakfast generous but light.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 14,
+      "cookMinutes": 42,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 80,
+          "displayQuantity": "1/3 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "cut into small pieces",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 220,
+          "displayQuantity": "3 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "shiitake mushrooms",
+          "grams": 100,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "chicken broth",
+          "grams": 1000,
+          "displayQuantity": "4 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 15,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 10,
+          "displayQuantity": "3 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 25,
+          "displayQuantity": "3",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 5,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 3,
+          "displayQuantity": "1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the chicken thigh, mushrooms, shiitake mushrooms, ginger, garlic and spring onions.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the sesame oil in a deep saucepan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the ginger and garlic until fragrant without allowing the garlic to brown.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the chicken broth, white rice and salt and bring the mixture to a gentle boil.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Simmer the congee until the rice begins to break down and the broth turns silky.",
+          "durationMinutes": 24,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Add the chicken thigh and simmer until the thigh pieces are cooked through.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Add the mushrooms and shiitake mushrooms and simmer until tender.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Crack the eggs into the congee and cook until the whites are set and the yolks remain tender.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Finish the chicken and mushroom congee with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat with extra chicken broth because the rice thickens while stored. Freezing is not recommended because the eggs and mushrooms lose texture.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Chicken and mushroom congee",
+      "summary": "Comforting Chinese congee simmered until creamy with chicken, two kinds of mushrooms, ginger and eggs. It is a warm, savoury and naturally gluten-free breakfast.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 14,
+      "cookMinutes": 44,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 110,
+          "displayQuantity": "1/2 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "cut into small pieces",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 200,
+          "displayQuantity": "2 1/2 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "shiitake mushrooms",
+          "grams": 120,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "chicken broth",
+          "grams": 1100,
+          "displayQuantity": "4 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 18,
+          "displayQuantity": "2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 30,
+          "displayQuantity": "4",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the chicken thigh, mushrooms, shiitake mushrooms, ginger, garlic and spring onions.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the sesame oil in a deep saucepan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the ginger and garlic until fragrant without allowing the garlic to brown.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the chicken broth, white rice and salt and bring the mixture to a gentle boil.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Simmer the congee until the rice breaks down and the broth becomes creamy.",
+          "durationMinutes": 26,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Add the chicken thigh and simmer until every thigh piece is cooked through.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Add the mushrooms and shiitake mushrooms and simmer until tender.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Crack the eggs into the congee and cook until the whites are set and the yolks are softly cooked.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Finish the chicken and mushroom congee with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and loosen with chicken broth during reheating. Heat until steaming throughout. The finished congee is not ideal for freezing.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Chicken and mushroom congee, hearty",
+      "summary": "A substantial Chinese breakfast porridge with extra rice, chicken and eggs, plus plenty of mushrooms. Ginger and sesame oil give the creamy congee a warm savoury finish.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 16,
+      "cookMinutes": 48,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 150,
+          "displayQuantity": "3/4 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 380,
+          "displayQuantity": "380 g",
+          "preparation": "cut into small pieces",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 240,
+          "displayQuantity": "3 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "shiitake mushrooms",
+          "grams": 150,
+          "displayQuantity": "2 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "chicken broth",
+          "grams": 1250,
+          "displayQuantity": "5 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 22,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 40,
+          "displayQuantity": "5",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the chicken thigh, mushrooms, shiitake mushrooms, ginger, garlic and spring onions.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the sesame oil in a large saucepan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the ginger and garlic until fragrant without allowing the garlic to brown.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the chicken broth, white rice and salt and bring the mixture to a gentle boil.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Simmer the congee until the larger amount of rice is very soft and the broth is thick and silky.",
+          "durationMinutes": 28,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Add the chicken thigh and simmer until every piece is tender and cooked through.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Add the mushrooms and shiitake mushrooms and simmer until completely tender.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Crack the eggs into the congee and cook until the whites are set and the yolks reach your preferred consistency.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Finish the chicken and mushroom congee generously with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat with additional chicken broth until steaming. Freezing is not recommended because the eggs and mushrooms change texture.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Poulet à la crème, light",
+      "summary": "Tender chicken breast and mushrooms in a light French cream sauce with thyme, spinach and lemon. Extra vegetables keep the keto lunch generous without relying on starch.",
+      "cuisine": "french",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 35,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "high_protein",
+        "keto",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 600,
+          "displayQuantity": "8 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 300,
+          "displayQuantity": "10 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "heavy cream",
+          "grams": 180,
+          "displayQuantity": "3/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken stock",
+          "grams": 250,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 140,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 4,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 20,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken breast, mushrooms, spinach, onion and garlic before heating the pan.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil and half the butter in a wide pan over medium-high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brown the chicken breast in batches until golden outside but not fully cooked within.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Transfer the breast pieces to a plate and keep them nearby.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and mushrooms in the remaining butter until the mushrooms are golden and dry at the edges.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the garlic and thyme and cook until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour in the chicken stock and simmer until reduced by about one third.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Return the chicken breast to the pan and simmer until the breast is cooked through.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Stir in the heavy cream and salt and simmer until the sauce lightly coats the chicken.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Fold in the spinach and cook until just wilted.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Finish the poulet à la crème with the lemon juice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat gently over low heat so the cream sauce does not split. Freeze for up to 1 month, though the sauce may need whisking after thawing.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Poulet à la crème",
+      "summary": "Classic French-style chicken and mushrooms simmered in a rich cream and thyme sauce. Spinach and lemon bring freshness to the deeply savoury keto lunch.",
+      "cuisine": "french",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 38,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "high_protein",
+        "keto",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 500,
+          "displayQuantity": "7 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 250,
+          "displayQuantity": "8 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "heavy cream",
+          "grams": 250,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken stock",
+          "grams": 300,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 160,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 28,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 25,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, mushrooms, spinach, onion and garlic before heating the pan.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil and half the butter in a wide pan over medium-high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brown the chicken thigh in batches until golden outside but not fully cooked within.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Transfer the thigh pieces to a plate and keep them nearby.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and mushrooms in the remaining butter until the mushrooms are deeply golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the garlic and thyme and cook until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour in the chicken stock and simmer until reduced by about one third.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Return the chicken thigh to the pan and simmer until the thigh is tender and cooked through.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Stir in the heavy cream and salt and simmer until the sauce is rich and spoonable.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Fold in the spinach and cook until wilted.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Finish the poulet à la crème with the lemon juice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat gently without boiling. Freeze for up to 1 month; stir the sauce well after thawing and reheating.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Poulet à la crème, hearty",
+      "summary": "A generous French pan of chicken, mushrooms and spinach in a rich thyme cream sauce. Extra chicken and cream make this a substantial high-protein keto lunch for four.",
+      "cuisine": "french",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 42,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "high_protein",
+        "keto",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 950,
+          "displayQuantity": "950 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 600,
+          "displayQuantity": "8 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 300,
+          "displayQuantity": "10 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "heavy cream",
+          "grams": 350,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken stock",
+          "grams": 350,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 40,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 6,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, mushrooms, spinach, onion and garlic before heating the pan.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil and half the butter in a large pan over medium-high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brown the chicken thigh in batches until deeply golden outside.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Transfer the thigh pieces to a plate and keep them nearby.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and mushrooms in the remaining butter until the mushrooms are deeply browned.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the garlic and thyme and cook until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour in the chicken stock and simmer until reduced by about one third.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Return the chicken thigh to the pan and simmer until tender and cooked through.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Stir in the heavy cream and salt and simmer until the sauce becomes thick and glossy.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Fold in the spinach and cook until evenly wilted.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Finish the poulet à la crème with the lemon juice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep refrigerated for up to 3 days and reheat slowly over low heat. Freeze for up to 1 month, then thaw overnight and whisk the sauce while reheating.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Greek lemon chicken traybake, light",
+      "summary": "Roasted lemon-garlic chicken with potatoes, zucchini and onion in a thyme-scented pan sauce. Extra zucchini and less oil keep this Mediterranean dinner lighter.",
+      "cuisine": "greek",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 52,
+      "difficulty": "easy",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 600,
+          "displayQuantity": "4 medium",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 80,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 25,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "chicken stock",
+          "grams": 250,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C so the traybake begins roasting immediately.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the chicken breast, potato, zucchini and onion in their listed sizes.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Whisk the lemon juice, olive oil, garlic, chicken stock, thyme, paprika and salt together.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Arrange the potato and onion in a large roasting tray and coat them with half the lemon mixture.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Roast the potato and onion until they begin to soften and colour at the edges.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Add the chicken breast and zucchini to the tray and coat them with the remaining lemon mixture.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Roast until the breast is cooked through, the zucchini is tender and the potato is golden.",
+          "durationMinutes": 25,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the Greek lemon chicken traybake so the pan juices settle around the vegetables.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat covered until the chicken is hot throughout. Freeze for up to 2 months, though the zucchini will soften after thawing.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Greek lemon chicken traybake",
+      "summary": "Greek-style chicken thighs roasted with potatoes, zucchini, onion, garlic and plenty of lemon. The vegetables absorb the savoury thyme-scented pan juices.",
+      "cuisine": "greek",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 57,
+      "difficulty": "easy",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 450,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 100,
+          "displayQuantity": "scant 1/2 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 40,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "chicken stock",
+          "grams": 300,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 6,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C so the traybake begins roasting immediately.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the chicken thigh, potato, zucchini and onion in their listed sizes.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Whisk the lemon juice, olive oil, garlic, chicken stock, thyme, paprika and salt together.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Arrange the potato and onion in a large roasting tray and coat them with half the lemon mixture.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Roast the potato and onion until they begin to soften and turn golden.",
+          "durationMinutes": 25,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Add the chicken thigh and zucchini to the tray and coat them with the remaining lemon mixture.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Roast until the thigh is tender, the zucchini is soft and the potato is deeply golden.",
+          "durationMinutes": 28,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the Greek lemon chicken traybake so the chicken juices settle into the vegetables.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat covered until steaming. Freeze portions for up to 2 months; thaw overnight before reheating.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Greek lemon chicken traybake, hearty",
+      "summary": "A generous Greek traybake with extra chicken thighs and potatoes in a rich lemon, garlic and olive oil sauce. Zucchini and onion keep the substantial dinner colourful.",
+      "cuisine": "greek",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 62,
+      "difficulty": "easy",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 1150,
+          "displayQuantity": "1.15 kg",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 1200,
+          "displayQuantity": "1.2 kg",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 550,
+          "displayQuantity": "4 medium",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 280,
+          "displayQuantity": "2 large",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 120,
+          "displayQuantity": "1/2 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 55,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 26,
+          "displayQuantity": "8 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "chicken stock",
+          "grams": 350,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 8,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 10,
+          "displayQuantity": "1 2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C so the larger traybake begins roasting immediately.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the chicken thigh, potato, zucchini and onion in their listed sizes.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Whisk the lemon juice, olive oil, garlic, chicken stock, thyme, paprika and salt together.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Arrange the potato and onion across two roasting trays and coat them with half the lemon mixture.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Roast the potato and onion until they begin to soften and brown at the edges.",
+          "durationMinutes": 28,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Add the chicken thigh and zucchini to the trays and coat them with the remaining lemon mixture.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Roast until the thigh is tender and the potato is crisp and deeply golden.",
+          "durationMinutes": 30,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the Greek lemon chicken traybake so the rich pan juices settle.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat covered until piping hot. Freeze in portions for up to 2 months, accepting that the zucchini will be softer.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Moroccan chicken skewers, light",
+      "summary": "Grilled chicken breast marinated with yogurt, lemon, cumin, paprika, ginger and garlic. Crisp cucumber keeps this high-protein North African snack fresh and light.",
+      "cuisine": "north_african",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 35,
+      "cookMinutes": 16,
+      "difficulty": "easy",
+      "equipment": [
+        "grill"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 100,
+          "displayQuantity": "1/3 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 500,
+          "displayQuantity": "2 large",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 35,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 25,
+          "displayQuantity": "1/2 cup plus 2 tbsp",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Cut the chicken breast and cucumber and prepare the garlic, ginger and cilantro.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the greek yogurt, lemon juice, garlic, ginger, cumin, paprika, olive oil and salt together.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the chicken breast with the yogurt mixture until every piece is covered.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Marinate the chicken breast in the refrigerator so the spices flavour the meat.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Thread the chicken breast pieces onto skewers with small gaps between them.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Heat the grill until very hot before adding the skewers.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Grill the chicken skewers until browned outside and cooked through at the centre.",
+          "durationMinutes": 11,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the Moroccan chicken skewers so the breast stays juicy.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Serve the skewers with the cucumber and cilantro.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served freshly grilled. Refrigerate cooked skewers for up to 3 days and reheat gently. Keep the cucumber separate. Freeze cooked chicken for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Moroccan chicken skewers",
+      "summary": "Juicy Moroccan-style chicken skewers with a yogurt, lemon, cumin, paprika and ginger marinade. Cucumber and cilantro make them a lively high-protein snack.",
+      "cuisine": "north_african",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 37,
+      "cookMinutes": 18,
+      "difficulty": "easy",
+      "equipment": [
+        "grill"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 150,
+          "displayQuantity": "2/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 450,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 45,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 15,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "3/4 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Cut the chicken breast and cucumber and prepare the garlic, ginger and cilantro.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the greek yogurt, lemon juice, garlic, ginger, cumin, paprika, olive oil and salt together.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the chicken breast with the yogurt mixture until every piece is evenly covered.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Marinate the chicken breast in the refrigerator so the lemon and spices penetrate the meat.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Thread the chicken breast pieces onto skewers with small gaps between them.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Heat the grill until very hot before adding the skewers.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Grill the chicken skewers until charred at the edges and cooked through.",
+          "durationMinutes": 13,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the Moroccan chicken skewers so the breast pieces remain juicy.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Serve the skewers with the cucumber and cilantro.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate cooked skewers for up to 3 days and reheat gently until hot. Keep the cucumber separate. Freeze the cooked chicken for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Moroccan chicken skewers, hearty",
+      "summary": "A generous platter of Moroccan chicken skewers with extra chicken, creamy spiced marinade and fresh cucumber. It makes a substantial high-protein snack for sharing.",
+      "cuisine": "north_african",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 43,
+      "cookMinutes": 20,
+      "difficulty": "easy",
+      "equipment": [
+        "grill"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 950,
+          "displayQuantity": "950 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 220,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 500,
+          "displayQuantity": "2 large",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 60,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 18,
+          "displayQuantity": "2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 8,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 8,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 25,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 40,
+          "displayQuantity": "1 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Cut the chicken breast and cucumber and prepare the garlic, ginger and cilantro.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the greek yogurt, lemon juice, garlic, ginger, cumin, paprika, olive oil and salt together.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the chicken breast with the yogurt mixture until every piece is thoroughly covered.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Marinate the chicken breast in the refrigerator so the larger batch absorbs the spices.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Thread the chicken breast pieces onto skewers with small gaps between them.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Heat the grill until very hot before adding the skewers.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Grill the chicken skewers in batches until deeply browned and cooked through.",
+          "durationMinutes": 15,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the Moroccan chicken skewers so the breast pieces retain their juices.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Serve the skewers generously with the cucumber and cilantro.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat gently to avoid drying the chicken. Keep cucumber separate. Freeze cooked skewers for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    }
+  ]
+}

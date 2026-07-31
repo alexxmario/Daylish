@@ -1,0 +1,2137 @@
+{
+  "recipes": [
+    {
+      "title": "Ethiopian genfo, light",
+      "summary": "A warm Ethiopian breakfast porridge with a firm, smooth texture, a well of fragrant spiced butter and cool Greek yogurt. Less butter and extra yogurt keep this version lighter.",
+      "cuisine": "ethiopian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 10,
+      "cookMinutes": 20,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "wheat flour",
+          "grams": 120,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 360,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 140,
+          "displayQuantity": "1/2 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 3,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 2,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 4,
+          "displayQuantity": "1 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 3,
+          "displayQuantity": "1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Measure the wheat flour, water and salt before heating the pan so the porridge can be worked without interruption.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Bring the water and half the salt to a steady boil in a sturdy saucepan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the wheat flour gradually while stirring firmly to prevent dry pockets from forming.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Work the wheat flour mixture against the sides of the pan until it becomes smooth, thick and elastic.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cover the genfo and cook over low heat until the wheat flour loses its raw taste and the porridge pulls cleanly from the pan.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Melt the butter with the paprika, cumin, ginger and remaining salt until fragrant.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Shape the genfo into a mound and press a deep well into the centre.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Pour the spiced butter into the well and serve the greek yogurt around the genfo.",
+          "durationMinutes": 4,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Genfo is best eaten immediately while soft and hot. Refrigerate for up to 2 days and reheat with a splash of water. Keep the Greek yogurt separate and add it after reheating.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Ethiopian genfo",
+      "summary": "A traditional-style Ethiopian flour porridge worked until smooth and springy, then served with aromatic paprika, cumin and ginger butter and cool Greek yogurt.",
+      "cuisine": "ethiopian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 10,
+      "cookMinutes": 22,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "wheat flour",
+          "grams": 160,
+          "displayQuantity": "1 1/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 450,
+          "displayQuantity": "1 3/4 cups plus 2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 24,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 180,
+          "displayQuantity": "3/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 3,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 6,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Measure the wheat flour, water and salt before heating the pan so the porridge can be worked continuously.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Bring the water and half the salt to a steady boil in a sturdy saucepan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the wheat flour gradually while stirring firmly to prevent dry pockets from forming.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Work the wheat flour mixture against the sides of the pan until it becomes smooth, thick and elastic.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cover the genfo and cook over low heat until the wheat flour tastes cooked and the porridge pulls cleanly from the pan.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Melt the butter with the paprika, cumin, ginger and remaining salt until fragrant.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Shape the genfo into a mound and press a deep well into the centre.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Pour the spiced butter into the well and spoon the greek yogurt around the genfo.",
+          "durationMinutes": 4,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Serve immediately for the best smooth texture. Refrigerate leftovers for up to 2 days and reheat with water over low heat. Store the Greek yogurt separately.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Ethiopian genfo, hearty",
+      "summary": "A generous Ethiopian breakfast porridge with extra flour, rich spiced butter and plenty of cool Greek yogurt. The firm, warm genfo is especially satisfying on a slow morning.",
+      "cuisine": "ethiopian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 12,
+      "cookMinutes": 24,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "wheat flour",
+          "grams": 210,
+          "displayQuantity": "1 3/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 560,
+          "displayQuantity": "2 1/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 36,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 220,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Measure the wheat flour, water and salt before heating the pan so the larger batch can be worked without interruption.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Bring the water and half the salt to a steady boil in a sturdy saucepan.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the wheat flour gradually while stirring firmly to prevent dry pockets from forming.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Work the wheat flour mixture against the sides of the pan until it becomes smooth, thick and elastic.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cover the genfo and cook over low heat until the wheat flour is fully cooked and the porridge pulls cleanly from the pan.",
+          "durationMinutes": 11,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Melt the butter with the paprika, cumin, ginger and remaining salt until fragrant.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Shape the genfo into a generous mound and press a deep well into the centre.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Pour the spiced butter into the well and serve the greek yogurt around the genfo.",
+          "durationMinutes": 4,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served hot and freshly made. Refrigerate for up to 2 days and reheat slowly with water, stirring until smooth. Add the refrigerated Greek yogurt only when serving.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Lomo saltado, light",
+      "summary": "Peruvian beef sirloin stir-fried with onion, tomatoes, garlic, soy sauce and vinegar, served with roasted potatoes and rice. Extra vegetables keep this version bright and balanced.",
+      "cuisine": "peruvian",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 2,
+      "prepMinutes": 18,
+      "cookMinutes": 28,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "beef sirloin",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "cut into thin strips",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 300,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into thick fries",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 80,
+          "displayQuantity": "1/3 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "cut into thick wedges",
+          "optional": false
+        },
+        {
+          "name": "tomatoes",
+          "grams": 220,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into thick wedges",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 10,
+          "displayQuantity": "3 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 24,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vinegar",
+          "grams": 15,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 16,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 15,
+          "displayQuantity": "1/3 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 220°C and cut the potato into thick, evenly sized fries.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Coat the potato with half the olive oil and spread the fries across a hot baking tray.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Slice the beef sirloin, onion and tomatoes and chop the garlic and cilantro.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the white rice until tender while the potato roasts until golden and crisp at the edges.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Heat the remaining olive oil in a very hot pan and sear the sirloin until browned outside but still juicy.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the onion and garlic and stir-fry until the onion is lightly charred but still crisp.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the tomatoes, soy sauce and vinegar and toss until the tomatoes soften slightly and the sauce coats the beef.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Fold in the cilantro and serve the lomo saltado with the roasted potato and white rice.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best eaten immediately while the vegetables and potatoes retain their texture. Refrigerate for up to 2 days and reheat the beef gently. Store the rice and potatoes separately.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Lomo saltado",
+      "summary": "A classic Peruvian stir-fry of juicy beef sirloin, red-hot onion, tomatoes, soy sauce and vinegar, served with golden potatoes and fluffy rice.",
+      "cuisine": "peruvian",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 2,
+      "prepMinutes": 18,
+      "cookMinutes": 30,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "beef sirloin",
+          "grams": 340,
+          "displayQuantity": "340 g",
+          "preparation": "cut into thin strips",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 420,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into thick fries",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 120,
+          "displayQuantity": "2/3 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "2 small",
+          "preparation": "cut into thick wedges",
+          "optional": false
+        },
+        {
+          "name": "tomatoes",
+          "grams": 260,
+          "displayQuantity": "2 to 3 medium",
+          "preparation": "cut into thick wedges",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vinegar",
+          "grams": 20,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 24,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 20,
+          "displayQuantity": "1/2 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 220°C and cut the potato into thick, evenly sized fries.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Coat the potato with half the olive oil and spread the fries across a hot baking tray.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Slice the beef sirloin, onion and tomatoes and chop the garlic and cilantro.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the white rice until tender while the potato roasts until crisp and deeply golden.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Heat the remaining olive oil in a very hot pan and sear the sirloin until browned outside and juicy within.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the onion and garlic and stir-fry until the onion has charred edges but remains firm.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the tomatoes, soy sauce and vinegar and toss until the sauce becomes glossy.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Fold in the cilantro and serve the lomo saltado with the roasted potato and white rice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Serve straight from the pan for the best contrast of textures. Refrigerate for up to 2 days. Reheat the stir-fry quickly over high heat and warm the rice and potatoes separately.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Lomo saltado, hearty",
+      "summary": "A generous Peruvian stir-fry with extra beef sirloin, crisp potatoes and rice. Soy sauce, vinegar, tomatoes and charred onion create the dish's familiar savoury, tangy finish.",
+      "cuisine": "peruvian",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 2,
+      "prepMinutes": 20,
+      "cookMinutes": 32,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "beef sirloin",
+          "grams": 420,
+          "displayQuantity": "420 g",
+          "preparation": "cut into thin strips",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 560,
+          "displayQuantity": "4 medium",
+          "preparation": "cut into thick fries",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 160,
+          "displayQuantity": "3/4 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 260,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into thick wedges",
+          "optional": false
+        },
+        {
+          "name": "tomatoes",
+          "grams": 300,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into thick wedges",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 36,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vinegar",
+          "grams": 25,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 32,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 25,
+          "displayQuantity": "1/2 cup plus 2 tbsp",
+          "preparation": "roughly chopped",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 220°C and cut the potato into thick, evenly sized fries.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Coat the potato with half the olive oil and spread the fries across two hot baking trays.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Slice the beef sirloin, onion and tomatoes and chop the garlic and cilantro.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the white rice until tender while the potato roasts until deeply golden and crisp.",
+          "durationMinutes": 17,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Heat the remaining olive oil in a very hot pan and sear the sirloin in batches until browned and juicy.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the onion and garlic and stir-fry until the onion develops charred edges.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the tomatoes, soy sauce and vinegar and toss until the sauce coats the sirloin.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Fold in the cilantro and serve the lomo saltado with the roasted potato and white rice.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served immediately. Refrigerate leftovers for up to 2 days and reheat the beef quickly to avoid overcooking. Store the rice and potatoes in separate containers.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Polish pork and cabbage stew, light",
+      "summary": "A lighter Polish-style cabbage stew with tender pork loin, cured pork, sauerkraut and mushrooms. Extra cabbage keeps the shared pot generous without relying on extra fat.",
+      "cuisine": "polish",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 75,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "cured pork",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 900,
+          "displayQuantity": "1 small head",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "sauerkraut",
+          "grams": 500,
+          "displayQuantity": "3 cups",
+          "preparation": "drained",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 300,
+          "displayQuantity": "4 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 40,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 500,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 3,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Cut the pork loin and cured pork and prepare the cabbage, sauerkraut, mushrooms, onion and garlic.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a large pot and brown the loin in batches.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the cured pork in the same pot until its edges begin to colour.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the onion and mushrooms and cook until the onion softens and the mushrooms lose their moisture.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the garlic, tomato paste, paprika and thyme until the paste darkens slightly.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the green cabbage, sauerkraut, beef stock and browned pork loin to the pot.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cover and simmer the stew gently until the cabbage is tender and the loin is cooked through.",
+          "durationMinutes": 45,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Uncover the pot and simmer until the liquid reduces to a rich coating around the pork and cabbage.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the stew off the heat so the flavours settle.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Stir the Polish pork and cabbage stew before serving.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "The stew improves overnight. Refrigerate for up to 4 days and reheat gently until steaming. Freeze in portions for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Polish pork and cabbage stew",
+      "summary": "A deeply savoury Polish-style stew with pork loin, cured pork, sauerkraut, fresh cabbage and mushrooms. Slow simmering blends the smoky, tangy and earthy flavours.",
+      "cuisine": "polish",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 85,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "cured pork",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 850,
+          "displayQuantity": "1 small head",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "sauerkraut",
+          "grams": 650,
+          "displayQuantity": "4 cups",
+          "preparation": "drained",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 350,
+          "displayQuantity": "4 1/2 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 50,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 600,
+          "displayQuantity": "2 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 16,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 4,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Cut the pork loin and cured pork and prepare the cabbage, sauerkraut, mushrooms, onion and garlic.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a large pot and brown the loin in batches.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the cured pork in the same pot until browned around the edges.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the onion and mushrooms and cook until soft and lightly golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the garlic, tomato paste, paprika and thyme until the paste darkens and smells rich.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the green cabbage, sauerkraut, beef stock and browned pork loin to the pot.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cover and simmer the stew gently until the cabbage is very tender and the loin is succulent.",
+          "durationMinutes": 48,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Uncover the pot and simmer until the cooking liquid becomes thick and savoury.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the stew off the heat so the pork and cabbage absorb the sauce.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Stir the Polish pork and cabbage stew thoroughly before serving.",
+          "durationMinutes": 4,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days; the flavour deepens as it rests. Reheat slowly with a splash of beef stock if needed. Freeze for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Polish pork and cabbage stew, hearty",
+      "summary": "A generous Polish-style stew loaded with pork loin, smoky cured pork, sauerkraut, cabbage and mushrooms. Long simmering produces a rich dinner for four hungry diners.",
+      "cuisine": "polish",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 95,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "cured pork",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 1000,
+          "displayQuantity": "1 large head",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "sauerkraut",
+          "grams": 750,
+          "displayQuantity": "4 1/2 cups",
+          "preparation": "drained",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 450,
+          "displayQuantity": "6 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 260,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 65,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 700,
+          "displayQuantity": "3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 22,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 7,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Cut the pork loin and cured pork and prepare the cabbage, sauerkraut, mushrooms, onion and garlic.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a large pot and brown the loin in batches.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the cured pork in the same pot until deeply browned around the edges.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the onion and mushrooms and cook until their moisture evaporates and the edges colour.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the garlic, tomato paste, paprika and thyme until the paste becomes dark and fragrant.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the green cabbage, sauerkraut, beef stock and browned pork loin to the pot.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cover and simmer the stew gently until the cabbage is meltingly tender and the loin is succulent.",
+          "durationMinutes": 52,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Uncover the pot and simmer until the cooking liquid reduces to a rich sauce.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the stew off the heat so the larger batch settles and absorbs the sauce.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Stir the Polish pork and cabbage stew thoroughly before serving.",
+          "durationMinutes": 4,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps for up to 4 days in the refrigerator and tastes even richer the next day. Reheat gently. Freeze portions for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Chicken cheddar egg muffins, light",
+      "summary": "Baked American-style egg muffins with chicken breast, spinach, peppers, spring onions and a little cheddar. They are compact, savoury and naturally high in protein.",
+      "cuisine": "american",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 20,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "cut into small pieces",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 400,
+          "displayQuantity": "8 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cheddar cheese",
+          "grams": 50,
+          "displayQuantity": "1/2 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 180,
+          "displayQuantity": "6 cups",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 40,
+          "displayQuantity": "5",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 80,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 3,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 190°C and lightly coat a twelve-hole muffin tin with half the olive oil.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the chicken breast in the remaining olive oil until the breast pieces are opaque and lightly golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Dice the bell pepper and slice the spring onions while the chicken cools slightly.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Wilt the spinach in the warm pan until its released moisture has evaporated.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Whisk the eggs with the whole milk and paprika until evenly combined.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Divide the chicken, spinach, bell pepper, spring onions and cheddar cheese between the muffin holes.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour the egg mixture into the tin and bake until the muffins are puffed and set in the centre.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the chicken cheddar egg muffins before lifting them from the tin.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and eat cold or reheat briefly until hot. Freeze cooled muffins for up to 2 months and thaw overnight before reheating.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Chicken cheddar egg muffins",
+      "summary": "Tender baked egg muffins packed with chicken breast, cheddar, spinach, peppers and spring onions. They make an easy American high-protein snack for meal prep.",
+      "cuisine": "american",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 22,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": "cut into small pieces",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 500,
+          "displayQuantity": "10 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cheddar cheese",
+          "grams": 80,
+          "displayQuantity": "3/4 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 150,
+          "displayQuantity": "5 cups",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 160,
+          "displayQuantity": "1 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 45,
+          "displayQuantity": "5 to 6",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 100,
+          "displayQuantity": "1/3 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 190°C and lightly coat a twelve-hole muffin tin with half the olive oil.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the chicken breast in the remaining olive oil until the breast pieces are opaque and lightly golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Dice the bell pepper and slice the spring onions while the chicken cools slightly.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Wilt the spinach in the warm pan until its released moisture has evaporated.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Whisk the eggs with the whole milk and paprika until evenly combined.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Divide the chicken, spinach, bell pepper, spring onions and cheddar cheese between the muffin holes.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour the egg mixture into the tin and bake until the muffins are puffed, golden and set.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the chicken cheddar egg muffins before removing them from the tin.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Keeps for up to 3 days in the refrigerator and reheats well in the microwave or oven. Freeze individual muffins for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Chicken cheddar egg muffins, hearty",
+      "summary": "Generous baked egg muffins with extra chicken breast, eggs and cheddar. Spinach, peppers and spring onions keep the substantial high-protein snack colourful and savoury.",
+      "cuisine": "american",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 24,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "cut into small pieces",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 600,
+          "displayQuantity": "12 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cheddar cheese",
+          "grams": 120,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 170,
+          "displayQuantity": "6 cups",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 200,
+          "displayQuantity": "1 to 2 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 55,
+          "displayQuantity": "7",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 120,
+          "displayQuantity": "1/2 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 16,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 190°C and lightly coat a twelve-hole muffin tin with half the olive oil.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the chicken breast in the remaining olive oil until the breast pieces are golden and cooked through.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Dice the bell pepper and slice the spring onions while the chicken cools slightly.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Wilt the spinach in the warm pan until no visible moisture remains.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Whisk the eggs with the whole milk and paprika until smooth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Divide the chicken, spinach, bell pepper, spring onions and cheddar cheese between the muffin holes.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour the egg mixture into the tin and bake until the large muffins are golden and set in the centre.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the chicken cheddar egg muffins before lifting them carefully from the tin.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat until hot throughout. Freeze cooled muffins individually for up to 2 months for an easy prepared snack.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "British breakfast skillet, light",
+      "summary": "A lighter British breakfast skillet with eggs, cured pork, mushrooms, spinach and spring onions. The generous vegetables keep it filling while remaining genuinely keto.",
+      "cuisine": "british",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 10,
+      "cookMinutes": 18,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "high_protein",
+        "keto",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cured pork",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 250,
+          "displayQuantity": "3 1/2 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 160,
+          "displayQuantity": "5 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 20,
+          "displayQuantity": "2 to 3",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 2,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the mushrooms, cured pork and spring onions before heating the skillet.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Melt the butter in a wide frying pan over medium heat.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the cured pork until browned at the edges and hot throughout.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the mushrooms and paprika and cook until the mushrooms are golden and their moisture has evaporated.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the spinach and cook until wilted but still bright green.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Crack the eggs into the skillet and cook until the whites are set and the yolks remain tender.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Scatter the spring onions over the British breakfast skillet before serving.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best eaten immediately while the eggs are tender. Refrigerate leftovers for up to 2 days and reheat gently, though the yolks will become firmer. Do not freeze.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "British breakfast skillet",
+      "summary": "A hearty British-style breakfast skillet with cured pork, eggs, golden mushrooms, spinach and spring onions. It delivers familiar fry-up flavours without bread, beans or potatoes.",
+      "cuisine": "british",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 10,
+      "cookMinutes": 20,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "high_protein",
+        "keto",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cured pork",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 220,
+          "displayQuantity": "3 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 140,
+          "displayQuantity": "5 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 16,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 25,
+          "displayQuantity": "3",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 3,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the mushrooms, cured pork and spring onions before heating the skillet.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Melt the butter in a wide frying pan over medium heat.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the cured pork until deeply browned at the edges and hot throughout.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the mushrooms and paprika and cook until the mushrooms are well browned.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the spinach and cook until wilted and any released moisture has evaporated.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Crack the eggs into the skillet and cook until the whites are set and the yolks remain tender.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Finish the British breakfast skillet with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Serve immediately for the best egg texture. Refrigerate leftovers for up to 2 days and reheat over low heat. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "British breakfast skillet, hearty",
+      "summary": "A generous British keto breakfast with extra cured pork and eggs, plus buttery mushrooms, spinach and spring onions. It is substantial enough for a long morning.",
+      "cuisine": "british",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 12,
+      "cookMinutes": 22,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "high_protein",
+        "keto",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 300,
+          "displayQuantity": "6 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cured pork",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 250,
+          "displayQuantity": "3 1/2 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 160,
+          "displayQuantity": "5 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 24,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 30,
+          "displayQuantity": "4",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the mushrooms, cured pork and spring onions before heating the skillet.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Melt the butter in a large frying pan over medium heat.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the cured pork until crisp at the edges and thoroughly heated.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the mushrooms and paprika and cook until deeply golden and dry around the edges.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the spinach and cook until wilted and evenly mixed with the pork and mushrooms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Crack the eggs into the skillet and cook until the whites are set and the yolks reach your preferred consistency.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Scatter the spring onions over the British breakfast skillet and serve hot.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served straight from the skillet. Refrigerate leftovers for up to 2 days and reheat gently until hot, accepting that the eggs will become firmer. Do not freeze.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    }
+  ]
+}

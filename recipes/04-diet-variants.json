@@ -1,0 +1,1001 @@
+{
+  "recipes": [
+    {
+      "title": "Shakshuka, vegan",
+      "summary": "The same smoky tomato and pepper pan, with soft chickpeas and silken tofu standing in for the eggs.",
+      "cuisine": "north_african",
+      "mealSlots": [
+        "breakfast",
+        "lunch"
+      ],
+      "servings": 2,
+      "prepMinutes": 10,
+      "cookMinutes": 26,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "tofu",
+          "grams": 200,
+          "displayQuantity": "½ block",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "chickpeas",
+          "grams": 240,
+          "displayQuantity": "1 tin, drained",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "1 x 400 g tin",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "red bell pepper",
+          "grams": 150,
+          "displayQuantity": "1 large",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 110,
+          "displayQuantity": "1 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 100,
+          "displayQuantity": "3 handfuls",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 9,
+          "displayQuantity": "3 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "ground cumin",
+          "grams": 2,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "smoked paprika",
+          "grams": 3,
+          "displayQuantity": "1½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parsley",
+          "grams": 10,
+          "displayQuantity": "a small bunch",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 3,
+          "displayQuantity": "½ tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Dice the onion and red bell pepper, mince the garlic and chop the parsley. Drain the chickpeas and cut the tofu into large pieces — bigger than you think, so they hold together in the sauce.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a wide frying pan over medium heat. Cook the onion, bell pepper and salt until the onion is soft and translucent.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Stir in the garlic, ground cumin and smoked paprika and cook for a minute until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the tomatoes and chickpeas, crushing a few of the chickpeas against the side of the pan to thicken the sauce. Simmer uncovered until thick and glossy.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Wilt in the spinach, then nestle the tofu into the sauce in the wells where the eggs would go. Spoon a little sauce over each piece and warm through gently.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Scatter with parsley and serve straight from the pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Better than the egg version for leftovers — keeps 3 days and reheats without toughening. Freezes for 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Beef chilli, vegan",
+      "summary": "A deep, smoky chilli built on three beans and mushrooms, with the same long simmer that makes the meat version work.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 15,
+      "cookMinutes": 45,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "kidney beans, canned",
+          "grams": 240,
+          "displayQuantity": "1 tin, drained",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "black beans, canned",
+          "grams": 240,
+          "displayQuantity": "1 tin, drained",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "chickpeas",
+          "grams": 240,
+          "displayQuantity": "1 tin, drained",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 300,
+          "displayQuantity": "1 large punnet",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 800,
+          "displayQuantity": "2 tins",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "red bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 medium",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 200,
+          "displayQuantity": "1 cup dry",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "1½ tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "ground cumin",
+          "grams": 5,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "smoked paprika",
+          "grams": 5,
+          "displayQuantity": "2½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "red pepper flakes",
+          "grams": 2,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "coriander",
+          "grams": 10,
+          "displayQuantity": "a small bunch",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Dice the onion and red bell pepper, finely chop the mushrooms, mince the garlic and chop the coriander. Rinse all three tins of beans.",
+          "durationMinutes": 15,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a heavy pan and fry the mushrooms hard, undisturbed, until they have released their water and started to brown. This is where the savoury depth comes from — do not rush it.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the onion and bell pepper with the salt and cook until softened.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir in the garlic, ground cumin, smoked paprika and red pepper flakes and cook for a minute until the spices smell toasted.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the tomatoes, kidney beans, black beans and chickpeas. Simmer uncovered, crushing some of the beans against the pan to thicken it, until dark and glossy.",
+          "durationMinutes": 27,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the white rice in salted water while the chilli finishes, then serve the chilli over it with coriander scattered on top.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Improves overnight like the meat version. Keeps 4 days and freezes for 3 months without the rice.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Chicken burrito bowl, vegan",
+      "summary": "Spiced black beans and roasted sweet potato over rice, with salsa, avocado and lime. Everything the original had except the chicken.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 12,
+      "cookMinutes": 28,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "black beans, canned",
+          "grams": 400,
+          "displayQuantity": "2 tins, drained",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "sweet potato",
+          "grams": 400,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into cubes",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 130,
+          "displayQuantity": "⅔ cup dry",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes",
+          "grams": 150,
+          "displayQuantity": "2 medium",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "red onion",
+          "grams": 60,
+          "displayQuantity": "½ small",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "lettuce",
+          "grams": 80,
+          "displayQuantity": "3 handfuls",
+          "preparation": "shredded",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "grams": 100,
+          "displayQuantity": "1 small",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "lime juice",
+          "grams": 20,
+          "displayQuantity": "1 lime",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "1½ tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ground cumin",
+          "grams": 3,
+          "displayQuantity": "1½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "smoked paprika",
+          "grams": 3,
+          "displayQuantity": "1½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "coriander",
+          "grams": 10,
+          "displayQuantity": "a small bunch",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "¾ tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Heat the oven to 210°C. Cut the sweet potato into cubes, dice the tomatoes and red onion, shred the lettuce, slice the avocado and chop the coriander.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Toss the sweet potato with half the olive oil, half the ground cumin, half the smoked paprika and half the salt. Spread on a tray in one layer and roast until the edges are caramelised.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Rinse the white rice and simmer in twice its volume of salted water until tender.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Warm the black beans in a pan with the remaining olive oil, cumin, paprika and salt, crushing a few against the pan so they thicken and cling.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Toss the tomato and red onion with half the lime juice to make a quick salsa.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Build the bowls with rice, beans and sweet potato, then salsa, lettuce and avocado. Finish with coriander and the remaining lime juice.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps 3 days. Add the avocado and lettuce fresh; the rice, beans and sweet potato reheat well together.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Egg fried rice, vegan",
+      "summary": "Fried rice with crumbled turmeric tofu in place of the egg, plus peas, carrot and spring onion.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 8,
+      "cookMinutes": 12,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 115,
+          "displayQuantity": "⅔ cup dry, cooked ahead",
+          "preparation": "cooked and cooled",
+          "optional": false
+        },
+        {
+          "name": "tofu",
+          "grams": 250,
+          "displayQuantity": "⅔ block",
+          "preparation": "crumbled",
+          "optional": false
+        },
+        {
+          "name": "peas",
+          "grams": 120,
+          "displayQuantity": "1 cup frozen",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onion",
+          "grams": 50,
+          "displayQuantity": "4 stalks",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 80,
+          "displayQuantity": "1 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 25,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 9,
+          "displayQuantity": "3 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 8,
+          "displayQuantity": "1 tsp",
+          "preparation": "grated",
+          "optional": false
+        },
+        {
+          "name": "ground turmeric",
+          "grams": 2,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the spring onion, dice the carrot, mince the garlic and grate the ginger. Crumble the tofu with your fingers into rough curds and break up the cold white rice.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat a wok until very hot. Add half the sesame oil and the crumbled tofu with the ground turmeric, and fry hard without stirring too often until the curds are golden at the edges and dry rather than wet.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Push the tofu to one side, add the rest of the sesame oil with the carrot, garlic and ginger and stir-fry for a minute until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the rice and peas and stir-fry over high heat, pressing the rice against the pan so it catches and crisps in places.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the soy sauce and most of the spring onion, toss everything together and serve with the rest scattered over.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps 2 days. Reheat in a very hot pan rather than a microwave. Cool and refrigerate cooked rice promptly.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Chicken and chorizo traybake, gluten-free",
+      "summary": "The same tin of chicken, peppers and potatoes, with gluten-free chorizo checked at the label and butter beans for bulk.",
+      "cuisine": "spanish",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 15,
+      "cookMinutes": 42,
+      "difficulty": "easy",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh",
+          "grams": 700,
+          "displayQuantity": "8 large thighs",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chorizo",
+          "grams": 120,
+          "displayQuantity": "a short length",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "butter beans",
+          "grams": 240,
+          "displayQuantity": "1 tin, drained",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "red bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "red onion",
+          "grams": 200,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 600,
+          "displayQuantity": "6 medium",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 25,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "smoked paprika",
+          "grams": 5,
+          "displayQuantity": "2½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "left whole",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 20,
+          "displayQuantity": "½ lemon",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parsley",
+          "grams": 10,
+          "displayQuantity": "a small bunch",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Heat the oven to 200°C. Cut the potato into chunks, the red bell pepper into strips and the red onion into wedges. Slice the chorizo — check the label, as some brands use wheat as a binder.",
+          "durationMinutes": 15,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Toss the potato, pepper, onion and whole garlic in a large roasting tin with the olive oil, smoked paprika and salt, spread into one layer.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Tuck the chicken thigh pieces and chorizo among the vegetables and roast for 25 minutes.",
+          "durationMinutes": 25,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Stir in the butter beans, turn everything in the rendered orange fat and roast for a further 12 minutes until the chicken is cooked through and the potatoes are crisp at the edges.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Squeeze over the lemon juice, scatter with parsley and serve from the tin.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps 3 days and tastes better on day two. Reheat in a hot oven so the potatoes crisp again.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Greek yoghurt bowl, vegan",
+      "summary": "Coconut yoghurt with the same berries, granola and nuts — thick, cold and every bit as good in the morning.",
+      "cuisine": "greek",
+      "mealSlots": [
+        "breakfast",
+        "snack"
+      ],
+      "servings": 1,
+      "prepMinutes": 5,
+      "cookMinutes": 0,
+      "difficulty": "easy",
+      "equipment": [],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "coconut yogurt",
+          "grams": 250,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "strawberries",
+          "grams": 120,
+          "displayQuantity": "1 cup",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "blueberries",
+          "grams": 80,
+          "displayQuantity": "⅔ cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "banana",
+          "grams": 80,
+          "displayQuantity": "1 small",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "granola",
+          "grams": 30,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "walnuts",
+          "grams": 15,
+          "displayQuantity": "2 tbsp",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "chia seeds",
+          "grams": 10,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "maple syrup",
+          "grams": 8,
+          "displayQuantity": "1½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ground cinnamon",
+          "grams": 1,
+          "displayQuantity": "a pinch",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the strawberries and banana and roughly chop the walnuts. Spoon the coconut yogurt into a bowl and smooth the surface.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Top with the strawberries, blueberries and banana, scatter over the granola, walnuts and chia seeds, then drizzle with maple syrup and dust with ground cinnamon. Eat straight away while the granola is crisp.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Assemble just before eating. Fruit and yoghurt keep a day together; add granola and nuts at the last moment.",
+      "fridgeDays": 1,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Red lentil soup, vegan",
+      "summary": "The lentil soup without the butter — olive oil, cumin and a hard squeeze of lemon carry it just as far.",
+      "cuisine": "middle_eastern",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 10,
+      "cookMinutes": 29,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "vegan",
+        "dairy_free",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "red lentils",
+          "grams": 250,
+          "displayQuantity": "1¼ cups dry",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 200,
+          "displayQuantity": "3 medium",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 150,
+          "displayQuantity": "1 large",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 100,
+          "displayQuantity": "2 sticks",
+          "preparation": "diced",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 200,
+          "displayQuantity": "½ tin",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1000,
+          "displayQuantity": "1 litre",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 25,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "minced",
+          "optional": false
+        },
+        {
+          "name": "ground cumin",
+          "grams": 4,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 25,
+          "displayQuantity": "¾ lemon",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parsley",
+          "grams": 10,
+          "displayQuantity": "a small bunch",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Dice the onion, carrot and celery, mince the garlic and rinse the red lentils until the water runs clear.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Warm most of the olive oil in a large pan and cook the onion, carrot and celery with the salt until soft and beginning to colour.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Stir in the garlic and ground cumin and cook for a minute until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the lentils, tomatoes and vegetable broth and simmer until the lentils have collapsed completely.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Add the lemon juice and the last of the olive oil off the heat — without dairy this is what gives the soup its richness, so be generous. Serve with parsley scattered over.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps 4 days and improves overnight. Thickens in the fridge — loosen with water. Freezes for 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    }
+  ]
+}

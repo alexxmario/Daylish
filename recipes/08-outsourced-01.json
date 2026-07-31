@@ -1,0 +1,2087 @@
+{
+  "recipes": [
+    {
+      "title": "Pão de queijo, light",
+      "summary": "Small Brazilian cheese breads with a crisp shell and a soft, stretchy centre. This lighter batch uses less cheese and oil while keeping the familiar savoury flavour.",
+      "cuisine": "brazilian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 22,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "tapioca flour",
+          "grams": 180,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 100,
+          "displayQuantity": "1/3 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 50,
+          "displayQuantity": "1",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 45,
+          "displayQuantity": "1/2 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 7,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 2,
+          "displayQuantity": "1/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C so it is fully hot before the pão de queijo goes in.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Warm the whole milk, olive oil and salt in a small saucepan until steaming but not boiling.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Pour the hot milk mixture over the tapioca flour and stir until no dry flour remains.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Leave the tapioca mixture to cool until it feels warm rather than hot to the touch.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Beat the eggs into the cooled mixture until the dough becomes smooth and sticky.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the parmesan cheese through the dough until evenly distributed.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Shape the dough into twelve small balls and space them apart on a lined baking tray.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Bake until the cheese breads are puffed, dry on the outside and lightly golden underneath.",
+          "durationMinutes": 18,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best warm from the oven. Refrigerate baked breads for up to 3 days and reheat briefly in the oven. Freeze shaped unbaked balls or cooled baked breads for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Pão de queijo",
+      "summary": "Classic Brazilian cheese breads with a crisp exterior and a tender, chewy middle. Parmesan gives them a deep savoury flavour that makes them ideal for sharing.",
+      "cuisine": "brazilian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 22,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "tapioca flour",
+          "grams": 240,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 120,
+          "displayQuantity": "1/2 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 80,
+          "displayQuantity": "3/4 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 3,
+          "displayQuantity": "1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C so it is fully hot before the pão de queijo goes in.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Warm the whole milk, olive oil and salt in a saucepan until steaming but not boiling.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Pour the hot milk mixture over the tapioca flour and stir until the flour is fully moistened.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Leave the tapioca mixture to cool until it is comfortably warm to the touch.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Beat the eggs into the cooled mixture until the dough looks glossy and evenly combined.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the parmesan cheese through the sticky dough until evenly distributed.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Shape the dough into sixteen small balls and arrange them on a lined baking tray.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Bake until the cheese breads are puffed, lightly golden and firm on the outside.",
+          "durationMinutes": 18,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Serve warm for the best chewy texture. Refrigerate for up to 3 days and reheat in a hot oven. The shaped dough balls or baked breads can be frozen for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Pão de queijo, hearty",
+      "summary": "A generous batch of Brazilian cheese breads with extra parmesan and a deeply savoury, chewy centre. They are especially good served warm for a shared afternoon snack.",
+      "cuisine": "brazilian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 23,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "tapioca flour",
+          "grams": 300,
+          "displayQuantity": "2 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 140,
+          "displayQuantity": "1/2 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 120,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C so it is fully hot before the pão de queijo goes in.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Warm the whole milk, olive oil and salt in a saucepan until steaming but not boiling.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Pour the hot milk mixture over the tapioca flour and stir until no dry flour remains.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Leave the tapioca mixture to cool until it feels warm rather than hot.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Beat the eggs into the cooled mixture until the dough is smooth, glossy and sticky.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the parmesan cheese through the dough until every part is well seasoned.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Shape the dough into twenty small balls and arrange them with space between them on a lined tray.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Bake until the cheese breads are well puffed, golden underneath and dry on the outside.",
+          "durationMinutes": 20,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best eaten warm. Refrigerate for up to 3 days and restore the crisp shell in a hot oven. Freeze shaped dough balls or cooled baked breads for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Ethiopian ful, light",
+      "summary": "Warm fava beans simmered with tomatoes, cumin and paprika, topped with eggs, lemon and cilantro. It is a comforting Ethiopian breakfast with plenty of savoury flavour.",
+      "cuisine": "ethiopian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 12,
+      "cookMinutes": 22,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "dairy_free",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "fava beans",
+          "grams": 350,
+          "displayQuantity": "2 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 200,
+          "displayQuantity": "3/4 cup plus 2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 70,
+          "displayQuantity": "1/2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 8,
+          "displayQuantity": "2 large cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 3,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 3,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 20,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 10,
+          "displayQuantity": "3 tbsp",
+          "preparation": "roughly chopped",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Chop the onion, garlic and cilantro so all the fresh ingredients are ready before the pan is heated.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a saucepan and cook the onion until soft and translucent.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the garlic, cumin and paprika and stir until the spices smell fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the tomatoes, canned, and cook until they begin to thicken into a sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the fava beans and simmer gently, crushing a few beans against the side of the pan to thicken the ful.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Boil the eggs until the whites and yolks are set to your liking.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Peel and halve the eggs once they are cool enough to handle.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Spoon the ful into bowls and finish with the eggs, lemon juice and cilantro.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "The bean mixture keeps for up to 3 days and reheats well with a splash of water. Store the boiled eggs separately when possible. Freeze only the bean mixture for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Ethiopian ful",
+      "summary": "A hearty Ethiopian breakfast of fava beans cooked with tomatoes and warming spices, finished with boiled eggs, lemon and cilantro. It is filling without being heavy.",
+      "cuisine": "ethiopian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 12,
+      "cookMinutes": 22,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "dairy_free",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "fava beans",
+          "grams": 400,
+          "displayQuantity": "2 1/4 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 220,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 90,
+          "displayQuantity": "1 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 10,
+          "displayQuantity": "3 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 25,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 12,
+          "displayQuantity": "1/4 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Chop the onion, garlic and cilantro so the fresh ingredients are ready before cooking begins.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a saucepan and cook the onion until soft and translucent.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the garlic, cumin and paprika and stir until the spices smell warm and fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the tomatoes, canned, and cook until the mixture becomes slightly thick and saucy.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the fava beans and simmer gently, crushing some beans to give the ful a creamy texture.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Boil the eggs until set to your preferred consistency.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Peel and halve the eggs once they are cool enough to handle.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Divide the ful between bowls and top with the eggs, lemon juice and cilantro.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the ful for up to 3 days and reheat gently with a little water. Keep boiled eggs separate for the best texture. The bean mixture freezes well for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Ethiopian ful, hearty",
+      "summary": "A generous Ethiopian breakfast with plenty of warmly spiced fava beans and two eggs per person. Lemon and cilantro brighten the rich tomato base.",
+      "cuisine": "ethiopian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 12,
+      "cookMinutes": 24,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "dairy_free",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "fava beans",
+          "grams": 500,
+          "displayQuantity": "3 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 250,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 110,
+          "displayQuantity": "1 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 15,
+          "displayQuantity": "1/3 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Chop the onion, garlic and cilantro so every fresh ingredient is ready before the ful begins cooking.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a saucepan and cook the onion until completely soft and translucent.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the garlic, cumin and paprika and stir until the spices become fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the tomatoes, canned, and cook until they reduce into a thick sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the fava beans and simmer gently, crushing some beans until the ful becomes thick and spoonable.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Boil the eggs until the whites and yolks are set to your liking.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Peel and halve the eggs once they are cool enough to handle.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Spoon the ful into bowls and finish with the eggs, lemon juice and cilantro.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "The ful keeps for up to 3 days and reheats well with a splash of water. Store the eggs separately if possible. Freeze the bean mixture, without the eggs and herbs, for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Peruvian shrimp ceviche, light",
+      "summary": "Chilled shrimp dressed with lime, onion and cilantro, served with sweet potato and corn. This lighter ceviche stays bright and satisfying with a generous amount of shrimp.",
+      "cuisine": "peruvian",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 2,
+      "prepMinutes": 22,
+      "cookMinutes": 28,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "shrimp",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "peeled and deveined",
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 80,
+          "displayQuantity": "juice of 3 limes",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 90,
+          "displayQuantity": "1 small",
+          "preparation": "very thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 12,
+          "displayQuantity": "1/4 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "sweet potato",
+          "grams": 180,
+          "displayQuantity": "1 medium",
+          "preparation": "peeled and cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "sweet corn",
+          "grams": 100,
+          "displayQuantity": "2/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 3,
+          "displayQuantity": "1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Cut the sweet potato into thick, even slices so they cook at the same rate.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Simmer the sweet potato until tender enough to pierce easily with a knife, then drain it.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the sweet corn in simmering water until tender, then drain it well.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Poach the shrimp in gently simmering water until pink and opaque throughout.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Chill the cooked shrimp in cold water until completely cool, then drain thoroughly.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Slice the onion as thinly as possible so it softens slightly in the lime dressing.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Chop the cilantro into small pieces without crushing the leaves.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the lime, cilantro and salt together until the salt dissolves.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Toss the shrimp and onion with the lime mixture until evenly coated.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Leave the ceviche to marinate in the refrigerator until cold and well seasoned.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Serve the ceviche with the sweet potato and sweet corn arranged alongside it.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best eaten on the day it is made. Refrigerate promptly and keep for no more than 1 day. The lime dressing will continue firming the shrimp, so this ceviche is not suitable for freezing.",
+      "fridgeDays": 1,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Peruvian shrimp ceviche",
+      "summary": "A fresh Peruvian-style ceviche with chilled shrimp, sharp lime, sliced onion and cilantro. Sweet potato and corn provide the traditional mild, comforting contrast.",
+      "cuisine": "peruvian",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 2,
+      "prepMinutes": 22,
+      "cookMinutes": 28,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "shrimp",
+          "grams": 340,
+          "displayQuantity": "340 g",
+          "preparation": "peeled and deveined",
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 110,
+          "displayQuantity": "juice of 4 limes",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 110,
+          "displayQuantity": "1 medium",
+          "preparation": "very thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 15,
+          "displayQuantity": "1/3 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "sweet potato",
+          "grams": 240,
+          "displayQuantity": "2 small",
+          "preparation": "peeled and cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "sweet corn",
+          "grams": 140,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Cut the sweet potato into thick, even slices so every piece cooks at the same rate.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Simmer the sweet potato until tender enough to pierce easily with a knife, then drain it.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the sweet corn in simmering water until tender, then drain it well.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Poach the shrimp in gently simmering water until pink, firm and opaque throughout.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Chill the cooked shrimp in cold water until completely cool, then drain thoroughly.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Slice the onion very thinly so it softens slightly without losing all of its bite.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Chop the cilantro into small pieces while keeping the leaves fresh and loose.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the lime, cilantro and salt together until the salt has dissolved.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Toss the shrimp and onion with the lime dressing until everything is evenly coated.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Leave the ceviche to marinate in the refrigerator until chilled and well seasoned.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Serve the ceviche with the sweet potato and sweet corn arranged alongside it.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Serve on the day it is prepared for the best texture. Refrigerate immediately and keep for up to 1 day. Do not freeze, as both the shrimp and fresh lime dressing deteriorate.",
+      "fridgeDays": 1,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Peruvian shrimp ceviche, hearty",
+      "summary": "A generous Peruvian-style ceviche with extra shrimp, sweet potato and corn. The sharp lime and crisp onion keep the larger portion lively and refreshing.",
+      "cuisine": "peruvian",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 2,
+      "prepMinutes": 23,
+      "cookMinutes": 30,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "shrimp",
+          "grams": 420,
+          "displayQuantity": "420 g",
+          "preparation": "peeled and deveined",
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 140,
+          "displayQuantity": "juice of 5 limes",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 130,
+          "displayQuantity": "1 large",
+          "preparation": "very thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 18,
+          "displayQuantity": "1/3 cup plus 1 tbsp",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "sweet potato",
+          "grams": 320,
+          "displayQuantity": "2 medium",
+          "preparation": "peeled and cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "sweet corn",
+          "grams": 180,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Cut the sweet potato into thick, even slices so the larger amount cooks evenly.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Simmer the sweet potato until tender enough to pierce easily with a knife, then drain it.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the sweet corn in simmering water until tender, then drain it well.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Poach the shrimp in gently simmering water until pink, firm and opaque throughout.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Chill the cooked shrimp in cold water until completely cool, then drain thoroughly.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Slice the onion very thinly so it keeps a crisp texture without overpowering the ceviche.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Chop the cilantro into small pieces while keeping the leaves loose and fresh.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Stir the lime, cilantro and salt together until the salt dissolves.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Toss the shrimp and onion with the lime dressing until evenly coated.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Leave the ceviche to marinate in the refrigerator until chilled and well seasoned.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Serve the ceviche with the sweet potato and sweet corn arranged alongside it.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best eaten immediately after marinating. Refrigerate any leftovers promptly and use within 1 day. The ceviche is not suitable for freezing because the shrimp will lose its texture.",
+      "fridgeDays": 1,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Polish stuffed cabbage rolls, light",
+      "summary": "Tender cabbage leaves wrapped around a savoury beef and rice filling, baked in a tomato sauce. The lighter version uses extra cabbage and a leaner filling without losing the comforting character.",
+      "cuisine": "polish",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 35,
+      "cookMinutes": 70,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 120,
+          "displayQuantity": "2/3 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 900,
+          "displayQuantity": "1 large head",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 150,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "1 can",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 40,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 300,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 180°C so it is ready when the cabbage rolls are assembled.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Simmer the white rice until only partly tender, then drain it so it can finish cooking inside the rolls.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Soften the green cabbage leaves in simmering water until flexible enough to roll without tearing.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the olive oil in a pan and cook the onion until soft and translucent.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the garlic and stir until fragrant without allowing it to brown.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Combine the ground beef, white rice, cooked onion, garlic and paprika until the filling is evenly mixed.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the tomatoes, canned, tomato paste and beef stock together to make the baking sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Wrap portions of the beef filling tightly inside the softened cabbage leaves.",
+          "durationMinutes": 15,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Arrange the cabbage rolls snugly in a baking dish and pour the tomato sauce around them.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Bake the covered cabbage rolls until the beef is cooked through and the cabbage is very tender.",
+          "durationMinutes": 45,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the cabbage rolls briefly so the filling firms slightly before serving.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat covered with some sauce to prevent drying. The cooked rolls freeze well in their sauce for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Polish stuffed cabbage rolls",
+      "summary": "Classic Polish-style cabbage rolls filled with beef and rice, then baked slowly in a rich tomato sauce. They are deeply comforting and especially good reheated the next day.",
+      "cuisine": "polish",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 35,
+      "cookMinutes": 70,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 160,
+          "displayQuantity": "3/4 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 900,
+          "displayQuantity": "1 large head",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 50,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 350,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 15,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 180°C so it is fully hot when the cabbage rolls are ready.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Simmer the white rice until only partly tender, then drain it so it finishes cooking in the filling.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Soften the green cabbage leaves in simmering water until flexible enough to roll easily.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the olive oil in a pan and cook the onion until soft and translucent.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the garlic and stir until fragrant without letting it colour.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Combine the ground beef, white rice, cooked onion, garlic and paprika until evenly mixed.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the tomatoes, canned, tomato paste and beef stock together to make a smooth baking sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Wrap portions of the beef and rice filling tightly inside the cabbage leaves.",
+          "durationMinutes": 15,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Arrange the cabbage rolls snugly in a baking dish and pour the tomato sauce around them.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Bake the covered cabbage rolls until the beef is cooked and the cabbage is completely tender.",
+          "durationMinutes": 45,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the cabbage rolls briefly so they hold together neatly when served.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Keeps very well for up to 4 days in the refrigerator. Reheat covered in the tomato sauce. Freeze cooked rolls with their sauce for up to 3 months and thaw overnight before reheating.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Polish stuffed cabbage rolls, hearty",
+      "summary": "Generous Polish-style cabbage rolls packed with extra beef and rice and baked in plenty of tomato sauce. This larger batch makes a substantial high-protein dinner for four.",
+      "cuisine": "polish",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 38,
+      "cookMinutes": 72,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 220,
+          "displayQuantity": "1 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 1000,
+          "displayQuantity": "1 large head",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 600,
+          "displayQuantity": "2 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 60,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 400,
+          "displayQuantity": "1 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 180°C so it is fully hot before the larger batch goes in.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Simmer the white rice until only partly tender, then drain it well.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Soften the green cabbage leaves in simmering water until flexible enough to wrap without tearing.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the olive oil in a pan and cook the onion until soft and translucent.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the garlic and stir until fragrant without allowing it to brown.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Combine the ground beef, white rice, cooked onion, garlic and paprika until evenly mixed.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the tomatoes, canned, tomato paste and beef stock together to make the baking sauce.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Wrap generous portions of the beef filling tightly inside the softened cabbage leaves.",
+          "durationMinutes": 18,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Arrange the cabbage rolls snugly in a deep baking dish and pour the tomato sauce around them.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Bake the covered cabbage rolls until the beef is cooked through and the cabbage is very tender.",
+          "durationMinutes": 42,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the cabbage rolls briefly before serving so the larger fillings settle.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat covered in plenty of sauce. The rolls freeze well for up to 3 months; freeze them in portions with enough tomato sauce to keep them moist.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Buffalo chicken celery boats, light",
+      "summary": "Crisp celery filled with creamy shredded buffalo chicken and a little cheddar. These American snack boats are punchy, satisfying and easy to prepare ahead.",
+      "cuisine": "american",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 2,
+      "prepMinutes": 15,
+      "cookMinutes": 12,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "high_protein",
+        "keto"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 180,
+          "displayQuantity": "6 large stalks",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sour cream",
+          "grams": 40,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cheddar cheese",
+          "grams": 30,
+          "displayQuantity": "1/4 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "hot sauce",
+          "grams": 20,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 20,
+          "displayQuantity": "2",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 5,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 1,
+          "displayQuantity": "1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Cut the celery into short boat-shaped pieces and dry the grooves so the filling stays in place.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a pan and cook the chicken breast, skinless, until firm and opaque throughout.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Rest the cooked breast until cool enough to handle without losing too much moisture.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Shred the chicken breast into fine pieces using two forks.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the sour cream, hot sauce and paprika together until smooth.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the shredded chicken, spring onions and cheddar cheese into the cream mixture.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Spoon the buffalo chicken filling into the celery boats and serve immediately.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "The chicken filling keeps for up to 2 days in the refrigerator. Store it separately from the celery and fill the boats shortly before eating so they remain crisp. Do not freeze the assembled snack.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Buffalo chicken celery boats",
+      "summary": "Crunchy celery boats packed with creamy buffalo chicken, cheddar and spring onions. They deliver the familiar American buffalo flavour in a neat, low-effort snack.",
+      "cuisine": "american",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 2,
+      "prepMinutes": 15,
+      "cookMinutes": 12,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "high_protein",
+        "keto"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 180,
+          "displayQuantity": "6 large stalks",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sour cream",
+          "grams": 60,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cheddar cheese",
+          "grams": 50,
+          "displayQuantity": "1/2 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "hot sauce",
+          "grams": 25,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 25,
+          "displayQuantity": "3",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 7,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 2,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Cut the celery into short boat-shaped pieces and dry the grooves so they hold the filling neatly.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a pan and cook the chicken breast, skinless, until opaque and cooked through.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Rest the cooked breast until cool enough to handle and the juices have settled.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Shred the chicken breast finely using two forks.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the sour cream, hot sauce and paprika together until smooth and evenly coloured.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the shredded chicken, spring onions and cheddar cheese into the cream mixture.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Fill the celery boats generously with the buffalo chicken mixture and serve.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the filling for up to 2 days in a sealed container. Keep the celery separate and assemble just before serving for the best crunch. The finished boats are not suitable for freezing.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Buffalo chicken celery boats, hearty",
+      "summary": "Generously filled celery boats with extra buffalo chicken, sour cream and cheddar. This hearty keto snack is substantial enough to share after training or between meals.",
+      "cuisine": "american",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 2,
+      "prepMinutes": 17,
+      "cookMinutes": 13,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "high_protein",
+        "keto"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 320,
+          "displayQuantity": "320 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 220,
+          "displayQuantity": "8 large stalks",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sour cream",
+          "grams": 80,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cheddar cheese",
+          "grams": 70,
+          "displayQuantity": "2/3 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "hot sauce",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 30,
+          "displayQuantity": "4",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 2,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Cut the celery into sturdy boat-shaped pieces and dry the grooves thoroughly.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a pan and cook the chicken breast, skinless, until firm and opaque throughout.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Rest the cooked breast until cool enough to handle and the juices settle back into the meat.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Shred the chicken breast into fine, tender pieces using two forks.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the sour cream, hot sauce and paprika together until completely smooth.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the shredded chicken, spring onions and cheddar cheese into the cream mixture until evenly combined.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pile the buffalo chicken filling into the celery boats and serve while the celery is crisp.",
+          "durationMinutes": 4,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Store the buffalo chicken filling and celery separately for up to 2 days. Assemble only what you plan to eat so the celery remains crisp. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    }
+  ]
+}

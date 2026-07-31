@@ -1,0 +1,2827 @@
+{
+  "recipes": [
+    {
+      "title": "Mexican beef picadillo with potatoes, light",
+      "summary": "A lighter Mexican picadillo with lean ground beef, potatoes, peppers and carrots in a savoury tomato sauce, served with warm tortillas.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 37,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "cut into small cubes",
+          "optional": false
+        },
+        {
+          "name": "tortilla",
+          "grams": 160,
+          "displayQuantity": "160 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 35,
+          "displayQuantity": "35 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 14,
+          "displayQuantity": "14 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, tortilla, bell pepper, carrot, onion and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a large frying pan over medium-high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brown the ground beef until no pink remains and the edges begin to colour.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, bell pepper and carrot until softened.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the garlic, cumin, paprika, tomato paste and salt into the beef until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, canned, potato and vegetable broth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the picadillo until the potato is tender and the sauce is thick.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Warm the tortilla in a dry pan until soft and lightly spotted.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the Mexican beef picadillo so the sauce settles.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Serve the picadillo with the warm tortilla.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the picadillo for up to 4 days and the tortillas separately. Reheat gently until steaming. Freeze the picadillo for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Mexican beef picadillo with potatoes",
+      "summary": "Mexican-style beef picadillo with potatoes, peppers and carrots simmered in a rich tomato, cumin and paprika sauce, served with tortillas.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 41,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "cut into small cubes",
+          "optional": false
+        },
+        {
+          "name": "tortilla",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 260,
+          "displayQuantity": "260 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 45,
+          "displayQuantity": "45 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 320,
+          "displayQuantity": "320 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, tortilla, bell pepper, carrot, onion and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a large frying pan over medium-high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brown the ground beef until no pink remains and the edges begin to colour.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, bell pepper and carrot until softened.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the garlic, cumin, paprika, tomato paste and salt into the beef until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, canned, potato and vegetable broth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the picadillo until the potato is tender and the sauce is thick.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Warm the tortilla in a dry pan until soft and lightly spotted.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the Mexican beef picadillo so the sauce settles.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Serve the picadillo with the warm tortilla.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the picadillo for up to 4 days and the tortillas separately. Reheat gently until steaming. Freeze the picadillo for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Mexican beef picadillo with potatoes, hearty",
+      "summary": "A generous Mexican picadillo with extra beef, potatoes and tortillas in a deeply savoury tomato sauce with cumin, paprika and garlic.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 27,
+      "cookMinutes": 47,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 850,
+          "displayQuantity": "850 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "cut into small cubes",
+          "optional": false
+        },
+        {
+          "name": "tortilla",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 21,
+          "displayQuantity": "21 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 60,
+          "displayQuantity": "60 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 9,
+          "displayQuantity": "9 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "9 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 420,
+          "displayQuantity": "420 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, tortilla, bell pepper, carrot, onion and garlic in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a large frying pan over medium-high heat.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brown the ground beef until no pink remains and the edges begin to colour.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, bell pepper and carrot until softened.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the garlic, cumin, paprika, tomato paste and salt into the beef until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, canned, potato and vegetable broth.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the picadillo until the potato is tender and the sauce is thick.",
+          "durationMinutes": 24,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Warm the tortilla in a dry pan until soft and lightly spotted.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the Mexican beef picadillo so the sauce settles.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Serve the picadillo with the warm tortilla.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the picadillo for up to 4 days and the tortillas separately. Reheat gently until steaming. Freeze the picadillo for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "American meatloaf with mashed potatoes, light",
+      "summary": "A lighter American meatloaf with carrots and mushrooms, served with creamy mashed potatoes and green beans. Less bread, butter and potato keep it balanced.",
+      "cuisine": "american",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 75,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop",
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "green beans",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "trimmed",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 80,
+          "displayQuantity": "80 g",
+          "preparation": "torn",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "100 g",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 25,
+          "displayQuantity": "25 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 100,
+          "displayQuantity": "100 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 20,
+          "displayQuantity": "20 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 190°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, green beans, mushrooms, onion, carrot and bread in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Pulse the bread into coarse crumbs in a food processor.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, carrot and mushrooms in the olive oil until soft and lightly browned.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Mix the ground beef, bread crumbs, eggs, half the tomato paste, paprika, half the salt and cooked vegetables.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Shape the meatloaf mixture into a compact loaf in a baking dish.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Spread the remaining tomato paste over the meatloaf.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Bake the meatloaf until browned and cooked through.",
+          "durationMinutes": 30,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Simmer the potato until completely tender.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Steam the green beans until tender but still bright.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Mash the potato with the whole milk, butter and remaining salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the meatloaf before slicing.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 13,
+          "instruction": "Serve the meatloaf with the mashed potato and green beans.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the meatloaf, potatoes and green beans separately for up to 3 days. Reheat covered until hot. Freeze sliced meatloaf for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "American meatloaf with mashed potatoes",
+      "summary": "Classic American meatloaf with onion, mushrooms and tomato glaze, served with creamy mashed potatoes and tender green beans.",
+      "cuisine": "american",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 83,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop",
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 850,
+          "displayQuantity": "850 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "green beans",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "trimmed",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 150,
+          "displayQuantity": "150 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 110,
+          "displayQuantity": "110 g",
+          "preparation": "torn",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "150 g",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 35,
+          "displayQuantity": "35 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 28,
+          "displayQuantity": "28 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 28,
+          "displayQuantity": "28 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 190°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, green beans, mushrooms, onion, carrot and bread in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Pulse the bread into coarse crumbs in a food processor.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, carrot and mushrooms in the olive oil until soft and lightly browned.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Mix the ground beef, bread crumbs, eggs, half the tomato paste, paprika, half the salt and cooked vegetables.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Shape the meatloaf mixture into a compact loaf in a baking dish.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Spread the remaining tomato paste over the meatloaf.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Bake the meatloaf until browned and cooked through.",
+          "durationMinutes": 34,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Simmer the potato until completely tender.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Steam the green beans until tender but still bright.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Mash the potato with the whole milk, butter and remaining salt.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the meatloaf before slicing.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 13,
+          "instruction": "Serve the meatloaf with the mashed potato and green beans.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the meatloaf, potatoes and green beans separately for up to 3 days. Reheat covered until hot. Freeze sliced meatloaf for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "American meatloaf with mashed potatoes, hearty",
+      "summary": "A generous American meatloaf with extra beef, rich mashed potatoes and green beans, finished with a deeply savoury tomato glaze.",
+      "cuisine": "american",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 28,
+      "cookMinutes": 90,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop",
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 1050,
+          "displayQuantity": "1050 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 1150,
+          "displayQuantity": "1150 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "green beans",
+          "grams": 420,
+          "displayQuantity": "420 g",
+          "preparation": "trimmed",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 150,
+          "displayQuantity": "150 g",
+          "preparation": "torn",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 50,
+          "displayQuantity": "50 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 160,
+          "displayQuantity": "160 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 40,
+          "displayQuantity": "40 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 38,
+          "displayQuantity": "38 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 9,
+          "displayQuantity": "9 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "9 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 190°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, green beans, mushrooms, onion, carrot and bread in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Pulse the bread into coarse crumbs in a food processor.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, carrot and mushrooms in the olive oil until soft and lightly browned.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Mix the ground beef, bread crumbs, eggs, half the tomato paste, paprika, half the salt and cooked vegetables.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Shape the meatloaf mixture into a compact loaf in a baking dish.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Spread the remaining tomato paste over the meatloaf.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Bake the meatloaf until browned and cooked through.",
+          "durationMinutes": 38,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Simmer the potato until completely tender.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Steam the green beans until tender but still bright.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Mash the potato with the whole milk, butter and remaining salt.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the meatloaf before slicing.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 13,
+          "instruction": "Serve the meatloaf with the mashed potato and green beans.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the meatloaf, potatoes and green beans separately for up to 3 days. Reheat covered until hot. Freeze sliced meatloaf for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "British fish pie, light",
+      "summary": "A lighter British fish pie with cod, salmon, leeks and spinach beneath a modest creamy potato topping.",
+      "cuisine": "british",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 65,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "cod",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "salmon",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "leek",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "heavy cream",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 20,
+          "displayQuantity": "20 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 35,
+          "displayQuantity": "35 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the cod, salmon, potato, leek and spinach in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the potato until completely tender.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the leek in half the butter until soft and sweet.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Fold the spinach into the leek until wilted.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Pour the whole milk and heavy cream into the pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the thyme and half the salt into the sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the sauce gently until it thickens slightly.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Arrange the cod and salmon in a baking dish.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Pour the leek and spinach sauce over the fish.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Mash the potato with the remaining butter and salt.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Spread the mashed potato over the fish filling.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Scatter the parmesan cheese over the potato.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Bake the fish pie until bubbling and golden.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 15,
+          "instruction": "Rest the British fish pie before serving.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days and reheat covered until piping hot. The fish pie is best fresh and is not recommended for freezing.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "British fish pie",
+      "summary": "A comforting British fish pie with cod, salmon, leeks and spinach beneath a creamy mashed potato topping.",
+      "cuisine": "british",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 26,
+      "cookMinutes": 69,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "cod",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "salmon",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 850,
+          "displayQuantity": "850 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "leek",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "heavy cream",
+          "grams": 150,
+          "displayQuantity": "150 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 55,
+          "displayQuantity": "55 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the cod, salmon, potato, leek and spinach in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the potato until completely tender.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the leek in half the butter until soft and sweet.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Fold the spinach into the leek until wilted.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Pour the whole milk and heavy cream into the pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the thyme and half the salt into the sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the sauce gently until it thickens slightly.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Arrange the cod and salmon in a baking dish.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Pour the leek and spinach sauce over the fish.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Mash the potato with the remaining butter and salt.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Spread the mashed potato over the fish filling.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Scatter the parmesan cheese over the potato.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Bake the fish pie until bubbling and golden.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 15,
+          "instruction": "Rest the British fish pie before serving.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days and reheat covered until piping hot. The fish pie is best fresh and is not recommended for freezing.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "British fish pie, hearty",
+      "summary": "A generous British fish pie with extra cod, salmon and creamy mashed potato over leeks and spinach in a rich thyme sauce.",
+      "cuisine": "british",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 77,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "cod",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "salmon",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 1100,
+          "displayQuantity": "1100 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "leek",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "heavy cream",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 45,
+          "displayQuantity": "45 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 80,
+          "displayQuantity": "80 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "9 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the cod, salmon, potato, leek and spinach in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the potato until completely tender.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the leek in half the butter until soft and sweet.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Fold the spinach into the leek until wilted.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Pour the whole milk and heavy cream into the pan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the thyme and half the salt into the sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the sauce gently until it thickens slightly.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Arrange the cod and salmon in a baking dish.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Pour the leek and spinach sauce over the fish.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Mash the potato with the remaining butter and salt.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Spread the mashed potato over the fish filling.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Scatter the parmesan cheese over the potato.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Bake the fish pie until bubbling and golden.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 15,
+          "instruction": "Rest the British fish pie before serving.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days and reheat covered until piping hot. The fish pie is best fresh and is not recommended for freezing.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Indian beef keema with potatoes, light",
+      "summary": "A lighter Indian keema with ground beef, potatoes, spinach and tomatoes, warmly seasoned with cumin, ginger, garlic and paprika.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 39,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": "cut into small chunks",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 20,
+          "displayQuantity": "20 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, spinach, onion, garlic and ginger in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a wide saucepan over medium-high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brown the ground beef until no pink remains and the edges begin to colour.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion until soft and golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the garlic, ginger, cumin, paprika and salt into the beef until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, canned, potato and vegetable broth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the keema until the potato is tender and the sauce is thick.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Fold the spinach into the keema until fully wilted.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the Indian beef keema so the flavours settle.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Serve the keema while hot.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat gently until steaming. Freeze the keema for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Indian beef keema with potatoes",
+      "summary": "Indian-style beef keema with tender potatoes and spinach in a rich tomato, cumin, ginger and garlic sauce.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 43,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": "cut into small chunks",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 24,
+          "displayQuantity": "24 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 26,
+          "displayQuantity": "26 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, spinach, onion, garlic and ginger in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a wide saucepan over medium-high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brown the ground beef until no pink remains and the edges begin to colour.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion until soft and golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the garlic, ginger, cumin, paprika and salt into the beef until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, canned, potato and vegetable broth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the keema until the potato is tender and the sauce is thick.",
+          "durationMinutes": 24,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Fold the spinach into the keema until fully wilted.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the Indian beef keema so the flavours settle.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Serve the keema while hot.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat gently until steaming. Freeze the keema for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Indian beef keema with potatoes, hearty",
+      "summary": "A generous Indian keema with extra beef and potatoes, spinach and a deeply savoury tomato, cumin, ginger and garlic sauce.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 27,
+      "cookMinutes": 49,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": "cut into small chunks",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 36,
+          "displayQuantity": "36 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 9,
+          "displayQuantity": "9 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 10,
+          "displayQuantity": "10 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, spinach, onion, garlic and ginger in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a wide saucepan over medium-high heat.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brown the ground beef until no pink remains and the edges begin to colour.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion until soft and golden.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the garlic, ginger, cumin, paprika and salt into the beef until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, canned, potato and vegetable broth.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Simmer the keema until the potato is tender and the sauce is thick.",
+          "durationMinutes": 26,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Fold the spinach into the keema until fully wilted.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the Indian beef keema so the flavours settle.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Serve the keema while hot.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and reheat gently until steaming. Freeze the keema for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Italian chicken cacciatore with spaghetti, light",
+      "summary": "A lighter Italian chicken cacciatore with peppers, mushrooms and tomatoes, served with a modest portion of spaghetti and plenty of vegetables.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 52,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "spaghetti",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 20,
+          "displayQuantity": "20 g",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, spaghetti, bell pepper, mushrooms, onion, zucchini, garlic and basil in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a wide heavy saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brown the chicken thigh on several sides.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, bell pepper and mushrooms until softened and lightly browned.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the zucchini until tender at the edges.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the garlic and thyme into the vegetables until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the tomatoes, canned, vegetable broth and salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the chicken cacciatore until the thigh is tender and the sauce is rich.",
+          "durationMinutes": 24,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Cook the spaghetti until tender with a slight bite.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Fold the basil through the cacciatore sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the chicken cacciatore before serving it with the spaghetti.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate the cacciatore and spaghetti separately for up to 3 days. Reheat gently until steaming. Freeze the chicken sauce for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Italian chicken cacciatore with spaghetti",
+      "summary": "Italian chicken cacciatore with peppers, mushrooms and onions in a garlic, tomato and basil sauce, served with spaghetti.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 26,
+      "cookMinutes": 55,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "spaghetti",
+          "grams": 260,
+          "displayQuantity": "260 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 320,
+          "displayQuantity": "320 g",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 26,
+          "displayQuantity": "26 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 25,
+          "displayQuantity": "25 g",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, spaghetti, bell pepper, mushrooms, onion, zucchini, garlic and basil in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a wide heavy saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brown the chicken thigh on several sides.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, bell pepper and mushrooms until softened and lightly browned.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the zucchini until tender at the edges.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the garlic and thyme into the vegetables until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the tomatoes, canned, vegetable broth and salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the chicken cacciatore until the thigh is tender and the sauce is rich.",
+          "durationMinutes": 26,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Cook the spaghetti until tender with a slight bite.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Fold the basil through the cacciatore sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the chicken cacciatore before serving it with the spaghetti.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate the cacciatore and spaghetti separately for up to 3 days. Reheat gently until steaming. Freeze the chicken sauce for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Italian chicken cacciatore with spaghetti, hearty",
+      "summary": "A generous Italian chicken cacciatore with extra chicken and spaghetti in a rich tomato, mushroom, pepper and basil sauce.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 29,
+      "cookMinutes": 60,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 1150,
+          "displayQuantity": "1150 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "spaghetti",
+          "grams": 360,
+          "displayQuantity": "360 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 240,
+          "displayQuantity": "240 g",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 36,
+          "displayQuantity": "36 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 35,
+          "displayQuantity": "35 g",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "9 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, spaghetti, bell pepper, mushrooms, onion, zucchini, garlic and basil in their listed forms.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a wide heavy saucepan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Brown the chicken thigh on several sides.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, bell pepper and mushrooms until softened and lightly browned.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the zucchini until tender at the edges.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the garlic and thyme into the vegetables until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the tomatoes, canned, vegetable broth and salt.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the chicken cacciatore until the thigh is tender and the sauce is rich.",
+          "durationMinutes": 28,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Cook the spaghetti until tender with a slight bite.",
+          "durationMinutes": 11,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Fold the basil through the cacciatore sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the chicken cacciatore before serving it with the spaghetti.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate the cacciatore and spaghetti separately for up to 3 days. Reheat gently until steaming. Freeze the chicken sauce for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    }
+  ]
+}

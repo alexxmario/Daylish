@@ -1,0 +1,75 @@
+{
+  "expo": {
+    "name": "Daylish",
+    "slug": "daylish",
+    "scheme": "daylish",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.daylish.app",
+      "infoPlist": {
+        "NSCameraUsageDescription": "Daylish uses the camera to scan barcodes and photograph meals so you can log food in seconds."
+      },
+      "userInterfaceStyle": "light",
+      "config": {
+        "usesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "package": "com.daylish.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#FBEFC0",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Daylish uses the camera to scan barcodes and photograph meals so you can log food in seconds."
+        }
+      ],
+      "expo-sqlite",
+      "expo-font",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/android-icon-monochrome.png",
+          "color": "#FBEFC0"
+        }
+      ],
+      "@react-native-community/datetimepicker"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F5FAFE"
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "f143bd62-01db-41d0-9027-9e7e2d2a2d0b"
+      }
+    },
+    "owner": "daylish"
+  }
+}

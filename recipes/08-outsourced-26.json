@@ -1,0 +1,2908 @@
+{
+  "recipes": [
+    {
+      "title": "Greek spinach and egg pita pockets, light",
+      "summary": "Warm pita pockets filled with softly scrambled eggs, spinach, onion and lemon-dill yogurt. Extra greens and less bread and oil keep this Greek breakfast lighter.",
+      "cuisine": "greek",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 17,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 300,
+          "displayQuantity": "6 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "pita bread",
+          "grams": 180,
+          "displayQuantity": "3 medium",
+          "preparation": "warmed and halved",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 140,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 10,
+          "displayQuantity": "3 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 35,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 6,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the spinach, onion, cucumber, garlic and dill weed in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the greek yogurt, cucumber, lemon juice, dill weed and half the salt together.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the olive oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the garlic into the onion until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the spinach into the pan until wilted and fairly dry.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Beat the eggs with the remaining salt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Fold the eggs through the spinach until softly set.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Warm the pita bread in a dry frying pan until flexible.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Fill the pita bread with the eggs and greek yogurt mixture.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled just before serving. Refrigerate the egg filling and yogurt separately for up to 2 days. Reheat the eggs gently and warm the pita bread fresh. Do not freeze.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Greek spinach and egg pita pockets",
+      "summary": "Greek-style pita pockets filled with soft eggs, spinach and onion, finished with cool cucumber, lemon and dill yogurt.",
+      "cuisine": "greek",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 21,
+      "cookMinutes": 20,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 400,
+          "displayQuantity": "8 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "pita bread",
+          "grams": 260,
+          "displayQuantity": "4 large",
+          "preparation": "warmed and halved",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 160,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 260,
+          "displayQuantity": "260 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 45,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 8,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 16,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the spinach, onion, cucumber, garlic and dill weed in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the greek yogurt, cucumber, lemon juice, dill weed and half the salt together.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the olive oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the garlic into the onion until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the spinach into the pan until wilted and fairly dry.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Beat the eggs with the remaining salt.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Fold the eggs through the spinach until softly set.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Warm the pita bread in a dry frying pan until flexible.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Fill the pita bread with the eggs and greek yogurt mixture.",
+          "durationMinutes": 4,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled just before serving. Refrigerate the egg filling and yogurt separately for up to 2 days. Reheat the eggs gently and warm the pita bread fresh. Do not freeze.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Greek spinach and egg pita pockets, hearty",
+      "summary": "A generous Greek breakfast with extra eggs and warm pita stuffed with spinach, onion and a cool cucumber, lemon and dill yogurt.",
+      "cuisine": "greek",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 24,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 500,
+          "displayQuantity": "10 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "pita bread",
+          "grams": 360,
+          "displayQuantity": "6 medium",
+          "preparation": "warmed and halved",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 320,
+          "displayQuantity": "320 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 55,
+          "displayQuantity": "3 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 10,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 22,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the spinach, onion, cucumber, garlic and dill weed in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Stir the greek yogurt, cucumber, lemon juice, dill weed and half the salt together.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the olive oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir the garlic into the onion until fragrant.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Fold the spinach into the pan until wilted and fairly dry.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Beat the eggs with the remaining salt.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Fold the eggs through the spinach until softly set.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Warm the pita bread in a dry frying pan until flexible.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Fill the pita bread with the eggs and greek yogurt mixture.",
+          "durationMinutes": 5,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled just before serving. Refrigerate the egg filling and yogurt separately for up to 2 days. Reheat the eggs gently and warm the pita bread fresh. Do not freeze.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Mexican chicken and black bean flautas, light",
+      "summary": "Crisp baked flautas filled with chicken, black beans, peppers and tomato, served with lime yogurt and cilantro. Less tortilla and oil keep this Mexican lunch lighter.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 27,
+      "cookMinutes": 43,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "cut into small pieces",
+          "optional": false
+        },
+        {
+          "name": "tortilla",
+          "grams": 240,
+          "displayQuantity": "8 small",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "black beans, canned",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 160,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 80,
+          "displayQuantity": "2 small",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 25,
+          "displayQuantity": "2/3 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the chicken breast, bell pepper, onion, garlic, lime and cilantro in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat half the olive oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Brown the chicken breast until nearly cooked through.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and bell pepper until soft and lightly browned.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the garlic, cumin, paprika and half the salt into the pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the tomatoes, canned, and black beans.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the filling until thick and spoonable.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Fold the chicken breast through the black beans.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Divide the chicken breast filling among the tortilla.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Roll each tortilla tightly around the filling.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Brush the flautas with the remaining olive oil.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bake the flautas until crisp and golden.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Stir the greek yogurt, lime and remaining salt together.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Finish the Mexican chicken and black bean flautas with the greek yogurt and cilantro.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served freshly baked. Refrigerate the flautas and yogurt separately for up to 3 days. Reheat the flautas in a hot oven until crisp. Freeze baked flautas for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Mexican chicken and black bean flautas",
+      "summary": "Baked Mexican flautas filled with tender chicken, black beans, peppers and tomato, finished with cool lime yogurt and cilantro.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 49,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": "cut into small pieces",
+          "optional": false
+        },
+        {
+          "name": "tortilla",
+          "grams": 320,
+          "displayQuantity": "10 small",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "black beans, canned",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 100,
+          "displayQuantity": "2 large",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "3/4 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 22,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the chicken breast, bell pepper, onion, garlic, lime and cilantro in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat half the olive oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Brown the chicken breast until nearly cooked through.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and bell pepper until soft and lightly browned.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the garlic, cumin, paprika and half the salt into the pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the tomatoes, canned, and black beans.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the filling until thick and spoonable.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Fold the chicken breast through the black beans.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Divide the chicken breast filling among the tortilla.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Roll each tortilla tightly around the filling.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Brush the flautas with the remaining olive oil.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bake the flautas until crisp and golden.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Stir the greek yogurt, lime and remaining salt together.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Finish the Mexican chicken and black bean flautas with the greek yogurt and cilantro.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served freshly baked. Refrigerate the flautas and yogurt separately for up to 3 days. Reheat the flautas in a hot oven until crisp. Freeze baked flautas for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Mexican chicken and black bean flautas, hearty",
+      "summary": "A generous tray of crisp Mexican flautas packed with extra chicken and black beans, served with tomato, lime yogurt and cilantro.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 34,
+      "cookMinutes": 56,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 950,
+          "displayQuantity": "950 g",
+          "preparation": "cut into small pieces",
+          "optional": false
+        },
+        {
+          "name": "tortilla",
+          "grams": 420,
+          "displayQuantity": "12 medium",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "black beans, canned",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 380,
+          "displayQuantity": "3 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 120,
+          "displayQuantity": "3 small",
+          "preparation": "juiced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 40,
+          "displayQuantity": "1 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 30,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 9,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 9,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the chicken breast, bell pepper, onion, garlic, lime and cilantro in their listed forms.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat half the olive oil in a wide frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Brown the chicken breast until nearly cooked through.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and bell pepper until soft and lightly browned.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the garlic, cumin, paprika and half the salt into the pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the tomatoes, canned, and black beans.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the filling until thick and spoonable.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Fold the chicken breast through the black beans.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Divide the chicken breast filling among the tortilla.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Roll each tortilla tightly around the filling.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Brush the flautas with the remaining olive oil.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bake the flautas until crisp and golden.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Stir the greek yogurt, lime and remaining salt together.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Finish the Mexican chicken and black bean flautas with the greek yogurt and cilantro.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served freshly baked. Refrigerate the flautas and yogurt separately for up to 3 days. Reheat the flautas in a hot oven until crisp. Freeze baked flautas for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Indian chicken saag with potatoes, light",
+      "summary": "Tender chicken and potatoes in a vivid spinach, tomato, ginger and cumin sauce. Extra spinach and less oil keep this Indian dinner lighter.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 43,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "blender"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": "cut into small chunks",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 22,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 250,
+          "displayQuantity": "250 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 25,
+          "displayQuantity": "2/3 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, potato, spinach, onion, garlic, ginger and cilantro in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Wilt the spinach in a large saucepan until tender.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Blend the spinach with the vegetable broth until smooth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the vegetable oil in the saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion until soft and golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Brown the chicken thigh on several sides.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the garlic, ginger, cumin, paprika and salt into the chicken thigh.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the tomatoes, canned, and potato.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Simmer the covered chicken and potato until nearly tender.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Pour the blended spinach into the saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Simmer the chicken saag until the thigh and potato are tender.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Stir the lemon juice into the Indian chicken saag.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Finish the chicken saag with the cilantro.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat gently until the chicken is steaming. Freeze the chicken saag for up to 2 months; thaw overnight before reheating.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Indian chicken saag with potatoes",
+      "summary": "Indian chicken saag with tender potatoes in a rich spinach, tomato, ginger, garlic and cumin sauce, finished with lemon and cilantro.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 27,
+      "cookMinutes": 50,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "blender"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 850,
+          "displayQuantity": "850 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": "cut into small chunks",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 26,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 300,
+          "displayQuantity": "300 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 22,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 8,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 8,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 40,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "3/4 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, potato, spinach, onion, garlic, ginger and cilantro in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Wilt the spinach in a large saucepan until tender.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Blend the spinach with the vegetable broth until smooth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the vegetable oil in the saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion until soft and golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Brown the chicken thigh on several sides.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the garlic, ginger, cumin, paprika and salt into the chicken thigh.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the tomatoes, canned, and potato.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Simmer the covered chicken and potato until nearly tender.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Pour the blended spinach into the saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Simmer the chicken saag until the thigh and potato are tender.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Stir the lemon juice into the Indian chicken saag.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Finish the chicken saag with the cilantro.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat gently until the chicken is steaming. Freeze the chicken saag for up to 2 months; thaw overnight before reheating.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Indian chicken saag with potatoes, hearty",
+      "summary": "A generous Indian chicken saag with extra thigh meat and potatoes in a deeply savoury spinach, tomato, ginger and cumin sauce.",
+      "cuisine": "indian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 56,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop",
+        "blender"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 1100,
+          "displayQuantity": "1.1 kg",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": "cut into small chunks",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 28,
+          "displayQuantity": "9 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 32,
+          "displayQuantity": "3 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 400,
+          "displayQuantity": "400 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 30,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 10,
+          "displayQuantity": "1 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 10,
+          "displayQuantity": "1 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 50,
+          "displayQuantity": "3 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 40,
+          "displayQuantity": "1 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, potato, spinach, onion, garlic, ginger and cilantro in their listed forms.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Wilt the spinach in a large saucepan until tender.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Blend the spinach with the vegetable broth until smooth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the vegetable oil in the saucepan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion until soft and golden.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Brown the chicken thigh on several sides.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the garlic, ginger, cumin, paprika and salt into the chicken thigh.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the tomatoes, canned, and potato.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Simmer the covered chicken and potato until nearly tender.",
+          "durationMinutes": 25,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Pour the blended spinach into the saucepan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Simmer the chicken saag until the thigh and potato are tender.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Stir the lemon juice into the Indian chicken saag.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Finish the chicken saag with the cilantro.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat gently until the chicken is steaming. Freeze the chicken saag for up to 2 months; thaw overnight before reheating.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Italian eggplant parmesan bites, light",
+      "summary": "Baked eggplant rounds topped with tomato, basil and parmesan over a crisp bread coating. Less cheese and oil keep this Italian snack lighter.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 42,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop",
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "eggplant",
+          "grams": 700,
+          "displayQuantity": "2 large",
+          "preparation": "cut into thick rounds",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 90,
+          "displayQuantity": "90 g",
+          "preparation": "torn",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 55,
+          "displayQuantity": "55 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 25,
+          "displayQuantity": "25 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 20,
+          "displayQuantity": "1/2 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the eggplant, bread, garlic, basil and parmesan cheese in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Pulse the bread in a food processor until coarse crumbs form.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Mix half the parmesan cheese with the bread crumbs.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Beat the eggs with half the salt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Dip each eggplant round into the eggs.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Coat each eggplant round with the bread and parmesan cheese mixture.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Brush the coated eggplant with the olive oil.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Bake the eggplant rounds until tender and crisp at the edges.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Stir the tomatoes, canned, tomato paste, garlic and remaining salt together.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Simmer the tomato sauce until thick and spoonable.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Spoon the tomato sauce over the baked eggplant.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Scatter the remaining parmesan cheese over the eggplant bites.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Bake until the parmesan cheese is melted and golden.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 15,
+          "instruction": "Finish the Italian eggplant parmesan bites with the basil.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served hot and crisp. Refrigerate for up to 2 days and reheat in a hot oven. Freeze the baked bites for up to 1 month, then reheat from thawed.",
+      "fridgeDays": 2,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Italian eggplant parmesan bites",
+      "summary": "Crisp baked eggplant bites layered with garlic tomato sauce, basil and parmesan, then returned to the oven until bubbling and golden.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 33,
+      "cookMinutes": 50,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop",
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "eggplant",
+          "grams": 850,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into thick rounds",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": "torn",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 85,
+          "displayQuantity": "85 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 35,
+          "displayQuantity": "35 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 25,
+          "displayQuantity": "2/3 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 22,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the eggplant, bread, garlic, basil and parmesan cheese in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Pulse the bread in a food processor until coarse crumbs form.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Mix half the parmesan cheese with the bread crumbs.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Beat the eggs with half the salt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Dip each eggplant round into the eggs.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Coat each eggplant round with the bread and parmesan cheese mixture.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Brush the coated eggplant with the olive oil.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Bake the eggplant rounds until tender and crisp at the edges.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Stir the tomatoes, canned, tomato paste, garlic and remaining salt together.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Simmer the tomato sauce until thick and spoonable.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Spoon the tomato sauce over the baked eggplant.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Scatter the remaining parmesan cheese over the eggplant bites.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Bake until the parmesan cheese is melted and golden.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 15,
+          "instruction": "Finish the Italian eggplant parmesan bites with the basil.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served hot and crisp. Refrigerate for up to 2 days and reheat in a hot oven. Freeze the baked bites for up to 1 month, then reheat from thawed.",
+      "fridgeDays": 2,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Italian eggplant parmesan bites, hearty",
+      "summary": "A generous tray of thick eggplant parmesan bites with extra crisp bread coating, rich tomato sauce, basil and deeply golden parmesan.",
+      "cuisine": "italian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 37,
+      "cookMinutes": 55,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop",
+        "food_processor"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "eggplant",
+          "grams": 1050,
+          "displayQuantity": "3 large",
+          "preparation": "cut into thick rounds",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 170,
+          "displayQuantity": "170 g",
+          "preparation": "torn",
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 50,
+          "displayQuantity": "50 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "basil",
+          "grams": 35,
+          "displayQuantity": "1 cup",
+          "preparation": "roughly torn",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 30,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the eggplant, bread, garlic, basil and parmesan cheese in their listed forms.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Pulse the bread in a food processor until coarse crumbs form.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Mix half the parmesan cheese with the bread crumbs.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Beat the eggs with half the salt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Dip each eggplant round into the eggs.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Coat each eggplant round with the bread and parmesan cheese mixture.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Brush the coated eggplant with the olive oil.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Bake the eggplant rounds until tender and crisp at the edges.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Stir the tomatoes, canned, tomato paste, garlic and remaining salt together.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Simmer the tomato sauce until thick and spoonable.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Spoon the tomato sauce over the baked eggplant.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Scatter the remaining parmesan cheese over the eggplant bites.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Bake until the parmesan cheese is melted and golden.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 15,
+          "instruction": "Finish the Italian eggplant parmesan bites with the basil.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served hot and crisp. Refrigerate for up to 2 days and reheat in a hot oven. Freeze the baked bites for up to 1 month, then reheat from thawed.",
+      "fridgeDays": 2,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Japanese grilled salmon rice balls, light",
+      "summary": "Crisp-edged Japanese rice balls filled with soy-ginger salmon and spring onions, served with cool cucumber. Less rice and oil keep breakfast lighter.",
+      "cuisine": "japanese",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 31,
+      "cookMinutes": 46,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 260,
+          "displayQuantity": "260 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "salmon",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 40,
+          "displayQuantity": "40 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame seeds",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 35,
+          "displayQuantity": "35 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the cucumber, spring onions and ginger in their listed forms.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the soy sauce, rice wine, brown sugar and ginger together.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Brush the salmon with part of the soy sauce mixture.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the salmon in a covered frying pan until opaque and flaky.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Flake the salmon into small pieces.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Mix the salmon with the spring onions, sesame seeds and half the remaining soy sauce mixture.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Cool the white rice until comfortable to handle.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Mix the salt through the white rice.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Shape the white rice around the salmon filling.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Brush the rice balls with the remaining soy sauce mixture.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Heat the sesame oil in a wide non-stick frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Grill the rice balls until crisp and golden on both flat sides.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Serve the Japanese grilled salmon rice balls with the cucumber.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served freshly grilled. Refrigerate for up to 2 days and reheat in a covered pan, then uncover to crisp. Freeze formed rice balls for up to 1 month.",
+      "fridgeDays": 2,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Japanese grilled salmon rice balls",
+      "summary": "Japanese grilled rice balls with a savoury salmon, soy and ginger filling, toasted sesame seeds, spring onions and cucumber.",
+      "cuisine": "japanese",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 35,
+      "cookMinutes": 54,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 360,
+          "displayQuantity": "360 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "salmon",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 320,
+          "displayQuantity": "320 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 50,
+          "displayQuantity": "50 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 40,
+          "displayQuantity": "40 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame seeds",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 45,
+          "displayQuantity": "45 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 24,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the cucumber, spring onions and ginger in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the soy sauce, rice wine, brown sugar and ginger together.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Brush the salmon with part of the soy sauce mixture.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the salmon in a covered frying pan until opaque and flaky.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Flake the salmon into small pieces.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Mix the salmon with the spring onions, sesame seeds and half the remaining soy sauce mixture.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Cool the white rice until comfortable to handle.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Mix the salt through the white rice.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Shape the white rice around the salmon filling.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Brush the rice balls with the remaining soy sauce mixture.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Heat the sesame oil in a wide non-stick frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Grill the rice balls until crisp and golden on both flat sides.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Serve the Japanese grilled salmon rice balls with the cucumber.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served freshly grilled. Refrigerate for up to 2 days and reheat in a covered pan, then uncover to crisp. Freeze formed rice balls for up to 1 month.",
+      "fridgeDays": 2,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Japanese grilled salmon rice balls, hearty",
+      "summary": "A generous Japanese breakfast of large grilled rice balls packed with extra salmon, soy, ginger, sesame seeds and spring onions.",
+      "cuisine": "japanese",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 40,
+      "cookMinutes": 61,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 480,
+          "displayQuantity": "480 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "salmon",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 65,
+          "displayQuantity": "65 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 50,
+          "displayQuantity": "50 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame seeds",
+          "grams": 26,
+          "displayQuantity": "26 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 60,
+          "displayQuantity": "60 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 24,
+          "displayQuantity": "24 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender and fully steamed.",
+          "durationMinutes": 27,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the cucumber, spring onions and ginger in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the soy sauce, rice wine, brown sugar and ginger together.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Brush the salmon with part of the soy sauce mixture.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the salmon in a covered frying pan until opaque and flaky.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Flake the salmon into small pieces.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Mix the salmon with the spring onions, sesame seeds and half the remaining soy sauce mixture.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Cool the white rice until comfortable to handle.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Mix the salt through the white rice.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Shape the white rice around the salmon filling.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Brush the rice balls with the remaining soy sauce mixture.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Heat the sesame oil in a wide non-stick frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 14,
+          "instruction": "Grill the rice balls until crisp and golden on both flat sides.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 15,
+          "instruction": "Serve the Japanese grilled salmon rice balls with the cucumber.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served freshly grilled. Refrigerate for up to 2 days and reheat in a covered pan, then uncover to crisp. Freeze formed rice balls for up to 1 month.",
+      "fridgeDays": 2,
+      "freezerMonths": 1
+    }
+  ]
+}

@@ -1,0 +1,2183 @@
+{
+  "recipes": [
+    {
+      "title": "Vietnamese mushroom pho, light",
+      "summary": "A fragrant vegan pho with rice noodles, mushrooms and a deeply aromatic broth. Extra mushrooms and a modest noodle portion keep the bowl generous but light.",
+      "cuisine": "vietnamese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 18,
+      "cookMinutes": 35,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "rice noodles",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "shiitake mushrooms",
+          "grams": 160,
+          "displayQuantity": "2 cups",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 220,
+          "displayQuantity": "3 cups",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1200,
+          "displayQuantity": "5 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 140,
+          "displayQuantity": "1 large",
+          "preparation": "halved",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 30,
+          "displayQuantity": "3 tbsp",
+          "preparation": "thickly sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "crushed",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "star anise",
+          "grams": 3,
+          "displayQuantity": "3 whole",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 3,
+          "displayQuantity": "1 small stick",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 30,
+          "displayQuantity": "4",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 20,
+          "displayQuantity": "1/2 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 60,
+          "displayQuantity": "1 1/2",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 5,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the shiitake mushrooms, mushrooms, ginger, spring onions and cilantro, then prepare the onion, garlic and lime.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the sesame oil in a large pot and cook the onion, ginger and garlic until their cut surfaces are lightly browned.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the vegetable broth, soy sauce, star anise and cinnamon to the pot.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Simmer the broth gently until the star anise, cinnamon, onion and ginger have infused it with a warm aroma.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Add the shiitake mushrooms and mushrooms and simmer until tender.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the rice noodles separately until tender but still slightly springy, then drain them.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Remove the onion, star anise and cinnamon from the broth and taste for balance.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Divide the rice noodles and mushrooms between bowls and ladle over the hot broth.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Finish each bowl with spring onions, cilantro and lime.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Store the broth and rice noodles separately for up to 3 days. Reheat the broth until boiling and add the noodles just before serving. Freeze the broth without the fresh toppings for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Vietnamese mushroom pho",
+      "summary": "A warming vegan Vietnamese pho with tender rice noodles and two kinds of mushrooms. Star anise, cinnamon, ginger and charred onion give the broth its defining fragrance.",
+      "cuisine": "vietnamese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 18,
+      "cookMinutes": 38,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "rice noodles",
+          "grams": 160,
+          "displayQuantity": "160 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "shiitake mushrooms",
+          "grams": 160,
+          "displayQuantity": "2 cups",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 180,
+          "displayQuantity": "2 1/2 cups",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1300,
+          "displayQuantity": "5 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 160,
+          "displayQuantity": "1 large",
+          "preparation": "halved",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 35,
+          "displayQuantity": "3 1/2 tbsp",
+          "preparation": "thickly sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "crushed",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 36,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "star anise",
+          "grams": 4,
+          "displayQuantity": "4 whole",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 4,
+          "displayQuantity": "1 medium stick",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 35,
+          "displayQuantity": "4",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 24,
+          "displayQuantity": "1/2 cup plus 2 tbsp",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 70,
+          "displayQuantity": "2 small",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the shiitake mushrooms, mushrooms, ginger, spring onions and cilantro, then prepare the onion, garlic and lime.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the sesame oil in a large pot and cook the onion, ginger and garlic until lightly charred at the edges.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the vegetable broth, soy sauce, star anise and cinnamon to the pot.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Simmer the broth gently until the star anise, cinnamon, onion and ginger have created a fragrant base.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Add the shiitake mushrooms and mushrooms and simmer until tender and savoury.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the rice noodles separately until tender with a slight chew, then drain them.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Remove the onion, star anise and cinnamon from the broth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Divide the rice noodles and mushrooms between bowls and ladle over the hot broth.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Finish each bowl with spring onions, cilantro and lime.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate broth and rice noodles separately for up to 3 days. Reheat the broth until steaming and warm the noodles in it briefly. Freeze the strained broth for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Vietnamese mushroom pho, hearty",
+      "summary": "A generous vegan pho with extra rice noodles and mushrooms in a richly spiced Vietnamese broth. It is substantial enough for dinner while remaining fresh and aromatic.",
+      "cuisine": "vietnamese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 20,
+      "cookMinutes": 42,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "rice noodles",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "shiitake mushrooms",
+          "grams": 200,
+          "displayQuantity": "2 1/2 cups",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 220,
+          "displayQuantity": "3 cups",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1450,
+          "displayQuantity": "6 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "halved",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 40,
+          "displayQuantity": "4 tbsp",
+          "preparation": "thickly sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "crushed",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 45,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "star anise",
+          "grams": 5,
+          "displayQuantity": "5 whole",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 5,
+          "displayQuantity": "1 large stick",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 45,
+          "displayQuantity": "5",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "3/4 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 90,
+          "displayQuantity": "2",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the shiitake mushrooms, mushrooms, ginger, spring onions and cilantro, then prepare the onion, garlic and lime.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the sesame oil in a large pot and cook the onion, ginger and garlic until well browned at the edges.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the vegetable broth, soy sauce, star anise and cinnamon to the pot.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Simmer the broth gently until the star anise, cinnamon, onion and ginger have deeply flavoured it.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Add the shiitake mushrooms and mushrooms and simmer until completely tender.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the rice noodles separately until tender but not soft, then drain them thoroughly.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Remove the onion, star anise and cinnamon from the broth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Divide the rice noodles and mushrooms between large bowls and ladle over the broth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Finish each bowl generously with spring onions, cilantro and lime.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep the broth and rice noodles in separate containers for up to 3 days. Reheat only the portion required. The strained mushroom broth freezes well for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Kelewele, light",
+      "summary": "Warm Ghanaian-style fried plantain seasoned with ginger, cayenne, paprika and cinnamon. The lighter version uses firm plantain and less oil while keeping the edges caramelised.",
+      "cuisine": "west_african",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 12,
+      "cookMinutes": 12,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "plantain",
+          "grams": 600,
+          "displayQuantity": "3 medium",
+          "preparation": "peeled and cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 18,
+          "displayQuantity": "2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "cayenne pepper",
+          "grams": 2,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 1,
+          "displayQuantity": "1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 24,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 3,
+          "displayQuantity": "1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Peel the plantain and cut it into evenly sized bite-size pieces.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Mix the ginger, cayenne pepper, paprika, cinnamon and salt into a thick seasoning paste.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the plantain thoroughly with the ginger and spice mixture.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the vegetable oil in a wide frying pan over medium heat.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Fry the plantain until caramelised and golden on several sides, turning the pieces regularly.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Rest the kelewele briefly on absorbent paper before serving.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best served hot while the edges are caramelised. Refrigerate for up to 2 days and reheat in a dry pan or hot oven. Freezing is not recommended because the plantain softens.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Kelewele",
+      "summary": "Sweet ripe plantain fried with ginger, cayenne, paprika and cinnamon until deeply golden. This Ghanaian snack is fragrant, spicy and crisp around the edges.",
+      "cuisine": "west_african",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 12,
+      "cookMinutes": 14,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "plantain",
+          "grams": 750,
+          "displayQuantity": "4 medium",
+          "preparation": "peeled and cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 24,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "cayenne pepper",
+          "grams": 3,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 2,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 40,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Peel the plantain and cut it into evenly sized bite-size pieces.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Mix the ginger, cayenne pepper, paprika, cinnamon and salt into a thick seasoning paste.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the plantain thoroughly with the ginger and spice mixture.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the vegetable oil in a wide frying pan over medium heat.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Fry the plantain until deeply golden, sticky and caramelised around the edges.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Rest the kelewele briefly on absorbent paper before serving.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Kelewele is at its best immediately after frying. Refrigerate leftovers for up to 2 days and reheat in a hot dry pan or oven. Do not freeze.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Kelewele, hearty",
+      "summary": "A generous platter of Ghanaian spiced plantain with a deeply caramelised crust. Extra plantain, ginger and warm spices make it an abundant snack for sharing.",
+      "cuisine": "west_african",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 14,
+      "cookMinutes": 16,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "plantain",
+          "grams": 950,
+          "displayQuantity": "5 medium",
+          "preparation": "peeled and cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 30,
+          "displayQuantity": "3 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "cayenne pepper",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 7,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 3,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 55,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Peel the plantain and cut it into evenly sized bite-size pieces.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Mix the ginger, cayenne pepper, paprika, cinnamon and salt into a thick seasoning paste.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Coat the plantain thoroughly with the ginger and spice mixture.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the vegetable oil in a large frying pan over medium heat.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Fry the plantain in batches until deeply browned and caramelised on every side.",
+          "durationMinutes": 13,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Rest the kelewele briefly on absorbent paper before serving.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Serve hot for the best texture. Refrigerate for up to 2 days and reheat in a hot oven or dry frying pan. The cooked plantain is not suitable for freezing.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Cured pork and egg congee, light",
+      "summary": "A silky Chinese breakfast porridge with cured pork, ginger and softly cooked eggs. Extra broth keeps the bowl generous while the rice and pork remain restrained.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 10,
+      "cookMinutes": 35,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 80,
+          "displayQuantity": "1/3 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "chicken broth",
+          "grams": 1100,
+          "displayQuantity": "4 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cured pork",
+          "grams": 80,
+          "displayQuantity": "80 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 15,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": "cut into fine strips",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 25,
+          "displayQuantity": "3",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 15,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 5,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Slice the cured pork, ginger and spring onions into their prepared sizes.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Bring the chicken broth to a steady simmer in a deep saucepan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the white rice, cured pork and ginger and simmer until the rice breaks down into a silky porridge.",
+          "durationMinutes": 25,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Crack the eggs into the congee and cook until the whites are set but the yolks remain tender.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the soy sauce and sesame oil through the congee.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Divide the congee between bowls and finish with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days. Reheat gently with extra chicken broth because congee thickens considerably as it cools. Cook fresh eggs when reheating leftovers for the best texture.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Cured pork and egg congee",
+      "summary": "Comforting Chinese congee simmered until creamy with cured pork and ginger, then finished with eggs, soy sauce and sesame oil. It is savoury, warming and ideal for breakfast.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 10,
+      "cookMinutes": 38,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 110,
+          "displayQuantity": "1/2 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "chicken broth",
+          "grams": 1200,
+          "displayQuantity": "5 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cured pork",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 18,
+          "displayQuantity": "2 tbsp",
+          "preparation": "cut into fine strips",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 30,
+          "displayQuantity": "4",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Slice the cured pork, ginger and spring onions into their prepared sizes.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Bring the chicken broth to a steady simmer in a deep saucepan.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the white rice, cured pork and ginger and simmer until the grains collapse into a creamy congee.",
+          "durationMinutes": 28,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Crack the eggs into the congee and cook until the whites are set and the yolks are softly cooked.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the soy sauce and sesame oil through the hot congee.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Divide the congee between bowls and scatter over the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep refrigerated for up to 2 days. Reheat with additional chicken broth until steaming and loose enough to spoon. The eggs are best cooked fresh rather than stored in the porridge.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Cured pork and egg congee, hearty",
+      "summary": "A substantial bowl of Chinese congee with extra rice, cured pork and two eggs per person. Ginger, soy sauce and sesame oil give the rich porridge a warm savoury finish.",
+      "cuisine": "chinese",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 12,
+      "cookMinutes": 42,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 150,
+          "displayQuantity": "3/4 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "chicken broth",
+          "grams": 1400,
+          "displayQuantity": "6 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cured pork",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 24,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": "cut into fine strips",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 40,
+          "displayQuantity": "5",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 24,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Slice the cured pork, ginger and spring onions into their prepared sizes.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Bring the chicken broth to a steady simmer in a large, deep saucepan.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the white rice, cured pork and ginger and simmer until the larger amount of rice becomes thick and creamy.",
+          "durationMinutes": 30,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Crack the eggs into the congee and cook until the whites are set and the yolks reach your preferred consistency.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the soy sauce and sesame oil evenly through the congee.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Divide the congee between large bowls and finish with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days and loosen with chicken broth during reheating. Heat until steaming throughout. Freshly cooked eggs give a better result than reheated eggs.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Provençal baked cod, light",
+      "summary": "Cod baked over potatoes and colourful vegetables in a garlicky tomato, olive and thyme sauce. Extra vegetables and less oil keep this Mediterranean lunch fresh and light.",
+      "cuisine": "french",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 32,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "pescatarian",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "cod",
+          "grams": 520,
+          "displayQuantity": "4 small fillets",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 400,
+          "displayQuantity": "3 medium",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 400,
+          "displayQuantity": "3 medium",
+          "preparation": "thickly sliced",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 160,
+          "displayQuantity": "1 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "green olives",
+          "grams": 60,
+          "displayQuantity": "1/3 cup",
+          "preparation": "pitted",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 4,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 25,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Slice the potato, zucchini, bell pepper and onion and chop the garlic.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the potato slices in water until just beginning to soften, then drain them.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Heat half the olive oil in a wide pan and cook the onion and bell pepper until slightly softened.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the garlic, tomatoes, canned, tomato paste, green olives and thyme.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Arrange the potato and zucchini in a baking dish, spoon over the tomato mixture and bake until the vegetables are nearly tender.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Place the cod over the vegetables, brush with the remaining olive oil and bake until the cod flakes easily.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Finish the Provençal baked cod with the lemon juice before serving.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 2 days and reheat covered until the cod is hot. The dish is best fresh because reheated cod can become firm. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Provençal baked cod",
+      "summary": "Flaky cod baked with potatoes, zucchini, peppers, tomatoes, olives and thyme. The garlicky Provençal sauce turns simple ingredients into a colourful Mediterranean lunch.",
+      "cuisine": "french",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 35,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "pescatarian",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "cod",
+          "grams": 650,
+          "displayQuantity": "4 fillets",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 600,
+          "displayQuantity": "5 medium",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 350,
+          "displayQuantity": "2 to 3 medium",
+          "preparation": "thickly sliced",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 600,
+          "displayQuantity": "2 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 40,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "green olives",
+          "grams": 90,
+          "displayQuantity": "1/2 cup",
+          "preparation": "pitted",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 28,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Slice the potato, zucchini, bell pepper and onion and chop the garlic.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the potato slices in water until just beginning to soften, then drain them.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Heat half the olive oil in a wide pan and cook the onion and bell pepper until softened at the edges.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the garlic, tomatoes, canned, tomato paste, green olives and thyme.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Arrange the potato and zucchini in a baking dish, spoon over the tomato mixture and bake until almost tender.",
+          "durationMinutes": 25,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Place the cod over the vegetables, brush with the remaining olive oil and bake until the cod flakes easily.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Finish the Provençal baked cod with the lemon juice before serving.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep refrigerated for up to 2 days and reheat covered to protect the cod from drying out. The finished dish does not freeze particularly well.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Provençal baked cod, hearty",
+      "summary": "A generous tray of cod, potatoes and Mediterranean vegetables baked in a rich tomato, olive and thyme sauce. It makes a substantial French lunch for four.",
+      "cuisine": "french",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 38,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean",
+        "pescatarian",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "cod",
+          "grams": 800,
+          "displayQuantity": "4 large fillets",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 800,
+          "displayQuantity": "6 to 7 medium",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 400,
+          "displayQuantity": "3 medium",
+          "preparation": "thickly sliced",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 350,
+          "displayQuantity": "2 to 3 large",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "2 medium",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 700,
+          "displayQuantity": "3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 50,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "green olives",
+          "grams": 120,
+          "displayQuantity": "2/3 cup",
+          "preparation": "pitted",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 40,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 6,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 40,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Slice the potato, zucchini, bell pepper and onion and chop the garlic.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the potato slices in water until just beginning to soften, then drain them.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Heat half the olive oil in a wide pan and cook the onion and bell pepper until slightly softened.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Stir in the garlic, tomatoes, canned, tomato paste, green olives and thyme.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Arrange the potato and zucchini in a deep baking dish, spoon over the tomato mixture and bake until nearly tender.",
+          "durationMinutes": 28,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Place the cod over the vegetables, brush with the remaining olive oil and bake until the thick fillets flake easily.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Finish the Provençal baked cod with the lemon juice before serving.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate leftovers for up to 2 days and reheat covered until steaming. The cod is most tender when freshly baked, so freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Greek fasolakia, light",
+      "summary": "Greek green beans and potatoes slowly braised in tomato, olive oil and dill. Extra green beans and less potato keep this dairy-free dinner light but comforting.",
+      "cuisine": "greek",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 42,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "green beans",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": "trimmed",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 400,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 600,
+          "displayQuantity": "2 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 25,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 35,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 300,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 5,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 25,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Trim the green beans and cut the potato, onion and garlic into their prepared sizes.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a wide pot and cook the onion until soft and translucent.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the garlic and tomato paste and stir until fragrant and slightly darkened.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the tomatoes, canned, vegetable broth, green beans and potato to the pot.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cover and simmer the fasolakia gently until the green beans and potato are completely tender.",
+          "durationMinutes": 30,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Uncover the pot and simmer until the tomato sauce thickens around the vegetables.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the dill weed through the hot fasolakia.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Finish the dish with the lemon juice before serving.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Fasolakia keeps well for up to 4 days and is good warm or at room temperature. Reheat gently with a splash of vegetable broth. Freeze for up to 2 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Greek fasolakia",
+      "summary": "Traditional-style Greek green beans and potatoes braised slowly with tomatoes, garlic, dill and olive oil. The vegetables become tender and absorb the rich Mediterranean sauce.",
+      "cuisine": "greek",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 45,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "green beans",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": "trimmed",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 650,
+          "displayQuantity": "5 medium",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 700,
+          "displayQuantity": "3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 40,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 45,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 350,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 6,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Trim the green beans and cut the potato, onion and garlic into their prepared sizes.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a wide pot and cook the onion until soft and translucent.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the garlic and tomato paste and stir until fragrant and lightly caramelised.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the tomatoes, canned, vegetable broth, green beans and potato to the pot.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cover and simmer the fasolakia gently until the green beans and potato are very tender.",
+          "durationMinutes": 33,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Uncover the pot and simmer until the tomato sauce becomes rich and spoonable.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the dill weed through the cooked vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Finish the fasolakia with the lemon juice before serving.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and serve warm or at room temperature. Reheat gently with a little vegetable broth. Freeze in portions for up to 2 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Greek fasolakia, hearty",
+      "summary": "A generous pot of Greek green beans and potatoes braised until tender in a rich tomato and olive oil sauce. Dill and lemon keep the substantial dairy-free dinner fresh.",
+      "cuisine": "greek",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 50,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "green beans",
+          "grams": 1000,
+          "displayQuantity": "1 kg",
+          "preparation": "trimmed",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 900,
+          "displayQuantity": "7 medium",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 850,
+          "displayQuantity": "3 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 55,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 60,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 450,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 8,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 40,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Trim the green beans and cut the potato, onion and garlic into their prepared sizes.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a large pot and cook the onion until completely soft and translucent.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the garlic and tomato paste and stir until fragrant and slightly darkened.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the tomatoes, canned, vegetable broth, green beans and potato to the pot.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cover and simmer the fasolakia gently until the larger amount of green beans and potato is completely tender.",
+          "durationMinutes": 38,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Uncover the pot and simmer until the tomato sauce is thick and glossy.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Stir the dill weed evenly through the fasolakia.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Finish the dish with the lemon juice before serving.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps for up to 4 days in the refrigerator and often tastes better the next day. Reheat gently with vegetable broth if needed. Freeze for up to 2 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 2
+    }
+  ]
+}

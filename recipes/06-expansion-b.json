@@ -1,0 +1,1780 @@
+{
+  "recipes": [
+    {
+      "title": "Chicken pho, light",
+      "summary": "A clear, deeply spiced broth with poached chicken breast, a modest nest of rice noodles and a mountain of fresh herbs and sprouts.",
+      "cuisine": "vietnamese",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 15,
+      "cookMinutes": 40,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "dairy_free",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken stock",
+          "grams": 1500,
+          "displayQuantity": "1.5 litres",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice noodles",
+          "grams": 180,
+          "displayQuantity": "180 g dried",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bean sprouts",
+          "grams": 200,
+          "displayQuantity": "2 large handfuls",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 30,
+          "displayQuantity": "a thumb",
+          "preparation": "halved lengthways",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 110,
+          "displayQuantity": "1 medium",
+          "preparation": "halved",
+          "optional": false
+        },
+        {
+          "name": "star anise",
+          "grams": 4,
+          "displayQuantity": "2 whole",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 3,
+          "displayQuantity": "1 small stick",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sauce, fish, ready-to-serve",
+          "grams": 24,
+          "displayQuantity": "1¾ tbsp fish sauce",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 30,
+          "displayQuantity": "3",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 20,
+          "displayQuantity": "a large handful",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 30,
+          "displayQuantity": "1 lime",
+          "preparation": "cut into wedges",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Halve the onion and ginger and char the cut sides in a dry pan over high heat until blackened in patches, about 6 minutes. This is not optional — the charring is where pho gets its depth.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Toast the star anise and cinnamon in the same pan for a minute until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the chicken stock, charred aromatics and toasted spices to a large pot and bring to a bare simmer.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Lower the chicken breast into the broth and poach gently until cooked through, about 15 minutes. Lift it out, let it cool enough to handle, and shred it.",
+          "durationMinutes": 18,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Leave the broth to infuse at the barest simmer while you prepare everything else. It should taste clean and aromatic, not cloudy.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Soak or boil the rice noodles according to the packet until just tender, then drain.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Strain the broth, discarding the aromatics, and season it with the fish sauce. Taste — it should be savoury and rounded.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Divide the noodles and shredded chicken breast between bowls, ladle over the hot broth, and top with bean sprouts, spring onions and cilantro. Serve with lime wedges.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Store the broth separately from the noodles or they turn to mush. Broth keeps three days refrigerated and freezes well for three months.",
+      "fridgeDays": 3,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Chicken pho",
+      "summary": "Charred ginger and onion, star anise and cinnamon simmered into a clear chicken broth, poured over rice noodles and shredded chicken.",
+      "cuisine": "vietnamese",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 15,
+      "cookMinutes": 42,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "dairy_free",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken stock",
+          "grams": 1500,
+          "displayQuantity": "1.5 litres",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice noodles",
+          "grams": 300,
+          "displayQuantity": "300 g dried",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bean sprouts",
+          "grams": 120,
+          "displayQuantity": "a large handful",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 30,
+          "displayQuantity": "a thumb",
+          "preparation": "halved lengthways",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 110,
+          "displayQuantity": "1 medium",
+          "preparation": "halved",
+          "optional": false
+        },
+        {
+          "name": "star anise",
+          "grams": 4,
+          "displayQuantity": "2 whole",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 3,
+          "displayQuantity": "1 small stick",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sauce, fish, ready-to-serve",
+          "grams": 30,
+          "displayQuantity": "2 tbsp fish sauce",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 30,
+          "displayQuantity": "3",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 20,
+          "displayQuantity": "a large handful",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 30,
+          "displayQuantity": "1 lime",
+          "preparation": "cut into wedges",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Halve the onion and ginger and char the cut sides in a dry pan over high heat until well blackened, about 7 minutes. The colour goes into the broth.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Toast the star anise and cinnamon in the same pan for a minute until you can smell them.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Combine the chicken stock, charred aromatics and spices in a large pot and bring to a bare simmer.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Poach the chicken breast in the broth until cooked through, about 16 minutes, then lift out and shred.",
+          "durationMinutes": 18,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Leave the broth to infuse at the barest simmer. Never let it boil hard — a rolling boil turns a clear pho broth cloudy and it will not come back.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Soak or boil the rice noodles until just tender, then drain.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Strain the broth and season with the fish sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Divide noodles and shredded chicken breast between bowls, ladle over the broth, and pile on bean sprouts, spring onions and cilantro. Serve with lime wedges.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep broth, noodles and toppings separate. The broth keeps three days refrigerated and freezes for three months; assemble fresh.",
+      "fridgeDays": 3,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Chicken pho, hearty",
+      "summary": "A big bowl of pho with extra chicken, a full nest of noodles and a soft egg, built for a proper appetite.",
+      "cuisine": "vietnamese",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 15,
+      "cookMinutes": 48,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "dairy_free",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken stock",
+          "grams": 1600,
+          "displayQuantity": "1.6 litres",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice noodles",
+          "grams": 400,
+          "displayQuantity": "400 g dried",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bean sprouts",
+          "grams": 150,
+          "displayQuantity": "a large handful",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 30,
+          "displayQuantity": "a thumb",
+          "preparation": "halved lengthways",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 110,
+          "displayQuantity": "1 medium",
+          "preparation": "halved",
+          "optional": false
+        },
+        {
+          "name": "star anise",
+          "grams": 4,
+          "displayQuantity": "2 whole",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 3,
+          "displayQuantity": "1 small stick",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sauce, fish, ready-to-serve",
+          "grams": 34,
+          "displayQuantity": "2¼ tbsp fish sauce",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 30,
+          "displayQuantity": "3",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 20,
+          "displayQuantity": "a large handful",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 30,
+          "displayQuantity": "1 lime",
+          "preparation": "cut into wedges",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Char the halved onion and ginger cut-side down in a dry pan over high heat until blackened, about 7 minutes.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Toast the star anise and cinnamon in the same pan for a minute.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Bring the chicken stock, charred aromatics and spices to a bare simmer in a large pot.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Poach the chicken breast in the broth until cooked through, about 18 minutes, then lift out and shred.",
+          "durationMinutes": 20,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Boil the eggs for 7 minutes for a jammy yolk, cool under cold water and peel.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Leave the broth to infuse at the barest simmer, never letting it boil hard.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Soak or boil the rice noodles until just tender, then drain.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Strain the broth and season with the fish sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Divide noodles and shredded chicken breast between bowls, ladle over the broth, and add halved eggs, bean sprouts, spring onions and cilantro. Serve with lime wedges.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Store broth, noodles and toppings separately. Broth keeps three days refrigerated and freezes for three months.",
+      "fridgeDays": 3,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Ratatouille with white beans, light",
+      "summary": "Slow-cooked summer vegetables in olive oil and thyme with white beans stirred through, using a restrained hand with the oil.",
+      "cuisine": "french",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 45,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "mediterranean",
+        "dairy_free",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggplant",
+          "grams": 400,
+          "displayQuantity": "1 large",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 350,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into half-moons",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 150,
+          "displayQuantity": "1 large",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "1 x 400 g tin",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white beans, canned",
+          "grams": 240,
+          "displayQuantity": "1 tin, drained",
+          "preparation": "drained and rinsed",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 22,
+          "displayQuantity": "1½ tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 4,
+          "displayQuantity": "a few sprigs",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Cut the aubergine into generous chunks, the courgette into half-moons and the bell pepper into strips. Keep the pieces large — small dice collapses into mush over a long cook.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Warm the olive oil in a wide heavy pan and cook the aubergine over medium-high heat until golden at the edges, about 8 minutes. It drinks oil, so resist adding more.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the onion and bell pepper and cook until softened, about 8 minutes, then stir in the garlic and thyme for a final minute.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the courgette and tinned tomatoes, season well, and bring to a gentle simmer.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook uncovered at a lazy simmer until the vegetables are completely tender and the tomatoes have reduced to a thick sauce that no longer pools.",
+          "durationMinutes": 25,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Stir in the white beans and warm through for a few minutes. Taste and season again — it usually needs more salt than you expect.",
+          "durationMinutes": 5,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Improves overnight and is good hot or at room temperature. Keeps four days refrigerated and freezes for three months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Ratatouille with white beans",
+      "summary": "Aubergine, courgette and peppers cooked down slowly in good olive oil with thyme and garlic, finished with white beans.",
+      "cuisine": "french",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 45,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "mediterranean",
+        "dairy_free",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggplant",
+          "grams": 350,
+          "displayQuantity": "1 large",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 300,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into half-moons",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 150,
+          "displayQuantity": "1 large",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "1 x 400 g tin",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white beans, canned",
+          "grams": 240,
+          "displayQuantity": "1 tin, drained",
+          "preparation": "drained and rinsed",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 45,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 4,
+          "displayQuantity": "a few sprigs",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Cut the aubergine into chunks, the courgette into half-moons and the bell pepper into strips, keeping every piece generous.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Warm two thirds of the olive oil in a wide heavy pan and brown the aubergine over medium-high heat until golden and yielding, about 8 minutes.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the onion and bell pepper and cook until soft and sweet, about 8 minutes. Stir in the garlic and thyme for the last minute, until fragrant but not coloured.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the courgette and tinned tomatoes, season generously, and bring to a gentle simmer.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook uncovered at a lazy simmer until everything is meltingly tender and the sauce is thick rather than watery.",
+          "durationMinutes": 25,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Stir through the white beans and the remaining olive oil, warm for a few minutes, and season again to taste.",
+          "durationMinutes": 5,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Better the next day, and good hot, warm or at room temperature. Keeps four days refrigerated and freezes for three months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Ratatouille with white beans, hearty",
+      "summary": "A fuller pan of ratatouille with extra beans and a generous pour of olive oil, substantial enough to be dinner on its own.",
+      "cuisine": "french",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 48,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "mediterranean",
+        "dairy_free",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggplant",
+          "grams": 400,
+          "displayQuantity": "1 large",
+          "preparation": "cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 350,
+          "displayQuantity": "2 large",
+          "preparation": "cut into half-moons",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 350,
+          "displayQuantity": "2 large",
+          "preparation": "cut into strips",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 150,
+          "displayQuantity": "1 large",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "1 x 400 g tin",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "white beans, canned",
+          "grams": 480,
+          "displayQuantity": "2 tins, drained",
+          "preparation": "drained and rinsed",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 60,
+          "displayQuantity": "4 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "several sprigs",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Cut the aubergine into chunks, the courgette into half-moons and the bell pepper into strips.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Warm two thirds of the olive oil in a wide heavy pan and brown the aubergine until deeply golden, about 9 minutes.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the onion and bell pepper and cook until soft, about 9 minutes, stirring in the garlic and thyme at the end.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the courgette and tinned tomatoes, season well, and bring to a gentle simmer.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Simmer uncovered until the vegetables are completely tender and the sauce has thickened.",
+          "durationMinutes": 26,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Stir in the white beans and the remaining olive oil and warm through. Season generously to finish.",
+          "durationMinutes": 6,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps four days refrigerated and improves overnight. Freezes for three months. Good hot or at room temperature.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Peanut butter and banana porridge, light",
+      "summary": "Creamy oats cooked with milk, sweetened only by banana, with a spoon of peanut butter swirled through.",
+      "cuisine": "british",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 3,
+      "cookMinutes": 9,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "rolled oats",
+          "grams": 70,
+          "displayQuantity": "70 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 350,
+          "displayQuantity": "350 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "banana",
+          "grams": 120,
+          "displayQuantity": "1 medium",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "peanut butter",
+          "grams": 20,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 1,
+          "displayQuantity": "¼ tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the banana, setting half aside for the top.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Put the rolled oats and whole milk in a pan with a pinch of salt and bring to a gentle simmer, stirring. The salt is not optional — porridge without it tastes flat however much fruit you add.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook, stirring often, until thick and creamy and the oats have lost their raw chalkiness, about 5 minutes. Mash in half the banana as it cooks.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Spoon into bowls, swirl through the peanut butter, and top with the reserved banana and the cinnamon.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best eaten immediately. Leftovers thicken solid in the fridge; loosen with milk and reheat gently. Keeps two days.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Peanut butter and banana porridge",
+      "summary": "Thick, creamy oats with banana cooked into them and a proper spoonful of peanut butter melting on top.",
+      "cuisine": "british",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 3,
+      "cookMinutes": 9,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "rolled oats",
+          "grams": 100,
+          "displayQuantity": "100 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 400,
+          "displayQuantity": "400 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "banana",
+          "grams": 120,
+          "displayQuantity": "1 medium",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "peanut butter",
+          "grams": 32,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 1,
+          "displayQuantity": "¼ tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the banana, keeping half back for the top.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Combine the rolled oats and whole milk in a pan with a good pinch of salt and bring to a gentle simmer, stirring.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook, stirring regularly, until thick and creamy, about 5 minutes, mashing in half the banana towards the end. If it stiffens too far, loosen with a splash more milk.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Spoon into bowls, add the peanut butter so it melts into the surface, and finish with the reserved banana and the cinnamon.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best fresh. Refrigerated it sets firm; reheat with extra milk. Keeps two days.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Peanut butter and banana porridge, hearty",
+      "summary": "A big bowl of oats with plenty of peanut butter, a whole banana and a scatter of seeds for a breakfast that lasts until lunch.",
+      "cuisine": "british",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 3,
+      "cookMinutes": 10,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "rolled oats",
+          "grams": 140,
+          "displayQuantity": "140 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 500,
+          "displayQuantity": "500 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "banana",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "peanut butter",
+          "grams": 48,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame seeds",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 1,
+          "displayQuantity": "¼ tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the bananas, keeping half back for the top.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Toast the sesame seeds in a dry pan for a minute until fragrant, then tip out.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Combine the rolled oats and whole milk in the pan with a good pinch of salt and bring to a gentle simmer.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook, stirring, until thick and creamy, about 5 minutes, mashing in half the banana as it goes.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Spoon into bowls, add the peanut butter, and top with the reserved banana, the toasted sesame seeds and the cinnamon.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best fresh. Keeps two days refrigerated; loosen with milk when reheating. Add the seeds after reheating so they stay crisp.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Turkish eggs, light",
+      "summary": "Poached eggs over garlicky yoghurt with paprika butter and dill, with a wedge of bread for mopping.",
+      "cuisine": "turkish",
+      "mealSlots": [
+        "breakfast",
+        "lunch"
+      ],
+      "servings": 2,
+      "prepMinutes": 8,
+      "cookMinutes": 8,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 15,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 4,
+          "displayQuantity": "1 small clove",
+          "preparation": "crushed",
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 2,
+          "displayQuantity": "½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 5,
+          "displayQuantity": "a small handful",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 80,
+          "displayQuantity": "2 slices",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Stir the crushed garlic and a pinch of salt through the greek yogurt and leave it at room temperature. Cold yoghurt straight from the fridge will chill the eggs on contact.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Chop the dill weed and set aside. Toast the bread.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Bring a wide pan of water to a bare simmer, swirl it, and poach the eggs for about 3 minutes until the whites are set and the yolks still soft.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Melt the butter in a small pan with the paprika until it foams and turns deep orange, about a minute. Watch it — paprika burns fast and turns bitter.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Spread the yoghurt across two plates, set the drained eggs on top, spoon over the paprika butter and scatter with dill weed. Serve with the toast.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Assemble and eat immediately — poached eggs do not keep. The garlic yoghurt can be made a day ahead and refrigerated.",
+      "fridgeDays": 1,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Turkish eggs",
+      "summary": "Soft poached eggs on a bed of garlicky yoghurt, flooded with foaming paprika butter and finished with dill.",
+      "cuisine": "turkish",
+      "mealSlots": [
+        "breakfast",
+        "lunch"
+      ],
+      "servings": 2,
+      "prepMinutes": 8,
+      "cookMinutes": 8,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 4,
+          "displayQuantity": "1 small clove",
+          "preparation": "crushed",
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 2,
+          "displayQuantity": "½ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 5,
+          "displayQuantity": "a small handful",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 120,
+          "displayQuantity": "3 slices",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Stir the crushed garlic and a good pinch of salt into the greek yogurt and leave it out to come to room temperature.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Chop the dill weed. Toast the bread.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Bring a wide pan of water to a bare simmer and poach the eggs for about 3 minutes, until the whites are just set and the yolks still liquid.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Melt the butter with the paprika in a small pan until foaming and deep orange, about a minute. Take it off the heat the moment it smells nutty.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Spread the yoghurt over two plates, set the drained eggs on top, pour over the paprika butter and scatter with dill weed. Serve with the toast.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Eat immediately — this does not keep once assembled. The garlic yoghurt can be made a day ahead.",
+      "fridgeDays": 1,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Turkish eggs, hearty",
+      "summary": "Six eggs over a deep bed of garlic yoghurt with plenty of paprika butter, dill and bread — a full weekend breakfast.",
+      "cuisine": "turkish",
+      "mealSlots": [
+        "breakfast",
+        "lunch"
+      ],
+      "servings": 2,
+      "prepMinutes": 8,
+      "cookMinutes": 10,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 300,
+          "displayQuantity": "6 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 40,
+          "displayQuantity": "2½ tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 6,
+          "displayQuantity": "2 small cloves",
+          "preparation": "crushed",
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 3,
+          "displayQuantity": "¾ tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 6,
+          "displayQuantity": "a handful",
+          "preparation": "chopped",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 180,
+          "displayQuantity": "4 slices",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Stir the crushed garlic and salt into the greek yogurt and let it sit at room temperature.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Chop the dill weed. Toast the bread.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Bring a wide pan of water to a bare simmer and poach the eggs in two batches, about 3 minutes each, so they do not crowd.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Melt the butter with the paprika until foaming and deep orange, about a minute.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Spread the yoghurt across two plates, pile on the drained eggs, pour over the paprika butter and scatter with dill weed. Serve with the toast.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Eat straight away. The garlic yoghurt keeps a day refrigerated; poach the eggs fresh.",
+      "fridgeDays": 1,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Leek and potato soup, light",
+      "summary": "Sweet softened leeks and potato blended into a smooth, comforting soup, kept light with stock rather than cream.",
+      "cuisine": "french",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 12,
+      "cookMinutes": 30,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop",
+        "blender"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "leek",
+          "grams": 450,
+          "displayQuantity": "3 large",
+          "preparation": "sliced and washed",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 400,
+          "displayQuantity": "2 medium",
+          "preparation": "peeled and diced",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 900,
+          "displayQuantity": "900 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 15,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 100,
+          "displayQuantity": "100 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 3,
+          "displayQuantity": "a few sprigs",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the leek and wash it thoroughly in a bowl of cold water — grit hides between the layers and will not come out later. Peel and dice the potato.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Melt the butter in a large pan and cook the leek gently with a pinch of salt until completely soft and sweet but not coloured, about 12 minutes. Browning them makes the soup taste harsh.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the potato, thyme and vegetable broth, bring to a simmer and cook until the potato falls apart at the press of a spoon.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Remove the thyme sprigs and blend until completely smooth.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps four days refrigerated and freezes for three months. Reheat gently and stir well, as it separates a little on standing.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Leek and potato soup",
+      "summary": "The classic: leeks softened in butter with floury potato, blended smooth and enriched with a little milk.",
+      "cuisine": "french",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 12,
+      "cookMinutes": 32,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop",
+        "blender"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "leek",
+          "grams": 400,
+          "displayQuantity": "3 large",
+          "preparation": "sliced and washed",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 500,
+          "displayQuantity": "3 medium",
+          "preparation": "peeled and diced",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 900,
+          "displayQuantity": "900 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 150,
+          "displayQuantity": "150 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 3,
+          "displayQuantity": "a few sprigs",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice the leek and wash it well in cold water to get the grit out from between the layers. Peel and dice the potato.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Melt the butter in a large pan and sweat the leek with a pinch of salt until soft and sweet without taking on colour, about 13 minutes.",
+          "durationMinutes": 13,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the potato, thyme and vegetable broth and simmer until the potato collapses easily under a spoon.",
+          "durationMinutes": 17,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Fish out the thyme, blend until velvety, then stir in the whole milk and season well.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps four days refrigerated and freezes for three months. Reheat gently without boiling once the milk is in.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Leek and potato soup, hearty",
+      "summary": "A thicker, richer version with more potato and butter and a swirl of cream, served with bread to make a full meal.",
+      "cuisine": "french",
+      "mealSlots": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 12,
+      "cookMinutes": 34,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop",
+        "blender"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "leek",
+          "grams": 450,
+          "displayQuantity": "3 large",
+          "preparation": "sliced and washed",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 650,
+          "displayQuantity": "4 medium",
+          "preparation": "peeled and diced",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 900,
+          "displayQuantity": "900 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 45,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "heavy cream",
+          "grams": 80,
+          "displayQuantity": "80 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 100,
+          "displayQuantity": "100 ml",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 3,
+          "displayQuantity": "a few sprigs",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 160,
+          "displayQuantity": "4 slices",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Slice and wash the leek thoroughly. Peel and dice the potato.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Melt the butter in a large pan and sweat the leek with salt until completely soft and sweet, about 14 minutes, without letting it colour.",
+          "durationMinutes": 14,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Add the potato, thyme and vegetable broth and simmer until the potato is falling apart.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Remove the thyme and blend smooth, then stir in the whole milk and heavy cream and season generously.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Toast the bread and serve alongside.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keeps three days refrigerated. Reheat gently and never boil once the cream is in. Freeze before adding the dairy for best results.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    }
+  ]
+}

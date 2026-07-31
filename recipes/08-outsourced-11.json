@@ -1,0 +1,2417 @@
+{
+  "recipes": [
+    {
+      "title": "Peruvian chicken quinoa soup, light",
+      "summary": "A bright Peruvian-style soup with tender chicken, quinoa, potatoes and vegetables in a cumin-scented broth. Extra vegetables and less quinoa keep the bowl light but satisfying.",
+      "cuisine": "peruvian",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 21,
+      "cookMinutes": 46,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "quinoa",
+          "grams": 120,
+          "displayQuantity": "2/3 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 300,
+          "displayQuantity": "2 medium",
+          "preparation": "cut into small chunks",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 250,
+          "displayQuantity": "3 medium",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 150,
+          "displayQuantity": "3 stalks",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 160,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 300,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken broth",
+          "grams": 1400,
+          "displayQuantity": "6 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 25,
+          "displayQuantity": "1/2 cup plus 2 tbsp",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 60,
+          "displayQuantity": "1 1/2",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, potato, carrot, celery, onion, garlic, cilantro and lime in their listed sizes.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Rinse the quinoa under cold water until the water runs clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the olive oil in a large saucepan over medium-high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Brown the chicken thigh lightly around the edges.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion, carrot and celery until the onion is soft and translucent.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the garlic, cumin and paprika and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the tomatoes, canned, chicken broth and potato and bring the soup to a gentle simmer.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the soup until the potato and chicken thigh are nearly tender.",
+          "durationMinutes": 24,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Add the quinoa and simmer until the grains are tender and their small spirals are visible.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Finish the soup with the cilantro and serve it with the lime.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat until steaming, adding chicken broth if the quinoa has absorbed too much liquid. Freeze for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Peruvian chicken quinoa soup",
+      "summary": "A comforting Peruvian chicken and quinoa soup with potatoes, carrots, celery, tomatoes and fresh cilantro. Lime brightens the warm cumin and paprika broth.",
+      "cuisine": "peruvian",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 52,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "quinoa",
+          "grams": 160,
+          "displayQuantity": "scant 1 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 400,
+          "displayQuantity": "3 medium",
+          "preparation": "cut into small chunks",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 250,
+          "displayQuantity": "3 medium",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 160,
+          "displayQuantity": "3 to 4 stalks",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 350,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken broth",
+          "grams": 1500,
+          "displayQuantity": "6 1/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "3/4 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 70,
+          "displayQuantity": "2 small",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 16,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, potato, carrot, celery, onion, garlic, cilantro and lime in their listed sizes.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Rinse the quinoa under cold water until the water runs clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the olive oil in a large saucepan over medium-high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Brown the chicken thigh until lightly coloured on several sides.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion, carrot and celery until softened and fragrant.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the garlic, cumin and paprika and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the tomatoes, canned, chicken broth and potato and bring the soup to a simmer.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the soup until the potato and chicken thigh are nearly tender.",
+          "durationMinutes": 26,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Add the quinoa and simmer until the grains are tender and the broth looks lightly thickened.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Finish the soup with the cilantro and serve it with the lime.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep refrigerated for up to 3 days and loosen with chicken broth when reheating. Heat until steaming throughout. Freeze in portions for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Peruvian chicken quinoa soup, hearty",
+      "summary": "A generous pot of Peruvian chicken quinoa soup with extra chicken, potatoes and grains. Cilantro and lime keep the substantial lunch fresh and aromatic.",
+      "cuisine": "peruvian",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 58,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 850,
+          "displayQuantity": "850 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "quinoa",
+          "grams": 220,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 550,
+          "displayQuantity": "4 medium",
+          "preparation": "cut into small chunks",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 300,
+          "displayQuantity": "4 medium",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "celery",
+          "grams": 180,
+          "displayQuantity": "4 stalks",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 450,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chicken broth",
+          "grams": 1700,
+          "displayQuantity": "7 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 40,
+          "displayQuantity": "1 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 90,
+          "displayQuantity": "2 large",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 22,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the chicken thigh, potato, carrot, celery, onion, garlic, cilantro and lime in their listed sizes.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Rinse the quinoa under cold water until the water runs clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the olive oil in a large saucepan over medium-high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Brown the chicken thigh in batches until lightly coloured.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion, carrot and celery until completely softened.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the garlic, cumin and paprika and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the tomatoes, canned, chicken broth and potato and bring the larger pot to a simmer.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the soup until the chicken thigh and potato are nearly tender.",
+          "durationMinutes": 28,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Add the quinoa and simmer until the larger amount of grains is fully tender.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Finish the soup generously with the cilantro and serve it with the lime.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and add chicken broth during reheating as needed. Freeze cooled portions for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Polish meatballs with mushroom sauce, light",
+      "summary": "Tender beef meatballs with creamy mushroom and thyme sauce, served over soft potatoes. Less bread, butter and sour cream keep the high-protein dinner lighter.",
+      "cuisine": "polish",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 50,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 60,
+          "displayQuantity": "2 thin slices",
+          "preparation": "torn into small pieces",
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 80,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 500,
+          "displayQuantity": "7 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "sour cream",
+          "grams": 120,
+          "displayQuantity": "1/2 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 300,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 4,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 500,
+          "displayQuantity": "4 medium",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, onion and mushrooms before mixing the meatballs.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Simmer the potato until completely tender when pierced with a knife.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Soak the bread in the whole milk until soft.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Mix the ground beef, eggs, soaked bread, paprika and half the onion until evenly combined.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Shape the ground beef mixture into evenly sized meatballs.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Melt the butter in a wide frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Brown the meatballs on several sides until a golden crust forms.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the remaining onion and mushrooms until soft and golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Stir the beef stock, sour cream and thyme into the mushrooms.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer the meatballs in the mushroom sauce until cooked through.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Mash the potato and serve it with the meatballs and mushroom sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat gently until the meatballs are hot throughout. Freeze the meatballs and sauce for up to 2 months; prepare fresh potatoes after thawing.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Polish meatballs with mushroom sauce",
+      "summary": "Polish-style beef meatballs simmered in a creamy mushroom and thyme sauce with tender potatoes. The shared dinner is savoury, comforting and rich in protein.",
+      "cuisine": "polish",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 26,
+      "cookMinutes": 56,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 90,
+          "displayQuantity": "3 slices",
+          "preparation": "torn into small pieces",
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 100,
+          "displayQuantity": "1/3 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 450,
+          "displayQuantity": "6 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "sour cream",
+          "grams": 180,
+          "displayQuantity": "3/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 350,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 24,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 700,
+          "displayQuantity": "5 to 6 medium",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, onion and mushrooms before mixing the meatballs.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Simmer the potato until completely tender when pierced with a knife.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Soak the bread in the whole milk until soft.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Mix the ground beef, eggs, soaked bread, paprika and half the onion until evenly combined.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Shape the ground beef mixture into evenly sized meatballs.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Melt the butter in a wide frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Brown the meatballs in batches until golden on several sides.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the remaining onion and mushrooms until soft and deeply golden.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Stir the beef stock, sour cream and thyme into the mushrooms.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer the meatballs in the mushroom sauce until fully cooked and tender.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Mash the potato and serve it with the meatballs and mushroom sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat over low heat so the sour cream sauce stays smooth. Freeze the meatballs and sauce for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Polish meatballs with mushroom sauce, hearty",
+      "summary": "A generous Polish-style dinner with extra beef meatballs, potatoes and creamy mushroom sauce. The substantial shared pan is deeply savoury and high in protein.",
+      "cuisine": "polish",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 64,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "grams": 120,
+          "displayQuantity": "4 slices",
+          "preparation": "torn into small pieces",
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 120,
+          "displayQuantity": "1/2 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "mushrooms",
+          "grams": 550,
+          "displayQuantity": "7 cups",
+          "preparation": "sliced",
+          "optional": false
+        },
+        {
+          "name": "sour cream",
+          "grams": 250,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 450,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 36,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 6,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 950,
+          "displayQuantity": "7 to 8 medium",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, onion and mushrooms before mixing the larger batch of meatballs.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Simmer the potato until completely tender when pierced with a knife.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Soak the bread in the whole milk until soft.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Mix the ground beef, eggs, soaked bread, paprika and half the onion until thoroughly combined.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Shape the ground beef mixture into generous, evenly sized meatballs.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Melt the butter in a large frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Brown the meatballs in batches until deeply golden on several sides.",
+          "durationMinutes": 14,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the remaining onion and mushrooms until their moisture evaporates and the edges colour.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Stir the beef stock, sour cream and thyme into the mushrooms until smooth.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer the meatballs in the mushroom sauce until cooked through and tender.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Mash the potato and serve it generously with the meatballs and mushroom sauce.",
+          "durationMinutes": 4,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep refrigerated for up to 3 days and reheat gently until hot. Freeze the meatballs and mushroom sauce for up to 2 months; make fresh potatoes when serving.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Peanut butter oat bars, light",
+      "summary": "Soft-baked American oat bars with banana, peanut butter, cinnamon and sesame seeds. Less peanut butter and sugar keep the vegan snack lighter without making it dry.",
+      "cuisine": "american",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 6,
+      "prepMinutes": 18,
+      "cookMinutes": 40,
+      "difficulty": "easy",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "rolled oats",
+          "grams": 240,
+          "displayQuantity": "2 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "banana",
+          "grams": 300,
+          "displayQuantity": "3 medium",
+          "preparation": "peeled and very ripe",
+          "optional": false
+        },
+        {
+          "name": "peanut butter",
+          "grams": 100,
+          "displayQuantity": "1/3 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 25,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame seeds",
+          "grams": 25,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 180°C and line a square baking tin.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Mash the banana until mostly smooth with only a few small pieces remaining.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Stir the peanut butter, brown sugar and cinnamon into the banana.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Fold the rolled oats and sesame seeds into the banana mixture until evenly moistened.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Press the oat mixture firmly and evenly into the lined tin.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Bake until the edges are golden and the centre feels set when lightly pressed.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Cool the peanut butter oat bars completely in the tin so they firm up.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Cut the slab into six even servings.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep refrigerated in a sealed container for up to 5 days. Freeze individual bars for up to 2 months and thaw at room temperature or overnight in the refrigerator.",
+      "fridgeDays": 5,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Peanut butter oat bars",
+      "summary": "Chewy American oat bars baked with ripe banana, peanut butter, brown sugar, cinnamon and sesame seeds. They make a simple vegan snack for meal prep.",
+      "cuisine": "american",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 6,
+      "prepMinutes": 18,
+      "cookMinutes": 43,
+      "difficulty": "easy",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "rolled oats",
+          "grams": 300,
+          "displayQuantity": "3 1/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "banana",
+          "grams": 350,
+          "displayQuantity": "3 to 4 medium",
+          "preparation": "peeled and very ripe",
+          "optional": false
+        },
+        {
+          "name": "peanut butter",
+          "grams": 140,
+          "displayQuantity": "1/2 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 40,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame seeds",
+          "grams": 35,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 180°C and line a square baking tin.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Mash the banana until mostly smooth with only a few soft pieces remaining.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Stir the peanut butter, brown sugar and cinnamon into the banana until smooth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Fold the rolled oats and sesame seeds into the banana mixture until evenly combined.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Press the oat mixture firmly and evenly into the lined tin.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Bake until the edges are golden and the centre is fully set.",
+          "durationMinutes": 24,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Cool the peanut butter oat bars completely so they become chewy and easy to slice.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Cut the slab into six even servings.",
+          "durationMinutes": 3,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 5 days in a sealed container. Freeze separated bars for up to 2 months and thaw before eating.",
+      "fridgeDays": 5,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Peanut butter oat bars, hearty",
+      "summary": "Thick vegan oat bars with extra peanut butter, banana and oats for a substantial American snack. Cinnamon and sesame seeds add a warm, nutty finish.",
+      "cuisine": "american",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 6,
+      "prepMinutes": 22,
+      "cookMinutes": 48,
+      "difficulty": "easy",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "rolled oats",
+          "grams": 380,
+          "displayQuantity": "4 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "banana",
+          "grams": 420,
+          "displayQuantity": "4 large",
+          "preparation": "peeled and very ripe",
+          "optional": false
+        },
+        {
+          "name": "peanut butter",
+          "grams": 190,
+          "displayQuantity": "3/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 60,
+          "displayQuantity": "1/4 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame seeds",
+          "grams": 45,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 180°C and line a deep square baking tin.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Mash the banana until smooth and creamy.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Stir the peanut butter, brown sugar and cinnamon into the banana until fully combined.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Fold the rolled oats and sesame seeds into the banana mixture until no dry oats remain.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Press the thick oat mixture firmly and evenly into the lined tin.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Bake until deeply golden at the edges and firm in the centre.",
+          "durationMinutes": 26,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Cool the peanut butter oat bars completely in the tin so the thick slab sets.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Cut the slab into six generous servings.",
+          "durationMinutes": 4,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate in a sealed container for up to 5 days. Freeze individual bars for up to 2 months and thaw overnight for the best texture.",
+      "fridgeDays": 5,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Bubble and squeak with eggs, light",
+      "summary": "A lighter British breakfast cake of crisp potatoes, cabbage and onion topped with softly cooked eggs. Extra cabbage keeps the pan generous while the butter stays restrained.",
+      "cuisine": "british",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 18,
+      "cookMinutes": 39,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "potato",
+          "grams": 350,
+          "displayQuantity": "3 medium",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 300,
+          "displayQuantity": "1/3 small head",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 100,
+          "displayQuantity": "1 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 25,
+          "displayQuantity": "3",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, green cabbage, onion and spring onions in their listed sizes.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Simmer the potato until completely tender when pierced with a knife.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Melt the butter in a wide non-stick frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion until soft and translucent.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the green cabbage and cook until tender and lightly browned at the edges.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Mash the potato until mostly smooth with a few small pieces remaining.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Mix the potato with the green cabbage and onion.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Press the mixture into the pan and cook until the underside is crisp and golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Turn the bubble and squeak and cook the second side until golden.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Make four shallow wells and crack the eggs into them.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Cover the pan and cook until the egg whites are set and the yolks remain tender.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Finish the bubble and squeak with eggs with the spring onions.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served immediately while the potato is crisp and the eggs are tender. Refrigerate leftovers for up to 2 days and reheat gently. Do not freeze the finished dish.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Bubble and squeak with eggs",
+      "summary": "Classic-style British bubble and squeak with crisp potatoes, tender cabbage and onion, finished with softly cooked eggs and spring onions.",
+      "cuisine": "british",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 18,
+      "cookMinutes": 44,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "potato",
+          "grams": 500,
+          "displayQuantity": "4 medium",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 280,
+          "displayQuantity": "1/3 small head",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 120,
+          "displayQuantity": "1 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 30,
+          "displayQuantity": "4",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, green cabbage, onion and spring onions in their listed sizes.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Simmer the potato until completely tender when pierced with a knife.",
+          "durationMinutes": 17,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Melt the butter in a wide non-stick frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the green cabbage and cook until tender and browned in places.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Mash the potato until mostly smooth with a few small pieces remaining.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Mix the potato with the green cabbage and onion.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Press the mixture into the pan and cook until the underside is deeply golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Turn the bubble and squeak and cook the second side until crisp.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Make four shallow wells and crack the eggs into them.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Cover the pan and cook until the egg whites are set and the yolks remain soft.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Finish the bubble and squeak with eggs with the spring onions.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Serve freshly cooked for the best crisp texture. Refrigerate for up to 2 days and reheat over low heat. Freezing is not recommended.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Bubble and squeak with eggs, hearty",
+      "summary": "A generous British breakfast with extra crisp potatoes and six eggs over buttery cabbage and onion. Spring onions add a fresh finish to the substantial skillet.",
+      "cuisine": "british",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 22,
+      "cookMinutes": 50,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "potato",
+          "grams": 700,
+          "displayQuantity": "5 to 6 medium",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "green cabbage",
+          "grams": 350,
+          "displayQuantity": "1/2 small head",
+          "preparation": "finely shredded",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 150,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 300,
+          "displayQuantity": "6 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 28,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 40,
+          "displayQuantity": "5",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the potato, green cabbage, onion and spring onions in their listed sizes.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Simmer the potato until completely tender when pierced with a knife.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Melt the butter in a large non-stick frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion until soft and lightly golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the green cabbage and cook until tender and browned around the edges.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Mash the potato until mostly smooth while retaining some texture.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Mix the potato thoroughly with the green cabbage and onion.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Press the mixture into the pan and cook until the underside is deeply crisp and golden.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Turn the bubble and squeak and cook the second side until crisp.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Make six shallow wells and crack the eggs into them.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Cover the pan and cook until the egg whites are set and the yolks reach your preferred consistency.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Finish the bubble and squeak with eggs generously with the spring onions.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best eaten immediately. Refrigerate leftovers for up to 2 days and reheat gently until hot, accepting that the eggs will become firmer. Do not freeze.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Cuban pork and black bean stew, light",
+      "summary": "A lighter Cuban-style stew with pork loin, black beans, peppers and tomatoes, served with a modest portion of rice. Cumin and paprika give the broth a warm savoury depth.",
+      "cuisine": "caribbean",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 22,
+      "cookMinutes": 63,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "cured pork",
+          "grams": 100,
+          "displayQuantity": "100 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "black beans, canned",
+          "grams": 600,
+          "displayQuantity": "3 1/2 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 160,
+          "displayQuantity": "scant 1 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "1 can",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 250,
+          "displayQuantity": "2 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 800,
+          "displayQuantity": "3 1/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 10,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the pork loin, cured pork, onion, bell pepper and garlic in their listed sizes.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the olive oil in a large pot over medium-high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Brown the pork loin lightly on several sides.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the cured pork until its edges begin to colour.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the onion and bell pepper until softened and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the garlic, cumin and paprika and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Add the black beans, tomatoes, canned, beef stock and browned pork loin.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer the stew gently until the pork loin is tender and the broth has thickened.",
+          "durationMinutes": 30,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the Cuban pork and black bean stew off the heat so the flavours settle.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Serve the stew with the white rice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the stew and rice separately for up to 4 days. Reheat until steaming. Freeze the stew without the rice for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Cuban pork and black bean stew",
+      "summary": "A comforting Cuban-style stew with pork loin, cured pork, black beans, tomatoes and peppers. Steamed rice completes the savoury cumin-scented lunch.",
+      "cuisine": "caribbean",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 23,
+      "cookMinutes": 72,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "cured pork",
+          "grams": 150,
+          "displayQuantity": "150 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "black beans, canned",
+          "grams": 700,
+          "displayQuantity": "4 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 220,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 250,
+          "displayQuantity": "2 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 900,
+          "displayQuantity": "3 3/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 18,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the pork loin, cured pork, onion, bell pepper and garlic in their listed sizes.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the olive oil in a large pot over medium-high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Brown the pork loin until lightly coloured on several sides.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the cured pork until browned around the edges.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the onion and bell pepper until soft and lightly golden.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the garlic, cumin and paprika and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Add the black beans, tomatoes, canned, beef stock and browned pork loin.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer the stew gently until the pork loin is tender and the broth is rich and thick.",
+          "durationMinutes": 35,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the Cuban pork and black bean stew off the heat so the flavours settle.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Serve the stew with the white rice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep refrigerated for up to 4 days and store the rice separately. Reheat until steaming. Freeze the stew for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Cuban pork and black bean stew, hearty",
+      "summary": "A generous Cuban-style lunch with extra pork, black beans and rice in a thick tomato and pepper broth. Cured pork adds a deep savoury finish to the shared pot.",
+      "cuisine": "caribbean",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 26,
+      "cookMinutes": 83,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "grams": 850,
+          "displayQuantity": "850 g",
+          "preparation": "cut into bite-size pieces",
+          "optional": false
+        },
+        {
+          "name": "cured pork",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "black beans, canned",
+          "grams": 850,
+          "displayQuantity": "5 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 300,
+          "displayQuantity": "1 2/3 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 650,
+          "displayQuantity": "2 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "beef stock",
+          "grams": 1100,
+          "displayQuantity": "4 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 8,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 8,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 24,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the pork loin, cured pork, onion, bell pepper and garlic in their listed sizes.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the white rice until tender, then keep the larger batch covered so it finishes steaming evenly.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the olive oil in a large pot over medium-high heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Brown the pork loin in batches until coloured on several sides.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the cured pork until deeply browned around the edges.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the onion and bell pepper until completely softened.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the garlic, cumin and paprika and stir until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Add the black beans, tomatoes, canned, beef stock and browned pork loin.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Simmer the stew gently until the pork loin is tender and the larger pot becomes thick and savoury.",
+          "durationMinutes": 40,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the Cuban pork and black bean stew off the heat so the flavours settle.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Serve the stew generously with the white rice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 4 days and keep the rice separate. Reheat gently until piping hot. Freeze the stew for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    }
+  ]
+}

@@ -1,0 +1,2684 @@
+{
+  "recipes": [
+    {
+      "title": "Middle Eastern kofta and potato bake, light",
+      "summary": "Baked beef kofta with potatoes, zucchini and tomatoes, served with a lemony tahini yogurt sauce. Extra vegetables and less oil keep this Middle Eastern dinner lighter.",
+      "cuisine": "middle_eastern",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 26,
+      "cookMinutes": 48,
+      "difficulty": "medium",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "cut into thin wedges",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 160,
+          "displayQuantity": "2/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tahini",
+          "grams": 35,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 30,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, zucchini, onion and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Mix the ground beef with the onion, garlic, cumin, paprika and salt until evenly seasoned.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Shape the ground beef mixture into small oval kofta.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Coat the potato and zucchini with the olive oil.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Arrange the potato and zucchini across a large baking dish.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour the tomatoes, canned, evenly over the vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Place the kofta over the vegetables without crowding them.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Bake until the kofta are cooked through and the potato is tender and golden.",
+          "durationMinutes": 32,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Whisk the greek yogurt, tahini and lemon juice into a smooth sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the kofta and potato bake so the pan juices settle.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Serve the Middle Eastern kofta and potato bake with the yogurt sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the bake and yogurt sauce separately for up to 3 days. Reheat the kofta and vegetables covered until steaming. Freeze the bake without the sauce for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Middle Eastern kofta and potato bake",
+      "summary": "Juicy beef kofta baked with potatoes, zucchini and tomatoes, then served with creamy lemon-tahini yogurt. The savoury tray makes an easy shared Middle Eastern dinner.",
+      "cuisine": "middle_eastern",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 28,
+      "cookMinutes": 53,
+      "difficulty": "medium",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 850,
+          "displayQuantity": "850 g",
+          "preparation": "cut into thin wedges",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 200,
+          "displayQuantity": "3/4 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tahini",
+          "grams": 55,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 40,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 22,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 7,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, zucchini, onion and garlic in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Mix the ground beef with the onion, garlic, cumin, paprika and salt until thoroughly seasoned.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Shape the ground beef mixture into evenly sized oval kofta.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Coat the potato and zucchini with the olive oil.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Arrange the potato and zucchini across a large baking dish.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour the tomatoes, canned, evenly over the vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Place the kofta over the vegetables without crowding them.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Bake until the kofta are browned and cooked through and the potato is tender.",
+          "durationMinutes": 36,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Whisk the greek yogurt, tahini and lemon juice into a creamy sauce.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the kofta and potato bake so the savoury juices settle.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Serve the Middle Eastern kofta and potato bake with the yogurt sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep the bake and yogurt sauce separately refrigerated for up to 3 days. Reheat covered until hot throughout. Freeze the kofta and vegetables without the sauce for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Middle Eastern kofta and potato bake, hearty",
+      "summary": "A generous tray of beef kofta, golden potatoes, zucchini and tomatoes with rich tahini yogurt. Extra beef and potatoes make this a substantial Middle Eastern dinner.",
+      "cuisine": "middle_eastern",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 60,
+      "difficulty": "medium",
+      "equipment": [
+        "oven"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 1100,
+          "displayQuantity": "1.1 kg",
+          "preparation": "cut into thin wedges",
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": "cut into thick slices",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 260,
+          "displayQuantity": "1 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tahini",
+          "grams": 75,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 50,
+          "displayQuantity": "3 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 30,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 9,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 9,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, zucchini, onion and garlic in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Mix the ground beef with the onion, garlic, cumin, paprika and salt until thoroughly seasoned.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Shape the ground beef mixture into generous oval kofta.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Coat the potato and zucchini with the olive oil.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Arrange the potato and zucchini across two baking dishes.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Pour the tomatoes, canned, evenly over the vegetables.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Place the kofta over the vegetables without crowding them.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Bake until the kofta are deeply browned and the potato is tender and golden.",
+          "durationMinutes": 40,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Whisk the greek yogurt, tahini and lemon juice into a rich sauce.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the kofta and potato bake so the pan juices settle.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Serve the Middle Eastern kofta and potato bake generously with the yogurt sauce.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the bake and sauce separately for up to 3 days. Reheat the kofta and vegetables covered until steaming. Freeze the bake without the yogurt sauce for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Huevos rancheros, light",
+      "summary": "Eggs, black beans and warm tomato-pepper salsa served over tortillas with a little cheddar and sour cream. Extra vegetables keep this high-protein Mexican breakfast lighter.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 16,
+      "cookMinutes": 30,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 250,
+          "displayQuantity": "5 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "black beans, canned",
+          "grams": 300,
+          "displayQuantity": "1 3/4 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tortilla",
+          "grams": 120,
+          "displayQuantity": "4 small",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "1 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 120,
+          "displayQuantity": "1 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 10,
+          "displayQuantity": "3 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "cheddar cheese",
+          "grams": 30,
+          "displayQuantity": "1/3 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "sour cream",
+          "grams": 50,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 3,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 3,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 20,
+          "displayQuantity": "2 to 3",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the onion, bell pepper, garlic and spring onions in their listed forms.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a wide frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the onion and bell pepper until soft and lightly golden.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the garlic, cumin and paprika and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the tomatoes, canned, and simmer until the salsa is thick and spoonable.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Warm the black beans in a small saucepan until steaming.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Toast the tortilla in a dry pan until warm and flexible.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Fry the eggs until the whites are set and the yolks remain tender.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Place the tortilla on serving plates.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Spread the black beans over the tortilla.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Top the black beans with the eggs.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Spoon the tomato salsa around the eggs and add the cheddar cheese and sour cream.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Finish the huevos rancheros with the spring onions.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled immediately. Refrigerate the salsa and black beans separately for up to 3 days. Cook fresh eggs and toast fresh tortillas when serving again. Do not freeze the finished dish.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Huevos rancheros",
+      "summary": "Classic-style huevos rancheros with fried eggs, black beans and smoky tomato-pepper salsa over warm tortillas, finished with cheddar, sour cream and spring onions.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 17,
+      "cookMinutes": 34,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 300,
+          "displayQuantity": "6 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "black beans, canned",
+          "grams": 350,
+          "displayQuantity": "2 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tortilla",
+          "grams": 180,
+          "displayQuantity": "6 small",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 450,
+          "displayQuantity": "1 3/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 140,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 200,
+          "displayQuantity": "1 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "cheddar cheese",
+          "grams": 60,
+          "displayQuantity": "2/3 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "sour cream",
+          "grams": 70,
+          "displayQuantity": "1/4 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 25,
+          "displayQuantity": "3",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the onion, bell pepper, garlic and spring onions in their listed forms.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a wide frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the onion and bell pepper until soft and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the garlic, cumin and paprika and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the tomatoes, canned, and simmer until the salsa is rich and spoonable.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Warm the black beans in a small saucepan until steaming.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Toast the tortilla in a dry pan until warm and lightly spotted.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Fry the eggs until the whites are set and the yolks remain tender.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Place the tortilla on serving plates.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Spread the black beans over the tortilla.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Top the black beans with the eggs.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Spoon the tomato salsa around the eggs and add the cheddar cheese and sour cream.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Finish the huevos rancheros with the spring onions.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep the salsa and black beans refrigerated separately for up to 3 days. Reheat them until hot, then cook fresh eggs and warm fresh tortillas. The assembled breakfast does not freeze well.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Huevos rancheros, hearty",
+      "summary": "A generous Mexican breakfast with extra eggs, black beans and tortillas under a rich tomato-pepper salsa. Cheddar and sour cream make the high-protein plate substantial.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 18,
+      "cookMinutes": 40,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 400,
+          "displayQuantity": "8 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "black beans, canned",
+          "grams": 450,
+          "displayQuantity": "2 2/3 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tortilla",
+          "grams": 240,
+          "displayQuantity": "8 small",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 160,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 220,
+          "displayQuantity": "1 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "cheddar cheese",
+          "grams": 90,
+          "displayQuantity": "1 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "sour cream",
+          "grams": 90,
+          "displayQuantity": "1/3 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 30,
+          "displayQuantity": "4",
+          "preparation": "finely sliced",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Prepare the onion, bell pepper, garlic and spring onions in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Heat the olive oil in a wide frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the onion and bell pepper until completely soft and lightly browned.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the garlic, cumin and paprika and stir until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the tomatoes, canned, and simmer until the salsa is thick and rich.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Warm the black beans in a saucepan until thoroughly hot.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Toast the tortilla in batches until warm and lightly spotted.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Fry the eggs in batches until the whites are set and the yolks reach your preferred consistency.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Place the tortilla on serving plates.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Spread the black beans generously over the tortilla.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Top the black beans with the eggs.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Spoon the tomato salsa around the eggs and add the cheddar cheese and sour cream.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Finish the huevos rancheros with the spring onions.",
+          "durationMinutes": 1,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the salsa and beans separately for up to 3 days. Reheat until steaming, then prepare fresh eggs and tortillas. Do not freeze the assembled dish.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Brazilian black bean stew with rice, light",
+      "summary": "Black beans, sweet potato, squash and peppers simmered in a savoury tomato broth and served with rice. Extra vegetables and less rice and oil keep this vegan lunch lighter.",
+      "cuisine": "brazilian",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 63,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "black beans, canned",
+          "grams": 650,
+          "displayQuantity": "3 3/4 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 160,
+          "displayQuantity": "scant 1 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "sweet potato",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "butternut squash",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 250,
+          "displayQuantity": "2 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 450,
+          "displayQuantity": "1 3/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 900,
+          "displayQuantity": "3 3/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 60,
+          "displayQuantity": "1 1/2",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 25,
+          "displayQuantity": "1/2 cup plus 2 tbsp",
+          "preparation": "roughly chopped",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the sweet potato, butternut squash, bell pepper, onion, garlic, lime and cilantro in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the olive oil in a large saucepan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and bell pepper until soft and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the garlic, cumin and paprika and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the tomatoes, canned, vegetable broth, sweet potato and butternut squash.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the stew until the sweet potato and butternut squash are tender.",
+          "durationMinutes": 25,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Stir in the black beans and simmer until the broth thickens slightly.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Fold the cilantro through the black bean stew.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Squeeze the lime over the stew.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the Brazilian black bean stew before serving it with the white rice.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate the stew and rice separately for up to 4 days. Reheat with a splash of vegetable broth. Freeze the stew without the rice for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Brazilian black bean stew with rice",
+      "summary": "A comforting Brazilian-style black bean stew with sweet potato, squash, peppers and tomatoes, served with fluffy rice and finished with cilantro and lime.",
+      "cuisine": "brazilian",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 19,
+      "cookMinutes": 66,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "black beans, canned",
+          "grams": 750,
+          "displayQuantity": "4 1/3 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 220,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "sweet potato",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "butternut squash",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 250,
+          "displayQuantity": "2 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1000,
+          "displayQuantity": "4 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 70,
+          "displayQuantity": "2 small",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "3/4 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the sweet potato, butternut squash, bell pepper, onion, garlic, lime and cilantro in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 19,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the olive oil in a large saucepan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and bell pepper until soft and lightly browned.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the garlic, cumin and paprika and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the tomatoes, canned, vegetable broth, sweet potato and butternut squash.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the stew until the sweet potato and butternut squash are completely tender.",
+          "durationMinutes": 26,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Stir in the black beans and simmer until the stew becomes rich and spoonable.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Fold the cilantro through the black bean stew.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Squeeze the lime over the stew.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the Brazilian black bean stew before serving it with the white rice.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Keep the stew and rice separately refrigerated for up to 4 days. Reheat gently with vegetable broth if needed. Freeze the stew for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Brazilian black bean stew with rice, hearty",
+      "summary": "A generous pot of Brazilian-style black bean stew with extra beans, sweet potato, squash and rice. The substantial vegan lunch is finished with fresh cilantro and lime.",
+      "cuisine": "brazilian",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 21,
+      "cookMinutes": 70,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "black beans, canned",
+          "grams": 900,
+          "displayQuantity": "5 1/4 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 300,
+          "displayQuantity": "1 2/3 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "sweet potato",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "butternut squash",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 650,
+          "displayQuantity": "2 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1200,
+          "displayQuantity": "5 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 28,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 8,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 8,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lime",
+          "grams": 90,
+          "displayQuantity": "2 large",
+          "preparation": "cut into wedges",
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 40,
+          "displayQuantity": "1 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the sweet potato, butternut squash, bell pepper, onion, garlic, lime and cilantro in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Cook the white rice until tender, then keep the larger batch covered so it finishes steaming evenly.",
+          "durationMinutes": 21,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Heat the olive oil in a large saucepan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook the onion and bell pepper until completely soft and golden at the edges.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the garlic, cumin and paprika and stir until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the tomatoes, canned, vegetable broth, sweet potato and butternut squash.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Simmer the stew until the larger amount of sweet potato and butternut squash is tender.",
+          "durationMinutes": 28,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Stir in the black beans and simmer until the stew is thick and deeply savoury.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Fold the cilantro through the black bean stew.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Squeeze the lime over the stew.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Rest the Brazilian black bean stew before serving it generously with the white rice.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate the stew and rice separately for up to 4 days. Reheat with extra vegetable broth as needed. Freeze the stew without the rice for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Ethiopian lentil and spinach stew, light",
+      "summary": "Red lentils and spinach simmered with slowly cooked onion, tomatoes, ginger, cumin and paprika. Less rice and oil keep this vegetarian Ethiopian dinner lighter.",
+      "cuisine": "ethiopian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 18,
+      "cookMinutes": 63,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "red lentils",
+          "grams": 260,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 160,
+          "displayQuantity": "scant 1 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 300,
+          "displayQuantity": "3 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 400,
+          "displayQuantity": "1 can",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 45,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 900,
+          "displayQuantity": "3 3/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 18,
+          "displayQuantity": "2 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 8,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Rinse the red lentils under cold water until the water runs clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the onion, garlic, ginger and spinach in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the olive oil in a large saucepan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion slowly until very soft and deeply golden.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the garlic, ginger, cumin, paprika and tomato paste and stir until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the tomatoes, canned, vegetable broth, red lentils and salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Simmer the stew until the red lentils are tender and the sauce is thick.",
+          "durationMinutes": 24,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Fold the spinach into the lentil stew until wilted.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the Ethiopian lentil and spinach stew so the flavours settle.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Serve the stew with the white rice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the stew and rice separately for up to 4 days. Reheat with extra vegetable broth if needed. Freeze the stew for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Ethiopian lentil and spinach stew",
+      "summary": "A rich Ethiopian-style red lentil stew with slow-cooked onions, tomatoes, ginger, paprika and cumin, finished with spinach and served with rice.",
+      "cuisine": "ethiopian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 19,
+      "cookMinutes": 67,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "red lentils",
+          "grams": 340,
+          "displayQuantity": "2 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 220,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 320,
+          "displayQuantity": "3 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 60,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1000,
+          "displayQuantity": "4 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 22,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 8,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 10,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Rinse the red lentils under cold water until the water runs clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the onion, garlic, ginger and spinach in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 19,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the olive oil in a large saucepan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion slowly until very soft, sweet and deeply golden.",
+          "durationMinutes": 11,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the garlic, ginger, cumin, paprika and tomato paste and stir until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the tomatoes, canned, vegetable broth, red lentils and salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Simmer the stew until the red lentils collapse into a thick sauce.",
+          "durationMinutes": 26,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Fold the spinach into the lentil stew until tender.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the Ethiopian lentil and spinach stew so the spices settle.",
+          "durationMinutes": 4,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Serve the stew with the white rice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep the stew and rice separately refrigerated for up to 4 days. Reheat gently with vegetable broth if needed. Freeze the stew for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Ethiopian lentil and spinach stew, hearty",
+      "summary": "A generous Ethiopian-style dinner with extra red lentils and rice in a deeply spiced tomato and onion stew. Plenty of spinach keeps the substantial meal colourful.",
+      "cuisine": "ethiopian",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 21,
+      "cookMinutes": 72,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "red lentils",
+          "grams": 450,
+          "displayQuantity": "2 1/2 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 300,
+          "displayQuantity": "1 2/3 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 380,
+          "displayQuantity": "3 to 4 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 650,
+          "displayQuantity": "2 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 75,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 1200,
+          "displayQuantity": "5 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 28,
+          "displayQuantity": "3 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 10,
+          "displayQuantity": "1 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 13,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 28,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Rinse the red lentils under cold water until the water runs clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the onion, garlic, ginger and spinach in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the white rice until tender, then keep the larger batch covered so it finishes steaming evenly.",
+          "durationMinutes": 21,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the olive oil in a large saucepan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the onion slowly until deeply golden and almost jammy.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the garlic, ginger, cumin, paprika and tomato paste and stir until fragrant.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the tomatoes, canned, vegetable broth, red lentils and salt.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Simmer the stew until the larger amount of red lentils is very soft and thick.",
+          "durationMinutes": 28,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Fold the spinach into the lentil stew until evenly wilted.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the Ethiopian lentil and spinach stew so the flavours deepen.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 12,
+          "instruction": "Serve the stew generously with the white rice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the stew and rice separately for up to 4 days. Reheat with extra vegetable broth as needed. Freeze the stew for up to 3 months.",
+      "fridgeDays": 4,
+      "freezerMonths": 3
+    },
+    {
+      "title": "Peruvian quinoa milk porridge, light",
+      "summary": "Creamy quinoa simmered with milk, cinnamon and ripe banana in a simple Peruvian-style breakfast porridge. Less quinoa and sugar keep this version light.",
+      "cuisine": "peruvian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 7,
+      "cookMinutes": 33,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "quinoa",
+          "grams": 90,
+          "displayQuantity": "1/2 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 250,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 350,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "banana",
+          "grams": 220,
+          "displayQuantity": "2 medium",
+          "preparation": "peeled and sliced",
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 3,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 10,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the quinoa under cold water until the water runs clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Slice the banana into small rounds.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the quinoa with the water until the grains are tender and their spirals are visible.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Pour the whole milk into the cooked quinoa.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Simmer the porridge until creamy and spoonable.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the cinnamon and brown sugar through the porridge.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Fold the banana into the warm quinoa porridge.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the Peruvian quinoa milk porridge before serving.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat gently with extra whole milk or water. The banana softens during storage. Freezing is not recommended.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Peruvian quinoa milk porridge",
+      "summary": "A warm Peruvian-style breakfast of tender quinoa simmered with whole milk, cinnamon, brown sugar and banana until creamy and fragrant.",
+      "cuisine": "peruvian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 7,
+      "cookMinutes": 36,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "quinoa",
+          "grams": 120,
+          "displayQuantity": "2/3 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 350,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 400,
+          "displayQuantity": "1 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "banana",
+          "grams": 250,
+          "displayQuantity": "2 large",
+          "preparation": "peeled and sliced",
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 18,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the quinoa under cold water until the water runs clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Slice the banana into small rounds.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the quinoa with the water until the grains are tender and fully opened.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Pour the whole milk into the cooked quinoa.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Simmer the porridge until creamy and rich.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the cinnamon and brown sugar through the porridge.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Fold the banana into the warm quinoa porridge.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the Peruvian quinoa milk porridge until thickened slightly.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Keep refrigerated for up to 3 days and loosen with whole milk or water during reheating. Heat gently and stir often. Do not freeze.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Peruvian quinoa milk porridge, hearty",
+      "summary": "A generous bowl of creamy quinoa, whole milk and banana with warm cinnamon and brown sugar. Extra quinoa and milk make this Peruvian-style breakfast substantial.",
+      "cuisine": "peruvian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 8,
+      "cookMinutes": 40,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "quinoa",
+          "grams": 170,
+          "displayQuantity": "scant 1 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 450,
+          "displayQuantity": "1 3/4 cups plus 2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 450,
+          "displayQuantity": "1 3/4 cups plus 2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "banana",
+          "grams": 320,
+          "displayQuantity": "3 medium",
+          "preparation": "peeled and sliced",
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 28,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the quinoa under cold water until the water runs clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Slice the banana into small rounds.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the quinoa with the water until the larger amount of grains is tender.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Pour the whole milk into the cooked quinoa.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Simmer the porridge until thick, creamy and rich.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Stir the cinnamon and brown sugar through the porridge.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Fold the banana into the warm quinoa porridge.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Rest the Peruvian quinoa milk porridge until it reaches a spoonable consistency.",
+          "durationMinutes": 4,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat slowly with extra whole milk or water. Stir frequently to prevent sticking. Freezing is not recommended.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    }
+  ]
+}

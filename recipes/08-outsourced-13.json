@@ -1,0 +1,2508 @@
+{
+  "recipes": [
+    {
+      "title": "Scandinavian salmon potato cakes, light",
+      "summary": "Tender salmon and potato cakes with dill, spring onions and a cool cucumber yogurt sauce. Extra cucumber and less potato and oil keep this high-protein snack light.",
+      "cuisine": "scandinavian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 26,
+      "cookMinutes": 40,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "salmon",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 320,
+          "displayQuantity": "320 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 40,
+          "displayQuantity": "40 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 25,
+          "displayQuantity": "25 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, cucumber and spring onions in their listed forms.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the potato until completely tender when pierced with a knife.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Bake the salmon until opaque and easy to flake.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Mash the potato until mostly smooth while retaining a little texture.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Mix the potato, salmon, eggs, dill weed, spring onions and salt until evenly combined.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Shape the salmon mixture into small, compact cakes.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Heat the olive oil in a wide non-stick frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Cook the salmon cakes until golden and crisp on both sides.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Stir the greek yogurt, cucumber and lemon juice into a cool sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the salmon potato cakes briefly before serving them with the yogurt sauce.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate the cooked cakes and yogurt sauce separately for up to 3 days. Reheat the cakes in a dry pan or oven. Freeze the cakes for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Scandinavian salmon potato cakes",
+      "summary": "Golden Scandinavian-style salmon and potato cakes flavoured with dill and spring onions, served with a crisp cucumber and lemon yogurt sauce.",
+      "cuisine": "scandinavian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 27,
+      "cookMinutes": 45,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "salmon",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 50,
+          "displayQuantity": "50 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 20,
+          "displayQuantity": "20 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, cucumber and spring onions in their listed forms.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the potato until completely tender when pierced with a knife.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Bake the salmon until opaque and easy to flake into large pieces.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Mash the potato until smooth with a few small pieces remaining.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Mix the potato, salmon, eggs, dill weed, spring onions and salt until evenly combined.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Shape the salmon mixture into evenly sized cakes.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Heat the olive oil in a wide non-stick frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Cook the salmon cakes until deeply golden on both sides.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Stir the greek yogurt, cucumber and lemon juice into a smooth sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the salmon potato cakes briefly before serving them with the yogurt sauce.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Keep the cakes and cucumber yogurt sauce separately refrigerated for up to 3 days. Reheat the cakes until hot and crisp. Freeze the cakes for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Scandinavian salmon potato cakes, hearty",
+      "summary": "A generous batch of thick salmon and potato cakes with dill and spring onions. Extra salmon and potato make this a substantial high-protein Scandinavian snack.",
+      "cuisine": "scandinavian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 31,
+      "cookMinutes": 51,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "pescatarian",
+        "gluten_free"
+      ],
+      "ingredients": [
+        {
+          "name": "salmon",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "peeled and cut into chunks",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 260,
+          "displayQuantity": "260 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 320,
+          "displayQuantity": "320 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 65,
+          "displayQuantity": "65 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 40,
+          "displayQuantity": "40 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 28,
+          "displayQuantity": "28 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the potato, cucumber and spring onions in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the potato until completely tender when pierced with a knife.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Bake the salmon until opaque and easy to flake throughout.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Mash the potato until smooth while retaining a little texture.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Mix the potato, salmon, eggs, dill weed, spring onions and salt until thoroughly combined.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Shape the salmon mixture into generous, compact cakes.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Heat the olive oil in a large non-stick frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Cook the salmon cakes in batches until deeply golden on both sides.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Stir the greek yogurt, cucumber and lemon juice into a creamy sauce.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Rest the salmon potato cakes briefly before serving them with the yogurt sauce.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate the cakes and sauce separately for up to 3 days. Reheat the cakes in a hot oven or pan. Freeze cooked cakes for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Thai coconut rice porridge with banana, light",
+      "summary": "Soft rice simmered with coconut milk, banana, ginger and cinnamon, then finished with toasted sesame seeds. Less rice and coconut milk keep this vegan Thai breakfast light.",
+      "cuisine": "thai",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 9,
+      "cookMinutes": 30,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 80,
+          "displayQuantity": "80 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "coconut milk",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "banana",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "peeled and sliced",
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 10,
+          "displayQuantity": "10 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 2,
+          "displayQuantity": "2 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame seeds",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 2,
+          "displayQuantity": "2 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Slice the banana and grate the ginger.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the white rice with the coconut milk and water until the grains become very soft.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the banana, brown sugar, ginger, cinnamon and salt into the porridge.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Simmer the porridge until the banana softens and the liquid becomes creamy.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Toast the sesame seeds in a dry pan until fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Rest the coconut rice porridge until thickened slightly.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Serve the porridge with the sesame seeds scattered over the top.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat with extra water because the rice thickens while stored. Freezing is not recommended because the banana becomes watery.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Thai coconut rice porridge with banana",
+      "summary": "A creamy vegan Thai-style breakfast porridge with soft rice, coconut milk, ripe banana, ginger, cinnamon and toasted sesame seeds.",
+      "cuisine": "thai",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 9,
+      "cookMinutes": 33,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 110,
+          "displayQuantity": "110 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "coconut milk",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "banana",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": "peeled and sliced",
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 10,
+          "displayQuantity": "10 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 3,
+          "displayQuantity": "3 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame seeds",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 2,
+          "displayQuantity": "2 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Slice the banana and grate the ginger.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the white rice with the coconut milk and water until the grains are very tender.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the banana, brown sugar, ginger, cinnamon and salt into the porridge.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Simmer the porridge until creamy and the banana is soft.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Toast the sesame seeds in a dry pan until lightly golden and fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Rest the coconut rice porridge until it reaches a spoonable consistency.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Serve the porridge with the sesame seeds scattered over the top.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and loosen with water during reheating. Heat gently until steaming. Do not freeze.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Thai coconut rice porridge with banana, hearty",
+      "summary": "A generous bowl of creamy coconut rice porridge with extra banana, rice and toasted sesame seeds. Ginger and cinnamon keep the hearty vegan breakfast aromatic.",
+      "cuisine": "thai",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 11,
+      "cookMinutes": 37,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 160,
+          "displayQuantity": "160 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "coconut milk",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "banana",
+          "grams": 320,
+          "displayQuantity": "320 g",
+          "preparation": "peeled and sliced",
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 28,
+          "displayQuantity": "28 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 14,
+          "displayQuantity": "14 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "cinnamon",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "sesame seeds",
+          "grams": 25,
+          "displayQuantity": "25 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 3,
+          "displayQuantity": "3 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Slice the banana and grate the ginger.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Simmer the white rice with the coconut milk and water until the larger amount of rice becomes very soft.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the banana, brown sugar, ginger, cinnamon and salt into the porridge.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Simmer the porridge until thick, creamy and fragrant.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Toast the sesame seeds in a dry pan until golden.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Rest the coconut rice porridge until the texture becomes rich and spoonable.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 8,
+          "instruction": "Serve the porridge generously with the sesame seeds.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep refrigerated for up to 3 days and reheat with additional water. Stir frequently during reheating. Freezing is not recommended.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Turkish zucchini fritters with yogurt, light",
+      "summary": "Tender Turkish zucchini fritters with dill, spring onions and garlic, served with lemon yogurt. Extra zucchini and less flour and oil keep this Mediterranean lunch light.",
+      "cuisine": "turkish",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 22,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "zucchini",
+          "grams": 800,
+          "displayQuantity": "800 g",
+          "preparation": "coarsely grated",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "wheat flour",
+          "grams": 80,
+          "displayQuantity": "80 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 250,
+          "displayQuantity": "250 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 70,
+          "displayQuantity": "70 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 24,
+          "displayQuantity": "24 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "6 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Grate the zucchini and prepare the dill weed, spring onions and garlic.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Mix the zucchini with the salt.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Rest the salted zucchini until it releases visible moisture.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Squeeze the zucchini firmly until as much liquid as possible is removed.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Mix the zucchini, eggs, wheat flour, dill weed, spring onions and garlic into a thick batter.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Shape the zucchini mixture into small, flat fritters.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Heat the olive oil in a wide non-stick frying pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the zucchini fritters in batches until golden and set in the centre.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Stir the greek yogurt with the lemon juice.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the Turkish zucchini fritters briefly before serving them with the yogurt.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate the fritters and yogurt sauce separately for up to 3 days. Reheat the fritters in a dry pan or oven. Freeze the fritters for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Turkish zucchini fritters with yogurt",
+      "summary": "Golden Turkish zucchini fritters flavoured with dill, spring onions and garlic, served with cool lemon yogurt. They make a fresh Mediterranean lunch for sharing.",
+      "cuisine": "turkish",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 25,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "zucchini",
+          "grams": 750,
+          "displayQuantity": "750 g",
+          "preparation": "coarsely grated",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "wheat flour",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 80,
+          "displayQuantity": "80 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 36,
+          "displayQuantity": "36 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 35,
+          "displayQuantity": "35 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Grate the zucchini and prepare the dill weed, spring onions and garlic.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Mix the zucchini with the salt.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Rest the salted zucchini until it releases plenty of moisture.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Squeeze the zucchini firmly until it feels relatively dry.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Mix the zucchini, eggs, wheat flour, dill weed, spring onions and garlic into a thick batter.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Shape the zucchini mixture into evenly sized fritters.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Heat the olive oil in a wide frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the zucchini fritters in batches until deeply golden and cooked through.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Stir the greek yogurt with the lemon juice until smooth.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the Turkish zucchini fritters briefly before serving them with the yogurt.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Keep refrigerated for up to 3 days and store the yogurt separately. Reheat the fritters until crisp. Freeze cooked fritters for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Turkish zucchini fritters with yogurt, hearty",
+      "summary": "A generous platter of thick Turkish zucchini fritters with extra eggs, flour and olive oil. Dill, spring onions and lemon yogurt keep the substantial lunch fresh.",
+      "cuisine": "turkish",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 28,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "mediterranean",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "zucchini",
+          "grams": 950,
+          "displayQuantity": "950 g",
+          "preparation": "coarsely grated",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 250,
+          "displayQuantity": "5 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "wheat flour",
+          "grams": 170,
+          "displayQuantity": "170 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 380,
+          "displayQuantity": "380 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "dill weed",
+          "grams": 10,
+          "displayQuantity": "10 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 100,
+          "displayQuantity": "100 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 50,
+          "displayQuantity": "50 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 45,
+          "displayQuantity": "45 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "9 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Grate the zucchini and prepare the dill weed, spring onions and garlic.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Mix the zucchini with the salt.",
+          "durationMinutes": 1,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Rest the salted zucchini until it releases a large amount of moisture.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Squeeze the zucchini firmly until the shreds feel relatively dry.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Mix the zucchini, eggs, wheat flour, dill weed, spring onions and garlic into a thick batter.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Shape the zucchini mixture into generous, flat fritters.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Heat the olive oil in a large frying pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Cook the zucchini fritters in batches until deeply golden and firm in the centre.",
+          "durationMinutes": 14,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Stir the greek yogurt with the lemon juice until creamy.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Rest the Turkish zucchini fritters briefly before serving them with the yogurt.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate the fritters and yogurt sauce separately for up to 3 days. Reheat in an oven or frying pan. Freeze the fritters for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Vietnamese braised eggplant and tofu, light",
+      "summary": "Tender eggplant and golden tofu braised with soy sauce, ginger, garlic and rice wine, served over a modest portion of rice. Extra eggplant keeps the vegetarian dinner light.",
+      "cuisine": "vietnamese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 18,
+      "cookMinutes": 46,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "tofu",
+          "grams": 320,
+          "displayQuantity": "320 g",
+          "preparation": "pressed and cut into cubes",
+          "optional": false
+        },
+        {
+          "name": "eggplant",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "cut into large cubes",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 100,
+          "displayQuantity": "100 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 24,
+          "displayQuantity": "24 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 8,
+          "displayQuantity": "8 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the tofu, eggplant, garlic, ginger and spring onions in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the vegetable broth, soy sauce, rice wine and brown sugar together.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the sesame oil in a wide non-stick pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Brown the tofu until golden on several sides.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the eggplant until softened and lightly coloured.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the garlic and ginger and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Pour in the broth mixture and braise until the eggplant is tender and the sauce coats the tofu.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Finish the braised eggplant and tofu with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Serve the Vietnamese braise with the white rice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate the braise and rice separately for up to 3 days. Reheat gently until steaming. Freeze the braise for up to 1 month, though the tofu will become firmer.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Vietnamese braised eggplant and tofu",
+      "summary": "Golden tofu and silky eggplant braised in a savoury Vietnamese-style sauce with soy, rice wine, ginger and garlic, served with steamed rice.",
+      "cuisine": "vietnamese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 19,
+      "cookMinutes": 51,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "tofu",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": "pressed and cut into cubes",
+          "optional": false
+        },
+        {
+          "name": "eggplant",
+          "grams": 550,
+          "displayQuantity": "550 g",
+          "preparation": "cut into large cubes",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 150,
+          "displayQuantity": "150 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 36,
+          "displayQuantity": "36 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 30,
+          "displayQuantity": "30 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 10,
+          "displayQuantity": "10 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "15 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 35,
+          "displayQuantity": "35 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 12,
+          "displayQuantity": "12 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender, then keep it covered so the grains finish steaming.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the tofu, eggplant, garlic, ginger and spring onions in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the vegetable broth, soy sauce, rice wine and brown sugar together.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the sesame oil in a wide non-stick pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Brown the tofu until crisp and golden on several sides.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the eggplant until softened and browned at the edges.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the garlic and ginger and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Pour in the broth mixture and braise until the eggplant is silky and the sauce is glossy.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Finish the braised eggplant and tofu with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Serve the Vietnamese braise with the white rice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and store the rice separately. Reheat over low heat until hot. Freeze the braised tofu and eggplant for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Vietnamese braised eggplant and tofu, hearty",
+      "summary": "A generous Vietnamese-style braise with extra golden tofu, silky eggplant and steamed rice. The soy, ginger and rice-wine sauce makes a substantial vegetarian dinner.",
+      "cuisine": "vietnamese",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 2,
+      "prepMinutes": 20,
+      "cookMinutes": 57,
+      "difficulty": "easy",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "tofu",
+          "grams": 520,
+          "displayQuantity": "520 g",
+          "preparation": "pressed and cut into cubes",
+          "optional": false
+        },
+        {
+          "name": "eggplant",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "cut into large cubes",
+          "optional": false
+        },
+        {
+          "name": "white rice",
+          "grams": 210,
+          "displayQuantity": "210 g",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 420,
+          "displayQuantity": "420 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "grams": 45,
+          "displayQuantity": "45 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "rice wine",
+          "grams": 38,
+          "displayQuantity": "38 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "brown sugar",
+          "grams": 14,
+          "displayQuantity": "14 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 22,
+          "displayQuantity": "22 g",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 45,
+          "displayQuantity": "45 g",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "sesame oil",
+          "grams": 18,
+          "displayQuantity": "18 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender, then keep the larger portion covered so it finishes steaming evenly.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the tofu, eggplant, garlic, ginger and spring onions in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Stir the vegetable broth, soy sauce, rice wine and brown sugar together.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Heat the sesame oil in a large non-stick pan.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Brown the tofu in batches until deeply golden.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Cook the eggplant until browned and beginning to collapse.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the garlic and ginger and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Pour in the broth mixture and braise until the eggplant is very tender and the sauce coats the tofu.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Finish the braised eggplant and tofu generously with the spring onions.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Serve the Vietnamese braise with the white rice.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep refrigerated for up to 3 days and reheat gently with a splash of vegetable broth if needed. Freeze the braise for up to 1 month.",
+      "fridgeDays": 3,
+      "freezerMonths": 1
+    },
+    {
+      "title": "Nigerian meat pies, light",
+      "summary": "Baked Nigerian-style hand pies with a tender pastry and a savoury beef, potato, carrot and onion filling. More vegetables and less butter keep this version lighter.",
+      "cuisine": "west_african",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 40,
+      "cookMinutes": 66,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced"
+      ],
+      "ingredients": [
+        {
+          "name": "wheat flour",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ground beef",
+          "grams": 350,
+          "displayQuantity": "350 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 150,
+          "displayQuantity": "150 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 90,
+          "displayQuantity": "90 g",
+          "preparation": "cold and cubed",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 90,
+          "displayQuantity": "90 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 160,
+          "displayQuantity": "160 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 35,
+          "displayQuantity": "35 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 3,
+          "displayQuantity": "3 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 190°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Rub the wheat flour, butter and half the salt together until the mixture resembles coarse crumbs.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Mix the whole milk, half the water and most of the eggs into the wheat flour mixture to form a soft dough.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Rest the dough in the refrigerator until firm enough to roll.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Prepare the ground beef, potato, carrot and onion in their listed forms.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the ground beef until browned and no pink remains.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the potato, carrot, onion, tomato paste, paprika, thyme and remaining salt and cook until the onion softens.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the remaining water and simmer until the potato and carrot are tender and the filling is thick.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Cool the meat pie filling until it is no longer steaming.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Roll the dough into a thin, even sheet.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Fill and seal the dough into individual meat pies.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Brush the meat pies with the remaining eggs.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bake the Nigerian meat pies until the pastry is golden and crisp.",
+          "durationMinutes": 22,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Rest the meat pies before serving so the filling cools slightly.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat in a hot oven until the pastry is crisp. Freeze baked meat pies for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Nigerian meat pies",
+      "summary": "Golden Nigerian-style meat pies filled with seasoned ground beef, potatoes, carrots and onion. The buttery pastry is crisp outside and tender within.",
+      "cuisine": "west_african",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 45,
+      "cookMinutes": 76,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced"
+      ],
+      "ingredients": [
+        {
+          "name": "wheat flour",
+          "grams": 500,
+          "displayQuantity": "500 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ground beef",
+          "grams": 450,
+          "displayQuantity": "450 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 300,
+          "displayQuantity": "300 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 170,
+          "displayQuantity": "170 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 160,
+          "displayQuantity": "160 g",
+          "preparation": "cold and cubed",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 100,
+          "displayQuantity": "2 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 120,
+          "displayQuantity": "120 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 190,
+          "displayQuantity": "190 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 45,
+          "displayQuantity": "45 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 4,
+          "displayQuantity": "4 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "9 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 190°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Rub the wheat flour, butter and half the salt together until coarse crumbs form.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Mix the whole milk, half the water and most of the eggs into the wheat flour mixture to form a soft dough.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Rest the dough in the refrigerator until firm and easy to handle.",
+          "durationMinutes": 15,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Prepare the ground beef, potato, carrot and onion in their listed forms.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the ground beef until browned and crumbly.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the potato, carrot, onion, tomato paste, paprika, thyme and remaining salt and cook until fragrant.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the remaining water and simmer until the vegetables are tender and the filling is thick.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Cool the meat pie filling until it reaches room temperature.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Roll the dough into a thin, even sheet.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Fill and seal the dough into individual meat pies.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Brush the meat pies with the remaining eggs.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bake the Nigerian meat pies until deeply golden and crisp.",
+          "durationMinutes": 24,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Rest the meat pies before serving.",
+          "durationMinutes": 5,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat in the oven for the best pastry texture. Freeze cooled meat pies for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Nigerian meat pies, hearty",
+      "summary": "A generous batch of large Nigerian meat pies with extra beef and rich buttery pastry. The substantial hand pies have a deeply savoury potato and carrot filling.",
+      "cuisine": "west_african",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 52,
+      "cookMinutes": 89,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein"
+      ],
+      "ingredients": [
+        {
+          "name": "wheat flour",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ground beef",
+          "grams": 650,
+          "displayQuantity": "650 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "potato",
+          "grams": 400,
+          "displayQuantity": "400 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "220 g",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 200,
+          "displayQuantity": "200 g",
+          "preparation": "cold and cubed",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3 large",
+          "preparation": "lightly beaten",
+          "optional": false
+        },
+        {
+          "name": "whole milk",
+          "grams": 150,
+          "displayQuantity": "150 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 230,
+          "displayQuantity": "230 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 60,
+          "displayQuantity": "60 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 7,
+          "displayQuantity": "7 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "thyme",
+          "grams": 5,
+          "displayQuantity": "5 g",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 11,
+          "displayQuantity": "11 g",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 190°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Rub the wheat flour, butter and half the salt together until the mixture resembles coarse crumbs.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Mix the whole milk, half the water and most of the eggs into the wheat flour mixture to form a rich dough.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Rest the dough in the refrigerator until completely firm.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 5,
+          "instruction": "Prepare the ground beef, potato, carrot and onion in their listed forms.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Cook the ground beef until deeply browned and crumbly.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Add the potato, carrot, onion, tomato paste, paprika, thyme and remaining salt and cook until fragrant.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Add the remaining water and simmer until the larger filling is tender and thick.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Cool the meat pie filling completely before assembling the pies.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Roll the dough into a large, even sheet.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Fill and seal the dough into generous individual meat pies.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 12,
+          "instruction": "Brush the meat pies with the remaining eggs.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 13,
+          "instruction": "Bake the Nigerian meat pies until deeply golden and crisp throughout.",
+          "durationMinutes": 28,
+          "isPassive": true
+        },
+        {
+          "order": 14,
+          "instruction": "Rest the meat pies before serving so the filling settles.",
+          "durationMinutes": 6,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Keep refrigerated for up to 3 days and reheat in a hot oven. Freeze the baked meat pies for up to 2 months and thaw before reheating.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    }
+  ]
+}

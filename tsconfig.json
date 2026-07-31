@@ -1,0 +1,5 @@
+{
+  "//": "Root config exists so editors resolve the shared options. Each workspace typechecks independently via `npm run typecheck`, because the Expo app needs React Native's JSX and lib settings that the Node packages must not inherit.",
+  "extends": "./tsconfig.base.json",
+  "files": []
+}

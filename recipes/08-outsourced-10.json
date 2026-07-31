@@ -1,0 +1,2476 @@
+{
+  "recipes": [
+    {
+      "title": "Huevos a la flamenca, light",
+      "summary": "Spanish baked eggs with cured pork, peppers and spinach in a rich tomato sauce. Extra vegetables and less pork and oil keep this keto breakfast generous but lighter.",
+      "cuisine": "spanish",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 15,
+      "cookMinutes": 25,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "high_protein",
+        "keto",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 400,
+          "displayQuantity": "8 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cured pork",
+          "grams": 100,
+          "displayQuantity": "100 g",
+          "preparation": "cut into thin strips",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 600,
+          "displayQuantity": "2 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 320,
+          "displayQuantity": "2 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 250,
+          "displayQuantity": "8 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C so the eggs begin cooking as soon as the dish goes in.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the onion, bell pepper, garlic and spinach in their listed sizes.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the olive oil in a wide ovenproof pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, bell pepper and cured pork until the vegetables soften and the pork edges colour.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the garlic and paprika and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, canned, and salt and simmer until the sauce is thick enough to hold shallow wells.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Fold the spinach into the tomato sauce until wilted.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Crack the eggs into the wells and bake until the whites are set and the yolks remain tender.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the huevos a la flamenca briefly before serving.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best served immediately while the yolks are tender. Refrigerate the tomato and pork base for up to 3 days, then reheat it and cook fresh eggs in the sauce.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Huevos a la flamenca",
+      "summary": "Spanish eggs baked in a savoury tomato sauce with cured pork, peppers, onion and paprika. The softly set yolks make this a satisfying keto breakfast for sharing.",
+      "cuisine": "spanish",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 15,
+      "cookMinutes": 28,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "high_protein",
+        "keto",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 400,
+          "displayQuantity": "8 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cured pork",
+          "grams": 180,
+          "displayQuantity": "180 g",
+          "preparation": "cut into thin strips",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 500,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 250,
+          "displayQuantity": "2 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 150,
+          "displayQuantity": "5 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C so the eggs begin cooking as soon as the dish goes in.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the onion, bell pepper, garlic and spinach in their listed sizes.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the olive oil in a wide ovenproof pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, bell pepper and cured pork until the vegetables soften and the pork is lightly browned.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the garlic and paprika and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, canned, and salt and simmer until the sauce is rich and spoonable.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Fold the spinach into the tomato sauce until wilted.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Crack the eggs into shallow wells and bake until the whites are set and the yolks remain tender.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the huevos a la flamenca briefly before serving.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Serve straight from the oven for the best egg texture. Refrigerate the cooked sauce base for up to 3 days and add freshly cracked eggs when reheating.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Huevos a la flamenca, hearty",
+      "summary": "A generous Spanish breakfast of baked eggs, cured pork, peppers and spinach in a deeply savoury tomato sauce. Extra eggs and pork make it substantial while remaining keto.",
+      "cuisine": "spanish",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 4,
+      "prepMinutes": 17,
+      "cookMinutes": 31,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "high_protein",
+        "keto",
+        "gluten_free",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "grams": 600,
+          "displayQuantity": "12 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cured pork",
+          "grams": 280,
+          "displayQuantity": "280 g",
+          "preparation": "cut into thin strips",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 600,
+          "displayQuantity": "2 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 220,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 180,
+          "displayQuantity": "6 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 28,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C so the larger egg dish begins cooking immediately.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the onion, bell pepper, garlic and spinach in their listed sizes.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat the olive oil in a large ovenproof pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Cook the onion, bell pepper and cured pork until the vegetables soften and the pork is deeply golden at the edges.",
+          "durationMinutes": 9,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the garlic and paprika and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Add the tomatoes, canned, and salt and simmer until the sauce is thick and rich.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 7,
+          "instruction": "Fold the spinach into the tomato sauce until evenly wilted.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Crack the eggs into shallow wells and bake until the whites are set and the yolks reach your preferred consistency.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 9,
+          "instruction": "Rest the huevos a la flamenca briefly before serving.",
+          "durationMinutes": 3,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best eaten freshly baked. Refrigerate the tomato and pork mixture for up to 3 days, then reheat and add fresh eggs before serving.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Chicken fatteh, light",
+      "summary": "Crisp pita, warm chickpeas and roasted chicken layered with lemony tahini yogurt. Extra cucumber and less bread and sauce keep this Middle Eastern lunch fresh and Mediterranean.",
+      "cuisine": "middle_eastern",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 23,
+      "cookMinutes": 37,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken breast, skinless",
+          "grams": 600,
+          "displayQuantity": "600 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "pita bread",
+          "grams": 160,
+          "displayQuantity": "3 small pitas",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chickpeas, canned",
+          "grams": 280,
+          "displayQuantity": "1 2/3 cups",
+          "preparation": "drained",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 260,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tahini",
+          "grams": 40,
+          "displayQuantity": "2 tbsp plus 2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 350,
+          "displayQuantity": "1 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 40,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "pine nuts",
+          "grams": 18,
+          "displayQuantity": "2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Cut the pita bread into bite-size pieces and spread it across a baking tray.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Bake the pita bread until crisp and lightly golden.",
+          "durationMinutes": 7,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Coat the chicken breast with the olive oil, cumin, paprika and half the salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Roast the chicken breast until the breast is cooked through and lightly browned.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Warm the chickpeas, canned, in a small pan until hot, then drain them.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Whisk the greek yogurt, tahini, lemon juice, garlic and remaining salt until smooth.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Toast the pine nuts in a dry pan until lightly golden.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Slice the cucumber and rest the chicken breast before cutting it into pieces.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Layer the pita bread, chickpeas, chicken breast and yogurt sauce in a serving dish.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Finish the chicken fatteh with the cucumber and pine nuts.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best assembled just before serving so the pita remains crisp. Refrigerate the chicken, chickpeas and yogurt sauce separately for up to 3 days. Do not freeze the assembled dish.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Chicken fatteh",
+      "summary": "A layered Middle Eastern lunch of crisp pita, chickpeas, roasted chicken and creamy lemon-tahini yogurt. Toasted pine nuts add the traditional warm, nutty finish.",
+      "cuisine": "middle_eastern",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 23,
+      "cookMinutes": 40,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 700,
+          "displayQuantity": "700 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "pita bread",
+          "grams": 240,
+          "displayQuantity": "4 large pitas",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chickpeas, canned",
+          "grams": 350,
+          "displayQuantity": "2 cups",
+          "preparation": "drained",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 320,
+          "displayQuantity": "1 1/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tahini",
+          "grams": 65,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 300,
+          "displayQuantity": "1 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 50,
+          "displayQuantity": "3 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "pine nuts",
+          "grams": 28,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 22,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Cut the pita bread into bite-size pieces and spread it across a baking tray.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Bake the pita bread until crisp and golden.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Coat the chicken thigh with the olive oil, cumin, paprika and half the salt.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Roast the chicken thigh until the thigh is tender, browned and cooked through.",
+          "durationMinutes": 21,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Warm the chickpeas, canned, in a small pan until hot, then drain them.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Whisk the greek yogurt, tahini, lemon juice, garlic and remaining salt until smooth.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Toast the pine nuts in a dry pan until golden and fragrant.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Slice the cucumber and rest the chicken thigh before cutting it into pieces.",
+          "durationMinutes": 5,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Layer the pita bread, chickpeas, chicken thigh and yogurt sauce in a serving dish.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Finish the chicken fatteh with the cucumber and pine nuts.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep the pita separate from the chicken, chickpeas and yogurt sauce for up to 3 days. Reheat the chicken and chickpeas, then assemble. The finished fatteh is not suitable for freezing.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Chicken fatteh, hearty",
+      "summary": "A generous platter of crisp pita, tender chicken, chickpeas and creamy tahini yogurt. Extra chicken, bread and pine nuts make this a substantial Mediterranean-style lunch.",
+      "cuisine": "middle_eastern",
+      "mealSlots": [
+        "lunch"
+      ],
+      "servings": 4,
+      "prepMinutes": 26,
+      "cookMinutes": 48,
+      "difficulty": "medium",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "high_protein",
+        "mediterranean"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken thigh, skinless",
+          "grams": 900,
+          "displayQuantity": "900 g",
+          "preparation": "cut into large pieces",
+          "optional": false
+        },
+        {
+          "name": "pita bread",
+          "grams": 340,
+          "displayQuantity": "6 pitas",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "chickpeas, canned",
+          "grams": 450,
+          "displayQuantity": "2 2/3 cups",
+          "preparation": "drained",
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 420,
+          "displayQuantity": "1 3/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tahini",
+          "grams": 90,
+          "displayQuantity": "1/3 cup plus 1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cucumber",
+          "grams": 350,
+          "displayQuantity": "1 large",
+          "preparation": "thinly sliced",
+          "optional": false
+        },
+        {
+          "name": "lemon juice",
+          "grams": 65,
+          "displayQuantity": "1/4 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "pine nuts",
+          "grams": 42,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 30,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 7,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 7,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 8,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 210°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Cut the pita bread into bite-size pieces and spread it across two baking trays.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Bake the pita bread until crisp and deeply golden.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Coat the chicken thigh with the olive oil, cumin, paprika and half the salt.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Roast the chicken thigh until the thigh is tender, browned and cooked through.",
+          "durationMinutes": 24,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Warm the chickpeas, canned, in a saucepan until hot, then drain them.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Whisk the greek yogurt, tahini, lemon juice, garlic and remaining salt until smooth and creamy.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Toast the pine nuts in a dry pan until golden and fragrant.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Slice the cucumber and rest the chicken thigh before cutting it into pieces.",
+          "durationMinutes": 6,
+          "isPassive": true
+        },
+        {
+          "order": 10,
+          "instruction": "Layer the pita bread, chickpeas, chicken thigh and yogurt sauce in a large serving dish.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 11,
+          "instruction": "Finish the chicken fatteh with the cucumber and pine nuts.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Store all components separately for up to 3 days and assemble after reheating the chicken and chickpeas. The pita and cucumber are best fresh. Do not freeze the assembled dish.",
+      "fridgeDays": 3,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Black bean enchiladas, light",
+      "summary": "Vegan enchiladas filled with black beans, peppers and zucchini under a smoky tomato sauce. Fewer tortillas and extra vegetables keep the dinner lighter without shrinking the plate.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 24,
+      "cookMinutes": 34,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "black beans, canned",
+          "grams": 650,
+          "displayQuantity": "3 3/4 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tortilla",
+          "grams": 240,
+          "displayQuantity": "8 small tortillas",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 500,
+          "displayQuantity": "3 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 320,
+          "displayQuantity": "2 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 180,
+          "displayQuantity": "1 large",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 650,
+          "displayQuantity": "2 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 45,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 220,
+          "displayQuantity": "scant 1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 14,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 25,
+          "displayQuantity": "1/2 cup plus 2 tbsp",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the onion, bell pepper, zucchini, garlic and cilantro in their listed sizes.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat half the olive oil in a saucepan and cook the onion until soft and translucent.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the garlic, tomato paste, cumin and paprika and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the tomatoes, canned, vegetable broth and half the salt and simmer until the enchilada sauce thickens.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Heat the remaining olive oil in a wide pan and cook the bell pepper and zucchini until softened and lightly browned.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Fold the black beans and remaining salt through the vegetables until hot.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Fill the tortilla with the black bean mixture and roll each one tightly.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Arrange the tortilla rolls in a baking dish and cover them with the tomato sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Bake the enchiladas until bubbling and lightly crisp at the edges.",
+          "durationMinutes": 12,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Finish the black bean enchiladas with the cilantro.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat covered until hot throughout. Freeze baked enchiladas for up to 2 months, although the tortillas will soften slightly.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Black bean enchiladas",
+      "summary": "Soft tortillas packed with black beans and vegetables, baked beneath a cumin and paprika tomato sauce. These Mexican-style enchiladas are hearty, savoury and completely vegan.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 25,
+      "cookMinutes": 37,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "black beans, canned",
+          "grams": 700,
+          "displayQuantity": "4 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tortilla",
+          "grams": 360,
+          "displayQuantity": "10 medium tortillas",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 400,
+          "displayQuantity": "3 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 300,
+          "displayQuantity": "2 large",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 200,
+          "displayQuantity": "2 small",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 18,
+          "displayQuantity": "6 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 700,
+          "displayQuantity": "3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 55,
+          "displayQuantity": "3 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 250,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 22,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 6,
+          "displayQuantity": "2 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 30,
+          "displayQuantity": "3/4 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 7,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the onion, bell pepper, zucchini, garlic and cilantro in their listed sizes.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat half the olive oil in a saucepan and cook the onion until soft and translucent.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the garlic, tomato paste, cumin and paprika and stir until fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the tomatoes, canned, vegetable broth and half the salt and simmer until the enchilada sauce becomes rich.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Heat the remaining olive oil in a wide pan and cook the bell pepper and zucchini until lightly browned.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Fold the black beans and remaining salt through the vegetables until hot.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Fill the tortilla with the black bean mixture and roll each one tightly.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Arrange the tortilla rolls in a baking dish and cover them with the tomato sauce.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Bake the enchiladas until bubbling and golden at the edges.",
+          "durationMinutes": 14,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Finish the black bean enchiladas with the cilantro.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat covered so the tortillas do not dry out. Freeze portions for up to 2 months and thaw overnight before reheating.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Black bean enchiladas, hearty",
+      "summary": "A generous tray of vegan enchiladas loaded with extra black beans and tortillas under a rich smoky tomato sauce. It makes a substantial Mexican dinner for four.",
+      "cuisine": "mexican",
+      "mealSlots": [
+        "dinner"
+      ],
+      "servings": 4,
+      "prepMinutes": 29,
+      "cookMinutes": 43,
+      "difficulty": "easy",
+      "equipment": [
+        "oven",
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian",
+        "vegan",
+        "dairy_free"
+      ],
+      "ingredients": [
+        {
+          "name": "black beans, canned",
+          "grams": 900,
+          "displayQuantity": "5 cups",
+          "preparation": "cooked and drained",
+          "optional": false
+        },
+        {
+          "name": "tortilla",
+          "grams": 500,
+          "displayQuantity": "12 large tortillas",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "zucchini",
+          "grams": 500,
+          "displayQuantity": "3 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "grams": 360,
+          "displayQuantity": "3 medium",
+          "preparation": "finely diced",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "grams": 240,
+          "displayQuantity": "2 medium",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 22,
+          "displayQuantity": "7 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "tomatoes, canned",
+          "grams": 850,
+          "displayQuantity": "3 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "tomato paste",
+          "grams": 70,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "vegetable broth",
+          "grams": 300,
+          "displayQuantity": "1 1/4 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "olive oil",
+          "grams": 30,
+          "displayQuantity": "2 tbsp plus 1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 8,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 8,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cilantro",
+          "grams": 40,
+          "displayQuantity": "1 cup",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 9,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Preheat the oven to 200°C.",
+          "durationMinutes": 3,
+          "isPassive": true
+        },
+        {
+          "order": 2,
+          "instruction": "Prepare the onion, bell pepper, zucchini, garlic and cilantro in their listed sizes.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Heat half the olive oil in a saucepan and cook the onion until soft and lightly golden.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Add the garlic, tomato paste, cumin and paprika and stir until darkened and fragrant.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Add the tomatoes, canned, vegetable broth and half the salt and simmer until the enchilada sauce is rich and thick.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 6,
+          "instruction": "Heat the remaining olive oil in a large pan and cook the bell pepper and zucchini until browned at the edges.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Fold the black beans and remaining salt through the vegetables until thoroughly hot.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Fill the tortilla generously with the black bean mixture and roll each one tightly.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Arrange the tortilla rolls across two baking dishes and cover them with the tomato sauce.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 10,
+          "instruction": "Bake the enchiladas until bubbling and deeply coloured at the edges.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 11,
+          "instruction": "Finish the black bean enchiladas with the cilantro.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Keep refrigerated for up to 3 days and reheat covered until bubbling. Freeze baked enchiladas for up to 2 months in well-sealed portions.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Brazilian rice fritters, light",
+      "summary": "Golden Brazilian-style rice fritters with eggs, parmesan, spinach and spring onions. Less rice, cheese and oil plus extra spinach keep the snack lighter and still satisfying.",
+      "cuisine": "brazilian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 21,
+      "cookMinutes": 33,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 140,
+          "displayQuantity": "3/4 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 60,
+          "displayQuantity": "2/3 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "wheat flour",
+          "grams": 45,
+          "displayQuantity": "1/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 220,
+          "displayQuantity": "7 cups",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 45,
+          "displayQuantity": "5 to 6",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 10,
+          "displayQuantity": "3 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 20,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 3,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender, then spread it on a tray to cool and dry slightly.",
+          "durationMinutes": 16,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the spinach, spring onions and garlic while the rice cools.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Wilt the spinach in a dry pan until its moisture evaporates.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Mix the white rice, eggs, parmesan cheese, wheat flour, spinach, spring onions, garlic, paprika and salt into a thick mixture.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Shape the rice mixture into twelve compact fritters.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Heat the vegetable oil in a wide non-stick pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Fry the rice fritters until golden and crisp on both sides, working in batches.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Drain the Brazilian rice fritters briefly on absorbent paper.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best served freshly fried. Refrigerate for up to 3 days and reheat in a hot oven or dry pan. Freeze cooked fritters for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Brazilian rice fritters",
+      "summary": "Crisp Brazilian rice fritters made with eggs, parmesan, spinach, garlic and spring onions. They have golden edges, a tender centre and are easy to share.",
+      "cuisine": "brazilian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 23,
+      "cookMinutes": 34,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 180,
+          "displayQuantity": "1 cup",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 150,
+          "displayQuantity": "3 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 90,
+          "displayQuantity": "1 cup",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "wheat flour",
+          "grams": 60,
+          "displayQuantity": "1/2 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 140,
+          "displayQuantity": "5 cups",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 55,
+          "displayQuantity": "7",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 12,
+          "displayQuantity": "4 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 35,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender, then spread it on a tray to cool and dry slightly.",
+          "durationMinutes": 18,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the spinach, spring onions and garlic while the rice cools.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Wilt the spinach in a dry pan until its released moisture evaporates.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Mix the white rice, eggs, parmesan cheese, wheat flour, spinach, spring onions, garlic, paprika and salt into a thick mixture.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Shape the rice mixture into sixteen compact fritters.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Heat the vegetable oil in a wide non-stick pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Fry the rice fritters in batches until golden and crisp on both sides.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Drain the Brazilian rice fritters briefly on absorbent paper.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Refrigerate for up to 3 days and reheat in a hot oven or frying pan until crisp. Freeze cooled fritters for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Brazilian rice fritters, hearty",
+      "summary": "A generous batch of Brazilian rice fritters with extra rice, eggs and parmesan. The deeply golden fritters make a substantial vegetarian snack for sharing.",
+      "cuisine": "brazilian",
+      "mealSlots": [
+        "snack"
+      ],
+      "servings": 4,
+      "prepMinutes": 27,
+      "cookMinutes": 38,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "white rice",
+          "grams": 240,
+          "displayQuantity": "1 1/3 cups",
+          "preparation": "rinsed",
+          "optional": false
+        },
+        {
+          "name": "eggs",
+          "grams": 200,
+          "displayQuantity": "4 large",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "parmesan cheese",
+          "grams": 120,
+          "displayQuantity": "1 1/3 cups",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "wheat flour",
+          "grams": 80,
+          "displayQuantity": "2/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "spinach",
+          "grams": 170,
+          "displayQuantity": "6 cups",
+          "preparation": "roughly chopped",
+          "optional": false
+        },
+        {
+          "name": "spring onions",
+          "grams": 70,
+          "displayQuantity": "8 to 9",
+          "preparation": "finely sliced",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 15,
+          "displayQuantity": "5 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "vegetable oil",
+          "grams": 50,
+          "displayQuantity": "3 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 6,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Rinse the white rice under cold water until the water runs mostly clear.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Cook the white rice until tender, then spread the larger batch on trays to cool and dry slightly.",
+          "durationMinutes": 20,
+          "isPassive": true
+        },
+        {
+          "order": 3,
+          "instruction": "Prepare the spinach, spring onions and garlic while the rice cools.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 4,
+          "instruction": "Wilt the spinach in a dry pan until no visible moisture remains.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Mix the white rice, eggs, parmesan cheese, wheat flour, spinach, spring onions, garlic, paprika and salt into a thick mixture.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Shape the rice mixture into twenty compact fritters.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Heat the vegetable oil in a large non-stick pan over medium heat.",
+          "durationMinutes": 2,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Fry the rice fritters in batches until deeply golden and crisp on both sides.",
+          "durationMinutes": 14,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Drain the Brazilian rice fritters briefly on absorbent paper.",
+          "durationMinutes": 2,
+          "isPassive": true
+        }
+      ],
+      "storageNotes": "Best hot from the pan. Refrigerate for up to 3 days and reheat until crisp. Freeze cooked fritters in layers for up to 2 months.",
+      "fridgeDays": 3,
+      "freezerMonths": 2
+    },
+    {
+      "title": "Ethiopian chechebsa, light",
+      "summary": "Torn Ethiopian flatbread tossed with fragrant paprika, cumin, ginger and garlic butter, served with cool Greek yogurt. Less butter and flour keep this breakfast lighter.",
+      "cuisine": "ethiopian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 20,
+      "cookMinutes": 22,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "wheat flour",
+          "grams": 180,
+          "displayQuantity": "1 1/2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 120,
+          "displayQuantity": "1/2 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 12,
+          "displayQuantity": "1 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 220,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 3,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 2,
+          "displayQuantity": "1 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 6,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 6,
+          "displayQuantity": "2 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 3,
+          "displayQuantity": "1/2 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Mix the wheat flour, water and half the salt into a soft dough.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Knead the dough until smooth and elastic.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Rest the dough covered so the wheat flour hydrates and becomes easier to roll.",
+          "durationMinutes": 8,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Divide and roll the dough into two thin flatbreads.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook each flatbread in a dry pan until browned in spots and cooked through.",
+          "durationMinutes": 8,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Tear the flatbreads into bite-size pieces while still warm.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Melt the butter with the paprika, cumin, ginger, garlic and remaining salt until fragrant.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Toss the torn flatbread through the spiced butter until evenly coated.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Serve the Ethiopian chechebsa with the greek yogurt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best served immediately while the flatbread is warm. Refrigerate for up to 2 days and reheat in a pan with a splash of water. Keep the Greek yogurt separate.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Ethiopian chechebsa",
+      "summary": "Warm torn flatbread coated in spiced butter with paprika, cumin, ginger and garlic, then served with cool Greek yogurt. It is a comforting Ethiopian breakfast for two.",
+      "cuisine": "ethiopian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 22,
+      "cookMinutes": 25,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "wheat flour",
+          "grams": 240,
+          "displayQuantity": "2 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 160,
+          "displayQuantity": "2/3 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 24,
+          "displayQuantity": "1 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 250,
+          "displayQuantity": "1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 3,
+          "displayQuantity": "1 1/4 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 8,
+          "displayQuantity": "2 tsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 8,
+          "displayQuantity": "2 large cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 4,
+          "displayQuantity": "2/3 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Mix the wheat flour, water and half the salt into a soft dough.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Knead the dough until smooth and elastic.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Rest the dough covered so the wheat flour hydrates and becomes easier to roll.",
+          "durationMinutes": 9,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Divide and roll the dough into three thin flatbreads.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook each flatbread in a dry pan until browned in spots and cooked through.",
+          "durationMinutes": 10,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Tear the flatbreads into bite-size pieces while still warm.",
+          "durationMinutes": 3,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Melt the butter with the paprika, cumin, ginger, garlic and remaining salt until fragrant.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Toss the torn flatbread through the spiced butter until evenly coated.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Serve the Ethiopian chechebsa with the greek yogurt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Serve freshly made for the best texture. Refrigerate for up to 2 days and reheat gently in a pan. Store the Greek yogurt separately and add it when serving.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    },
+    {
+      "title": "Ethiopian chechebsa, hearty",
+      "summary": "A generous Ethiopian breakfast of torn flatbread richly coated with spiced butter and served with plenty of cool Greek yogurt. The larger portion is warm and deeply satisfying.",
+      "cuisine": "ethiopian",
+      "mealSlots": [
+        "breakfast"
+      ],
+      "servings": 2,
+      "prepMinutes": 27,
+      "cookMinutes": 28,
+      "difficulty": "medium",
+      "equipment": [
+        "stovetop"
+      ],
+      "dietStyles": [
+        "balanced",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "wheat flour",
+          "grams": 320,
+          "displayQuantity": "2 2/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "water, tap",
+          "grams": 215,
+          "displayQuantity": "scant 1 cup",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "grams": 38,
+          "displayQuantity": "2 1/2 tbsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "greek yogurt",
+          "grams": 320,
+          "displayQuantity": "1 1/3 cups",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "paprika",
+          "grams": 5,
+          "displayQuantity": "2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "cumin",
+          "grams": 4,
+          "displayQuantity": "1 1/2 tsp",
+          "preparation": null,
+          "optional": false
+        },
+        {
+          "name": "ginger",
+          "grams": 10,
+          "displayQuantity": "1 tbsp",
+          "preparation": "finely grated",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "grams": 10,
+          "displayQuantity": "3 cloves",
+          "preparation": "finely chopped",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "grams": 5,
+          "displayQuantity": "3/4 tsp",
+          "preparation": null,
+          "optional": false
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Mix the wheat flour, water and half the salt into a soft dough.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 2,
+          "instruction": "Knead the larger dough until smooth and elastic.",
+          "durationMinutes": 6,
+          "isPassive": false
+        },
+        {
+          "order": 3,
+          "instruction": "Rest the dough covered so the wheat flour hydrates fully.",
+          "durationMinutes": 10,
+          "isPassive": true
+        },
+        {
+          "order": 4,
+          "instruction": "Divide and roll the dough into four thin flatbreads.",
+          "durationMinutes": 7,
+          "isPassive": false
+        },
+        {
+          "order": 5,
+          "instruction": "Cook each flatbread in a dry pan until browned in spots and cooked through.",
+          "durationMinutes": 12,
+          "isPassive": false
+        },
+        {
+          "order": 6,
+          "instruction": "Tear the flatbreads into generous bite-size pieces while warm.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 7,
+          "instruction": "Melt the butter with the paprika, cumin, ginger, garlic and remaining salt until fragrant.",
+          "durationMinutes": 5,
+          "isPassive": false
+        },
+        {
+          "order": 8,
+          "instruction": "Toss the torn flatbread through the spiced butter until every piece is coated.",
+          "durationMinutes": 4,
+          "isPassive": false
+        },
+        {
+          "order": 9,
+          "instruction": "Serve the Ethiopian chechebsa with the greek yogurt.",
+          "durationMinutes": 2,
+          "isPassive": false
+        }
+      ],
+      "storageNotes": "Best eaten hot from the pan. Refrigerate for up to 2 days and reheat with a little water or butter. Keep the Greek yogurt chilled and separate.",
+      "fridgeDays": 2,
+      "freezerMonths": 0
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
+.DS_Store
+
+# Environment — never commit keys
+.env
+.env.local
+.env.*.local
+
+# Pipeline run artefacts
+.last-batch.json
+services/recipe-pipeline/.last-batch.json
+
+# Generated, but committed on purpose so the app bundle can read them:
+#   packages/db/migrations/*.sql
+#   packages/db/src/migrations.generated.ts

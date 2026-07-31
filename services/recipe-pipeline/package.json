@@ -1,0 +1,19 @@
+{
+  "name": "@daylish/recipe-pipeline",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file-if-exists=../../.env --experimental-strip-types src/cli.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test --experimental-strip-types \"test/*.test.ts\""
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.115.0",
+    "@daylish/core": "*",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0"
+  }
+}
