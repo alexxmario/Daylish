@@ -142,12 +142,31 @@ is worth using over a manual paste for a value that fails silently when wrong.
 
 **The URL does not exist until an App Store app is connected.** A project with
 only the Test Store has nowhere to send notifications, and the dashboard shows
-the Test Store getting-started page instead of an app. Connecting one needs the
-bundle id `com.daylish.app`, the **App-Specific Shared Secret** and an **In-App
-Purchase Key** (`.p8`, downloadable once) from App Store Connect, plus — worth
-adding — an **App Store Connect API Key**, which lets RevenueCat pull the
-products rather than having their identifiers retyped. Leave the field empty in
+the Test Store getting-started page instead of an app. Leave the field empty in
 the meantime; it is optional and does not block review.
+
+Connecting the app needs, from App Store Connect:
+
+| What | Where | Note |
+|---|---|---|
+| Bundle id | — | `com.daylish.app` |
+| Custom URL scheme | — | `daylish`, already in `app.json` |
+| **In-App Purchase Key** | Users and Access → Integrations → In-App Purchase | `SubscriptionKey_*.p8`. **Load-bearing** — see below. The Key ID is in the filename. |
+| **App Store Connect API Key** | Users and Access → Integrations → App Store Connect API | `AuthKey_*.p8`. Not the same file. Lets RevenueCat pull product identifiers. |
+| App-Specific Shared Secret | — | **Skip it.** StoreKit 1 only, and `react-native-purchases` 10.x is StoreKit 2. |
+
+**The In-App Purchase key is not optional here.** RevenueCat's own warning is
+explicit: on StoreKit 2 — which 10.x uses, with no deployment target set and
+Expo SDK 54's floor at iOS 15.1 — transactions are not recorded without it. The
+failure mode is the `test_` key's: the purchase succeeds at Apple, RevenueCat
+never hears, `entitlements.active['premium']` stays empty, and someone who has
+just paid still sees the paywall.
+
+**The Issuer ID will not appear until an App Store Connect API key exists.** It
+is account-wide rather than per-key, so a team that has never made one sees no
+Issuer ID field on the In-App Purchase page at all and no way to produce one.
+Generate an API key — any name, any access level — and it materialises. This is
+Apple's quirk, not RevenueCat's.
 
 **Do not point it at `revenuecat-webhook`.** The two webhooks are different
 links in one chain and speak different protocols:
