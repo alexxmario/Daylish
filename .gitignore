@@ -10,6 +10,20 @@ web-build/
 .env.local
 .env.*.local
 
+# Signing and service keys. This repository is public, and Apple hands these
+# out as plain files that land in ~/Downloads and get dragged into the project
+# folder — the In-App Purchase key (SubscriptionKey_*.p8) and the App Store
+# Connect API key (AuthKey_*.p8) both download exactly once and cannot be
+# re-downloaded, so a leak means revoke, regenerate, and reconfigure
+# RevenueCat. None of these belong in git under any name.
+*.p8
+*.p12
+*.pem
+*.key
+*.cer
+*.certSigningRequest
+*.mobileprovision
+
 # Pipeline run artefacts
 .last-batch.json
 services/recipe-pipeline/.last-batch.json
