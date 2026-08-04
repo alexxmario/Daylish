@@ -136,7 +136,18 @@ App Store Connect asks for a **Production Server URL** (and a Sandbox one) for
 in-app purchase status updates. That field takes **RevenueCat's URL**, copied
 from the Apple App Store app configuration in the RevenueCat dashboard. It is
 unique per app, so copy it rather than reconstructing it, and select
-notification **Version 2**.
+notification **Version 2**. RevenueCat has an *Apply in App Store Connect*
+button that writes it to both the Production and Sandbox fields for you, which
+is worth using over a manual paste for a value that fails silently when wrong.
+
+**The URL does not exist until an App Store app is connected.** A project with
+only the Test Store has nowhere to send notifications, and the dashboard shows
+the Test Store getting-started page instead of an app. Connecting one needs the
+bundle id `com.daylish.app`, the **App-Specific Shared Secret** and an **In-App
+Purchase Key** (`.p8`, downloadable once) from App Store Connect, plus — worth
+adding — an **App Store Connect API Key**, which lets RevenueCat pull the
+products rather than having their identifiers retyped. Leave the field empty in
+the meantime; it is optional and does not block review.
 
 **Do not point it at `revenuecat-webhook`.** The two webhooks are different
 links in one chain and speak different protocols:
