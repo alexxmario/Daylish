@@ -9,10 +9,10 @@
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true,
+      "supportsTablet": false,
       "bundleIdentifier": "com.daylish.app",
       "infoPlist": {
-        "NSCameraUsageDescription": "Daylish uses the camera to scan barcodes and photograph meals so you can log food in seconds."
+        "NSCameraUsageDescription": "Daylish uses the camera to scan barcodes on packaged food, so you can log it in seconds."
       },
       "userInterfaceStyle": "light",
       "config": {
@@ -42,7 +42,7 @@
       [
         "expo-camera",
         {
-          "cameraPermission": "Daylish uses the camera to scan barcodes and photograph meals so you can log food in seconds."
+          "cameraPermission": "Daylish uses the camera to scan barcodes on packaged food, so you can log it in seconds."
         }
       ],
       "expo-sqlite",

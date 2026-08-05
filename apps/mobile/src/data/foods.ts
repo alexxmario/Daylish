@@ -685,9 +685,10 @@ export type BarcodeOutcome =
 /**
  * The scanner's resolution chain.
  *
- * A miss is not an error: it routes the user to the label-photo path, which is
- * how the database grows. Being offline is reported distinctly from a genuine
- * miss, because the two deserve different wording on screen.
+ * A miss is not an error: it routes the user to quick-add with the barcode
+ * already in hand, so a product Open Food Facts has never seen still gets
+ * logged in about fifteen seconds. Being offline is reported distinctly from a
+ * genuine miss, because the two deserve different wording on screen.
  */
 export async function resolveBarcode(
   barcode: string,
