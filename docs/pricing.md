@@ -34,13 +34,19 @@ different competitors each specialise in:
 |---|---|
 | Targets that adapt to your weight trend | MacroFactor, $71.99/yr |
 | 23 vitamins and minerals against Daily Values | Cronometer Gold, ~$49.99/yr |
-| Recipes, fasting timers, water | YAZIO Pro, ~$47.90/yr |
+| 496 recipes with full filtering | YAZIO Pro, ~$47.90/yr |
 | Trends: weight trajectory, intake over time | MacroFactor, Cronometer |
 | One shopping list across several recipes | Lifesum, YAZIO |
 
 Nobody in that list does all five. That justifies pricing at the top of the
 mid-band rather than the bottom — but it does **not** justify MacroFactor money,
 because they have brand, reviews and a track record, and Daylish has a 1.0.
+
+**Fasting and water are free**, which YAZIO charges for. Water was a counter
+sitting behind a \$49.99 subscription, and the fasting gate contradicted the
+keyword field — `fasting` and `timer` both rank, and paywalling what you rank
+for buys installs that uninstall. Giving both away costs nothing anyone was
+paying for and removes the two most obvious cheapness signals in the free tier.
 
 **One tension worth naming.** RevenueCat's 2026 benchmarks put freemium apps at
 a 2.1% median day-35 conversion against 10.7% for hard paywalls — roughly five

@@ -52,7 +52,7 @@ that uninstall the same day), **`daylish`** (the name is already indexed), and
 
 ---
 
-## Description — 3,943 / 4,000
+## Description — 3,952 / 4,000
 
 The first three lines are all that shows before "more" on a phone, so they carry
 the positioning alone.
@@ -96,13 +96,16 @@ Calorie formulas are guesses based on averages. You are not an average.
 Daylish watches your real weight trend and what you actually eat, works out what you are genuinely burning, and adjusts. Every change comes with a plain-English reason — "we raised your target 60 kcal because your 14-day trend shows faster loss than planned".
 
 
-THE WHOLE DAY — PREMIUM
+THE WHOLE DAY
+
+- Water, with a goal that scales to your bodyweight
+- Intermittent fasting: 16:8, 18:6, 20:4, 5:2, OMAD
+
+And with Premium:
 
 - Weight trend that follows the trend, not one bad morning
 - 14 days of intake against target, at a glance
-- Water, with a goal that scales to your bodyweight
-- Intermittent fasting: 16:8, 18:6, 20:4, 5:2, OMAD
-- 37 nutrients tracked, 23 vitamins and minerals against Daily Values, behind a simple/detailed toggle
+- 23 vitamins and minerals against Daily Values, behind a toggle
 
 
 NO GUILT. EVER.
@@ -112,7 +115,7 @@ No red warnings when you go over. No "cheat day". No moralising. Going over your
 
 FREE, AND STAYING FREE
 
-Logging by barcode, search and quick add. Your full journal, and today's calories and macros against target. Fifty recipes, filtered by your allergens. Exporting everything, and a backup that survives a lost phone.
+Logging by barcode, search and quick add. Your full journal, and today's calories and macros against target. Fifty recipes, filtered by your allergens. Fasting timers and water tracking. Exporting everything, and a backup that survives a lost phone.
 
 
 DAYLISH PREMIUM
@@ -121,7 +124,7 @@ DAYLISH PREMIUM
 - One shopping list across several recipes, shared ingredients added together
 - Targets that adapt to your own weight trend, and explain every change
 - Trends: weight trajectory and intake against target over time
-- 23 vitamins and minerals, plus fasting timers and water tracking
+- 23 vitamins and minerals against Daily Values, not just the macros
 
 Premium is a monthly or yearly subscription. Prices are shown in the app before you buy. It renews automatically unless cancelled at least 24 hours before the period ends; manage or cancel any time in your Apple ID settings.
 
@@ -148,27 +151,34 @@ buy `daylish.app`, do it now and use it here; otherwise the Railway hostname
 above is fine and is what the site actually serves.
 
 **What changed from the draft in `app-store-listing.md`.** That version predates
-both the recipe library and the paid tier, and it sold `fasting`, `water`,
-`micronutrients`, `adaptive targets` and `trends` as though they were free.
-Every one of them is Premium in
-[`entitlements.ts`](../packages/core/src/entitlements.ts). Shipping that text
+both the recipe library and the paid tier, and it sold `micronutrients`,
+`adaptiveTargets` and `trends` as though they were free — all three are Premium
+in [`entitlements.ts`](../packages/core/src/entitlements.ts). Shipping that text
 would have been a guideline 2.3.1 metadata mismatch **and** a promise the app
 does not keep — the worst possible combination, because it survives review and
-turns into refund requests.
+turns into refund requests. It also sold `fasting` and `water` as free, which was
+wrong when written and is right again now, for reasons that had nothing to do
+with the draft.
 
 The two new sections are `FREE, AND STAYING FREE` and `DAYLISH PREMIUM`, taken
 verbatim from what the app's own paywall says, so the store page and the paywall
 cannot drift apart.
 
-**Two headers carry `— PREMIUM` inline, and that is not decoration.**
-`TARGETS THAT LEARN YOU` is entirely `adaptiveTargets`, and every one of the five
-`THE WHOLE DAY` bullets is Premium — `trends` twice, `water`, `fasting`,
-`micronutrients`. The `DAYLISH PREMIUM` section below does disclose them, but a
-reviewer reads top to bottom, taps "fasting", and meets a paywall long before
-reaching it. Disclosure that arrives after the tap is not disclosure, and it is
-the same rejection the old draft would have earned — only later in the page.
+**Where a feature is paid, the description says so at the point it is
+described.** `TARGETS THAT LEARN YOU` carries `— PREMIUM` in the header because
+the whole section is `adaptiveTargets`, and `THE WHOLE DAY` splits its bullets
+into free and Premium groups rather than listing them together. The
+`DAYLISH PREMIUM` section further down does disclose everything, but a reviewer
+reads top to bottom, taps the thing they just read about, and meets a paywall
+long before reaching it. Disclosure that arrives after the tap is not
+disclosure.
 
-**Headroom is 31 characters.** Anything added here has to take something out.
+The split changed on 2026-08-05, when **fasting and water moved to free** — see
+the note in [`entitlements.ts`](../packages/core/src/entitlements.ts). Water was
+a counter behind a $49.99 subscription, and the fasting gate contradicted the
+keyword field, which ranks for `fasting` and `timer`.
+
+**Headroom is 48 characters.** Anything added here has to take something out.
 
 ---
 

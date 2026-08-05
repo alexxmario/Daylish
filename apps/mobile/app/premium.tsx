@@ -218,8 +218,8 @@ export default function PremiumScreen() {
         <Text variant="caption" tone="secondary">
           Logging by barcode, search and quick add. Your full journal and history.
           Today's calories and macros against your target. Fifty recipes, filtered
-          by your allergens. Exporting everything, and your diary backed up to
-          your account so it survives a lost phone.
+          by your allergens. Fasting timers and water. Exporting everything, and
+          your diary backed up to your account so it survives a lost phone.
         </Text>
       </Ticket>
 

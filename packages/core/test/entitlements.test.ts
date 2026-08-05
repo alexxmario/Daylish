@@ -32,6 +32,28 @@ describe('entitlements', () => {
     assert.ok(free.recipeLimit !== null && free.recipeLimit >= 50);
   });
 
+  /**
+   * Fasting and water are free, for two different reasons, and both are worth
+   * having to argue with before they move back.
+   *
+   * Water is a counter that every free tracker has, and its lock sat on the
+   * Today screen where it was the first thing a new free user met — a cheapness
+   * signal in exchange for revenue nobody has ever produced.
+   *
+   * Fasting is the sharper one: `fasting` and `timer` are in the App Store
+   * keyword field. Ranking for a term and paywalling it buys installs that
+   * uninstall the same day, which is the exact trade the listing document
+   * rejects for "meal planner". If the gate comes back, the keywords have to go
+   * with it.
+   */
+  test('fasting and water are free on both tiers', () => {
+    for (const isPremium of [false, true]) {
+      const tier = entitlementsFor(isPremium);
+      assert.equal(tier.fasting, true, 'the fasting timer is free — see the keyword field');
+      assert.equal(tier.water, true, 'water is free — it is a counter, not a health feature');
+    }
+  });
+
   test('the paywall copy matches the flags it is selling', () => {
     assert.ok(PREMIUM_FEATURES.length >= 4);
     for (const feature of PREMIUM_FEATURES) {

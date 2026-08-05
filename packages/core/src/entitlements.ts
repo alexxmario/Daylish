@@ -31,9 +31,6 @@
 /** How many of the bundled recipes a free account can cook from. */
 export const FREE_RECIPE_LIMIT = 50;
 
-/** How many days of history the charts show without a subscription. */
-export const FREE_HISTORY_DAYS = 0;
-
 export interface Entitlements {
   /** Recipes that can be opened and cooked. `null` means every one of them. */
   readonly recipeLimit: number | null;
@@ -50,18 +47,44 @@ export interface Entitlements {
   readonly micronutrients: boolean;
   /** Combining several recipes into one list. One recipe at a time is free. */
   readonly multiRecipeShopping: boolean;
+  /**
+   * The fasting timer and its five protocols. **Free**, and kept in the
+   * interface because the *analysis* of fasting — history, streaks, the band
+   * drawn across past days — lives behind `trends` with the rest of the
+   * analysis.
+   */
   readonly fasting: boolean;
+  /** Water logging and its bodyweight-scaled goal. **Free**. */
   readonly water: boolean;
 }
 
+/**
+ * Fasting and water became free on 2026-08-05, and the reasons are different.
+ *
+ * **Water** was indefensible at the price. It is a counter, every free tracker
+ * has one, and its lock sat on the Today screen where it was the first thing a
+ * new free user met. Nobody has ever subscribed to anything for water tracking;
+ * people do leave reviews about being charged for it.
+ *
+ * **Fasting** was a strategy conflict rather than a generosity one. `fasting`
+ * and `timer` are both in the App Store keyword field, and the listing document
+ * already rejects ranking for terms the app cannot deliver, on the grounds that
+ * such installs uninstall the same day and cost more in ranking than the traffic
+ * is worth. Ranking for a term and then paywalling it is the same trade. Either
+ * the keywords went or the gate did, and the gate was worth less.
+ *
+ * What is left paid is what people actually buy: targets that adapt and explain
+ * themselves, the trends behind them, the micronutrient panel, and the rest of
+ * the recipe library.
+ */
 const FREE: Entitlements = {
   recipeLimit: FREE_RECIPE_LIMIT,
   trends: false,
   adaptiveTargets: false,
   micronutrients: false,
   multiRecipeShopping: false,
-  fasting: false,
-  water: false,
+  fasting: true,
+  water: true,
 };
 
 const PREMIUM: Entitlements = {
@@ -103,6 +126,6 @@ export const PREMIUM_FEATURES: readonly { readonly title: string; readonly blurb
   },
   {
     title: 'The full picture',
-    blurb: '23 vitamins and minerals against daily values, plus fasting and water.',
+    blurb: '23 vitamins and minerals against daily values, not just the macros.',
   },
 ];
