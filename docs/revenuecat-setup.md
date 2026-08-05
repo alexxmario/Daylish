@@ -49,25 +49,28 @@ identifiers must match on both sides.
 |---|---|---|
 | Monthly | `monthly` | Auto-Renewable Subscription |
 | Yearly | `yearly` | Auto-Renewable Subscription |
-| Lifetime | `lifetime` | **Non-Consumable** |
 
-**Lifetime is not a subscription, and this is the part that catches people out.**
-In App Store Connect it is created under *In-App Purchases → Non-Consumable*, a
-different section of a different screen from the other two. It also does not sit
-in a subscription group, has no renewal, and cannot offer a free trial.
+**Both go in one subscription group**, so someone can move between them without
+buying twice, and both trigger the auto-renewing-subscription requirements — the
+Terms of Use (EULA) and privacy policy URLs, which must be reachable from the
+paywall as well as from the store listing. They are: see the `LegalLink` pair in
+[`premium.tsx`](../apps/mobile/app/premium.tsx).
 
-Consequences worth knowing before you price it:
+Attach both to the `premium` entitlement in RevenueCat.
 
-- **Only the monthly and yearly** trigger the auto-renewing-subscription
-  requirements — the Terms of Use (EULA) URL and the privacy policy URL, both
-  already on the blocked-on-owner list in [`context.md`](../context.md).
-- **Restore stops being a courtesy.** A lifetime buyer on a new phone has no
-  subscription for RevenueCat to look up; `restorePurchases` is their only route
-  back. It is wired, and it is now also reachable from Customer Center.
-- Monthly and yearly go in one subscription group, so people can move between
-  them without buying twice.
+### Lifetime was dropped from 1.0
 
-Attach all three to the `premium` entitlement in RevenueCat.
+A one-time lifetime purchase is a **non-consumable**, which in App Store Connect
+is a different product type on a different screen from the other two: no
+subscription group, no renewal, no free trial. It also changes what restore
+means — a lifetime buyer on a new phone has no subscription for RevenueCat to
+look up, so `restorePurchases` becomes their only route back rather than a
+courtesy.
+
+None of that is hard, but none of it is needed to launch either. **Adding it
+later needs no app update:** the paywall renders whatever `listOfferings`
+returns, so a third package added to the `default` offering appears in builds
+that already shipped. Nothing in the app names a product identifier.
 
 ---
 
@@ -196,8 +199,8 @@ dashboard before `presentCustomerCenter()` shows anything useful.
 
 It is reachable from **You → Account → Manage subscription**, and is shown to
 everyone rather than only to subscribers: someone whose subscription has lapsed
-is exactly the person who needs it, and a lifetime buyer restoring on a new phone
-has no other route.
+is exactly the person who needs it, and someone reinstalling reaches for restore
+from the same place.
 
 **The paywall stays hand-built.** [`premium.tsx`](../apps/mobile/app/premium.tsx)
 carries the argument for paying, in the app's own voice, from `PREMIUM_FEATURES`

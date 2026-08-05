@@ -6,8 +6,11 @@ Rationale, screenshots, ASO reasoning and the App Privacy answers live in
 
 **Submission shape assumed here** (decided 2026-07-31):
 
-- Premium **is** in this version — monthly, yearly and lifetime attached to the
-  build.
+- Premium **is** in this version — **monthly and yearly subscriptions only**. The
+  one-time lifetime purchase was dropped from 1.0: it is a non-consumable, which
+  is a different product type on a different App Store Connect screen with its
+  own rules, and the paywall renders whatever the offering returns — so adding it
+  later needs a RevenueCat change and no new build.
 - Copyright is held by an individual, not a company.
 - **Automatic release** after approval.
 - The website lives in this repo at [`services/site`](../services/site) and is
@@ -49,7 +52,7 @@ that uninstall the same day), **`daylish`** (the name is already indexed), and
 
 ---
 
-## Description — 3,977 / 4,000
+## Description — 3,943 / 4,000
 
 The first three lines are all that shows before "more" on a phone, so they carry
 the positioning alone.
@@ -120,7 +123,7 @@ DAYLISH PREMIUM
 - Trends: weight trajectory and intake against target over time
 - 23 vitamins and minerals, plus fasting timers and water tracking
 
-Premium is a monthly or yearly subscription, or a lifetime purchase. Prices are shown in the app before you buy. Subscriptions renew automatically unless cancelled at least 24 hours before the period ends; manage or cancel any time in your Apple ID settings.
+Premium is a monthly or yearly subscription. Prices are shown in the app before you buy. It renews automatically unless cancelled at least 24 hours before the period ends; manage or cancel any time in your Apple ID settings.
 
 
 YOUR DIARY, ON YOUR PHONE
@@ -270,7 +273,7 @@ Email:        alexionescu870@gmail.com
 Apple uses this only to reach you about the review. It is never shown publicly,
 so a personal number and address are fine.
 
-### Notes — 2,220 / 4,000
+### Notes — 2,189 / 4,000
 
 ```
 Daylish requires an account. Please use this demo account:
@@ -290,7 +293,7 @@ The Ideas tab ranks the foods you have already logged alongside the recipe libra
 
 TESTING PREMIUM
 
-Premium is offered as a monthly subscription, a yearly subscription, and a one-time lifetime purchase. Open the "You" tab and tap "Daylish Premium" to reach the paywall. Purchasing from a sandbox account completes without a charge and unlocks all paid features immediately; "Restore purchases" on the same screen restores them on a reinstall.
+Premium is offered as a monthly or a yearly auto-renewing subscription. Open the "You" tab and tap "Daylish Premium" to reach the paywall. Purchasing from a sandbox account completes without a charge and unlocks all paid features immediately; "Restore purchases" on the same screen restores them on a reinstall.
 
 Premium unlocks: all 496 recipes (50 are free), multi-recipe shopping lists, adaptive calorie targets, trend charts, micronutrients, fasting timers and water tracking. Logging, the full journal, allergen filtering and export are free permanently and are not gated.
 

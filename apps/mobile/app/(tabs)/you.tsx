@@ -531,8 +531,8 @@ export default function YouScreen() {
           Shown to everyone, not only to subscribers. Someone whose subscription
           has lapsed is exactly the person who needs the manage screen, and
           hiding it from them is how an app ends up with billing complaints it
-          never sees. Restore also lives behind here, which a lifetime buyer on
-          a new phone needs and has no other route to.
+          never sees. Restore also lives behind here, which is what someone
+          reinstalling or moving to a new phone reaches for.
         */}
         <SettingRow label="Manage subscription" value="" onPress={handleManageSubscription} />
         <Divider />
