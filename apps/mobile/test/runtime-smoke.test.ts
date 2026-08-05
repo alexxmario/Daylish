@@ -84,6 +84,7 @@ let shopping: typeof import('../src/data/shopping-list.ts');
 let sync: typeof import('../src/data/sync.ts');
 let reset: typeof import('../src/data/reset.ts');
 let daily: typeof import('../src/data/daily.ts');
+let insights: typeof import('../src/data/insights.ts');
 let user: typeof import('../src/data/user.ts');
 let client: typeof import('../src/db/client.ts');
 let dates: typeof import('../src/lib/dates.ts');
@@ -102,6 +103,7 @@ before(async () => {
   user = await import('../src/data/user.ts');
   reset = await import('../src/data/reset.ts');
   daily = await import('../src/data/daily.ts');
+  insights = await import('../src/data/insights.ts');
   dates = await import('../src/lib/dates.ts');
 
   client.runMigrations();
@@ -2490,5 +2492,116 @@ describe('restore', () => {
       0,
       'a freshly restored diary has nothing waiting to back up',
     );
+  });
+});
+
+/**
+ * The history calendar's query.
+ *
+ * The arithmetic here is the kind that looks obvious and is wrong at month
+ * boundaries, so it is exercised against real dates rather than reasoned about.
+ */
+describe('month history', () => {
+  /** A month nobody is currently in, so "future" and "elapsed" are unambiguous. */
+  const MONTH = '2026-03';
+
+  function logOn(userId: string, localDate: string, kcal: number) {
+    journal.logMeal({
+      userId,
+      mealSlot: 'lunch',
+      logMethod: 'quick_add',
+      loggedAt: new Date(`${localDate}T12:00:00`),
+      items: [
+        {
+          foodItemId: null,
+          displayName: 'Quick add',
+          grams: 100,
+          per100g: { energyKcal: kcal, proteinG: 0, carbsG: 0, fatG: 0 },
+          source: 'user',
+          confidence: 1,
+        },
+      ],
+    });
+  }
+
+  test('the grid covers every day of the month and nothing outside it', () => {
+    reset.resetLocalData();
+    const userId = user.getOrCreateLocalUser().id;
+
+    logOn(userId, '2026-02-28', 2000);
+    logOn(userId, '2026-03-01', 2000);
+    logOn(userId, '2026-03-31', 2000);
+    logOn(userId, '2026-04-01', 2000);
+
+    const history = insights.getMonthHistory(userId, MONTH);
+
+    assert.equal(history.days.length, 31, 'March has 31 days');
+    assert.equal(history.days[0]!.localDate, '2026-03-01');
+    assert.equal(history.days[30]!.localDate, '2026-03-31');
+    assert.equal(history.daysLogged, 2, 'the neighbouring months must not leak in');
+  });
+
+  /** February is the month that catches a naive 30-or-31 assumption. */
+  test('short and leap months are the right length', () => {
+    reset.resetLocalData();
+    const userId = user.getOrCreateLocalUser().id;
+
+    assert.equal(insights.getMonthHistory(userId, '2026-02').days.length, 28);
+    assert.equal(insights.getMonthHistory(userId, '2024-02').days.length, 29, '2024 was a leap year');
+  });
+
+  /**
+   * A past month has fully elapsed; the current one has not. Dividing by the
+   * whole month would report every current month as a failure until the 31st.
+   */
+  test('days that have not happened are not counted as elapsed', () => {
+    reset.resetLocalData();
+    const userId = user.getOrCreateLocalUser().id;
+
+    const past = insights.getMonthHistory(userId, MONTH);
+    assert.equal(past.daysElapsed, 31, 'a past month has fully elapsed');
+
+    const current = insights.getMonthHistory(userId, insights.monthOf(dates.today()));
+    const dayOfMonth = Number(dates.today().slice(-2));
+    assert.equal(current.daysElapsed, dayOfMonth, 'only up to today');
+    assert.ok(current.daysElapsed <= current.days.length);
+  });
+
+  test('averages and on-target counts use logged days only', () => {
+    reset.resetLocalData();
+    const userId = user.getOrCreateLocalUser().id;
+    // Inserted directly: `completeOnboarding` dates a goal today, and this
+    // needs one in force during March 2026 so `targetKcal` resolves per day.
+    client.sqlite.runSync(
+      `INSERT INTO user_goals
+         (id, user_id, effective_from, goal, energy_kcal, protein_g, carbs_g, fat_g, fiber_g)
+       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+      [randomUUID(), userId, '2026-03-01', 'maintain', 2000, 150, 200, 60, 30],
+    );
+
+    logOn(userId, '2026-03-05', 2000);
+    logOn(userId, '2026-03-06', 1000);
+
+    const history = insights.getMonthHistory(userId, MONTH);
+
+    assert.equal(history.daysLogged, 2);
+    assert.equal(history.averageKcal, 1500, 'the 29 unlogged days must not drag it to zero');
+    assert.equal(history.onTarget, 1, 'only the day within 10% of a 2000 kcal target');
+  });
+
+  test('a month with nothing in it reports null rather than zero', () => {
+    reset.resetLocalData();
+    const userId = user.getOrCreateLocalUser().id;
+
+    const history = insights.getMonthHistory(userId, MONTH);
+    assert.equal(history.daysLogged, 0);
+    assert.equal(history.averageKcal, null, 'no average exists, and 0 kcal would be a lie');
+    assert.equal(history.onTarget, null);
+  });
+
+  test('stepping months crosses years correctly', () => {
+    assert.equal(insights.addMonths('2026-01', -1), '2025-12');
+    assert.equal(insights.addMonths('2026-12', 1), '2027-01');
+    assert.equal(insights.monthOf('2026-08-05'), '2026-08');
   });
 });

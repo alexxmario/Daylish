@@ -1,24 +1,30 @@
 import { useCallback, useState } from 'react';
-import { ScrollView, View } from 'react-native';
-import { useFocusEffect } from 'expo-router';
+import { Pressable, ScrollView, View } from 'react-native';
+import { useFocusEffect, useRouter } from 'expo-router';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import Svg, { Circle, Line, Path } from 'react-native-svg';
 
+import { HistoryCalendar } from '@/components/HistoryCalendar.tsx';
 import { Illustration } from '@/components/Illustration.tsx';
 import { Text } from '@/components/Text.tsx';
 import { Divider, Eyebrow, Ticket } from '@/components/Ticket.tsx';
 import {
+  addMonths,
   getAdherence,
   getLoggingStreak,
+  getMonthHistory,
   getWeightSeries,
+  monthOf,
   summarise,
   type DayAdherence,
+  type MonthHistory,
   type WeightSeries,
 } from '@/data/insights.ts';
 import { Locked } from '@/components/Locked.tsx';
+import { today } from '@/lib/dates.ts';
 import { useEntitlements } from '@/state/entitlement.tsx';
 import { useSession } from '@/state/session.tsx';
-import { useTheme } from '@/theme/index.tsx';
+import { MIN_TAP_TARGET, useTheme } from '@/theme/index.tsx';
 
 /**
  * Progress.
@@ -30,6 +36,7 @@ import { useTheme } from '@/theme/index.tsx';
 export default function ProgressScreen() {
   const theme = useTheme();
   const insets = useSafeAreaInsets();
+  const router = useRouter();
   const { profile, goal } = useSession();
   const { entitlements } = useEntitlements();
 
@@ -40,13 +47,18 @@ export default function ProgressScreen() {
     changePerWeekKg: null,
   });
   const [streak, setStreak] = useState(0);
+  const [month, setMonth] = useState(() => monthOf(today()));
+  const [history, setHistory] = useState<MonthHistory | null>(null);
 
   const reload = useCallback(() => {
     if (!profile) return;
     setAdherence(getAdherence(profile.id, 14));
     setWeight(getWeightSeries(profile.id, 90));
     setStreak(getLoggingStreak(profile.id));
-  }, [profile]);
+    // The calendar is Premium, so a free account never runs the query. It is
+    // cheap, but "cheap" is not a reason to read a diary nobody will be shown.
+    setHistory(entitlements.trends ? getMonthHistory(profile.id, month) : null);
+  }, [profile, month, entitlements.trends]);
 
   useFocusEffect(reload);
 
@@ -160,7 +172,133 @@ export default function ProgressScreen() {
         )}
       </Ticket>
       )}
+
+      {/*
+        History.
+
+        The 14-day strip answers "how is this fortnight going". This answers a
+        different question — "what have I actually been doing" — and it is the
+        one that needs months rather than a chart. Tapping a day opens it, which
+        is the point: getting back to a Tuesday three weeks ago was previously
+        eleven presses of a back arrow on Today.
+      */}
+      <Eyebrow>History</Eyebrow>
+      {!entitlements.trends ? (
+        <Locked
+          title="Your whole diary, month by month"
+          teaser={streak > 0 ? `${streak}-day streak` : undefined}
+          blurb="Every day you have logged, laid out as a calendar you can tap back into. Premium keeps the whole history, not just the last fortnight."
+        />
+      ) : (
+        <Ticket
+          label={monthLabel(month)}
+          meta={
+            history && history.daysElapsed > 0
+              ? `${history.daysLogged}/${history.daysElapsed} days`
+              : undefined
+          }
+        >
+          <View
+            style={{
+              flexDirection: 'row',
+              alignItems: 'center',
+              justifyContent: 'space-between',
+            }}
+          >
+            <MonthArrow
+              label="Previous month"
+              glyph="‹"
+              onPress={() => setMonth(addMonths(month, -1))}
+            />
+            <Text variant="captionStrong" tone="secondary">
+              {monthLabel(month)}
+            </Text>
+            {/*
+              There is no next month past this one. A disabled arrow is kept
+              rather than removed so the header does not jump sideways when
+              someone steps back and forward again.
+            */}
+            <MonthArrow
+              label="Next month"
+              glyph="›"
+              disabled={month >= monthOf(today())}
+              onPress={() => setMonth(addMonths(month, 1))}
+            />
+          </View>
+
+          <Divider />
+
+          {history ? (
+            <HistoryCalendar
+              days={history.days}
+              todayDate={today()}
+              onSelectDay={(date) => router.push({ pathname: '/', params: { date } })}
+            />
+          ) : null}
+
+          {history && history.daysLogged > 0 ? (
+            <>
+              <Divider />
+              <View style={{ flexDirection: 'row', gap: theme.spacing.lg }}>
+                <MiniStat label="Average" value={history.averageKcal} unit="kcal" />
+                <MiniStat
+                  label="On target"
+                  value={history.onTarget}
+                  unit={`of ${history.daysLogged}`}
+                />
+              </View>
+            </>
+          ) : (
+            <Text variant="caption" tone="secondary">
+              Nothing logged this month yet.
+            </Text>
+          )}
+        </Ticket>
+      )}
     </ScrollView>
+  );
+}
+
+/** e.g. "August 2026". */
+function monthLabel(month: string): string {
+  const [year, mon] = month.split('-').map(Number) as [number, number];
+  return new Date(year, mon - 1, 1, 12).toLocaleDateString(undefined, {
+    month: 'long',
+    year: 'numeric',
+  });
+}
+
+function MonthArrow({
+  label,
+  glyph,
+  onPress,
+  disabled = false,
+}: {
+  label: string;
+  glyph: string;
+  onPress: () => void;
+  disabled?: boolean;
+}) {
+  const theme = useTheme();
+  return (
+    <Pressable
+      onPress={disabled ? undefined : onPress}
+      disabled={disabled}
+      accessibilityRole="button"
+      accessibilityLabel={label}
+      accessibilityState={{ disabled }}
+      hitSlop={8}
+      style={{
+        minWidth: MIN_TAP_TARGET,
+        minHeight: MIN_TAP_TARGET,
+        alignItems: 'center',
+        justifyContent: 'center',
+      }}
+    >
+      <Text variant="title" tone={disabled ? 'muted' : 'celeste'}>
+        {glyph}
+      </Text>
+    </Pressable>
   );
 }
 

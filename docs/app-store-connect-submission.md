@@ -52,7 +52,7 @@ that uninstall the same day), **`daylish`** (the name is already indexed), and
 
 ---
 
-## Description — 3,952 / 4,000
+## Description — 3,978 / 4,000
 
 The first three lines are all that shows before "more" on a phone, so they carry
 the positioning alone.
@@ -121,9 +121,10 @@ Logging by barcode, search and quick add. Your full journal, and today's calorie
 DAYLISH PREMIUM
 
 - All 496 recipes, with every filter
-- One shopping list across several recipes, shared ingredients added together
+- One shopping list across several recipes
 - Targets that adapt to your own weight trend, and explain every change
 - Trends: weight trajectory and intake against target over time
+- Your whole diary as a calendar, tappable back into any day
 - 23 vitamins and minerals against Daily Values, not just the macros
 
 Premium is a monthly or yearly subscription. Prices are shown in the app before you buy. It renews automatically unless cancelled at least 24 hours before the period ends; manage or cancel any time in your Apple ID settings.
@@ -178,7 +179,7 @@ the note in [`entitlements.ts`](../packages/core/src/entitlements.ts). Water was
 a counter behind a $49.99 subscription, and the fasting gate contradicted the
 keyword field, which ranks for `fasting` and `timer`.
 
-**Headroom is 48 characters.** Anything added here has to take something out.
+**Headroom is 22 characters.** Anything added here has to take something out.
 
 ---
 

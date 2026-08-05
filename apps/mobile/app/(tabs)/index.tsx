@@ -1,6 +1,6 @@
-import { useCallback, useState } from 'react';
+import { useCallback, useEffect, useState } from 'react';
 import { Alert, Modal, Platform, Pressable, ScrollView, View } from 'react-native';
-import { Redirect, useFocusEffect, useRouter } from 'expo-router';
+import { Redirect, useFocusEffect, useLocalSearchParams, useRouter } from 'expo-router';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import DateTimePicker from '@react-native-community/datetimepicker';
 import Animated, { FadeInDown, useReducedMotion } from 'react-native-reanimated';
@@ -69,6 +69,7 @@ export default function TodayScreen() {
   const { profile, goal } = useSession();
   const { entitlements } = useEntitlements();
 
+  const params = useLocalSearchParams<{ date?: string }>();
   const [date, setDate] = useState(today());
   const [entries, setEntries] = useState<DayEntry[]>([]);
   const [totals, setTotals] = useState({ energyKcal: 0, proteinG: 0, carbsG: 0, fatG: 0, fiberG: 0 });
@@ -83,6 +84,23 @@ export default function TodayScreen() {
     fastFraction: 0,
     band: null as { startHour: number; endHour: number } | null,
   });
+
+  /*
+    Arriving from the history calendar, which pushes here with a `date`.
+
+    The param is **consumed**: applied once and then cleared. Two reasons. The
+    arrows have to keep working afterwards, so the param cannot be the source of
+    truth — deriving `date` from it would snap the screen back every time
+    someone stepped off the tapped day. And because Today is a tab, it stays
+    mounted, so a param left in place would match itself on the next visit and
+    tapping the same day twice would do nothing the second time.
+  */
+  useEffect(() => {
+    const wanted = params.date;
+    if (typeof wanted !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(wanted)) return;
+    setDate(wanted);
+    router.setParams({ date: undefined });
+  }, [params.date, router]);
 
   const reload = useCallback(() => {
     if (!profile) return;

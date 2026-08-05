@@ -125,6 +125,10 @@ export const PREMIUM_FEATURES: readonly { readonly title: string; readonly blurb
     blurb: 'Weight trajectory, intake against target, and what actually changed.',
   },
   {
+    title: 'Every day you have logged',
+    blurb: 'Your whole diary as a calendar, month by month, tappable back into any day.',
+  },
+  {
     title: 'The full picture',
     blurb: '23 vitamins and minerals against daily values, not just the macros.',
   },
