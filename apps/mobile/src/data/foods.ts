@@ -19,6 +19,7 @@ import { withNutrients } from '@daylish/db';
 
 import { sqlite } from '@/db/client.ts';
 import { newId } from '@/lib/ids.ts';
+import { USER_AGENT as OFF_USER_AGENT } from '@/lib/links.ts';
 
 export interface ResolvedFood {
   id: string;
@@ -161,8 +162,12 @@ const OFF_ENDPOINT = 'https://world.openfoodfacts.org/api/v2/product';
 const OFF_SEARCH_ENDPOINT = 'https://search.openfoodfacts.org/search';
 const OFF_SEARCH_FALLBACK = 'https://world.openfoodfacts.org/cgi/search.pl';
 
-/** Open Food Facts asks that clients identify themselves. */
-const USER_AGENT = 'Daylish/0.1 (https://daylish.app)';
+/**
+ * Open Food Facts asks that clients identify themselves. The string is built in
+ * `lib/links.ts` from the real app version, because the one that used to sit
+ * here said `0.1` and pointed at a domain that does not serve this app.
+ */
+const USER_AGENT = OFF_USER_AGENT;
 
 function isJson(response: Response): boolean {
   return (response.headers.get('content-type') ?? '').includes('json');

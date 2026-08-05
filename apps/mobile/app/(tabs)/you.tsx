@@ -4,7 +4,6 @@ import { useFocusEffect, useRouter } from 'expo-router';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { File, Paths } from 'expo-file-system';
 import * as Sharing from 'expo-sharing';
-import Constants from 'expo-constants';
 
 import { Text } from '@/components/Text.tsx';
 import { Divider, Eyebrow, Ticket } from '@/components/Ticket.tsx';
@@ -29,6 +28,7 @@ import {
   saveReminderSettings,
 } from '@/lib/reminders.ts';
 import { today } from '@/lib/dates.ts';
+import { APP_VERSION } from '@/lib/links.ts';
 import { buildExport, exportFilename, serialiseExport } from '@/data/export.ts';
 import { recalibrate, setDetailedNutrition } from '@/data/user.ts';
 import { resetLocalData, restartOnboarding } from '@/data/reset.ts';
@@ -36,8 +36,11 @@ import { requireSupabase } from '@/lib/supabase.ts';
 import { useSession } from '@/state/session.tsx';
 import { MIN_TAP_TARGET, useTheme } from '@/theme/index.tsx';
 
-/** Read from the manifest so the footer cannot drift from what shipped. */
-const APP_VERSION = (Constants.expoConfig?.version ?? '1.0.0') as string;
+/**
+ * Read from the manifest so the footer cannot drift from what shipped. Lives in
+ * `lib/links.ts` now, because the Open Food Facts User-Agent needs the same
+ * number and two copies of a version is how one of them goes stale.
+ */
 
 const SLOT_LABEL: Record<ReminderSlot, string> = {
   breakfast: 'Breakfast',
@@ -632,6 +635,22 @@ export default function YouScreen() {
         from your own measurements, and they cannot know about a medical
         condition, a medication or a pregnancy. If you are managing any of those,
         talk to a doctor or dietitian before changing how you eat.
+      </Text>
+
+      {/*
+        Credit where the numbers come from.
+
+        Open Food Facts is published under the Open Database Licence, which asks
+        for attribution — and beyond the licence, an app whose whole claim is
+        that its numbers are looked up rather than invented should say out loud
+        where it looked. USDA FoodData Central is public domain and needs no
+        permission, but it earns the same sentence for the same reason.
+      */}
+      <Text variant="caption" tone="muted">
+        Packaged foods come from Open Food Facts, a community database published
+        under the Open Database Licence. Whole foods come from USDA FoodData
+        Central. Recipe nutrition is calculated from ingredients against the
+        same USDA data.
       </Text>
 
       <Text variant="caption" tone="muted" style={{ textAlign: 'center' }}>

@@ -27,6 +27,7 @@ const PORT = Number(process.env.PORT ?? 3000);
 const ROUTES = new Map([
   ['/', 'index.html'],
   ['/support', 'support.html'],
+  ['/accessibility', 'accessibility.html'],
   ['/legal/privacy', 'legal/privacy.html'],
   ['/legal/terms', 'legal/terms.html'],
   ['/account-deletion', 'account-deletion.html'],
@@ -48,6 +49,7 @@ const REDIRECTS = new Map([
   ['/delete', '/account-deletion'],
   ['/help', '/support'],
   ['/contact', '/support'],
+  ['/a11y', '/accessibility'],
 ]);
 
 const MIME = {

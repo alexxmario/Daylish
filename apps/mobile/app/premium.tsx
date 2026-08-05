@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { Alert, Pressable, ScrollView, View } from 'react-native';
+import { Alert, Linking, Pressable, ScrollView, View } from 'react-native';
 import { useRouter } from 'expo-router';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
@@ -20,7 +20,38 @@ import {
 import { useEntitlements } from '@/state/entitlement.tsx';
 import { useSession } from '@/state/session.tsx';
 import { enableBillingAlerts } from '@/lib/push.ts';
+import { PRIVACY_URL, TERMS_URL } from '@/lib/links.ts';
 import { useTheme } from '@/theme/index.tsx';
+
+/**
+ * One of the two links guideline 3.1.2 requires on a subscription screen.
+ *
+ * Its own component so both get the same tap target, the same failure message
+ * and the `link` role, which is what tells VoiceOver this leaves the app.
+ */
+function LegalLink({ label, url }: { label: string; url: string }) {
+  const open = async () => {
+    try {
+      await Linking.openURL(url);
+    } catch {
+      Alert.alert('Could not open the link', `You can read it at ${url}`);
+    }
+  };
+
+  return (
+    <Pressable
+      onPress={() => void open()}
+      accessibilityRole="link"
+      accessibilityLabel={`${label}, opens in your browser`}
+      hitSlop={8}
+      style={{ minHeight: 44, justifyContent: 'center' }}
+    >
+      <Text variant="caption" tone="celeste">
+        {label}
+      </Text>
+    </Pressable>
+  );
+}
 
 /**
  * What Premium is.
@@ -236,6 +267,34 @@ export default function PremiumScreen() {
           </Text>
         </Pressable>
       ) : null}
+
+      {/*
+        Terms and privacy, on the paywall itself.
+
+        Guideline 3.1.2 requires a functional link to both from inside the app
+        for an auto-renewing subscription — not only from the store listing —
+        and their absence here is a routine rejection. They sit under the plan
+        buttons because that is where someone is deciding, and the renewal terms
+        immediately above are the short version of what they link to.
+
+        `openURL` is guarded: a link that silently does nothing is worse than one
+        that says it could not open, because the person is left thinking the
+        terms do not exist.
+      */}
+      <View
+        style={{
+          flexDirection: 'row',
+          justifyContent: 'center',
+          alignItems: 'center',
+          gap: theme.spacing.md,
+        }}
+      >
+        <LegalLink label="Terms of Use" url={TERMS_URL} />
+        <Text variant="caption" tone="muted">
+          ·
+        </Text>
+        <LegalLink label="Privacy Policy" url={PRIVACY_URL} />
+      </View>
 
       {/*
         The testing switch, which is absent from store builds.

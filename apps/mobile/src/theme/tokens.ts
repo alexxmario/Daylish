@@ -68,8 +68,10 @@ export interface Palette {
   celesteInk: string;
   /** Pale butter, for washes. */
   butter: string;
-  /** The one saturated accent. Primary action and streaks only. */
+  /** The one saturated accent. Primary action and streaks only. Fills, not text. */
   sun: string;
+  /** `sun` for text. Same hue, dark enough to clear WCAG AA on light surfaces. */
+  sunInk: string;
 
   ringTrack: string;
   ringFill: string;
@@ -92,7 +94,14 @@ export const lightPalette: Palette = {
 
   ink: '#16232E',
   inkSecondary: '#4A5C6B',
-  inkMuted: '#7E909E',
+  /**
+   * Darkened from `#7E909E`, which failed WCAG AA everywhere it was used:
+   * 3.14:1 on `background`, 3.30:1 on `surface`, 2.89:1 on `surfaceSunken`,
+   * against the 4.5:1 body-text threshold. It carries `tone="muted"`, and that
+   * includes the medical disclaimer in the You tab — the one piece of text in
+   * the app that nobody should have to squint at. Now 5.16 / 5.43 / 4.75.
+   */
+  inkMuted: '#5A6C7C',
   onDark: '#FFFFFF',
 
   celeste: '#74ACDF',
@@ -100,6 +109,18 @@ export const lightPalette: Palette = {
   celesteInk: '#2B6CA3',
   butter: '#FBEFC0',
   sun: '#F6B40E',
+  /**
+   * Sun, dark enough to read as text.
+   *
+   * `sun` is a fill colour — a button ground, a ticket rule — where nothing has
+   * to be legible *through* it. Used as text on a light surface it manages
+   * 1.75:1, which is not a near miss but an unreadable one, and it was doing
+   * exactly that in four places including the "Delete my account" row. This is
+   * the same hue at 5.11:1 on `background` and 4.70:1 on the worst surface.
+   *
+   * Rule of thumb: `sun` behind things, `sunInk` for things.
+   */
+  sunInk: '#8F6200',
 
   ringTrack: '#DFEBF5',
   ringFill: '#74ACDF',
@@ -127,7 +148,14 @@ export const darkPalette: Palette = {
 
   ink: '#E9F1F7',
   inkSecondary: '#AFC0CE',
-  inkMuted: '#7E909E',
+  /**
+   * Lightened for the same reason the light one was darkened: `#7E909E` cleared
+   * AA on `background` and `surface` here but reached only 4.08:1 on
+   * `surfaceSunken`. Now 6.36 / 5.70 / 4.88. The dark palette is unreachable
+   * while `app.json` pins `userInterfaceStyle` to light, but it should not be
+   * carrying a known failure when that changes.
+   */
+  inkMuted: '#8D9EAC',
   onDark: '#FFFFFF',
 
   celeste: '#74ACDF',
@@ -135,6 +163,12 @@ export const darkPalette: Palette = {
   celesteInk: '#8FC0EC',
   butter: '#3A331C',
   sun: '#F6B40E',
+  /**
+   * Unchanged from `sun` here, and deliberately so: the problem this token
+   * solves is amber on a *light* ground. On these surfaces the bright hue
+   * already reads at 9.57 / 8.57 / 7.34, and darkening it would make it worse.
+   */
+  sunInk: '#F6B40E',
 
   ringTrack: '#26323D',
   ringFill: '#74ACDF',

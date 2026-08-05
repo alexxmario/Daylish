@@ -27,6 +27,9 @@ class FakeDatabase {
 const fakeDb = new FakeDatabase();
 mock.module('expo-sqlite', { namedExports: { openDatabaseSync: () => fakeDb } });
 mock.module('expo-crypto', { namedExports: { randomUUID: () => randomUUID() } });
+mock.module('expo-constants', {
+  defaultExport: { expoConfig: { version: '1.0.0' } },
+});
 mock.module('drizzle-orm/expo-sqlite', { namedExports: { drizzle: () => ({}) } });
 
 let foods: typeof import('../src/data/foods.ts');

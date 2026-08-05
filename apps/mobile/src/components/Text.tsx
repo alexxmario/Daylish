@@ -30,7 +30,9 @@ export function Text({
     secondary: theme.palette.inkSecondary,
     muted: theme.palette.inkMuted,
     celeste: theme.palette.celesteInk,
-    sun: theme.palette.sun,
+    // `sunInk`, not `sun`: this is text, and the fill colour is unreadable at
+    // 1.75:1 on a light surface. See the token's note in `theme/tokens.ts`.
+    sun: theme.palette.sunInk,
     onDark: theme.palette.onDark,
   }[tone];
 

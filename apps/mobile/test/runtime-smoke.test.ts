@@ -64,6 +64,9 @@ mock.module('expo-sqlite', {
 mock.module('expo-crypto', {
   namedExports: { randomUUID: () => randomUUID() },
 });
+mock.module('expo-constants', {
+  defaultExport: { expoConfig: { version: '1.0.0' } },
+});
 // Drizzle's Expo driver is only used for its typed query builder, which this
 // test does not exercise — the repositories issue raw SQL through `sqlite`.
 mock.module('drizzle-orm/expo-sqlite', {

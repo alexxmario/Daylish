@@ -427,6 +427,90 @@ and the third-party list from what the app actually calls.
 
 ---
 
+## App Privacy answers
+
+Six data types, and nothing else. Every one is **linked to identity: Yes** and
+**used for tracking: No** — that second answer across the board is what keeps
+Daylish out of App Tracking Transparency, and it is accurate: no ad SDK, no
+analytics SDK, no data broker, and no third-party sign-in SDK that could
+repurpose what it sees.
+
+| Data type | Purposes |
+|---|---|
+| Contact Info → Email Address | App Functionality |
+| Health & Fitness → Health | App Functionality, Product Personalization |
+| Health & Fitness → Fitness | App Functionality, Product Personalization |
+| Identifiers → User ID | App Functionality |
+| Identifiers → Device ID | App Functionality |
+| Purchases | App Functionality, **Analytics** |
+
+**Analytics belongs to Purchases and to nothing else.** It is RevenueCat's
+documented minimum — App Functionality covers receipt validation and
+entitlements, Analytics covers their Charts and Customer History. The privacy
+policy now says this out loud, because a card reading "Analytics" beside a policy
+reading "no analytics" is a contradiction a reviewer can see.
+
+**Product Personalization is on the health rows deliberately.** All ranking runs
+on-device — `insights.ts` reads local SQLite, the scoring lives in
+`packages/core`, and the server has no ranking logic at all — so a narrow reading
+says the *transmitted* copy is only ever a backup. That distinction is invisible
+to the person reading the card, and the promotional text sells Ideas as ranking
+against your day. Claiming otherwise would make the label contradict the listing.
+
+**Search History is deliberately absent.** Barcodes and search terms reach Open
+Food Facts and USDA, are serviced in real time, and neither vendor has an SDK in
+the app, so neither is a third-party partner. Nothing search-shaped appears in
+`SYNCED_TABLES`. Declaring it would tell people their searches are kept when they
+are not, which is a worse error than the omission.
+
+**Sensitive Info is deliberately absent, and it is the closest call.** The diet
+filter offers `halal` and `kosher`, `diet_style` lives in `user_goals`, and
+`user_goals` syncs — so a religious observance can be inferred from data linked
+to an identity. It stays unticked because what is collected is a recipe filter
+chosen from twelve options beside keto and vegan, and Apple's category targets
+apps that collect beliefs as such. The GDPR reading is the stronger one, and it
+is answered where it belongs: the privacy policy names the diet filter, cites
+Article 9, and points at the allergen list as the alternative.
+
+---
+
+## Age rating
+
+Calculated **9+** from Health or Wellness Topics alone, then **overridden to
+13+** to match the Terms, which require users to be at least 13. A 9+ listing
+invites an audience the app's own terms exclude, and calorie tracking by children
+is a real enough concern that the override is worth its cost in reach.
+
+Medical or Treatment Information is **None**: the app diagnoses nothing, names no
+condition, and its in-app disclaimer explicitly says it cannot know about a
+medical condition and routes people to a clinician.
+
+## Accessibility
+
+**Reduced Motion only.** All three animated surfaces — `CalorieRing`, `CountUp`
+and the Today screen — check `useReducedMotion()` and jump to their final value,
+so the claim is provable from the code rather than from a demo.
+
+Not claimed: **Dark Interface**, because `app.json` pins `userInterfaceStyle` to
+light; **VoiceOver**, **Voice Control** and **Larger Text**, because labels and
+Dynamic Type are largely in place but no one has run a screen-by-screen pass on a
+device, and Apple's bar is completing common tasks; **Captions** and **Audio
+Descriptions**, which need media the app does not have.
+
+**Sufficient Contrast is unclaimed for 1.0 and now deserves claiming.** Two
+failures were found and fixed — `inkMuted` at 3.14:1, and `sun` drawn as text at
+1.75:1 in four places including the delete-account row. All 44 text/surface pairs
+across both palettes now clear 4.5:1, narrowest 4.70:1. Tick it in the next
+version once the numbers have been seen on a handset.
+
+**Accessibility URL:** `https://daylishsite-production.up.railway.app/accessibility`
+
+That page states what works and what does not, including the two contrast
+failures above. Publishing an honest gap is what makes the Reduced Motion claim
+worth anything.
+
+---
+
 ## Also worth doing before you press submit
 
 - Log two or three foods on the demo account from the device you shoot

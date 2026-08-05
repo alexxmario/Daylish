@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Accessibility — Daylish</title>
+    <meta
+      name="description"
+      content="What Daylish supports today, what it does not yet support, and how to tell us when something is unusable."
+    />
+    <link rel="icon" href="/favicon.png" />
+    <link rel="apple-touch-icon" href="/icon.png" />
+    <meta name="theme-color" content="#FBEFC0" />
+    <link rel="preload" as="font" type="font/woff2" href="/fonts/archivo-black-400.woff2" crossorigin />
+    <link rel="preload" as="font" type="font/woff2" href="/fonts/figtree-400.woff2" crossorigin />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+
+    <header class="site-header">
+      <div class="wrap">
+        <a class="brand" href="/">
+          <img src="/logo.png" alt="" width="36" height="36" />
+          <span>Daylish</span>
+        </a>
+        <nav class="site-nav" aria-label="Main">
+          <a href="/support">Support</a>
+          <a href="/legal/privacy">Privacy</a>
+          <a href="/legal/terms">Terms</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main" class="wrap narrow doc">
+      <h1>Accessibility</h1>
+      <p class="meta">
+        Last reviewed 5 August 2026 ·
+        <a href="mailto:alexionescu870@gmail.com">alexionescu870@gmail.com</a>
+      </p>
+
+      <div class="callout">
+        <p>
+          <strong>Where this stands.</strong> Daylish supports Reduced Motion
+          fully, and its text meets the WCAG AA contrast threshold throughout.
+          VoiceOver and Larger Text are largely built but have not been tested
+          end to end on a device, so we do not claim them yet. Dark mode is
+          written but switched off. The specifics are below, including the parts
+          that are not finished.
+        </p>
+      </div>
+
+      <h2>What works today</h2>
+
+      <h3>Reduced Motion</h3>
+      <p>
+        Turn on <em>Settings → Accessibility → Motion → Reduce Motion</em> and
+        every animation in Daylish stops. There are three — the calorie ring, the
+        counting numbers, and the transition on the Today screen — and all three
+        jump straight to their final value rather than easing to it. Nothing is
+        left mid-animation and no information is lost.
+      </p>
+
+      <h3>Contrast</h3>
+      <p>
+        Every text colour the app can render was measured against every surface
+        it can sit on. All of them clear the WCAG AA threshold of 4.5:1, and the
+        narrowest pairing is 4.70:1.
+      </p>
+      <p>
+        Two of them did not, until this release. The muted grey used for
+        captions — including the medical disclaimer, of all things — sat at
+        3.14:1, and the amber used for emphasis was being drawn as text at
+        <strong>1.75:1</strong>, which is not a marginal failure but an
+        unreadable one. Both are fixed: the grey is darker, and the amber now has
+        a separate darker value for text while the bright original stays where it
+        belongs, behind buttons rather than inside them.
+      </p>
+
+      <h3>Sizing and targets</h3>
+      <p>
+        Controls are built against a shared 44-point minimum — the figure in
+        Apple's Human Interface Guidelines — and the smaller visual elements
+        extend their touch area rather than shrinking it. Nothing in the app
+        disables Dynamic Type, so text scales with your system setting.
+      </p>
+
+      <h2>What is not finished</h2>
+      <p>
+        We would rather say this plainly than claim support we have not verified.
+      </p>
+
+      <h3>VoiceOver</h3>
+      <p>
+        Most of the app is labelled — buttons carry names and roles, and controls
+        that toggle report their state. What has not happened is a full pass with
+        VoiceOver switched on, screen by screen, checking that every task can
+        actually be completed without sight. Until that is done we will not claim
+        support, because a partial implementation is worse than an honest gap:
+        it gets you halfway through logging a meal and then strands you.
+      </p>
+
+      <h3>Larger Text</h3>
+      <p>
+        Text scales, but the layouts have not been checked at the largest
+        accessibility sizes. Fixed-height elements such as the calorie ring and
+        the day ribbon are the likely places for text to clip. If you use large
+        text and something is cut off, please tell us which screen — that is the
+        fastest way for this to get fixed.
+      </p>
+
+      <h3>Dark interface</h3>
+      <p>
+        Daylish is light-only today. A complete dark palette exists in the code
+        and is switched off, because it has never been reviewed screen by screen
+        and shipping a half-checked dark mode is how illegible text reaches
+        people who need it most.
+      </p>
+
+      <h3>Captions and audio descriptions</h3>
+      <p>Not applicable. Daylish contains no video or audio content.</p>
+
+      <h2>Telling us something is unusable</h2>
+      <p>
+        Email
+        <a href="mailto:alexionescu870@gmail.com">alexionescu870@gmail.com</a>.
+        Say which screen, which assistive feature you were using, and what you
+        were trying to do. Reports that name a task — "I cannot add a food to
+        breakfast with VoiceOver on" — are far more useful than general ones, and
+        they get prioritised over other work.
+      </p>
+      <p>
+        We aim to acknowledge within two business days. If something blocks you
+        from a core task — logging food, reading your targets, exporting your
+        diary, deleting your account — say so and it will be treated as urgent.
+      </p>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <nav class="links" aria-label="Footer">
+          <a href="/">Home</a>
+          <a href="/support">Support</a>
+          <a href="/accessibility">Accessibility</a>
+          <a href="/legal/privacy">Privacy</a>
+          <a href="/legal/terms">Terms</a>
+          <a href="/account-deletion">Delete account</a>
+          <a href="mailto:alexionescu870@gmail.com">Contact</a>
+        </nav>
+        <p class="tagline">
+          &copy; 2026 Alexandru Mario Ionescu. Your whole day, delicious.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
