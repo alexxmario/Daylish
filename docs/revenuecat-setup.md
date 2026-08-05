@@ -45,10 +45,27 @@ free/paid split lives as data.
 Created in **App Store Connect first**, then imported into RevenueCat. The
 identifiers must match on both sides.
 
-| Product | Identifier | App Store Connect type |
-|---|---|---|
-| Monthly | `monthly` | Auto-Renewable Subscription |
-| Yearly | `yearly` | Auto-Renewable Subscription |
+| Product | Product ID | Duration | Reference name (internal) |
+|---|---|---|---|
+| Monthly | `com.daylish.app.premium.monthly` | 1 month | Daylish Premium Monthly |
+| Yearly | `com.daylish.app.premium.yearly` | 1 year | Daylish Premium Yearly |
+
+Both in one subscription group, reference name **Daylish Plans**, group display
+name **Daylish Premium** — that last one is user-visible, in Settings →
+Subscriptions, and should match what the app calls the tier.
+
+**Product IDs are permanent and cannot be reused, even after deletion**, which is
+why they are reverse-DNS rather than a bare `monthly`. Nothing in the app names
+them: [`listOfferings`](../apps/mobile/src/state/entitlement.tsx) reads
+`pkg.identifier` and takes the price and title from StoreKit, so these strings
+only have to agree between App Store Connect and RevenueCat.
+
+**The subscription's localized Display Name is the paywall button.**
+`listOfferings` maps `pkg.product.title` into the label rendered as
+`{title} · {price}`, so set them to `Monthly` and `Yearly` and nothing longer —
+"Daylish Premium Monthly" would render as *Daylish Premium Monthly · £4.99*
+inside a ticket already headed "Choose a plan", on a screen already titled
+Daylish Premium.
 
 **Both go in one subscription group**, so someone can move between them without
 buying twice, and both trigger the auto-renewing-subscription requirements — the
