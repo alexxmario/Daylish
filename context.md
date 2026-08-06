@@ -10,8 +10,15 @@ Start with [README.md](README.md) for what the project is and how to run it, and
 
 ## Where it stands
 
-Feature-complete for a 1.0 as scoped, and **not yet buildable as an `.ipa`** —
-that is the critical path. Everything below is implemented, tested and bundling.
+Feature-complete for a 1.0 as scoped, **and it builds** — an EAS `development`
+build finished on 31 July 2026, so the native side compiles: the modules, the
+config plugins and the new architecture. That was the critical path and it is
+no longer open.
+
+What is still untested is narrower than "does it build": the app has never been
+*used* on a handset, so purchases, notifications and the history calendar have
+never run outside a simulator. Note the build took three and a half hours
+wall-clock, nearly all of it queue time — budget for that, not for compile time.
 
 | | State |
 |---|---|
@@ -199,25 +206,34 @@ live project.
 ## Blocked on the owner — none of it is code
 
 1. **Paid Applications Agreement** — legal entity, bank, tax. Weeks of lead time,
-   blocks all revenue. Start first.
-2. **`eas init` + first build** — needs an Expo account. Everything else waits on
-   this, and it is the item with the most unknown time in it.
-3. **RevenueCat account** → key into `apps/mobile/.env`; entitlement named
-   `premium`, or change the one constant.
-4. **StoreKit products** in App Store Connect — monthly and yearly as
-   auto-renewable subscriptions, **lifetime as a non-consumable**, which is a
-   different screen. See docs/revenuecat-setup.md.
-5. **`supabase functions deploy revenuecat-webhook --no-verify-jwt`** +
+   and it now blocks nearly everything else: the subscription products, the
+   Small Business Program enrolment, and any build that can take money.
+2. **StoreKit products** in App Store Connect — `com.daylish.app.premium.monthly`
+   and `…yearly`, both auto-renewable, one subscription group. Lifetime was
+   dropped from 1.0; it can be added to the offering later without an app
+   update. Prices are decided: see [`docs/pricing.md`](docs/pricing.md).
+3. **Swap the RevenueCat key.** `development` and `preview` carry a `test_` key;
+   `production` deliberately carries none, so the paywall shows the argument for
+   Premium without buttons that cannot charge. The `appl_` key goes on
+   `production` only, once products exist.
+4. **`supabase functions deploy revenuecat-webhook --no-verify-jwt`** +
    `supabase secrets set REVENUECAT_WEBHOOK_SECRET=…`, then point RevenueCat at
    it. Until then billing notifications simply do not send.
-6. **`supabase functions deploy usda-search`** + `supabase secrets set USDA_API_KEY=…`
+5. **`supabase functions deploy usda-search`** + `supabase secrets set USDA_API_KEY=…`
    Until then food search falls back to Open Food Facts and the local library,
    which is the intended degradation.
-6. **`git init`** — this is still not a repository, and signed releases are about
-   to start.
-7. **Terms of Use (EULA) URL** — required alongside the privacy policy for
-   auto-renewing subscriptions.
-8. **`daylish.app/privacy` must resolve**, and must now cover health data.
+6. **Use the app on a handset.** Nothing below the build has been exercised in
+   anger: purchases, the four local notification kinds, barcode scanning against
+   real packets, and the history calendar's layout. A `preview` build is the one
+   to install — `production` has neither the RevenueCat key nor the premium
+   override, so the paid surfaces stay locked on TestFlight.
+
+**Done since this list was written:** `eas init` and the first builds; the
+repository and its GitHub remote; the RevenueCat App Store app, its in-app
+purchase key and its server-notification URL; the site at
+[`services/site`](services/site), which serves the privacy policy, the Terms of
+Use required for auto-renewing subscriptions, support and an accessibility
+statement.
 
 ---
 
