@@ -46,8 +46,32 @@ const CACHE_KEY = 'daylish.entitlement.v1';
  * with everyone on the free tier. Following the same shape as the Supabase
  * client: a missing key is a state to handle, not a crash.
  */
-const REVENUECAT_KEY = process.env.EXPO_PUBLIC_REVENUECAT_IOS_KEY ?? '';
+const RAW_REVENUECAT_KEY = process.env.EXPO_PUBLIC_REVENUECAT_IOS_KEY ?? '';
 const ENTITLEMENT_ID = 'premium';
+
+/**
+ * A Test Store key in a release build is fatal, so it is discarded here.
+ *
+ * RevenueCat's SDK deliberately raises — *"Test Store API key used in Release
+ * build"* — when a `test_` key is configured outside a Debug build. It is a
+ * native fatal error, which means the `try/catch` in `loadPurchases` cannot
+ * catch it: the process dies before JS sees anything. And because `configure`
+ * runs during the first render, the app crashes on every launch and simply
+ * stops opening.
+ *
+ * This is not theoretical. It happened to the first `preview` build on a real
+ * device, on 6 August 2026. Nothing had caught it earlier because every prior
+ * run was Debug — Expo Go, the simulator, and EAS `development` builds all are,
+ * while `preview` and `production` are Release.
+ *
+ * Treating the key as absent is the same state the app already handles well:
+ * `purchasesConfigured` goes false, the SDK is never loaded, everyone is on the
+ * free tier, and the paywall shows the case for Premium without buttons that
+ * cannot charge. A build misconfigured this way is then merely unable to sell
+ * anything, rather than unable to start.
+ */
+const REVENUECAT_KEY =
+  RAW_REVENUECAT_KEY.startsWith('test_') && !__DEV__ ? '' : RAW_REVENUECAT_KEY;
 
 export const purchasesConfigured = REVENUECAT_KEY.length > 0;
 

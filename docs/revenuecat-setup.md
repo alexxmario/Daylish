@@ -107,8 +107,34 @@ paywall whose stated price differs from StoreKit's is an App Review rejection.
 
 | Key | Where it goes | When |
 |---|---|---|
-| `test_…` (Test Store) | `apps/mobile/.env`, already set | Now — it is the only way to run the flows before the Paid Applications Agreement clears |
-| `appl_…` (Apple App Store) | Replaces it, and `eas env:create` | Before any TestFlight or App Store build |
+| `test_…` (Test Store) | `apps/mobile/.env` and the **`development` EAS environment only** | Now — it is the only way to run the flows before the Paid Applications Agreement clears |
+| `appl_…` (Apple App Store) | `preview` and `production` | Before any internal, TestFlight or App Store build |
+
+### A Test Store key outside a Debug build is fatal
+
+RevenueCat's SDK raises deliberately — *"Test Store API key used in Release
+build"* — and it is a **native** fatal error, so the `try/catch` around
+`configure` cannot catch it. `configure` runs during the first render, so the
+app crashes on launch, every launch, and stops opening at all.
+
+Which builds are Debug is the whole of it:
+
+| | Build configuration | `test_` key |
+|---|---|---|
+| Expo Go, simulator, EAS `development` | Debug | fine |
+| EAS `preview`, `production` | **Release** | **crashes on launch** |
+
+This is why it went unnoticed until the first `preview` build on a real device
+on 6 August 2026 — every prior run had been Debug.
+
+Two things now prevent a repeat. The key is linked to the `development`
+environment only, and [`entitlement.tsx`](../apps/mobile/src/state/entitlement.tsx)
+discards a `test_` key when `__DEV__` is false, which turns the crash into the
+already-handled no-store state: free tier, no purchase buttons, app runs.
+
+**Note that EAS variables are project-wide.** `eas env:delete` removes a
+variable outright rather than unlinking it from one environment, so detaching a
+key from `preview` means deleting and recreating it against `development`.
 
 The Test Store key exercises purchase, restore and entitlement resolution against
 RevenueCat's sandbox with no Apple involvement at all. That is genuinely useful
