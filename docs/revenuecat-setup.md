@@ -105,10 +105,20 @@ paywall whose stated price differs from StoreKit's is an App Review rejection.
 
 ## 4. API keys
 
+**Done.** The `appl_` App Store key is set on all three EAS environments and in
+`apps/mobile/.env`, and the `test_` Test Store key is gone.
+
 | Key | Where it goes | When |
 |---|---|---|
-| `test_…` (Test Store) | `apps/mobile/.env` and the **`development` EAS environment only** | Now — it is the only way to run the flows before the Paid Applications Agreement clears |
-| `appl_…` (Apple App Store) | `preview` and `production` | Before any internal, TestFlight or App Store build |
+| `appl_…` (Apple App Store) | all environments, and `.env` | Now, and permanently |
+| `test_…` (Test Store) | nowhere | Only useful before real products existed. Do not reintroduce — see below. |
+
+**EAS variables are one name to one value.** A variable is linked to
+environments, not given a different value per environment, so `test_` on
+development and `appl_` on production was never possible under one name. That
+does not matter any more: `appl_` is the right key everywhere, sandbox purchases
+work against it, and the Test Store was only ever a way to exercise the flows
+before products existed.
 
 ### A Test Store key outside a Debug build is fatal
 
