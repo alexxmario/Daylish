@@ -167,13 +167,22 @@ Each of these was live in the codebase and is now covered by a test.
 - **`getExpoPushTokenAsync` needs the EAS `projectId`**, so token registration is
   a documented no-op until `eas init` has run. `registerPushToken` reports
   `no-project-id` rather than failing.
-- **Registration never prompts.** Permission is requested in exactly two places,
-  both of them moments someone has asked for the thing: turning reminders on in
-  the You tab, and immediately after a successful purchase
+- **Registration never prompts, and nothing prompts cold.** Permission is
+  requested in exactly three places, every one of them a moment someone has just
+  asked for the thing: the `reminders` step near the end of onboarding, turning
+  reminders on in the You tab, and immediately after a successful purchase
   (`enableBillingAlerts`). iOS allows one prompt ever, and spending it on a
-  background call at launch is how an app becomes permanently unable to notify.
-  Both are preceded by a plain-words explanation, because the system prompt gives
-  no context beyond the app's name.
+  background call at launch is how an app becomes permanently unable to notify —
+  including for the billing messages, which are the two that matter. Each is
+  preceded by a plain-words explanation, because the system prompt gives no
+  context beyond the app's name.
+- **The onboarding step is the priming pattern, not a change of mind.** The ask
+  moved into first-run on 6 August 2026 because new users should be reachable,
+  but the system dialog still only appears after someone taps "Turn on
+  reminders". A screen that explains first and asks second converts better than
+  a cold prompt *and* spends the one-shot ask on people likely to accept it. If
+  anyone is ever tempted to fire `requestPermissionsAsync` at launch instead,
+  that is the trade being lost.
 - **`react-native-purchases-ui` is a native module too**, and is loaded through
   the same guarded dynamic import as the SDK for the same reason. Do not convert
   it to a top-level import.

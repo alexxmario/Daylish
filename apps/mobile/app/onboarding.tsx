@@ -25,6 +25,12 @@ import {
   type StepId,
 } from '@/onboarding/steps.ts';
 import { ChoiceRow, MeasureField, Segmented, TileGrid, ToggleTile } from '@/onboarding/Fields.tsx';
+import { registerPushToken } from '@/lib/push.ts';
+import {
+  loadReminderSettings,
+  requestReminderPermission,
+  saveReminderSettings,
+} from '@/lib/reminders.ts';
 import { useSession } from '@/state/session.tsx';
 import { MIN_TAP_TARGET, useTheme } from '@/theme/index.tsx';
 
@@ -107,7 +113,7 @@ export default function OnboardingScreen() {
             ) : null}
           </View>
 
-          <StepBody step={step.id} draft={draft} set={set} />
+          <StepBody step={step.id} draft={draft} set={set} userId={profile.id} />
         </ScrollView>
 
         <View
@@ -204,10 +210,12 @@ function StepBody({
   step,
   draft,
   set,
+  userId,
 }: {
   step: StepId;
   draft: Draft;
   set: <K extends keyof Draft>(key: K, value: Draft[K]) => void;
+  userId: string;
 }) {
   const theme = useTheme();
 
@@ -401,9 +409,110 @@ function StepBody({
         </View>
       );
 
+    case 'reminders':
+      return <Reminders userId={userId} />;
+
     case 'review':
       return <Review draft={draft} />;
   }
+}
+
+/**
+ * The notification ask, in words, before iOS asks in a dialog.
+ *
+ * The system prompt says only "Daylish Would Like to Send You Notifications",
+ * gives no reason, and is available exactly once per install. This screen is the
+ * reason — and it names what will *not* be sent, because "nothing promotional"
+ * is the sentence that actually moves people in a category full of apps that
+ * nag.
+ *
+ * The four kinds listed are the ones `planReminders` schedules on the device.
+ * They are deliberately concrete: a nudge "about your day" is a promise nobody
+ * can evaluate, while "the evening one tells you what is left" is.
+ *
+ * Once granted, the state is final for this screen — the button becomes a
+ * confirmation rather than staying tappable, because a second tap would do
+ * nothing and iOS would not show anything.
+ */
+function Reminders({ userId }: { userId: string }) {
+  const theme = useTheme();
+  const [state, setState] = useState<'asking' | 'granted' | 'declined'>('asking');
+  const [busy, setBusy] = useState(false);
+
+  const ask = async () => {
+    setBusy(true);
+    try {
+      const granted = await requestReminderPermission();
+      setState(granted ? 'granted' : 'declined');
+      if (granted) {
+        const settings = await loadReminderSettings();
+        await saveReminderSettings({ ...settings, enabled: true });
+
+        // Scheduling is left to Today, which rebuilds the whole plan on every
+        // focus once `enabled` is set — and it needs the day's signals, which
+        // are not available here.
+        //
+        // The push token is not left to anything. `session.tsx` registers on
+        // sign-in and on foreground, but sign-in has already happened by now and
+        // returning to Today is not a foreground event, so waiting would leave
+        // someone unreachable until they next background the app. That is the
+        // same reasoning the You tab gives for registering inline.
+        await registerPushToken(userId).catch(() => {});
+      }
+    } catch {
+      // A permission call that throws is not worth stopping onboarding for.
+      setState('declined');
+    } finally {
+      setBusy(false);
+    }
+  };
+
+  return (
+    <View style={{ gap: theme.spacing.lg }}>
+      <Ticket label="What we would send" rule={theme.palette.celeste}>
+        <ReminderLine text="A quiet prompt at your usual meal times." />
+        <Divider />
+        <ReminderLine text="One in the evening, with what is left of your day." />
+        <Divider />
+        <ReminderLine text="A weigh-in reminder, only when the trend has gone quiet." />
+        <Divider />
+        <ReminderLine text="Your fasting window closing, if you use the timer." />
+      </Ticket>
+
+      <Text variant="caption" tone="secondary">
+        All four are scheduled by your phone from what is already on it — they
+        never reach a server. You can change or switch off any of them in the You
+        tab.
+      </Text>
+
+      {state === 'asking' ? (
+        <Button
+          label={busy ? 'One moment…' : 'Turn on reminders'}
+          onPress={busy ? () => {} : () => void ask()}
+          block
+        />
+      ) : (
+        <Ticket
+          label={state === 'granted' ? 'On' : 'Not now'}
+          rule={state === 'granted' ? theme.palette.positive : false}
+        >
+          <Text variant="caption" tone="secondary">
+            {state === 'granted'
+              ? 'Reminders are on. Change the times, or switch any of them off, in the You tab.'
+              : 'No reminders. You can turn them on later in the You tab.'}
+          </Text>
+        </Ticket>
+      )}
+    </View>
+  );
+}
+
+function ReminderLine({ text }: { text: string }) {
+  return (
+    <Text variant="caption" tone="secondary">
+      {text}
+    </Text>
+  );
 }
 
 /**

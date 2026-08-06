@@ -25,6 +25,7 @@ export type StepId =
   | 'diet'
   | 'allergens'
   | 'kitchen'
+  | 'reminders'
   | 'review';
 
 export interface Draft {
@@ -123,6 +124,31 @@ export const STEPS: readonly StepDef[] = [
     help: 'We only suggest what you can cook.',
     shortLabel: 'Kitchen',
     art: 'kitchen',
+  },
+  /*
+    Asking for notifications, before the system does.
+
+    iOS grants exactly one permission prompt per install, forever. Fired cold at
+    launch it arrives before anyone knows what the app is, gets denied at a much
+    higher rate, and a denial is permanent short of a trip to Settings — taking
+    the billing notifications down with it, which are the two messages that
+    genuinely matter.
+
+    So this step asks in words first and only shows the system dialog to someone
+    who has just said yes. It sits before `review` rather than after, because
+    review is the payoff — the targets they came for — and nothing should be
+    asked of them after it.
+
+    Declining is a real answer with a real button, not a greyed-out Next. The
+    reminders can be switched on later in the You tab, and someone who says no
+    here keeps their one prompt for that moment.
+  */
+  {
+    id: 'reminders',
+    title: 'Want a nudge?',
+    help: 'Only about your own day. Nothing promotional, ever.',
+    shortLabel: 'Nudges',
+    art: 'weeklyReport',
   },
   {
     id: 'review',

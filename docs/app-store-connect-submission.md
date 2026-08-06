@@ -284,7 +284,7 @@ Email:        alexionescu870@gmail.com
 Apple uses this only to reach you about the review. It is never shown publicly,
 so a personal number and address are fine.
 
-### Notes — 2,189 / 4,000
+### Notes — 2,296 / 4,000
 
 ```
 Daylish requires an account. Please use this demo account:
@@ -310,7 +310,7 @@ Premium unlocks: all 496 recipes (50 are free), multi-recipe shopping lists, ada
 
 PERMISSIONS
 
-The camera is used for barcode scanning and is the only permission requested at launch. Notification permission is requested only if you turn reminders on in the You tab, or immediately after a purchase.
+The camera is used for barcode scanning, and is requested the first time you open the scanner rather than at launch. Notification permission is requested at the end of the setup questions, on a screen that explains what would be sent and offers a plain "not now"; it can also be turned on later in the You tab.
 
 DATA AND ACCOUNT DELETION
 
