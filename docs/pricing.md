@@ -60,21 +60,28 @@ fewer conversions to learn from.
 
 ## The recommendation
 
+**Set on 6 August 2026, in USD, as the base tier Apple converts from.**
+
 | Plan | Price | Product ID |
 |---|---|---|
-| **Monthly** | **$9.99** / €10.99 / £9.99 | `com.daylish.app.premium.monthly` |
-| **Yearly** | **$49.99** / €54.99 / £44.99 | `com.daylish.app.premium.yearly` |
+| **Monthly** | **$9.99** | `com.daylish.app.premium.monthly` |
+| **Yearly** | **$44.99** | `com.daylish.app.premium.yearly` |
 | **Free trial** | **1 month**, on both plans | Introductory offer |
 
-Yearly works out at $4.17 a month — a **58% saving**, or "five months free",
-which is the line to put on the paywall.
+Yearly is **4.5 months of monthly** — $3.75 a month, a **62% saving**. "Four
+months free" understates it; "over 60% off" is the honest line for the paywall.
 
-**Why $49.99 annual.** It lands exactly on the category anchor that Cronometer
-and Lifesum have already taught people, sits comfortably under MacroFactor and
-miles under MyFitnessPal, and is defensible because Daylish does what all three
-do. Launching at $39.99 would leave money on the table for an app that is
-genuinely broader than the $47.90 tier, and raising a price later is far harder
-than setting it correctly now.
+**Why this lands well.** $44.99 sits just under the anchor Cronometer and
+Lifesum have taught people at $49.99, well under MacroFactor's $71.99 and far
+under MyFitnessPal's $79.99 — while Premium covers what all three specialise in.
+It is a slightly sharper price than the $49.99 originally proposed here, and the
+gap it opens against the monthly is the point: at 4.5 months the annual is not a
+discount so much as the obvious choice, which is what you want in a category
+that sells 68% annual.
+
+The risk to watch is the reverse of underpricing: a 62% gap trains people to
+never take the monthly, so monthly revenue will be thin. That is fine — monthly
+exists to anchor the annual, not to earn.
 
 **Why $9.99 monthly.** Its job is mostly to make the annual obviously right, and
 at this ratio it does: annual costs five months of monthly. It also matches
@@ -110,12 +117,12 @@ only way anyone finds out that the targets really do explain themselves.
 
 | | Per year | Per month |
 |---|---|---|
-| List price | $49.99 | $9.99 |
-| Apple's cut at 15% (Small Business Program) | −$7.50 | −$1.50 |
-| **Proceeds** | **$42.49** | **$8.49** |
-| Without the Small Business Program (30%) | $34.99 | $6.99 |
+| List price | $44.99 | $9.99 |
+| Apple's cut at 15% (Small Business Program) | −$6.75 | −$1.50 |
+| **Proceeds** | **$38.24** | **$8.49** |
+| Without the Small Business Program (30%) | $31.49 | $6.99 |
 
-**Enrol in the Small Business Program.** It is worth $7.50 per annual subscriber
+**Enrol in the Small Business Program.** It is worth $6.75 per annual subscriber
 per year, for a form. It needs the Paid Applications Agreement active first, and
 the enrolment date has to go into RevenueCat afterwards or its revenue charts
 will overstate Apple's cut for the life of the app.
@@ -134,8 +141,8 @@ exactly the markets that are worth winning early. Set these by hand:
 - **CEE, LATAM, India, SEA, Turkey** — auto-conversion lands far above local
   purchasing power for a food diary. Halving the converted price in these
   storefronts typically earns more than it gives up, and Romania is on that list.
-- **UK and EU** — check the round numbers. £44.99 and €54.99 read as considered;
-  £46.87 reads as a spreadsheet.
+- **UK and EU** — check the round numbers Apple derives from the $44.99 base.
+  £39.99 and €49.99 read as considered; £42.31 reads as a spreadsheet.
 
 ---
 
@@ -146,8 +153,8 @@ exactly the markets that are worth winning early. Set these by hand:
   wait for the next drop.
 - **Lifetime** was dropped from 1.0. It can be added to the `default` offering
   later without an app update — the paywall renders whatever `listOfferings`
-  returns. Price it at three to four years of annual, so around $149, and only
-  once churn data shows what a subscriber is actually worth.
+  returns. Price it at three to four years of annual, so $129–179, and only once
+  churn data shows what a subscriber is actually worth.
 - **A weekly plan is a trap here.** It converts well in games, and it would
   contradict everything the app says about not manipulating people.
 - **Watch trial-start-to-day-14 drop-off** rather than trial-to-paid alone. If
