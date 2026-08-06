@@ -246,10 +246,16 @@ export async function presentCustomerCenter(): Promise<boolean> {
  */
 export async function identifyPurchaser(userId: string): Promise<void> {
   const store = await loadPurchases();
-  if (!store) return;
+  if (!store) {
+    // Still worth telling the provider: on a build with no store the answer can
+    // only have changed by the cache being cleared, and it needs to notice.
+    notifyEntitlementChanged();
+    return;
+  }
 
   try {
     await store.logIn(userId);
+    notifyEntitlementChanged();
   } catch {
     // Identification failing does not change what this account is entitled to —
     // `getCustomerInfo` still answers, and the cached flag still holds. It only
@@ -258,21 +264,56 @@ export async function identifyPurchaser(userId: string): Promise<void> {
 }
 
 /**
+ * Anyone who needs to know the answer may have changed.
+ *
+ * The provider sits *above* `SessionProvider` — it has to, because session.tsx
+ * imports this module and the reverse would be a cycle — so it cannot watch the
+ * signed-in user with a hook. Instead the two functions that know an account
+ * changed say so, and the provider re-resolves.
+ */
+const listeners = new Set<() => void>();
+
+function notifyEntitlementChanged(): void {
+  for (const listener of listeners) listener();
+}
+
+/**
+ * Forget what the last account was entitled to.
+ *
+ * The cache is keyed on the device, not on the account, which is fine while it
+ * describes the person holding the phone and wrong the moment somebody else
+ * signs in. Leaving it in place meant `'store'` outliving the subscriber — a
+ * second account on the same handset reading premium until `getCustomerInfo`
+ * corrected it, and indefinitely while offline — and `'override'` outliving
+ * everything, including account deletion.
+ */
+export async function clearEntitlementCache(): Promise<void> {
+  await AsyncStorage.removeItem(CACHE_KEY).catch(() => {});
+}
+
+/**
  * Hand the store back to nobody on sign-out.
  *
  * Leaves the SDK on an anonymous id, so a second account signing in on the same
  * handset does not inherit the first one's entitlement. Mirrors what
  * `revokePushToken` does for notifications.
+ *
+ * **Clears the cached answer too.** `logOut` only tells RevenueCat; the cache is
+ * ours, and it was surviving sign-out, account switches and account deletion.
  */
 export async function forgetPurchaser(): Promise<void> {
-  const store = await loadPurchases();
-  if (!store) return;
+  await clearEntitlementCache();
 
-  try {
-    await store.logOut();
-  } catch {
-    // Already anonymous, which is the state we wanted.
+  const store = await loadPurchases();
+  if (store) {
+    try {
+      await store.logOut();
+    } catch {
+      // Already anonymous, which is the state we wanted.
+    }
   }
+
+  notifyEntitlementChanged();
 }
 
 export interface Offering {
@@ -351,6 +392,15 @@ export function EntitlementProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     void refresh();
+
+    // Re-resolve whenever an account signs in or out. Without this the answer
+    // is whatever it was when the app launched, which is how a device could stay
+    // premium across a sign-out, an account deletion and a different email.
+    const listener = () => void refresh();
+    listeners.add(listener);
+    return () => {
+      listeners.delete(listener);
+    };
   }, [refresh]);
 
   const setOverride = useCallback(

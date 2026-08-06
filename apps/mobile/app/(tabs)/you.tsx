@@ -5,6 +5,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { File, Paths } from 'expo-file-system';
 import * as Sharing from 'expo-sharing';
 
+import { Button } from '@/components/Button.tsx';
 import { Text } from '@/components/Text.tsx';
 import { Divider, Eyebrow, Ticket } from '@/components/Ticket.tsx';
 import {
@@ -15,6 +16,8 @@ import {
 } from '@daylish/core';
 
 import { Locked } from '@/components/Locked.tsx';
+import { FREE_RECIPE_LIMIT } from '@daylish/core';
+import { SEED_RECIPE_COUNT } from '@/data/seed-recipes-count.generated.ts';
 import { presentCustomerCenter, useEntitlements } from '@/state/entitlement.tsx';
 import { deleteAccountData } from '@/data/account.ts';
 import { lastBackupAt, pendingWrites, syncNow } from '@/data/sync.ts';
@@ -68,7 +71,7 @@ export default function YouScreen() {
   const insets = useSafeAreaInsets();
   const router = useRouter();
   const { profile, goal, refresh, session, signOut } = useSession();
-  const { entitlements } = useEntitlements();
+  const { entitlements, isPremium, source } = useEntitlements();
   const [lastRecalibration, setLastRecalibration] = useState<string | null>(null);
   const [exporting, setExporting] = useState(false);
   const [deleting, setDeleting] = useState(false);
@@ -339,6 +342,43 @@ export default function YouScreen() {
       showsVerticalScrollIndicator={false}
     >
       <Text variant="display">You</Text>
+
+      {/*
+        Premium, as a destination rather than only a consequence.
+
+        Everything else that mentions Premium is a lock: tap a paid thing, meet
+        a wall. That is the right shape for the locks themselves — nobody wants
+        to be sold to mid-task — but it left the app with no way to *choose* to
+        look, and someone who never taps a locked feature never learns there is
+        a paid tier at all.
+
+        Placed at the top of You because that is where people go to find out what
+        an app can do, and stated as what it unlocks rather than as a price. The
+        subscriber version is not an upsell at all — it is a receipt and a way to
+        reach Apple's cancellation screen, which is the thing people hunt for and
+        resent not finding.
+      */}
+      {isPremium ? (
+        <Ticket label="Daylish Premium" meta="Active" rule={theme.palette.sun}>
+          <Text variant="caption" tone="secondary">
+            {source === 'override'
+              ? 'Switched on for testing on this device. Not a purchase — nothing has been charged.'
+              : 'Thank you. Every recipe, adaptive targets, trends and the full nutrient panel are yours.'}
+          </Text>
+        </Ticket>
+      ) : (
+        <Ticket label="Daylish Premium" rule={theme.palette.sun}>
+          <Text variant="bodyStrong">
+            Free is a calorie tracker. Premium is a health app.
+          </Text>
+          <Text variant="caption" tone="secondary">
+            All {SEED_RECIPE_COUNT} recipes instead of {FREE_RECIPE_LIMIT}, targets that adapt to
+            your own weight trend and explain every change, your trends, your whole diary as a
+            calendar, and 23 vitamins and minerals.
+          </Text>
+          <Button label="See what Premium does" onPress={() => router.push('/premium')} block />
+        </Ticket>
+      )}
 
       <Eyebrow>Your targets</Eyebrow>
       <Ticket label={GOAL_LABEL[goal.goal] ?? goal.goal} meta={`since ${goal.effectiveFrom.slice(5)}`}>

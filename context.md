@@ -186,6 +186,15 @@ Each of these was live in the codebase and is now covered by a test.
 - **`react-native-purchases-ui` is a native module too**, and is loaded through
   the same guarded dynamic import as the SDK for the same reason. Do not convert
   it to a top-level import.
+- **The entitlement cache is keyed on the device, not the account**, so anything
+  that changes who is signed in has to clear it. `forgetPurchaser` does, and
+  `EntitlementProvider` re-resolves through a module-level listener because it
+  sits *above* `SessionProvider` and cannot use a hook to watch the user — the
+  nesting cannot be swapped, since session.tsx imports this module. Before that
+  was wired, a cached `'store'` outlived its subscriber (a second account on the
+  same handset read as premium until `getCustomerInfo` corrected it, and forever
+  while offline) and `'override'` outlived sign-out, account switching and
+  account deletion.
 
 ---
 
